@@ -1,0 +1,82 @@
+.map-container {
+  max-width: 1200px;
+  text-align: center;
+  margin: auto;
+}
+
+/* Needed, otherwise svg w/ viewBox in flexbox in Chrome will have 0 width/height */
+.race-map {
+  width: 100%;
+}
+
+.map-row {
+  display: flex;
+  justify-content: center;
+}
+
+.county-path {
+  stroke: rgba(0, 0, 0, 0.2);
+  fill: rgba(255, 255, 255, 0.1);
+  stroke-width: 0.5px;
+}
+
+.choropleth .county-path {
+  stroke: rgba(0, 0, 0, 1);
+}
+
+.faded {
+  opacity: 0.15 !important;
+}
+
+.highlighted {
+  fill: #333;
+}
+
+.county-path:focus {
+  outline: none;
+}
+
+.spike:focus {
+  outline: none;
+}
+
+.legend-container {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.color-scale-legend {
+  width: 350px;
+}
+
+.legend-text {
+  fill: rgba(255, 255, 255, 0.75);
+}
+
+.legend-avg-line {
+  stroke-dasharray: 1;
+  stroke: #eee;
+  stroke-width: 1px;
+}
+
+.legend-avg-label {
+  fill: #eee;
+  font-size: 9px;
+}
+
+.spike-legend {
+  min-width: 135px;
+}
+
+.city-label {
+  pointer-events: none;
+  font-size: 12px;
+  text-shadow: 1px 0 0 #fff, -1px 0 0 #fff, 0 1px 0 #fff, 0 -1px 0 #fff,
+    1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+
+.city-label-dot {
+  pointer-events: none;
+}
