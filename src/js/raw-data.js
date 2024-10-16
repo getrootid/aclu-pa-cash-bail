@@ -1406,6454 +1406,6463 @@ export const COUNTY_DATA =
 //   }
 // ];
 
-export const MDJ_DATA = {
-  "Adams": [
-    {
-      "name": "Beauchat, Mark D.",
-      "cash_bail_pct": 0.28827,
-      "unsecured_pct": 0.10338,
-      "ror_pct": 0.32008,
-      "nonmonetary_pct": 0.28827,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.4,
-      "cash_bail_pct_white": 0.276786,
-      "total_cases": 503
-    },
-    {
-      "name": "Bowman, Daniel S.",
-      "cash_bail_pct": 0.346334,
-      "unsecured_pct": 0.126365,
-      "ror_pct": 0.263651,
-      "nonmonetary_pct": 0.263651,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.460317,
-      "cash_bail_pct_white": 0.338681,
-      "total_cases": 641
-    },
-    {
-      "name": "Harvey, Matthew Robert",
-      "cash_bail_pct": 0.352518,
-      "unsecured_pct": 0.440647,
-      "ror_pct": 0.17446,
-      "nonmonetary_pct": 0.032374,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.484848,
-      "cash_bail_pct_white": 0.333333,
-      "total_cases": 556
-    },
-    {
-      "name": "Little, Tony J.",
-      "cash_bail_pct": 0.259067,
-      "unsecured_pct": 0.466321,
-      "ror_pct": 0.260794,
-      "nonmonetary_pct": 0.013817,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.408163,
-      "cash_bail_pct_white": 0.252446,
-      "total_cases": 579
-    }
-  ],
-  "Allegheny": [
-    {
-      "name": "Armour, John W.",
-      "cash_bail_pct": 0.639423,
-      "unsecured_pct": 0.000801,
-      "ror_pct": 0.066506,
-      "nonmonetary_pct": 0.293269,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.660714,
-      "cash_bail_pct_white": 0.62013,
-      "total_cases": 1248
-    },
-    {
-      "name": "Arnoni, Ronald A.",
-      "cash_bail_pct": 0.372986,
-      "unsecured_pct": 0.184634,
-      "ror_pct": 0.039653,
-      "nonmonetary_pct": 0.39777,
-      "nominal_pct": 0.004957,
-      "cash_bail_pct_black": 0.646154,
-      "cash_bail_pct_white": 0.290541,
-      "total_cases": 807
-    },
-    {
-      "name": "Barner, Robert L.",
-      "cash_bail_pct": 0.621569,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.083333,
-      "nonmonetary_pct": 0.295098,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.67658,
-      "cash_bail_pct_white": 0.563715,
-      "total_cases": 1020
-    },
-    {
-      "name": "Barton, David J.",
-      "cash_bail_pct": 0.322742,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.481605,
-      "nonmonetary_pct": 0.195652,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.522222,
-      "cash_bail_pct_white": 0.245614,
-      "total_cases": 598
-    },
-    {
-      "name": "Bengel, Carolyn S.",
-      "cash_bail_pct": 0.519451,
-      "unsecured_pct": 0.010297,
-      "ror_pct": 0.291762,
-      "nonmonetary_pct": 0.17849,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.726619,
-      "cash_bail_pct_white": 0.418403,
-      "total_cases": 874
-    },
-    {
-      "name": "Brletic, Thomas S.",
-      "cash_bail_pct": 0.714207,
-      "unsecured_pct": 0.013216,
-      "ror_pct": 0.148128,
-      "nonmonetary_pct": 0.123899,
-      "nominal_pct": 0.000551,
-      "cash_bail_pct_black": 0.799327,
-      "cash_bail_pct_white": 0.634038,
-      "total_cases": 1816
-    },
-    {
-      "name": "Butler, Daniel E.",
-      "cash_bail_pct": 0.452659,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.220493,
-      "nonmonetary_pct": 0.326848,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.511682,
-      "cash_bail_pct_white": 0.395706,
-      "total_cases": 771
-    },
-    {
-      "name": "Caulfield, Thomas P.",
-      "cash_bail_pct": 0.25,
-      "unsecured_pct": 0.003226,
-      "ror_pct": 0.120968,
-      "nonmonetary_pct": 0.625806,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.279883,
-      "cash_bail_pct_white": 0.215613,
-      "total_cases": 620
-    },
-    {
-      "name": "Ceoffe, Anthony M.",
-      "cash_bail_pct": 0.323481,
-      "unsecured_pct": 0.039409,
-      "ror_pct": 0.275862,
-      "nonmonetary_pct": 0.359606,
-      "nominal_pct": 0.001642,
-      "cash_bail_pct_black": 0.372168,
-      "cash_bail_pct_white": 0.274744,
-      "total_cases": 1218
-    },
-    {
-      "name": "Cercone, Mary A.",
-      "cash_bail_pct": 0.230869,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.103761,
-      "nonmonetary_pct": 0.66537,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.31454,
-      "cash_bail_pct_white": 0.169856,
-      "total_cases": 771
-    },
-    {
-      "name": "Cooper, Kevin E.",
-      "cash_bail_pct": 0.363955,
-      "unsecured_pct": 0.020997,
-      "ror_pct": 0.272966,
-      "nonmonetary_pct": 0.342082,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.422807,
-      "cash_bail_pct_white": 0.312839,
-      "total_cases": 1143
-    },
-    {
-      "name": "Costa, Ron Sr.",
-      "cash_bail_pct": 0.547289,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.220681,
-      "nonmonetary_pct": 0.23203,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.608924,
-      "cash_bail_pct_white": 0.5,
-      "total_cases": 793
-    },
-    {
-      "name": "Cramer, Jesse J.",
-      "cash_bail_pct": 0.694379,
-      "unsecured_pct": 0.222012,
-      "ror_pct": 0.082192,
-      "nonmonetary_pct": 0.001417,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.74882,
-      "cash_bail_pct_white": 0.645631,
-      "total_cases": 2117
-    },
-    {
-      "name": "DeLuca, Anthony L.",
-      "cash_bail_pct": 0.348297,
-      "unsecured_pct": 0.001548,
-      "ror_pct": 0.334365,
-      "nonmonetary_pct": 0.315789,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.417417,
-      "cash_bail_pct_white": 0.269737,
-      "total_cases": 646
-    },
-    {
-      "name": "Dzvonick, Robert Paul",
-      "cash_bail_pct": 0.27676,
-      "unsecured_pct": 0.001929,
-      "ror_pct": 0.616201,
-      "nonmonetary_pct": 0.105111,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.551471,
-      "cash_bail_pct_white": 0.180611,
-      "total_cases": 1037
-    },
-    {
-      "name": "Eichler, Roxanne Sakoian",
-      "cash_bail_pct": 0.244924,
-      "unsecured_pct": 0.058376,
-      "ror_pct": 0.474619,
-      "nonmonetary_pct": 0.222081,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.315789,
-      "cash_bail_pct_white": 0.190698,
-      "total_cases": 788
-    },
-    {
-      "name": "Ford, Robert L.",
-      "cash_bail_pct": 0.342954,
-      "unsecured_pct": 0.003396,
-      "ror_pct": 0.018676,
-      "nonmonetary_pct": 0.634975,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.488506,
-      "cash_bail_pct_white": 0.278325,
-      "total_cases": 589
-    },
-    {
-      "name": "Hanley, James Joseph Jr.",
-      "cash_bail_pct": 0.338885,
-      "unsecured_pct": 0.016015,
-      "ror_pct": 0.326714,
-      "nonmonetary_pct": 0.318386,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.423833,
-      "cash_bail_pct_white": 0.248276,
-      "total_cases": 1561
-    },
-    {
-      "name": "Herbst, Jeffrey L.",
-      "cash_bail_pct": 0.217391,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.580645,
-      "nonmonetary_pct": 0.201964,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.267742,
-      "cash_bail_pct_white": 0.181586,
-      "total_cases": 713
-    },
-    {
-      "name": "Hoots, Kim Marie",
-      "cash_bail_pct": 0.641509,
-      "unsecured_pct": 0.130189,
-      "ror_pct": 0.124528,
-      "nonmonetary_pct": 0.103774,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.60745,
-      "cash_bail_pct_white": 0.715116,
-      "total_cases": 530
-    },
-    {
-      "name": "Hromyak, Leonard J.",
-      "cash_bail_pct": 0.50508,
-      "unsecured_pct": 0.001451,
-      "ror_pct": 0.107402,
-      "nonmonetary_pct": 0.386067,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.53681,
-      "cash_bail_pct_white": 0.480114,
-      "total_cases": 689
-    },
-    {
-      "name": "Joyce, Dennis Robert",
-      "cash_bail_pct": 0.383775,
-      "unsecured_pct": 0.00312,
-      "ror_pct": 0.124805,
-      "nonmonetary_pct": 0.486739,
-      "nominal_pct": 0.00156,
-      "cash_bail_pct_black": 0.462963,
-      "cash_bail_pct_white": 0.327824,
-      "total_cases": 641
-    },
-    {
-      "name": "Kaiser, Ralph E.",
-      "cash_bail_pct": 0.255289,
-      "unsecured_pct": 0.00141,
-      "ror_pct": 0.558533,
-      "nonmonetary_pct": 0.184767,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.402439,
-      "cash_bail_pct_white": 0.186047,
-      "total_cases": 709
-    },
-    {
-      "name": "King, Richard G.",
-      "cash_bail_pct": 0.3174,
-      "unsecured_pct": 0.028681,
-      "ror_pct": 0.219885,
-      "nonmonetary_pct": 0.434034,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.395745,
-      "cash_bail_pct_white": 0.256318,
-      "total_cases": 523
-    },
-    {
-      "name": "Lang, Elissa Marie",
-      "cash_bail_pct": 0.232249,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.307692,
-      "nonmonetary_pct": 0.460059,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.383673,
-      "cash_bail_pct_white": 0.143541,
-      "total_cases": 676
-    },
-    {
-      "name": "Larotonda, Blaise P.",
-      "cash_bail_pct": 0.423295,
-      "unsecured_pct": 0.00142,
-      "ror_pct": 0.40483,
-      "nonmonetary_pct": 0.170455,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.652968,
-      "cash_bail_pct_white": 0.320755,
-      "total_cases": 704
-    },
-    {
-      "name": "Manning, Jeffrey A.",
-      "cash_bail_pct": 0.246696,
-      "unsecured_pct": 0.057269,
-      "ror_pct": 0.436123,
-      "nonmonetary_pct": 0.259912,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.304348,
-      "cash_bail_pct_white": 0.192661,
-      "total_cases": 227
-    },
-    {
-      "name": "Martin, Armand",
-      "cash_bail_pct": 0.376471,
-      "unsecured_pct": 0.005348,
-      "ror_pct": 0.175401,
-      "nonmonetary_pct": 0.442781,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.426065,
-      "cash_bail_pct_white": 0.340952,
-      "total_cases": 935
-    },
-    {
-      "name": "Martini, Randy C.",
-      "cash_bail_pct": 0.491453,
-      "unsecured_pct": 0.001068,
-      "ror_pct": 0.185897,
-      "nonmonetary_pct": 0.321581,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.574297,
-      "cash_bail_pct_white": 0.404762,
-      "total_cases": 936
-    },
-    {
-      "name": "McGraw-Desmet, Maureen",
-      "cash_bail_pct": 0.300188,
-      "unsecured_pct": 0.009381,
-      "ror_pct": 0.425891,
-      "nonmonetary_pct": 0.26454,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.457627,
-      "cash_bail_pct_white": 0.221902,
-      "total_cases": 533
-    },
-    {
-      "name": "Miller, Thomas Jr.",
-      "cash_bail_pct": 0.420561,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.46729,
-      "nonmonetary_pct": 0.11215,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.62844,
-      "cash_bail_pct_white": 0.31401,
-      "total_cases": 642
-    },
-    {
-      "name": "Mills, Beth S.",
-      "cash_bail_pct": 0.417939,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.314885,
-      "nonmonetary_pct": 0.267176,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.573684,
-      "cash_bail_pct_white": 0.332308,
-      "total_cases": 524
-    },
-    {
-      "name": "Motznik, James A.",
-      "cash_bail_pct": 0.496751,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.254152,
-      "nonmonetary_pct": 0.249097,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.55663,
-      "cash_bail_pct_white": 0.439873,
-      "total_cases": 1385
-    },
-    {
-      "name": "Murray, Mary P.",
-      "cash_bail_pct": 0.193333,
-      "unsecured_pct": 0.000833,
-      "ror_pct": 0.445,
-      "nonmonetary_pct": 0.358333,
-      "nominal_pct": 0.0025,
-      "cash_bail_pct_black": 0.298387,
-      "cash_bail_pct_white": 0.150124,
-      "total_cases": 1200
-    },
-    {
-      "name": "Olasz, Richard D. Jr.",
-      "cash_bail_pct": 0.276013,
-      "unsecured_pct": 0.009858,
-      "ror_pct": 0.197152,
-      "nonmonetary_pct": 0.515882,
-      "nominal_pct": 0.001095,
-      "cash_bail_pct_black": 0.34689,
-      "cash_bail_pct_white": 0.214137,
-      "total_cases": 913
-    },
-    {
-      "name": "Opiela, Richard G.",
-      "cash_bail_pct": 0.293924,
-      "unsecured_pct": 0.246305,
-      "ror_pct": 0.183908,
-      "nonmonetary_pct": 0.275862,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.474227,
-      "cash_bail_pct_white": 0.211823,
-      "total_cases": 609
-    },
-    {
-      "name": "Petite, Oscar Jerome Jr.",
-      "cash_bail_pct": 0.342669,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.288303,
-      "nonmonetary_pct": 0.367381,
-      "nominal_pct": 0.001647,
-      "cash_bail_pct_black": 0.44186,
-      "cash_bail_pct_white": 0.249147,
-      "total_cases": 607
-    },
-    {
-      "name": "Ravenstahl, Robert Jr.",
-      "cash_bail_pct": 0.301179,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.289389,
-      "nonmonetary_pct": 0.409432,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.338395,
-      "cash_bail_pct_white": 0.272727,
-      "total_cases": 933
-    },
-    {
-      "name": "Riazzi, Eugene F. Jr.",
-      "cash_bail_pct": 0.375852,
-      "unsecured_pct": 0.002921,
-      "ror_pct": 0.273612,
-      "nonmonetary_pct": 0.345667,
-      "nominal_pct": 0.001947,
-      "cash_bail_pct_black": 0.39661,
-      "cash_bail_pct_white": 0.352246,
-      "total_cases": 1027
-    },
-    {
-      "name": "Ricciardi, Eugene",
-      "cash_bail_pct": 0.488941,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.235157,
-      "nonmonetary_pct": 0.275902,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.559908,
-      "cash_bail_pct_white": 0.424096,
-      "total_cases": 859
-    },
-    {
-      "name": "Rushing, Derwin",
-      "cash_bail_pct": 0.33114,
-      "unsecured_pct": 0.002924,
-      "ror_pct": 0.259503,
-      "nonmonetary_pct": 0.406433,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.384505,
-      "cash_bail_pct_white": 0.269716,
-      "total_cases": 1368
-    },
-    {
-      "name": "Saveikis, Anthony",
-      "cash_bail_pct": 0.388889,
-      "unsecured_pct": 0.011111,
-      "ror_pct": 0.42963,
-      "nonmonetary_pct": 0.17037,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.645714,
-      "cash_bail_pct_white": 0.263456,
-      "total_cases": 540
-    },
-    {
-      "name": "Schricker, Scott H.",
-      "cash_bail_pct": 0.238722,
-      "unsecured_pct": 0.00282,
-      "ror_pct": 0.68797,
-      "nonmonetary_pct": 0.070489,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.258427,
-      "cash_bail_pct_white": 0.212121,
-      "total_cases": 1064
-    },
-    {
-      "name": "Shaffer, Peter H.",
-      "cash_bail_pct": 0.35545,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.151659,
-      "nonmonetary_pct": 0.492891,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.486842,
-      "cash_bail_pct_white": 0.296875,
-      "total_cases": 211
-    },
-    {
-      "name": "Smith, Tara",
-      "cash_bail_pct": 0.341191,
-      "unsecured_pct": 0.055831,
-      "ror_pct": 0.151365,
-      "nonmonetary_pct": 0.451613,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.523636,
-      "cash_bail_pct_white": 0.241779,
-      "total_cases": 806
-    },
-    {
-      "name": "Sosovicka, David J.",
-      "cash_bail_pct": 0.472368,
-      "unsecured_pct": 0.001316,
-      "ror_pct": 0.217105,
-      "nonmonetary_pct": 0.309211,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.679348,
-      "cash_bail_pct_white": 0.407733,
-      "total_cases": 760
-    },
-    {
-      "name": "Stephens, Craig C.",
-      "cash_bail_pct": 0.474676,
-      "unsecured_pct": 0.084806,
-      "ror_pct": 0.194346,
-      "nonmonetary_pct": 0.246172,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.615616,
-      "cash_bail_pct_white": 0.388889,
-      "total_cases": 849
-    },
-    {
-      "name": "Swan, Tom",
-      "cash_bail_pct": 0.253289,
-      "unsecured_pct": 0.001645,
-      "ror_pct": 0.347039,
-      "nonmonetary_pct": 0.398026,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.458333,
-      "cash_bail_pct_white": 0.175115,
-      "total_cases": 608
-    },
-    {
-      "name": "Swearingen-Batch, Carla M.",
-      "cash_bail_pct": 0.278261,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.150725,
-      "nonmonetary_pct": 0.571014,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.503472,
-      "cash_bail_pct_white": 0.192034,
-      "total_cases": 1035
-    },
-    {
-      "name": "Tibbs, Edward A.",
-      "cash_bail_pct": 0.652322,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.077869,
-      "nonmonetary_pct": 0.269809,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.704042,
-      "cash_bail_pct_white": 0.601783,
-      "total_cases": 1464
-    },
-    {
-      "name": "Torkowsky, Thomas R.",
-      "cash_bail_pct": 0.572093,
-      "unsecured_pct": 0.004651,
-      "ror_pct": 0.344186,
-      "nonmonetary_pct": 0.07907,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.651822,
-      "cash_bail_pct_white": 0.451977,
-      "total_cases": 430
-    },
-    {
-      "name": "Wagner, William",
-      "cash_bail_pct": 0.428291,
-      "unsecured_pct": 0.084479,
-      "ror_pct": 0.32613,
-      "nonmonetary_pct": 0.1611,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.664804,
-      "cash_bail_pct_white": 0.30094,
-      "total_cases": 509
-    },
-    {
-      "name": "Welsh, Regis C.",
-      "cash_bail_pct": 0.799292,
-      "unsecured_pct": 0.003542,
-      "ror_pct": 0.086187,
-      "nonmonetary_pct": 0.11098,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.833922,
-      "cash_bail_pct_white": 0.765644,
-      "total_cases": 1694
-    },
-    {
-      "name": "Zucco, Linda Inez",
-      "cash_bail_pct": 0.253829,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.398249,
-      "nonmonetary_pct": 0.347921,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.375796,
-      "cash_bail_pct_white": 0.187713,
-      "total_cases": 457
-    },
-    {
-      "name": "Zyra, Gary M.",
-      "cash_bail_pct": 0.487013,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.094156,
-      "nonmonetary_pct": 0.418831,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.557576,
-      "cash_bail_pct_white": 0.4,
-      "total_cases": 308
-    }
-  ],
-  "Armstrong": [
-    {
-      "name": "Andring, James",
-      "cash_bail_pct": 0.610951,
-      "unsecured_pct": 0.383285,
-      "ror_pct": 0.005764,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.833333,
-      "cash_bail_pct_white": 0.607717,
-      "total_cases": 347
-    },
-    {
-      "name": "Decomo, J. Gary",
-      "cash_bail_pct": 0.364912,
-      "unsecured_pct": 0.012281,
-      "ror_pct": 0.542105,
-      "nonmonetary_pct": 0.080702,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.513514,
-      "cash_bail_pct_white": 0.351248,
-      "total_cases": 570
-    },
-    {
-      "name": "Owen, James H.",
-      "cash_bail_pct": 0.406036,
-      "unsecured_pct": 0.108368,
-      "ror_pct": 0.473251,
-      "nonmonetary_pct": 0.012346,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.660714,
-      "cash_bail_pct_white": 0.386018,
-      "total_cases": 729
-    }
-  ],
-  "Beaver": [
-    {
-      "name": "Armour, John W.",
-      "cash_bail_pct": 0.556757,
-      "unsecured_pct": 0.021622,
-      "ror_pct": 0.353153,
-      "nonmonetary_pct": 0.068468,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.697183,
-      "cash_bail_pct_white": 0.523316,
-      "total_cases": 555
-    },
-    {
-      "name": "Conroy, Eileen M.",
-      "cash_bail_pct": 0.298246,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.640351,
-      "nonmonetary_pct": 0.061404,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.37931,
-      "cash_bail_pct_white": 0.302632,
-      "total_cases": 114
-    },
-    {
-      "name": "Finn, Timothy",
-      "cash_bail_pct": 0.320127,
-      "unsecured_pct": 0.242472,
-      "ror_pct": 0.418384,
-      "nonmonetary_pct": 0.019017,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.529412,
-      "cash_bail_pct_white": 0.257336,
-      "total_cases": 631
-    },
-    {
-      "name": "Hladio, Andrew M.",
-      "cash_bail_pct": 0.625,
-      "unsecured_pct": 0.141204,
-      "ror_pct": 0.222222,
-      "nonmonetary_pct": 0.011574,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.719424,
-      "cash_bail_pct_white": 0.600707,
-      "total_cases": 432
-    },
-    {
-      "name": "Howe, Edward",
-      "cash_bail_pct": 0.557398,
-      "unsecured_pct": 0.133929,
-      "ror_pct": 0.294643,
-      "nonmonetary_pct": 0.014031,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.70297,
-      "cash_bail_pct_white": 0.517241,
-      "total_cases": 784
-    },
-    {
-      "name": "Livingston, William R. II",
-      "cash_bail_pct": 0.677249,
-      "unsecured_pct": 0.05291,
-      "ror_pct": 0.267196,
-      "nonmonetary_pct": 0.002646,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.827068,
-      "cash_bail_pct_white": 0.605263,
-      "total_cases": 378
-    },
-    {
-      "name": "Loughner, C. Douglas.",
-      "cash_bail_pct": 0.533733,
-      "unsecured_pct": 0.032984,
-      "ror_pct": 0.413793,
-      "nonmonetary_pct": 0.01949,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.6875,
-      "cash_bail_pct_white": 0.484444,
-      "total_cases": 667
-    },
-    {
-      "name": "Nicholson, Dale F.",
-      "cash_bail_pct": 0.493557,
-      "unsecured_pct": 0.190722,
-      "ror_pct": 0.298969,
-      "nonmonetary_pct": 0.016753,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.616822,
-      "cash_bail_pct_white": 0.439024,
-      "total_cases": 776
-    },
-    {
-      "name": "Schafer, Joseph",
-      "cash_bail_pct": 0.430295,
-      "unsecured_pct": 0.175603,
-      "ror_pct": 0.380697,
-      "nonmonetary_pct": 0.013405,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.570681,
-      "cash_bail_pct_white": 0.378119,
-      "total_cases": 746
-    },
-    {
-      "name": "Swihart, Janet",
-      "cash_bail_pct": 0.534712,
-      "unsecured_pct": 0.143279,
-      "ror_pct": 0.310192,
-      "nonmonetary_pct": 0.01034,
-      "nominal_pct": 0.001477,
-      "cash_bail_pct_black": 0.633028,
-      "cash_bail_pct_white": 0.501176,
-      "total_cases": 677
-    }
-  ],
-  "Bedford": [
-    {
-      "name": "Baker, Brian K.",
-      "cash_bail_pct": 0.370262,
-      "unsecured_pct": 0.594752,
-      "ror_pct": 0.034985,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.590909,
-      "cash_bail_pct_white": 0.356467,
-      "total_cases": 343
-    },
-    {
-      "name": "Bingham, H. Cyril Jr.",
-      "cash_bail_pct": 0.450135,
-      "unsecured_pct": 0.549865,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.733333,
-      "cash_bail_pct_white": 0.420732,
-      "total_cases": 371
-    },
-    {
-      "name": "Calhoun, Kathy S.",
-      "cash_bail_pct": 0.342932,
-      "unsecured_pct": 0.625654,
-      "ror_pct": 0.031414,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.411765,
-      "cash_bail_pct_white": 0.338983,
-      "total_cases": 382
-    },
-    {
-      "name": "Osman, Tonya M.",
-      "cash_bail_pct": 0.320946,
-      "unsecured_pct": 0.668919,
-      "ror_pct": 0.010135,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.352941,
-      "cash_bail_pct_white": 0.318681,
-      "total_cases": 296
-    }
-  ],
-  "Berks": [
-    {
-      "name": "Bagenstose, Kim L.",
-      "cash_bail_pct": 0.315399,
-      "unsecured_pct": 0.320965,
-      "ror_pct": 0.363636,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.482143,
-      "cash_bail_pct_white": 0.295983,
-      "total_cases": 539
-    },
-    {
-      "name": "Bentz, Nicholas M. Jr.",
-      "cash_bail_pct": 0.374858,
-      "unsecured_pct": 0.272933,
-      "ror_pct": 0.352208,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.418182,
-      "cash_bail_pct_white": 0.398413,
-      "total_cases": 883
-    },
-    {
-      "name": "Book, Andrea",
-      "cash_bail_pct": 0.437681,
-      "unsecured_pct": 0.37971,
-      "ror_pct": 0.17971,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.002899,
-      "cash_bail_pct_black": 0.52381,
-      "cash_bail_pct_white": 0.434629,
-      "total_cases": 345
-    },
-    {
-      "name": "Dougherty, Timothy M.",
-      "cash_bail_pct": 0.298611,
-      "unsecured_pct": 0.069444,
-      "ror_pct": 0.631944,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.30303,
-      "cash_bail_pct_white": 0.340206,
-      "total_cases": 144
-    },
-    {
-      "name": "Fegley, Sandra L.",
-      "cash_bail_pct": 0.320574,
-      "unsecured_pct": 0.302632,
-      "ror_pct": 0.375598,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.001196,
-      "cash_bail_pct_black": 0.292517,
-      "cash_bail_pct_white": 0.327434,
-      "total_cases": 836
-    },
-    {
-      "name": "Frederick, Victor M. IV",
-      "cash_bail_pct": 0.366972,
-      "unsecured_pct": 0.633028,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.4,
-      "cash_bail_pct_white": 0.37234,
-      "total_cases": 436
-    },
-    {
-      "name": "Gauby, Thomas M. Sr.",
-      "cash_bail_pct": 0.427083,
-      "unsecured_pct": 0.3125,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.260417,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.409091,
-      "cash_bail_pct_white": 0.431193,
-      "total_cases": 384
-    },
-    {
-      "name": "Glass, David E.",
-      "cash_bail_pct": 0.567227,
-      "unsecured_pct": 0.432773,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.890909,
-      "cash_bail_pct_white": 0.534653,
-      "total_cases": 476
-    },
-    {
-      "name": "Greth, Gail M.",
-      "cash_bail_pct": 0.355231,
-      "unsecured_pct": 0.644769,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.342466,
-      "cash_bail_pct_white": 0.351682,
-      "total_cases": 411
-    },
-    {
-      "name": "Hadzick, Paul J.",
-      "cash_bail_pct": 0.82459,
-      "unsecured_pct": 0.17377,
-      "ror_pct": 0.001639,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.85124,
-      "cash_bail_pct_white": 0.824786,
-      "total_cases": 1220
-    },
-    {
-      "name": "Hall, William N. Jr.",
-      "cash_bail_pct": 0.954044,
-      "unsecured_pct": 0.044118,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.001838,
-      "cash_bail_pct_black": 0.980583,
-      "cash_bail_pct_white": 0.948235,
-      "total_cases": 544
-    },
-    {
-      "name": "Hartman, Michael G.",
-      "cash_bail_pct": 0.330454,
-      "unsecured_pct": 0.669546,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.4,
-      "cash_bail_pct_white": 0.320755,
-      "total_cases": 463
-    },
-    {
-      "name": "Kennedy, Stuart D.",
-      "cash_bail_pct": 0.622263,
-      "unsecured_pct": 0.209854,
-      "ror_pct": 0.167883,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.678899,
-      "cash_bail_pct_white": 0.631188,
-      "total_cases": 548
-    },
-    {
-      "name": "Kowalski, Phyllis J.",
-      "cash_bail_pct": 0.555215,
-      "unsecured_pct": 0.43865,
-      "ror_pct": 0.006135,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.540541,
-      "cash_bail_pct_white": 0.562232,
-      "total_cases": 326
-    },
-    {
-      "name": "Leonardziak, Michael J.",
-      "cash_bail_pct": 0.495327,
-      "unsecured_pct": 0.495327,
-      "ror_pct": 0.009346,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.481481,
-      "cash_bail_pct_white": 0.506849,
-      "total_cases": 107
-    },
-    {
-      "name": "Patton, Dean R.",
-      "cash_bail_pct": 0.457143,
-      "unsecured_pct": 0.542857,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.578512,
-      "cash_bail_pct_white": 0.428571,
-      "total_cases": 770
-    },
-    {
-      "name": "Robinson, Alvin B.",
-      "cash_bail_pct": 0.67642,
-      "unsecured_pct": 0.320138,
-      "ror_pct": 0.003442,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.669355,
-      "cash_bail_pct_white": 0.695444,
-      "total_cases": 581
-    },
-    {
-      "name": "Scott, Kyley L.",
-      "cash_bail_pct": 0.523702,
-      "unsecured_pct": 0.21219,
-      "ror_pct": 0.264108,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.620253,
-      "cash_bail_pct_white": 0.535385,
-      "total_cases": 443
-    },
-    {
-      "name": "Xavios, Thomas H.",
-      "cash_bail_pct": 0.542654,
-      "unsecured_pct": 0.440758,
-      "ror_pct": 0.016588,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.641975,
-      "cash_bail_pct_white": 0.552542,
-      "total_cases": 422
-    },
-    {
-      "name": "Yoch, David L.",
-      "cash_bail_pct": 0.437396,
-      "unsecured_pct": 0.320534,
-      "ror_pct": 0.24207,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.546512,
-      "cash_bail_pct_white": 0.425051,
-      "total_cases": 599
-    },
-    {
-      "name": "Young, Ann L.",
-      "cash_bail_pct": 0.378729,
-      "unsecured_pct": 0.155642,
-      "ror_pct": 0.465629,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.461538,
-      "cash_bail_pct_white": 0.363495,
-      "total_cases": 771
-    }
-  ],
-  "Blair": [
-    {
-      "name": "Aigner, Paula M.",
-      "cash_bail_pct": 0.393885,
-      "unsecured_pct": 0.606115,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.681818,
-      "cash_bail_pct_white": 0.373016,
-      "total_cases": 556
-    },
-    {
-      "name": "Auker, Jeffrey P.",
-      "cash_bail_pct": 0.276146,
-      "unsecured_pct": 0.703878,
-      "ror_pct": 0.016451,
-      "nonmonetary_pct": 0.003525,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.345679,
-      "cash_bail_pct_white": 0.281831,
-      "total_cases": 851
-    },
-    {
-      "name": "Jackson, Steven D.",
-      "cash_bail_pct": 0.178049,
-      "unsecured_pct": 0.821951,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.413333,
-      "cash_bail_pct_white": 0.157601,
-      "total_cases": 820
-    },
-    {
-      "name": "Kelly, Todd F.",
-      "cash_bail_pct": 0.294398,
-      "unsecured_pct": 0.705602,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.445545,
-      "cash_bail_pct_white": 0.27977,
-      "total_cases": 839
-    },
-    {
-      "name": "Miller, Fred B.",
-      "cash_bail_pct": 0.428382,
-      "unsecured_pct": 0.564987,
-      "ror_pct": 0.006631,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.77027,
-      "cash_bail_pct_white": 0.395173,
-      "total_cases": 754
-    },
-    {
-      "name": "Ormsby, Craig E.",
-      "cash_bail_pct": 0.322718,
-      "unsecured_pct": 0.677282,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.903226,
-      "cash_bail_pct_white": 0.287037,
-      "total_cases": 471
-    }
-  ],
-  "Bradford": [
-    {
-      "name": "Clark, Timothy M.",
-      "cash_bail_pct": 0.419355,
-      "unsecured_pct": 0.019355,
-      "ror_pct": 0.016129,
-      "nonmonetary_pct": 0.545161,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.45,
-      "cash_bail_pct_white": 0.422877,
-      "total_cases": 620
-    },
-    {
-      "name": "Shaw, Michael",
-      "cash_bail_pct": 0.606132,
-      "unsecured_pct": 0.028302,
-      "ror_pct": 0.007075,
-      "nonmonetary_pct": 0.358491,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.826087,
-      "cash_bail_pct_white": 0.595361,
-      "total_cases": 424
-    },
-    {
-      "name": "Wheaton, Fred M.",
-      "cash_bail_pct": 0.44086,
-      "unsecured_pct": 0.47043,
-      "ror_pct": 0.069892,
-      "nonmonetary_pct": 0.018817,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.5,
-      "cash_bail_pct_white": 0.438356,
-      "total_cases": 372
-    },
-    {
-      "name": "Wilcox, Jonathan",
-      "cash_bail_pct": 0.369014,
-      "unsecured_pct": 0.112676,
-      "ror_pct": 0.470423,
-      "nonmonetary_pct": 0.047887,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.4,
-      "cash_bail_pct_white": 0.367647,
-      "total_cases": 355
-    }
-  ],
-  "Bucks": [
-    {
-      "name": "Armitage, Regina",
-      "cash_bail_pct": 0.316038,
-      "unsecured_pct": 0.435535,
-      "ror_pct": 0.248428,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.3875,
-      "cash_bail_pct_white": 0.306122,
-      "total_cases": 636
-    },
-    {
-      "name": "Baranoski, Daniel",
-      "cash_bail_pct": 0.339422,
-      "unsecured_pct": 0.263318,
-      "ror_pct": 0.395738,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.001522,
-      "cash_bail_pct_black": 0.447368,
-      "cash_bail_pct_white": 0.308943,
-      "total_cases": 657
-    },
-    {
-      "name": "Baum, Charles W.",
-      "cash_bail_pct": 0.316817,
-      "unsecured_pct": 0.68018,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.003003,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.471429,
-      "cash_bail_pct_white": 0.298094,
-      "total_cases": 666
-    },
-    {
-      "name": "Benz, William J.",
-      "cash_bail_pct": 0.179936,
-      "unsecured_pct": 0.813694,
-      "ror_pct": 0.003185,
-      "nonmonetary_pct": 0.003185,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.25,
-      "cash_bail_pct_white": 0.173077,
-      "total_cases": 628
-    },
-    {
-      "name": "Burns, Michael J.",
-      "cash_bail_pct": 0.384615,
-      "unsecured_pct": 0.488166,
-      "ror_pct": 0.127219,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.468354,
-      "cash_bail_pct_white": 0.368,
-      "total_cases": 338
-    },
-    {
-      "name": "Daly, Philip J.",
-      "cash_bail_pct": 0.272727,
-      "unsecured_pct": 0.30303,
-      "ror_pct": 0.424242,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.2,
-      "cash_bail_pct_white": 0.275862,
-      "total_cases": 132
-    },
-    {
-      "name": "Deatelhauser, Kenneth E.",
-      "cash_bail_pct": 0.355556,
-      "unsecured_pct": 0.127778,
-      "ror_pct": 0.516667,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.56,
-      "cash_bail_pct_white": 0.326667,
-      "total_cases": 180
-    },
-    {
-      "name": "Douple, Mark D.",
-      "cash_bail_pct": 0.410909,
-      "unsecured_pct": 0.587273,
-      "ror_pct": 0.001818,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.685714,
-      "cash_bail_pct_white": 0.371739,
-      "total_cases": 550
-    },
-    {
-      "name": "Durkin, John J.",
-      "cash_bail_pct": 0.358333,
-      "unsecured_pct": 0.633333,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.008333,
-      "cash_bail_pct_black": 0.3,
-      "cash_bail_pct_white": 0.371134,
-      "total_cases": 120
-    },
-    {
-      "name": "Falcone, Joseph P.",
-      "cash_bail_pct": 0.342873,
-      "unsecured_pct": 0.637486,
-      "ror_pct": 0.01908,
-      "nonmonetary_pct": 0.000561,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.394841,
-      "cash_bail_pct_white": 0.328467,
-      "total_cases": 1782
-    },
-    {
-      "name": "Finello, Daniel J. Jr.",
-      "cash_bail_pct": 0.387097,
-      "unsecured_pct": 0.606855,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.006048,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.5,
-      "cash_bail_pct_white": 0.367758,
-      "total_cases": 496
-    },
-    {
-      "name": "Gallagher, Michael W.",
-      "cash_bail_pct": 0.338158,
-      "unsecured_pct": 0.657895,
-      "ror_pct": 0.003289,
-      "nonmonetary_pct": 0.000658,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.38484,
-      "cash_bail_pct_white": 0.33157,
-      "total_cases": 1520
-    },
-    {
-      "name": "Gambardella, Gary",
-      "cash_bail_pct": 0.323529,
-      "unsecured_pct": 0.345201,
-      "ror_pct": 0.329721,
-      "nonmonetary_pct": 0.001548,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.466667,
-      "cash_bail_pct_white": 0.305699,
-      "total_cases": 646
-    },
-    {
-      "name": "Kelly, John J. Jr.",
-      "cash_bail_pct": 0.330986,
-      "unsecured_pct": 0.667606,
-      "ror_pct": 0.001408,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.386905,
-      "cash_bail_pct_white": 0.317919,
-      "total_cases": 710
-    },
-    {
-      "name": "Kline, Joanne V.",
-      "cash_bail_pct": 0.459499,
-      "unsecured_pct": 0.069219,
-      "ror_pct": 0.446244,
-      "nonmonetary_pct": 0.025037,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.516129,
-      "cash_bail_pct_white": 0.444906,
-      "total_cases": 679
-    },
-    {
-      "name": "Peranteau, Frank W. Sr.",
-      "cash_bail_pct": 0.445652,
-      "unsecured_pct": 0.518116,
-      "ror_pct": 0.028986,
-      "nonmonetary_pct": 0.007246,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.65,
-      "cash_bail_pct_white": 0.388626,
-      "total_cases": 276
-    },
-    {
-      "name": "Petrucci, Michael W.",
-      "cash_bail_pct": 0.429293,
-      "unsecured_pct": 0.570707,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.623188,
-      "cash_bail_pct_white": 0.389937,
-      "total_cases": 396
-    },
-    {
-      "name": "Roth, C. Robert",
-      "cash_bail_pct": 0.300261,
-      "unsecured_pct": 0.211488,
-      "ror_pct": 0.488251,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.413793,
-      "cash_bail_pct_white": 0.293948,
-      "total_cases": 383
-    },
-    {
-      "name": "Schnell, Robert A. Jr.",
-      "cash_bail_pct": 0.40566,
-      "unsecured_pct": 0.245283,
-      "ror_pct": 0.349057,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.444444,
-      "cash_bail_pct_white": 0.410526,
-      "total_cases": 106
-    },
-    {
-      "name": "Seaman, Jean",
-      "cash_bail_pct": 0.3084,
-      "unsecured_pct": 0.188723,
-      "ror_pct": 0.500575,
-      "nonmonetary_pct": 0.002301,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.507246,
-      "cash_bail_pct_white": 0.274262,
-      "total_cases": 869
-    },
-    {
-      "name": "Snow, Maggie",
-      "cash_bail_pct": 0.326705,
-      "unsecured_pct": 0.303977,
-      "ror_pct": 0.369318,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.590164,
-      "cash_bail_pct_white": 0.281588,
-      "total_cases": 352
-    },
-    {
-      "name": "Vislosky, Jan",
-      "cash_bail_pct": 0.331868,
-      "unsecured_pct": 0.661538,
-      "ror_pct": 0.004396,
-      "nonmonetary_pct": 0.002198,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.375,
-      "cash_bail_pct_white": 0.321678,
-      "total_cases": 910
-    },
-    {
-      "name": "Wagner, Robert L. Jr.",
-      "cash_bail_pct": 0.463542,
-      "unsecured_pct": 0.185764,
-      "ror_pct": 0.350694,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.65873,
-      "cash_bail_pct_white": 0.410835,
-      "total_cases": 576
-    },
-    {
-      "name": "Waltman, John I.",
-      "cash_bail_pct": 0.480447,
-      "unsecured_pct": 0.357542,
-      "ror_pct": 0.162011,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.638889,
-      "cash_bail_pct_white": 0.451852,
-      "total_cases": 179
-    }
-  ],
-  "Butler": [
-    {
-      "name": "Fullerton, William T.",
-      "cash_bail_pct": 0.445682,
-      "unsecured_pct": 0.022284,
-      "ror_pct": 0.410399,
-      "nonmonetary_pct": 0.104921,
-      "nominal_pct": 0.016713,
-      "cash_bail_pct_black": 0.744966,
-      "cash_bail_pct_white": 0.398463,
-      "total_cases": 1077
-    },
-    {
-      "name": "Haggerty, Sue",
-      "cash_bail_pct": 0.325455,
-      "unsecured_pct": 0.123636,
-      "ror_pct": 0.503636,
-      "nonmonetary_pct": 0.043636,
-      "nominal_pct": 0.003636,
-      "cash_bail_pct_black": 0.647059,
-      "cash_bail_pct_white": 0.307692,
-      "total_cases": 550
-    },
-    {
-      "name": "Kovach, David T.",
-      "cash_bail_pct": 0.455556,
-      "unsecured_pct": 0.098765,
-      "ror_pct": 0.377778,
-      "nonmonetary_pct": 0.067901,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.634615,
-      "cash_bail_pct_white": 0.423929,
-      "total_cases": 810
-    },
-    {
-      "name": "O'Donnell, Kevin P.",
-      "cash_bail_pct": 0.253857,
-      "unsecured_pct": 0.008415,
-      "ror_pct": 0.719495,
-      "nonmonetary_pct": 0.015428,
-      "nominal_pct": 0.002805,
-      "cash_bail_pct_black": 0.409091,
-      "cash_bail_pct_white": 0.24431,
-      "total_cases": 713
-    },
-    {
-      "name": "O'Donnell, William S.",
-      "cash_bail_pct": 0.307692,
-      "unsecured_pct": 0.080342,
-      "ror_pct": 0.601709,
-      "nonmonetary_pct": 0.010256,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.311688,
-      "cash_bail_pct_white": 0.306,
-      "total_cases": 585
-    },
-    {
-      "name": "Seibel, Wayne D.",
-      "cash_bail_pct": 0.218876,
-      "unsecured_pct": 0.126506,
-      "ror_pct": 0.459839,
-      "nonmonetary_pct": 0.192771,
-      "nominal_pct": 0.002008,
-      "cash_bail_pct_black": 0.529412,
-      "cash_bail_pct_white": 0.211207,
-      "total_cases": 498
-    },
-    {
-      "name": "Stoughton, Lewis E.",
-      "cash_bail_pct": 0.354358,
-      "unsecured_pct": 0.040138,
-      "ror_pct": 0.446101,
-      "nonmonetary_pct": 0.15367,
-      "nominal_pct": 0.005734,
-      "cash_bail_pct_black": 0.625,
-      "cash_bail_pct_white": 0.339461,
-      "total_cases": 872
-    }
-  ],
-  "Cambria": [
-    {
-      "name": "Barron, John W.",
-      "cash_bail_pct": 0.359756,
-      "unsecured_pct": 0.375,
-      "ror_pct": 0.265244,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.637795,
-      "cash_bail_pct_white": 0.300601,
-      "total_cases": 656
-    },
-    {
-      "name": "Creany, Fred",
-      "cash_bail_pct": 0.503521,
-      "unsecured_pct": 0.096831,
-      "ror_pct": 0.399648,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.932432,
-      "cash_bail_pct_white": 0.434511,
-      "total_cases": 568
-    },
-    {
-      "name": "Musulin, Michael",
-      "cash_bail_pct": 0.557932,
-      "unsecured_pct": 0.197861,
-      "ror_pct": 0.244207,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.65285,
-      "cash_bail_pct_white": 0.515493,
-      "total_cases": 561
-    },
-    {
-      "name": "Prebish, John Jr.",
-      "cash_bail_pct": 0.386694,
-      "unsecured_pct": 0.413721,
-      "ror_pct": 0.197505,
-      "nonmonetary_pct": 0.002079,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.672414,
-      "cash_bail_pct_white": 0.344578,
-      "total_cases": 481
-    },
-    {
-      "name": "Price, Kevin J.",
-      "cash_bail_pct": 0.402344,
-      "unsecured_pct": 0.572917,
-      "ror_pct": 0.02474,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.511811,
-      "cash_bail_pct_white": 0.350101,
-      "total_cases": 768
-    },
-    {
-      "name": "Varner, Rick W.",
-      "cash_bail_pct": 0.539278,
-      "unsecured_pct": 0.456476,
-      "ror_pct": 0.004246,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.826923,
-      "cash_bail_pct_white": 0.509756,
-      "total_cases": 471
-    },
-    {
-      "name": "Zanghi, Mary Ann",
-      "cash_bail_pct": 0.552764,
-      "unsecured_pct": 0.190955,
-      "ror_pct": 0.253769,
-      "nonmonetary_pct": 0.002513,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.767442,
-      "cash_bail_pct_white": 0.488449,
-      "total_cases": 398
-    },
-    {
-      "name": "Zungali, Michael",
-      "cash_bail_pct": 0.356994,
-      "unsecured_pct": 0.321503,
-      "ror_pct": 0.321503,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.825,
-      "cash_bail_pct_white": 0.316279,
-      "total_cases": 479
-    }
-  ],
-  "Cameron": [
-    {
-      "name": "Brown, Barry D.",
-      "cash_bail_pct": 0.216418,
-      "unsecured_pct": 0.783582,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 1,
-      "cash_bail_pct_white": 0.254902,
-      "total_cases": 134
-    }
-  ],
-  "Carbon": [
-    {
-      "name": "Homanko, Joseph D. Sr.",
-      "cash_bail_pct": 0.356897,
-      "unsecured_pct": 0.577586,
-      "ror_pct": 0.065517,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.415584,
-      "cash_bail_pct_white": 0.346072,
-      "total_cases": 580
-    },
-    {
-      "name": "Kissner, William J.",
-      "cash_bail_pct": 0.27259,
-      "unsecured_pct": 0.575301,
-      "ror_pct": 0.152108,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.576923,
-      "cash_bail_pct_white": 0.26087,
-      "total_cases": 664
-    },
-    {
-      "name": "Kosciolek, Casimir T.",
-      "cash_bail_pct": 0.386266,
-      "unsecured_pct": 0.454936,
-      "ror_pct": 0.158798,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.590909,
-      "cash_bail_pct_white": 0.373817,
-      "total_cases": 699
-    },
-    {
-      "name": "Lewis, Edward M.",
-      "cash_bail_pct": 0.204545,
-      "unsecured_pct": 0.573864,
-      "ror_pct": 0.221591,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.4,
-      "cash_bail_pct_white": 0.18,
-      "total_cases": 176
-    },
-    {
-      "name": "Schrantz, Eric M.",
-      "cash_bail_pct": 0.328407,
-      "unsecured_pct": 0.505747,
-      "ror_pct": 0.165846,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.428571,
-      "cash_bail_pct_white": 0.332721,
-      "total_cases": 609
-    }
-  ],
-  "Centre": [
-    {
-      "name": "Gillette-Walker, Kelley",
-      "cash_bail_pct": 0.444828,
-      "unsecured_pct": 0.086207,
-      "ror_pct": 0.468966,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.748387,
-      "cash_bail_pct_white": 0.37518,
-      "total_cases": 870
-    },
-    {
-      "name": "Horner, Ronald J.",
-      "cash_bail_pct": 0.060241,
-      "unsecured_pct": 0.036145,
-      "ror_pct": 0.903614,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.25,
-      "cash_bail_pct_white": 0.02682,
-      "total_cases": 332
-    },
-    {
-      "name": "Jordan, Thomas N.",
-      "cash_bail_pct": 0.409605,
-      "unsecured_pct": 0.129944,
-      "ror_pct": 0.460452,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.72,
-      "cash_bail_pct_white": 0.346021,
-      "total_cases": 354
-    },
-    {
-      "name": "Lachman, Steven Frederic",
-      "cash_bail_pct": 0.180422,
-      "unsecured_pct": 0.134357,
-      "ror_pct": 0.685221,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.313953,
-      "cash_bail_pct_white": 0.160714,
-      "total_cases": 521
-    },
-    {
-      "name": "Nileski, Charity L.",
-      "cash_bail_pct": 0.007812,
-      "unsecured_pct": 0.007812,
-      "ror_pct": 0.984375,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.0,
-      "cash_bail_pct_white": 0.009434,
-      "total_cases": 128
-    },
-    {
-      "name": "Prestia, Carmine W. Jr.",
-      "cash_bail_pct": 0.204473,
-      "unsecured_pct": 0.151757,
-      "ror_pct": 0.64377,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.325,
-      "cash_bail_pct_white": 0.169528,
-      "total_cases": 626
-    },
-    {
-      "name": "Sinclair, Allen W.",
-      "cash_bail_pct": 0.271386,
-      "unsecured_pct": 0.120944,
-      "ror_pct": 0.60472,
-      "nonmonetary_pct": 0.00295,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.44,
-      "cash_bail_pct_white": 0.209924,
-      "total_cases": 339
-    }
-  ],
-  "Chester": [
-    {
-      "name": "Bailey, John R.",
-      "cash_bail_pct": 0.385101,
-      "unsecured_pct": 0.425505,
-      "ror_pct": 0.184343,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.005051,
-      "cash_bail_pct_black": 0.508197,
-      "cash_bail_pct_white": 0.330813,
-      "total_cases": 792
-    },
-    {
-      "name": "Brown, Leonard J.",
-      "cash_bail_pct": 0.258462,
-      "unsecured_pct": 0.449231,
-      "ror_pct": 0.292308,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.487179,
-      "cash_bail_pct_white": 0.229682,
-      "total_cases": 325
-    },
-    {
-      "name": "Bruno, Mark A.",
-      "cash_bail_pct": 0.36853,
-      "unsecured_pct": 0.320911,
-      "ror_pct": 0.291925,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.018634,
-      "cash_bail_pct_black": 0.405797,
-      "cash_bail_pct_white": 0.352239,
-      "total_cases": 483
-    },
-    {
-      "name": "Cabry, Michael J. III",
-      "cash_bail_pct": 0.399023,
-      "unsecured_pct": 0.387622,
-      "ror_pct": 0.203583,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.009772,
-      "cash_bail_pct_black": 0.525253,
-      "cash_bail_pct_white": 0.381633,
-      "total_cases": 614
-    },
-    {
-      "name": "Donatelli, Lori Novak",
-      "cash_bail_pct": 0.433036,
-      "unsecured_pct": 0.350446,
-      "ror_pct": 0.212054,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.004464,
-      "cash_bail_pct_black": 0.547619,
-      "cash_bail_pct_white": 0.386581,
-      "total_cases": 448
-    },
-    {
-      "name": "Gill, Nancy",
-      "cash_bail_pct": 0.421712,
-      "unsecured_pct": 0.475992,
-      "ror_pct": 0.098121,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.004175,
-      "cash_bail_pct_black": 0.492424,
-      "cash_bail_pct_white": 0.403614,
-      "total_cases": 479
-    },
-    {
-      "name": "Hines, Gregory V.",
-      "cash_bail_pct": 0.60735,
-      "unsecured_pct": 0.338491,
-      "ror_pct": 0.05029,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.003868,
-      "cash_bail_pct_black": 0.61204,
-      "cash_bail_pct_white": 0.586207,
-      "total_cases": 517
-    },
-    {
-      "name": "Knapp, Gwenn S.",
-      "cash_bail_pct": 0.218009,
-      "unsecured_pct": 0.459716,
-      "ror_pct": 0.312796,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.009479,
-      "cash_bail_pct_black": 0.346939,
-      "cash_bail_pct_white": 0.18125,
-      "total_cases": 211
-    },
-    {
-      "name": "Koon, Grover E.",
-      "cash_bail_pct": 0.517293,
-      "unsecured_pct": 0.4,
-      "ror_pct": 0.076692,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.006015,
-      "cash_bail_pct_black": 0.549724,
-      "cash_bail_pct_white": 0.491039,
-      "total_cases": 665
-    },
-    {
-      "name": "Kraut, William D.",
-      "cash_bail_pct": 0.328018,
-      "unsecured_pct": 0.416856,
-      "ror_pct": 0.243736,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.01139,
-      "cash_bail_pct_black": 0.427083,
-      "cash_bail_pct_white": 0.309598,
-      "total_cases": 439
-    },
-    {
-      "name": "Massey, Scott A.",
-      "cash_bail_pct": 0.436693,
-      "unsecured_pct": 0.381137,
-      "ror_pct": 0.174419,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.007752,
-      "cash_bail_pct_black": 0.5375,
-      "cash_bail_pct_white": 0.412646,
-      "total_cases": 774
-    },
-    {
-      "name": "Michaels, Theodore Peter Jr.",
-      "cash_bail_pct": 0.354077,
-      "unsecured_pct": 0.435622,
-      "ror_pct": 0.208155,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.002146,
-      "cash_bail_pct_black": 0.425743,
-      "cash_bail_pct_white": 0.333333,
-      "total_cases": 466
-    },
-    {
-      "name": "Nistico, Charles",
-      "cash_bail_pct": 0.243421,
-      "unsecured_pct": 0.335526,
-      "ror_pct": 0.421053,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.411765,
-      "cash_bail_pct_white": 0.201754,
-      "total_cases": 152
-    },
-    {
-      "name": "Seavey, Matthew",
-      "cash_bail_pct": 0.353341,
-      "unsecured_pct": 0.361268,
-      "ror_pct": 0.266138,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.019253,
-      "cash_bail_pct_black": 0.541935,
-      "cash_bail_pct_white": 0.311544,
-      "total_cases": 883
-    },
-    {
-      "name": "Sondergaard, Analisa",
-      "cash_bail_pct": 0.323333,
-      "unsecured_pct": 0.373333,
-      "ror_pct": 0.285,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.018333,
-      "cash_bail_pct_black": 0.420513,
-      "cash_bail_pct_white": 0.270202,
-      "total_cases": 600
-    },
-    {
-      "name": "Tartaglio, Thomas W.",
-      "cash_bail_pct": 0.387755,
-      "unsecured_pct": 0.365306,
-      "ror_pct": 0.228571,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.018367,
-      "cash_bail_pct_black": 0.509804,
-      "cash_bail_pct_white": 0.361186,
-      "total_cases": 490
-    },
-    {
-      "name": "Valocchi, Jeffrey J.",
-      "cash_bail_pct": 0.310474,
-      "unsecured_pct": 0.487531,
-      "ror_pct": 0.180798,
-      "nonmonetary_pct": 0.001247,
-      "nominal_pct": 0.01995,
-      "cash_bail_pct_black": 0.334572,
-      "cash_bail_pct_white": 0.310413,
-      "total_cases": 802
-    },
-    {
-      "name": "Vito, Marian T.",
-      "cash_bail_pct": 0.462287,
-      "unsecured_pct": 0.326034,
-      "ror_pct": 0.206813,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.004866,
-      "cash_bail_pct_black": 0.521429,
-      "cash_bail_pct_white": 0.442308,
-      "total_cases": 411
-    }
-  ],
-  "Clarion": [
-    {
-      "name": "Long Turk, Amy L.",
-      "cash_bail_pct": 0.288235,
-      "unsecured_pct": 0.388235,
-      "ror_pct": 0.323529,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.4,
-      "cash_bail_pct_white": 0.29932,
-      "total_cases": 170
-    },
-    {
-      "name": "Miller, Jeffrey C.",
-      "cash_bail_pct": 0.443114,
-      "unsecured_pct": 0.526946,
-      "ror_pct": 0.02994,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.4,
-      "cash_bail_pct_white": 0.448916,
-      "total_cases": 334
-    },
-    {
-      "name": "Quinn, Duane L.",
-      "cash_bail_pct": 0.370166,
-      "unsecured_pct": 0.290055,
-      "ror_pct": 0.337017,
-      "nonmonetary_pct": 0.002762,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.325581,
-      "cash_bail_pct_white": 0.380471,
-      "total_cases": 362
-    },
-    {
-      "name": "Schill, Timothy P.",
-      "cash_bail_pct": 0.42638,
-      "unsecured_pct": 0.184049,
-      "ror_pct": 0.389571,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.7,
-      "cash_bail_pct_white": 0.428571,
-      "total_cases": 326
-    }
-  ],
-  "Clearfield": [
-    {
-      "name": "Ford, Patrick N.",
-      "cash_bail_pct": 0.35614,
-      "unsecured_pct": 0.64386,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.611111,
-      "cash_bail_pct_white": 0.351005,
-      "total_cases": 570
-    },
-    {
-      "name": "Hawkins, James L.",
-      "cash_bail_pct": 0.393393,
-      "unsecured_pct": 0.606607,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.857143,
-      "cash_bail_pct_white": 0.367213,
-      "total_cases": 333
-    },
-    {
-      "name": "Ireland, Richard Allen",
-      "cash_bail_pct": 0.42243,
-      "unsecured_pct": 0.57757,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.578947,
-      "cash_bail_pct_white": 0.421782,
-      "total_cases": 535
-    },
-    {
-      "name": "Nevling, Jerome M.",
-      "cash_bail_pct": 0.28869,
-      "unsecured_pct": 0.705357,
-      "ror_pct": 0.005952,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.5,
-      "cash_bail_pct_white": 0.283912,
-      "total_cases": 336
-    }
-  ],
-  "Clinton": [
-    {
-      "name": "Maggs, John W.",
-      "cash_bail_pct": 0.57346,
-      "unsecured_pct": 0.42654,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.666667,
-      "cash_bail_pct_white": 0.570681,
-      "total_cases": 211
-    },
-    {
-      "name": "Mills, Frank P.",
-      "cash_bail_pct": 0.121777,
-      "unsecured_pct": 0.654728,
-      "ror_pct": 0.223496,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.2,
-      "cash_bail_pct_white": 0.117371,
-      "total_cases": 698
-    },
-    {
-      "name": "Sanders, Joseph L.",
-      "cash_bail_pct": 0.657807,
-      "unsecured_pct": 0.328904,
-      "ror_pct": 0.003322,
-      "nonmonetary_pct": 0.006645,
-      "nominal_pct": 0.003322,
-      "cash_bail_pct_black": 0.542857,
-      "cash_bail_pct_white": 0.676806,
-      "total_cases": 301
-    }
-  ],
-  "Columbia": [
-    {
-      "name": "Brewer, Doug D.",
-      "cash_bail_pct": 0.501805,
-      "unsecured_pct": 0.234657,
-      "ror_pct": 0.259928,
-      "nonmonetary_pct": 0.00361,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.625,
-      "cash_bail_pct_white": 0.490272,
-      "total_cases": 277
-    },
-    {
-      "name": "Knecht, Richard W.",
-      "cash_bail_pct": 0.451948,
-      "unsecured_pct": 0.080519,
-      "ror_pct": 0.464935,
-      "nonmonetary_pct": 0.002597,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.657895,
-      "cash_bail_pct_white": 0.438066,
-      "total_cases": 385
-    },
-    {
-      "name": "Lawton, Russell L.",
-      "cash_bail_pct": 0.277193,
-      "unsecured_pct": 0.722807,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.181818,
-      "cash_bail_pct_white": 0.300429,
-      "total_cases": 570
-    },
-    {
-      "name": "Long, Craig W.",
-      "cash_bail_pct": 0.432039,
-      "unsecured_pct": 0.208738,
-      "ror_pct": 0.359223,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.846154,
-      "cash_bail_pct_white": 0.413043,
-      "total_cases": 206
-    }
-  ],
-  "Crawford": [
-    {
-      "name": "Marwood, Rita J.",
-      "cash_bail_pct": 0.278846,
-      "unsecured_pct": 0.199519,
-      "ror_pct": 0.521635,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.428571,
-      "cash_bail_pct_white": 0.2711,
-      "total_cases": 416
-    },
-    {
-      "name": "Nicols, Amy L.",
-      "cash_bail_pct": 0.378556,
-      "unsecured_pct": 0.161926,
-      "ror_pct": 0.455142,
-      "nonmonetary_pct": 0.004376,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.592593,
-      "cash_bail_pct_white": 0.370546,
-      "total_cases": 457
-    },
-    {
-      "name": "Pendolino, Samuel V.",
-      "cash_bail_pct": 0.391823,
-      "unsecured_pct": 0.126065,
-      "ror_pct": 0.383305,
-      "nonmonetary_pct": 0.098807,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.581081,
-      "cash_bail_pct_white": 0.365462,
-      "total_cases": 587
-    },
-    {
-      "name": "Zilhaver, Lincoln S.",
-      "cash_bail_pct": 0.356998,
-      "unsecured_pct": 0.042596,
-      "ror_pct": 0.387424,
-      "nonmonetary_pct": 0.212982,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.529412,
-      "cash_bail_pct_white": 0.346939,
-      "total_cases": 493
-    }
-  ],
-  "Cumberland": [
-    {
-      "name": "Adams, H. Anthony",
-      "cash_bail_pct": 0.255682,
-      "unsecured_pct": 0.156818,
-      "ror_pct": 0.5875,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.303867,
-      "cash_bail_pct_white": 0.249631,
-      "total_cases": 880
-    },
-    {
-      "name": "Beckley, Elizabeth S.",
-      "cash_bail_pct": 0.530488,
-      "unsecured_pct": 0.469512,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.640244,
-      "cash_bail_pct_white": 0.491667,
-      "total_cases": 656
-    },
-    {
-      "name": "Birbeck, Jonathan R.",
-      "cash_bail_pct": 0.428064,
-      "unsecured_pct": 0.069272,
-      "ror_pct": 0.483126,
-      "nonmonetary_pct": 0.019538,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.629032,
-      "cash_bail_pct_white": 0.359155,
-      "total_cases": 563
-    },
-    {
-      "name": "Clement, Charles A. Jr.",
-      "cash_bail_pct": 0.449541,
-      "unsecured_pct": 0.120795,
-      "ror_pct": 0.425076,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.004587,
-      "cash_bail_pct_black": 0.583893,
-      "cash_bail_pct_white": 0.409639,
-      "total_cases": 654
-    },
-    {
-      "name": "Cohick, Vivian",
-      "cash_bail_pct": 0.386861,
-      "unsecured_pct": 0.164234,
-      "ror_pct": 0.421533,
-      "nonmonetary_pct": 0.027372,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.641026,
-      "cash_bail_pct_white": 0.35177,
-      "total_cases": 548
-    },
-    {
-      "name": "Correal, Paula P.",
-      "cash_bail_pct": 0.441176,
-      "unsecured_pct": 0.169118,
-      "ror_pct": 0.389706,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.609756,
-      "cash_bail_pct_white": 0.361702,
-      "total_cases": 136
-    },
-    {
-      "name": "Day, Susan K.",
-      "cash_bail_pct": 0.424635,
-      "unsecured_pct": 0.116694,
-      "ror_pct": 0.45705,
-      "nonmonetary_pct": 0.001621,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.522124,
-      "cash_bail_pct_white": 0.403614,
-      "total_cases": 617
-    },
-    {
-      "name": "Dougherty, Richard S. Jr.",
-      "cash_bail_pct": 0.421239,
-      "unsecured_pct": 0.123894,
-      "ror_pct": 0.447788,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.00708,
-      "cash_bail_pct_black": 0.566667,
-      "cash_bail_pct_white": 0.385321,
-      "total_cases": 565
-    },
-    {
-      "name": "Fegley, Paul M",
-      "cash_bail_pct": 0.428099,
-      "unsecured_pct": 0.157025,
-      "ror_pct": 0.414876,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.539062,
-      "cash_bail_pct_white": 0.395745,
-      "total_cases": 605
-    },
-    {
-      "name": "Martin, Mark",
-      "cash_bail_pct": 0.378855,
-      "unsecured_pct": 0.22467,
-      "ror_pct": 0.396476,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.53913,
-      "cash_bail_pct_white": 0.348294,
-      "total_cases": 681
-    },
-    {
-      "name": "Silcox, Kathryn H.",
-      "cash_bail_pct": 0.450609,
-      "unsecured_pct": 0.277402,
-      "ror_pct": 0.269283,
-      "nonmonetary_pct": 0.002706,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.644068,
-      "cash_bail_pct_white": 0.412829,
-      "total_cases": 739
-    }
-  ],
-  "Dauphin": [
-    {
-      "name": "Johnson, Gregory D.",
-      "cash_bail_pct": 0.309061,
-      "unsecured_pct": 0.122977,
-      "ror_pct": 0.564725,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.003236,
-      "cash_bail_pct_black": 0.6,
-      "cash_bail_pct_white": 0.232365,
-      "total_cases": 618
-    },
-    {
-      "name": "Judy, David H.",
-      "cash_bail_pct": 0.405777,
-      "unsecured_pct": 0.192572,
-      "ror_pct": 0.401651,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.56087,
-      "cash_bail_pct_white": 0.332632,
-      "total_cases": 727
-    },
-    {
-      "name": "Lenker, James A.",
-      "cash_bail_pct": 0.429254,
-      "unsecured_pct": 0.566922,
-      "ror_pct": 0.003824,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.434783,
-      "cash_bail_pct_white": 0.435345,
-      "total_cases": 1046
-    },
-    {
-      "name": "Lenker, Kenneth A.",
-      "cash_bail_pct": 0.395833,
-      "unsecured_pct": 0.255952,
-      "ror_pct": 0.348214,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.448718,
-      "cash_bail_pct_white": 0.350877,
-      "total_cases": 672
-    },
-    {
-      "name": "Lindsey, Joseph S.",
-      "cash_bail_pct": 0.342037,
-      "unsecured_pct": 0.657963,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.443787,
-      "cash_bail_pct_white": 0.264851,
-      "total_cases": 766
-    },
-    {
-      "name": "Margerum, Rebecca J.",
-      "cash_bail_pct": 0.35167,
-      "unsecured_pct": 0.282908,
-      "ror_pct": 0.365422,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.590476,
-      "cash_bail_pct_white": 0.285347,
-      "total_cases": 509
-    },
-    {
-      "name": "McKnight, Sonya M.",
-      "cash_bail_pct": 0.393293,
-      "unsecured_pct": 0.254573,
-      "ror_pct": 0.347561,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.004573,
-      "cash_bail_pct_black": 0.394667,
-      "cash_bail_pct_white": 0.4375,
-      "total_cases": 656
-    },
-    {
-      "name": "O'Leary, David",
-      "cash_bail_pct": 0.348837,
-      "unsecured_pct": 0.627907,
-      "ror_pct": 0.023256,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.411111,
-      "cash_bail_pct_white": 0.386905,
-      "total_cases": 430
-    },
-    {
-      "name": "Pelino, Dominic",
-      "cash_bail_pct": 0.237984,
-      "unsecured_pct": 0.103165,
-      "ror_pct": 0.502931,
-      "nonmonetary_pct": 0.15592,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.446154,
-      "cash_bail_pct_white": 0.177673,
-      "total_cases": 853
-    },
-    {
-      "name": "Pianka, Barbara",
-      "cash_bail_pct": 0.596573,
-      "unsecured_pct": 0.403427,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.620968,
-      "cash_bail_pct_white": 0.560166,
-      "total_cases": 642
-    },
-    {
-      "name": "Semic, Steven M.",
-      "cash_bail_pct": 0.845777,
-      "unsecured_pct": 0.150551,
-      "ror_pct": 0.003672,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.850602,
-      "cash_bail_pct_white": 0.842932,
-      "total_cases": 817
-    },
-    {
-      "name": "Shugars, Raymond F.",
-      "cash_bail_pct": 0.900322,
-      "unsecured_pct": 0.083601,
-      "ror_pct": 0.016077,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.912821,
-      "cash_bail_pct_white": 0.875,
-      "total_cases": 311
-    },
-    {
-      "name": "Smith, Michael J.",
-      "cash_bail_pct": 0.327261,
-      "unsecured_pct": 0.670854,
-      "ror_pct": 0.001884,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.397799,
-      "cash_bail_pct_white": 0.28427,
-      "total_cases": 1592
-    },
-    {
-      "name": "Teyral, Joann L.",
-      "cash_bail_pct": 0.151079,
-      "unsecured_pct": 0.482014,
-      "ror_pct": 0.366906,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.169492,
-      "cash_bail_pct_white": 0.188679,
-      "total_cases": 139
-    },
-    {
-      "name": "Wenner, William C.",
-      "cash_bail_pct": 0.430052,
-      "unsecured_pct": 0.119171,
-      "ror_pct": 0.450777,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.501832,
-      "cash_bail_pct_white": 0.384937,
-      "total_cases": 772
-    },
-    {
-      "name": "Witmer, Lowell A.",
-      "cash_bail_pct": 0.480287,
-      "unsecured_pct": 0.197133,
-      "ror_pct": 0.320789,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.001792,
-      "cash_bail_pct_black": 0.656977,
-      "cash_bail_pct_white": 0.410326,
-      "total_cases": 558
-    },
-    {
-      "name": "Zozos, George A.",
-      "cash_bail_pct": 0.664247,
-      "unsecured_pct": 0.324864,
-      "ror_pct": 0.009074,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.001815,
-      "cash_bail_pct_black": 0.693009,
-      "cash_bail_pct_white": 0.646154,
-      "total_cases": 551
-    },
-    {
-      "name": "Zozos, Paul T.",
-      "cash_bail_pct": 0.497521,
-      "unsecured_pct": 0.497521,
-      "ror_pct": 0.004959,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.53271,
-      "cash_bail_pct_white": 0.457692,
-      "total_cases": 605
-    }
-  ],
-  "Delaware": [
-    {
-      "name": "Berardocco, Ann",
-      "cash_bail_pct": 0.705882,
-      "unsecured_pct": 0.294118,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.757962,
-      "cash_bail_pct_white": 0.626943,
-      "total_cases": 527
-    },
-    {
-      "name": "Burke, Robert R.",
-      "cash_bail_pct": 0.509537,
-      "unsecured_pct": 0.490463,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.580153,
-      "cash_bail_pct_white": 0.44385,
-      "total_cases": 367
-    },
-    {
-      "name": "D'Agostino, Robert M.",
-      "cash_bail_pct": 0.291188,
-      "unsecured_pct": 0.704981,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.003831,
-      "cash_bail_pct_black": 0.397727,
-      "cash_bail_pct_white": 0.283333,
-      "total_cases": 261
-    },
-    {
-      "name": "Davis, Wilden H.",
-      "cash_bail_pct": 0.757576,
-      "unsecured_pct": 0.238095,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.004329,
-      "cash_bail_pct_black": 0.753799,
-      "cash_bail_pct_white": 0.814159,
-      "total_cases": 462
-    },
-    {
-      "name": "Gallagher, Vincent D. Jr.",
-      "cash_bail_pct": 0.710262,
-      "unsecured_pct": 0.289738,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.835681,
-      "cash_bail_pct_white": 0.612319,
-      "total_cases": 497
-    },
-    {
-      "name": "Griffin, David",
-      "cash_bail_pct": 0.51706,
-      "unsecured_pct": 0.48294,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.585586,
-      "cash_bail_pct_white": 0.452088,
-      "total_cases": 762
-    },
-    {
-      "name": "Holefelder, Diane M.",
-      "cash_bail_pct": 0.517647,
-      "unsecured_pct": 0.476471,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.005882,
-      "cash_bail_pct_black": 0.715686,
-      "cash_bail_pct_white": 0.385666,
-      "total_cases": 510
-    },
-    {
-      "name": "Hunter, Leon",
-      "cash_bail_pct": 0.537975,
-      "unsecured_pct": 0.43038,
-      "ror_pct": 0.027426,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.004219,
-      "cash_bail_pct_black": 0.671053,
-      "cash_bail_pct_white": 0.485577,
-      "total_cases": 474
-    },
-    {
-      "name": "Karapalides, Harry J. Jr.",
-      "cash_bail_pct": 0.564103,
-      "unsecured_pct": 0.42906,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.006838,
-      "cash_bail_pct_black": 0.577836,
-      "cash_bail_pct_white": 0.534031,
-      "total_cases": 585
-    },
-    {
-      "name": "Krull, Deborah A.",
-      "cash_bail_pct": 0.483607,
-      "unsecured_pct": 0.516393,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.606061,
-      "cash_bail_pct_white": 0.396667,
-      "total_cases": 610
-    },
-    {
-      "name": "Lacey, Thomas J.",
-      "cash_bail_pct": 0.442244,
-      "unsecured_pct": 0.531353,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.026403,
-      "cash_bail_pct_black": 0.49697,
-      "cash_bail_pct_white": 0.383333,
-      "total_cases": 303
-    },
-    {
-      "name": "Lacianca, Elisa C.",
-      "cash_bail_pct": 0.419355,
-      "unsecured_pct": 0.577713,
-      "ror_pct": 0.002933,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.608696,
-      "cash_bail_pct_white": 0.343915,
-      "total_cases": 341
-    },
-    {
-      "name": "Lang, David H.",
-      "cash_bail_pct": 0.345652,
-      "unsecured_pct": 0.606522,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.047826,
-      "cash_bail_pct_black": 0.393939,
-      "cash_bail_pct_white": 0.323887,
-      "total_cases": 460
-    },
-    {
-      "name": "Lippart, Jack D.",
-      "cash_bail_pct": 0.426653,
-      "unsecured_pct": 0.572314,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.001033,
-      "cash_bail_pct_black": 0.556787,
-      "cash_bail_pct_white": 0.35337,
-      "total_cases": 968
-    },
-    {
-      "name": "Lippincott, Nicholas S.",
-      "cash_bail_pct": 0.604167,
-      "unsecured_pct": 0.395833,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.742972,
-      "cash_bail_pct_white": 0.453782,
-      "total_cases": 528
-    },
-    {
-      "name": "Loftus, Greg J.",
-      "cash_bail_pct": 0.687931,
-      "unsecured_pct": 0.312069,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.707692,
-      "cash_bail_pct_white": 0.655462,
-      "total_cases": 580
-    },
-    {
-      "name": "Mattox, Christopher R.",
-      "cash_bail_pct": 0.587326,
-      "unsecured_pct": 0.411128,
-      "ror_pct": 0.001546,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.618919,
-      "cash_bail_pct_white": 0.572052,
-      "total_cases": 647
-    },
-    {
-      "name": "McCray, C. Walter III",
-      "cash_bail_pct": 0.352201,
-      "unsecured_pct": 0.534591,
-      "ror_pct": 0.006289,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.106918,
-      "cash_bail_pct_black": 0.420765,
-      "cash_bail_pct_white": 0.259843,
-      "total_cases": 318
-    },
-    {
-      "name": "Merkins, James",
-      "cash_bail_pct": 0.614545,
-      "unsecured_pct": 0.381818,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.003636,
-      "cash_bail_pct_black": 0.797872,
-      "cash_bail_pct_white": 0.530488,
-      "total_cases": 275
-    },
-    {
-      "name": "Micozzie-Aguirre, Kelly A.",
-      "cash_bail_pct": 0.49827,
-      "unsecured_pct": 0.49481,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.00692,
-      "cash_bail_pct_black": 0.6,
-      "cash_bail_pct_white": 0.473684,
-      "total_cases": 289
-    },
-    {
-      "name": "Nistico, Charles",
-      "cash_bail_pct": 0.439516,
-      "unsecured_pct": 0.544355,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.016129,
-      "cash_bail_pct_black": 0.507246,
-      "cash_bail_pct_white": 0.377551,
-      "total_cases": 248
-    },
-    {
-      "name": "Puppio, Andrea B.",
-      "cash_bail_pct": 0.571664,
-      "unsecured_pct": 0.420099,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.001647,
-      "nominal_pct": 0.00659,
-      "cash_bail_pct_black": 0.658451,
-      "cash_bail_pct_white": 0.516892,
-      "total_cases": 607
-    },
-    {
-      "name": "Radano, Robert J.",
-      "cash_bail_pct": 0.625235,
-      "unsecured_pct": 0.374765,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.65411,
-      "cash_bail_pct_white": 0.618605,
-      "total_cases": 531
-    },
-    {
-      "name": "Roberts, Wendy B.",
-      "cash_bail_pct": 0.282119,
-      "unsecured_pct": 0.715232,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.002649,
-      "cash_bail_pct_black": 0.405286,
-      "cash_bail_pct_white": 0.194093,
-      "total_cases": 755
-    },
-    {
-      "name": "Sandone, Steven A.",
-      "cash_bail_pct": 0.7,
-      "unsecured_pct": 0.297778,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.002222,
-      "cash_bail_pct_black": 0.743363,
-      "cash_bail_pct_white": 0.682292,
-      "total_cases": 450
-    },
-    {
-      "name": "Seaton, Spencer B. Jr.",
-      "cash_bail_pct": 0.738416,
-      "unsecured_pct": 0.254111,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.007474,
-      "cash_bail_pct_black": 0.756757,
-      "cash_bail_pct_white": 0.731092,
-      "total_cases": 669
-    },
-    {
-      "name": "Strohl, Walter A.",
-      "cash_bail_pct": 0.517021,
-      "unsecured_pct": 0.476596,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.006383,
-      "cash_bail_pct_black": 0.686047,
-      "cash_bail_pct_white": 0.41637,
-      "total_cases": 470
-    },
-    {
-      "name": "Tenaglia, Leonard V.",
-      "cash_bail_pct": 0.738865,
-      "unsecured_pct": 0.261135,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.75,
-      "cash_bail_pct_white": 0.711806,
-      "total_cases": 1145
-    },
-    {
-      "name": "Tozer, Peter P.",
-      "cash_bail_pct": 0.600806,
-      "unsecured_pct": 0.399194,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.626437,
-      "cash_bail_pct_white": 0.586319,
-      "total_cases": 496
-    },
-    {
-      "name": "Turner, Phillip S.",
-      "cash_bail_pct": 0.602026,
-      "unsecured_pct": 0.39508,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.002894,
-      "cash_bail_pct_black": 0.619672,
-      "cash_bail_pct_white": 0.591398,
-      "total_cases": 691
-    },
-    {
-      "name": "Vann, Dawn L.",
-      "cash_bail_pct": 0.525974,
-      "unsecured_pct": 0.472403,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.001623,
-      "cash_bail_pct_black": 0.575916,
-      "cash_bail_pct_white": 0.582192,
-      "total_cases": 616
-    },
-    {
-      "name": "Williams, W Keith II",
-      "cash_bail_pct": 0.572816,
-      "unsecured_pct": 0.423301,
-      "ror_pct": 0.001942,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.001942,
-      "cash_bail_pct_black": 0.52861,
-      "cash_bail_pct_white": 0.714286,
-      "total_cases": 515
-    }
-  ],
-  "Elk": [
-    {
-      "name": "Jacob, Mark S.",
-      "cash_bail_pct": 0.25522,
-      "unsecured_pct": 0.74478,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.25,
-      "cash_bail_pct_white": 0.260976,
-      "total_cases": 431
-    },
-    {
-      "name": "Martin, James L.",
-      "cash_bail_pct": 0.267477,
-      "unsecured_pct": 0.732523,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.5,
-      "cash_bail_pct_white": 0.267742,
-      "total_cases": 329
-    }
-  ],
-  "Erie": [
-    {
-      "name": "Bizzarro, Paul A.",
-      "cash_bail_pct": 0.518927,
-      "unsecured_pct": 0.152997,
-      "ror_pct": 0.320189,
-      "nonmonetary_pct": 0.007886,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.65035,
-      "cash_bail_pct_white": 0.421384,
-      "total_cases": 634
-    },
-    {
-      "name": "Carney, Thomas",
-      "cash_bail_pct": 0.894988,
-      "unsecured_pct": 0.100239,
-      "ror_pct": 0.002387,
-      "nonmonetary_pct": 0.002387,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.892523,
-      "cash_bail_pct_white": 0.894444,
-      "total_cases": 419
-    },
-    {
-      "name": "DiPaolo, Dominick D.",
-      "cash_bail_pct": 0.976035,
-      "unsecured_pct": 0.019608,
-      "ror_pct": 0.004357,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.987805,
-      "cash_bail_pct_white": 0.984456,
-      "total_cases": 459
-    },
-    {
-      "name": "Hammer, Scott B.",
-      "cash_bail_pct": 0.472826,
-      "unsecured_pct": 0.138587,
-      "ror_pct": 0.388587,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.733333,
-      "cash_bail_pct_white": 0.451807,
-      "total_cases": 368
-    },
-    {
-      "name": "Krahe, Mark R.",
-      "cash_bail_pct": 0.2496,
-      "unsecured_pct": 0.1632,
-      "ror_pct": 0.5872,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.297619,
-      "cash_bail_pct_white": 0.25,
-      "total_cases": 625
-    },
-    {
-      "name": "Mack, Suzanne C.",
-      "cash_bail_pct": 0.613793,
-      "unsecured_pct": 0.115517,
-      "ror_pct": 0.232759,
-      "nonmonetary_pct": 0.037931,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.649007,
-      "cash_bail_pct_white": 0.606426,
-      "total_cases": 580
-    },
-    {
-      "name": "Mackendrick, Chris K.",
-      "cash_bail_pct": 0.393939,
-      "unsecured_pct": 0.60373,
-      "ror_pct": 0.002331,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.860465,
-      "cash_bail_pct_white": 0.345646,
-      "total_cases": 429
-    },
-    {
-      "name": "Manzi, Paul",
-      "cash_bail_pct": 0.387755,
-      "unsecured_pct": 0.591837,
-      "ror_pct": 0.020408,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.56,
-      "cash_bail_pct_white": 0.375,
-      "total_cases": 539
-    },
-    {
-      "name": "McGowan, Brian M.",
-      "cash_bail_pct": 0.213729,
-      "unsecured_pct": 0.182527,
-      "ror_pct": 0.603744,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.364583,
-      "cash_bail_pct_white": 0.186916,
-      "total_cases": 641
-    },
-    {
-      "name": "Nichols, Brenda A.",
-      "cash_bail_pct": 0.179487,
-      "unsecured_pct": 0.160256,
-      "ror_pct": 0.660256,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.166667,
-      "cash_bail_pct_white": 0.188811,
-      "total_cases": 312
-    },
-    {
-      "name": "Strohmeyer, Susan D.",
-      "cash_bail_pct": 0.309441,
-      "unsecured_pct": 0.108392,
-      "ror_pct": 0.576923,
-      "nonmonetary_pct": 0.005245,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.43,
-      "cash_bail_pct_white": 0.289474,
-      "total_cases": 572
-    },
-    {
-      "name": "Stuck-Lewis, Denise",
-      "cash_bail_pct": 0.347639,
-      "unsecured_pct": 0.103004,
-      "ror_pct": 0.545064,
-      "nonmonetary_pct": 0.004292,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.538462,
-      "cash_bail_pct_white": 0.322667,
-      "total_cases": 466
-    },
-    {
-      "name": "Urbaniak, Paul G.",
-      "cash_bail_pct": 0.637631,
-      "unsecured_pct": 0.054007,
-      "ror_pct": 0.287456,
-      "nonmonetary_pct": 0.020906,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.656051,
-      "cash_bail_pct_white": 0.630952,
-      "total_cases": 574
-    }
-  ],
-  "Fayette": [
-    {
-      "name": "Defino, Michael J. Jr.",
-      "cash_bail_pct": 0.410938,
-      "unsecured_pct": 0.589063,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.432,
-      "cash_bail_pct_white": 0.40239,
-      "total_cases": 640
-    },
-    {
-      "name": "Dennis, Wendy D.",
-      "cash_bail_pct": 0.477663,
-      "unsecured_pct": 0.520619,
-      "ror_pct": 0.001718,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.505051,
-      "cash_bail_pct_white": 0.475789,
-      "total_cases": 582
-    },
-    {
-      "name": "Haggerty, Ronald J. Sr.",
-      "cash_bail_pct": 0.470085,
-      "unsecured_pct": 0.529915,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.587629,
-      "cash_bail_pct_white": 0.45493,
-      "total_cases": 819
-    },
-    {
-      "name": "Jeffries, Jennifer L.",
-      "cash_bail_pct": 0.528881,
-      "unsecured_pct": 0.471119,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.68254,
-      "cash_bail_pct_white": 0.485714,
-      "total_cases": 554
-    },
-    {
-      "name": "Kasunic, Richard II",
-      "cash_bail_pct": 0.372903,
-      "unsecured_pct": 0.627097,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.495327,
-      "cash_bail_pct_white": 0.355623,
-      "total_cases": 775
-    },
-    {
-      "name": "Metros, Michael",
-      "cash_bail_pct": 0.451309,
-      "unsecured_pct": 0.548691,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.522267,
-      "cash_bail_pct_white": 0.431034,
-      "total_cases": 955
-    },
-    {
-      "name": "Shimshock, Daniel C.",
-      "cash_bail_pct": 0.462822,
-      "unsecured_pct": 0.537178,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.606742,
-      "cash_bail_pct_white": 0.437276,
-      "total_cases": 659
-    }
-  ],
-  "Forest": [
-    {
-      "name": "Miller, Daniel L.",
-      "cash_bail_pct": 0.321429,
-      "unsecured_pct": 0.542857,
-      "ror_pct": 0.135714,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.866667,
-      "cash_bail_pct_white": 0.282609,
-      "total_cases": 140
-    }
-  ],
-  "Franklin": [
-    {
-      "name": "Cunningham, Duane K.",
-      "cash_bail_pct": 0.539615,
-      "unsecured_pct": 0.077088,
-      "ror_pct": 0.376874,
-      "nonmonetary_pct": 0.006424,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.684211,
-      "cash_bail_pct_white": 0.512953,
-      "total_cases": 467
-    },
-    {
-      "name": "Eyer, Jody C.",
-      "cash_bail_pct": 0.407925,
-      "unsecured_pct": 0.235431,
-      "ror_pct": 0.344988,
-      "nonmonetary_pct": 0.011655,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.652174,
-      "cash_bail_pct_white": 0.379032,
-      "total_cases": 429
-    },
-    {
-      "name": "Manns, Glenn Kenneth",
-      "cash_bail_pct": 0.395095,
-      "unsecured_pct": 0.084469,
-      "ror_pct": 0.517711,
-      "nonmonetary_pct": 0.001817,
-      "nominal_pct": 0.000908,
-      "cash_bail_pct_black": 0.463668,
-      "cash_bail_pct_white": 0.377863,
-      "total_cases": 1101
-    },
-    {
-      "name": "Pentz, Larry G.",
-      "cash_bail_pct": 0.253181,
-      "unsecured_pct": 0.072519,
-      "ror_pct": 0.661578,
-      "nonmonetary_pct": 0.012723,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.414894,
-      "cash_bail_pct_white": 0.234949,
-      "total_cases": 786
-    },
-    {
-      "name": "Plum, David L.",
-      "cash_bail_pct": 0.465374,
-      "unsecured_pct": 0.171745,
-      "ror_pct": 0.362881,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.647887,
-      "cash_bail_pct_white": 0.426573,
-      "total_cases": 361
-    },
-    {
-      "name": "Rock, Kelly L.",
-      "cash_bail_pct": 0.358008,
-      "unsecured_pct": 0.111709,
-      "ror_pct": 0.526245,
-      "nonmonetary_pct": 0.004038,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.450704,
-      "cash_bail_pct_white": 0.341924,
-      "total_cases": 743
-    },
-    {
-      "name": "Williams, Todd R.",
-      "cash_bail_pct": 0.292135,
-      "unsecured_pct": 0.155431,
-      "ror_pct": 0.544944,
-      "nonmonetary_pct": 0.007491,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.4,
-      "cash_bail_pct_white": 0.272076,
-      "total_cases": 534
-    }
-  ],
-  "Fulton": [
-    {
-      "name": "Heming, Tamela M.",
-      "cash_bail_pct": 0.3125,
-      "unsecured_pct": 0.25,
-      "ror_pct": 0.258929,
-      "nonmonetary_pct": 0.178571,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.272727,
-      "cash_bail_pct_white": 0.319149,
-      "total_cases": 112
-    },
-    {
-      "name": "Horne, Devin C.",
-      "cash_bail_pct": 0.326923,
-      "unsecured_pct": 0.163462,
-      "ror_pct": 0.5,
-      "nonmonetary_pct": 0.009615,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.333333,
-      "cash_bail_pct_white": 0.346154,
-      "total_cases": 104
-    },
-    {
-      "name": "Mellott, Wendy",
-      "cash_bail_pct": 0.23913,
-      "unsecured_pct": 0.076087,
-      "ror_pct": 0.684783,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.266667,
-      "cash_bail_pct_white": 0.246835,
-      "total_cases": 184
-    }
-  ],
-  "Greene": [
-    {
-      "name": "Bates, D Glenn",
-      "cash_bail_pct": 0.324627,
-      "unsecured_pct": 0.675373,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.666667,
-      "cash_bail_pct_white": 0.314516,
-      "total_cases": 268
-    },
-    {
-      "name": "Cramer, Jesse J.",
-      "cash_bail_pct": 0.333333,
-      "unsecured_pct": 0.214815,
-      "ror_pct": 0.448148,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.003704,
-      "cash_bail_pct_black": 0.5,
-      "cash_bail_pct_white": 0.338843,
-      "total_cases": 270
-    },
-    {
-      "name": "Watson, Lee",
-      "cash_bail_pct": 0.527344,
-      "unsecured_pct": 0.183594,
-      "ror_pct": 0.28125,
-      "nonmonetary_pct": 0.007812,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.583333,
-      "cash_bail_pct_white": 0.549107,
-      "total_cases": 256
-    }
-  ],
-  "Huntingdon": [
-    {
-      "name": "Gummo, Douglas L.",
-      "cash_bail_pct": 0.274419,
-      "unsecured_pct": 0.344186,
-      "ror_pct": 0.381395,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.410256,
-      "cash_bail_pct_white": 0.276243,
-      "total_cases": 430
-    },
-    {
-      "name": "Jamison, Mary",
-      "cash_bail_pct": 0.372727,
-      "unsecured_pct": 0.627273,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.576923,
-      "cash_bail_pct_white": 0.379562,
-      "total_cases": 330
-    },
-    {
-      "name": "Wilt, Richard S.",
-      "cash_bail_pct": 0.463855,
-      "unsecured_pct": 0.094378,
-      "ror_pct": 0.441767,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.794872,
-      "cash_bail_pct_white": 0.414698,
-      "total_cases": 498
-    }
-  ],
-  "Indiana": [
-    {
-      "name": "Haberl, Guy B.",
-      "cash_bail_pct": 0.405594,
-      "unsecured_pct": 0.300699,
-      "ror_pct": 0.293706,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.365672,
-      "cash_bail_pct_white": 0.413953,
-      "total_cases": 572
-    },
-    {
-      "name": "Rega, Jennifer J.",
-      "cash_bail_pct": 0.403326,
-      "unsecured_pct": 0.461538,
-      "ror_pct": 0.135135,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.612903,
-      "cash_bail_pct_white": 0.36983,
-      "total_cases": 481
-    },
-    {
-      "name": "Steffee, Susanne V.",
-      "cash_bail_pct": 0.414909,
-      "unsecured_pct": 0.196906,
-      "ror_pct": 0.388186,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.474359,
-      "cash_bail_pct_white": 0.410423,
-      "total_cases": 711
-    },
-    {
-      "name": "Thachik, George M.",
-      "cash_bail_pct": 0.39486,
-      "unsecured_pct": 0.602804,
-      "ror_pct": 0.002336,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.8,
-      "cash_bail_pct_white": 0.364829,
-      "total_cases": 428
-    }
-  ],
-  "Jefferson": [
-    {
-      "name": "Bazylak, Gregory M.",
-      "cash_bail_pct": 0.34375,
-      "unsecured_pct": 0.653646,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.002604,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.8,
-      "cash_bail_pct_white": 0.344633,
-      "total_cases": 384
-    },
-    {
-      "name": "Chambers, Douglas R.",
-      "cash_bail_pct": 0.376176,
-      "unsecured_pct": 0.623824,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.5,
-      "cash_bail_pct_white": 0.376238,
-      "total_cases": 319
-    },
-    {
-      "name": "Inzana, David B.",
-      "cash_bail_pct": 0.433862,
-      "unsecured_pct": 0.566138,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.714286,
-      "cash_bail_pct_white": 0.425,
-      "total_cases": 378
-    }
-  ],
-  "Juniata": [
-    {
-      "name": "Leister, Jacqueline T.",
-      "cash_bail_pct": 0.305936,
-      "unsecured_pct": 0.13242,
-      "ror_pct": 0.39726,
-      "nonmonetary_pct": 0.164384,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.5,
-      "cash_bail_pct_white": 0.340909,
-      "total_cases": 219
-    },
-    {
-      "name": "Lyter, Barbara M.",
-      "cash_bail_pct": 0.314554,
-      "unsecured_pct": 0.685446,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.25,
-      "cash_bail_pct_white": 0.328205,
-      "total_cases": 213
-    }
-  ],
-  "Lackawanna": [
-    {
-      "name": "Corbett, Joanne Price",
-      "cash_bail_pct": 0.574534,
-      "unsecured_pct": 0.319876,
-      "ror_pct": 0.003106,
-      "nonmonetary_pct": 0.099379,
-      "nominal_pct": 0.003106,
-      "cash_bail_pct_black": 0.747826,
-      "cash_bail_pct_white": 0.536383,
-      "total_cases": 644
-    },
-    {
-      "name": "Farrell, Alyce Hailstone",
-      "cash_bail_pct": 0.504132,
-      "unsecured_pct": 0.42314,
-      "ror_pct": 0.008264,
-      "nonmonetary_pct": 0.064463,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.503937,
-      "cash_bail_pct_white": 0.510776,
-      "total_cases": 605
-    },
-    {
-      "name": "Gallagher, Terrence V.",
-      "cash_bail_pct": 0.380952,
-      "unsecured_pct": 0.486943,
-      "ror_pct": 0.012289,
-      "nonmonetary_pct": 0.119816,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.635514,
-      "cash_bail_pct_white": 0.323829,
-      "total_cases": 651
-    },
-    {
-      "name": "Giglio, Theodore J.",
-      "cash_bail_pct": 0.682432,
-      "unsecured_pct": 0.195946,
-      "ror_pct": 0.032095,
-      "nonmonetary_pct": 0.089527,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.820896,
-      "cash_bail_pct_white": 0.652681,
-      "total_cases": 592
-    },
-    {
-      "name": "Keeler, Paul",
-      "cash_bail_pct": 0.51585,
-      "unsecured_pct": 0.404899,
-      "ror_pct": 0.038905,
-      "nonmonetary_pct": 0.038905,
-      "nominal_pct": 0.001441,
-      "cash_bail_pct_black": 0.684211,
-      "cash_bail_pct_white": 0.46493,
-      "total_cases": 694
-    },
-    {
-      "name": "McGraw, Sean P.",
-      "cash_bail_pct": 0.56,
-      "unsecured_pct": 0.42069,
-      "ror_pct": 0.002759,
-      "nonmonetary_pct": 0.015172,
-      "nominal_pct": 0.001379,
-      "cash_bail_pct_black": 0.748299,
-      "cash_bail_pct_white": 0.515038,
-      "total_cases": 725
-    },
-    {
-      "name": "Pesota, John P.",
-      "cash_bail_pct": 0.530551,
-      "unsecured_pct": 0.281669,
-      "ror_pct": 0.041729,
-      "nonmonetary_pct": 0.146051,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.642336,
-      "cash_bail_pct_white": 0.5,
-      "total_cases": 671
-    },
-    {
-      "name": "Turlip-Murphy, Laura",
-      "cash_bail_pct": 0.463863,
-      "unsecured_pct": 0.505913,
-      "ror_pct": 0.001314,
-      "nonmonetary_pct": 0.028909,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.617647,
-      "cash_bail_pct_white": 0.421416,
-      "total_cases": 761
-    },
-    {
-      "name": "Ware, Paul J.",
-      "cash_bail_pct": 0.555556,
-      "unsecured_pct": 0.353678,
-      "ror_pct": 0.014085,
-      "nonmonetary_pct": 0.076682,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.590164,
-      "cash_bail_pct_white": 0.54185,
-      "total_cases": 639
-    }
-  ],
-  "Lancaster": [
-    {
-      "name": "Albert, Scott E.",
-      "cash_bail_pct": 0.421212,
-      "unsecured_pct": 0.578788,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.484127,
-      "cash_bail_pct_white": 0.409178,
-      "total_cases": 660
-    },
-    {
-      "name": "Benner, William E. Jr.",
-      "cash_bail_pct": 0.566176,
-      "unsecured_pct": 0.431373,
-      "ror_pct": 0.002451,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.704918,
-      "cash_bail_pct_white": 0.55132,
-      "total_cases": 408
-    },
-    {
-      "name": "Bixler, Miles K.",
-      "cash_bail_pct": 0.439481,
-      "unsecured_pct": 0.403458,
-      "ror_pct": 0.157061,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.549618,
-      "cash_bail_pct_white": 0.425139,
-      "total_cases": 694
-    },
-    {
-      "name": "Chudzik, Brian E.",
-      "cash_bail_pct": 0.472973,
-      "unsecured_pct": 0.527027,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.561644,
-      "cash_bail_pct_white": 0.452,
-      "total_cases": 666
-    },
-    {
-      "name": "Commins, B. Denise",
-      "cash_bail_pct": 0.407731,
-      "unsecured_pct": 0.528678,
-      "ror_pct": 0.063591,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.54491,
-      "cash_bail_pct_white": 0.384488,
-      "total_cases": 802
-    },
-    {
-      "name": "Duncan, Jayne F.",
-      "cash_bail_pct": 0.296758,
-      "unsecured_pct": 0.663342,
-      "ror_pct": 0.037406,
-      "nonmonetary_pct": 0.002494,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.457143,
-      "cash_bail_pct_white": 0.290598,
-      "total_cases": 401
-    },
-    {
-      "name": "Hamill, Nancy G.",
-      "cash_bail_pct": 0.625282,
-      "unsecured_pct": 0.37246,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.002257,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.797297,
-      "cash_bail_pct_white": 0.592287,
-      "total_cases": 443
-    },
-    {
-      "name": "Hartman, Rodney H.",
-      "cash_bail_pct": 0.586957,
-      "unsecured_pct": 0.336232,
-      "ror_pct": 0.076812,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.805556,
-      "cash_bail_pct_white": 0.553004,
-      "total_cases": 690
-    },
-    {
-      "name": "Herman, Robert A. Jr.",
-      "cash_bail_pct": 0.095618,
-      "unsecured_pct": 0.241036,
-      "ror_pct": 0.663347,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.158416,
-      "cash_bail_pct_white": 0.089569,
-      "total_cases": 1004
-    },
-    {
-      "name": "Jimenez, Janice",
-      "cash_bail_pct": 0.631485,
-      "unsecured_pct": 0.314848,
-      "ror_pct": 0.053667,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.668919,
-      "cash_bail_pct_white": 0.619403,
-      "total_cases": 559
-    },
-    {
-      "name": "Keller, Joshua R.",
-      "cash_bail_pct": 0.411905,
-      "unsecured_pct": 0.388095,
-      "ror_pct": 0.195238,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.004762,
-      "cash_bail_pct_black": 0.395349,
-      "cash_bail_pct_white": 0.419453,
-      "total_cases": 420
-    },
-    {
-      "name": "Miller, David P.",
-      "cash_bail_pct": 0.455556,
-      "unsecured_pct": 0.365556,
-      "ror_pct": 0.178889,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.492891,
-      "cash_bail_pct_white": 0.44494,
-      "total_cases": 900
-    },
-    {
-      "name": "Mongiovi Sponaugle, Mary",
-      "cash_bail_pct": 0.434316,
-      "unsecured_pct": 0.210456,
-      "ror_pct": 0.355228,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.386905,
-      "cash_bail_pct_white": 0.450355,
-      "total_cases": 746
-    },
-    {
-      "name": "Mylin, Stuart J.",
-      "cash_bail_pct": 0.508741,
-      "unsecured_pct": 0.491259,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.65,
-      "cash_bail_pct_white": 0.494048,
-      "total_cases": 572
-    },
-    {
-      "name": "Reinaker, Dennis E.",
-      "cash_bail_pct": 0.065963,
-      "unsecured_pct": 0.422164,
-      "ror_pct": 0.509235,
-      "nonmonetary_pct": 0.002639,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.166667,
-      "cash_bail_pct_white": 0.06087,
-      "total_cases": 379
-    },
-    {
-      "name": "Reuter, William G.",
-      "cash_bail_pct": 0.380282,
-      "unsecured_pct": 0.591549,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.028169,
-      "cash_bail_pct_black": 0.367347,
-      "cash_bail_pct_white": 0.388889,
-      "total_cases": 142
-    },
-    {
-      "name": "Roth, Bruce A.",
-      "cash_bail_pct": 0.621924,
-      "unsecured_pct": 0.362416,
-      "ror_pct": 0.013423,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.002237,
-      "cash_bail_pct_black": 0.67,
-      "cash_bail_pct_white": 0.644654,
-      "total_cases": 447
-    },
-    {
-      "name": "Russell, Tony S.",
-      "cash_bail_pct": 0.547945,
-      "unsecured_pct": 0.393836,
-      "ror_pct": 0.058219,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.625,
-      "cash_bail_pct_white": 0.543478,
-      "total_cases": 584
-    },
-    {
-      "name": "Sheller, Raymond S.",
-      "cash_bail_pct": 0.590164,
-      "unsecured_pct": 0.325527,
-      "ror_pct": 0.084309,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.681159,
-      "cash_bail_pct_white": 0.576705,
-      "total_cases": 427
-    },
-    {
-      "name": "Tobin, Edward A.",
-      "cash_bail_pct": 0.495851,
-      "unsecured_pct": 0.417012,
-      "ror_pct": 0.068465,
-      "nonmonetary_pct": 0.018672,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.590909,
-      "cash_bail_pct_white": 0.486553,
-      "total_cases": 482
-    },
-    {
-      "name": "Willwerth, Jene",
-      "cash_bail_pct": 0.642857,
-      "unsecured_pct": 0.357143,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.806452,
-      "cash_bail_pct_white": 0.575,
-      "total_cases": 112
-    },
-    {
-      "name": "Winters, John C.",
-      "cash_bail_pct": 0.553846,
-      "unsecured_pct": 0.438462,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.007692,
-      "cash_bail_pct_black": 0.648649,
-      "cash_bail_pct_white": 0.521739,
-      "total_cases": 130
-    },
-    {
-      "name": "Witkonis, Adam J.",
-      "cash_bail_pct": 0.503686,
-      "unsecured_pct": 0.379607,
-      "ror_pct": 0.113022,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.003686,
-      "cash_bail_pct_black": 0.572139,
-      "cash_bail_pct_white": 0.483926,
-      "total_cases": 814
-    }
-  ],
-  "Lawrence": [
-    {
-      "name": "Amodie, Melissa Ann",
-      "cash_bail_pct": 0.667114,
-      "unsecured_pct": 0.016107,
-      "ror_pct": 0.114094,
-      "nonmonetary_pct": 0.201342,
-      "nominal_pct": 0.001342,
-      "cash_bail_pct_black": 0.819853,
-      "cash_bail_pct_white": 0.594104,
-      "total_cases": 745
-    },
-    {
-      "name": "Cartwright, Jerry G. Jr.",
-      "cash_bail_pct": 0.270096,
-      "unsecured_pct": 0.019293,
-      "ror_pct": 0.421222,
-      "nonmonetary_pct": 0.289389,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.306122,
-      "cash_bail_pct_white": 0.271654,
-      "total_cases": 311
-    },
-    {
-      "name": "McGrath, Scott",
-      "cash_bail_pct": 0.476584,
-      "unsecured_pct": 0.082645,
-      "ror_pct": 0.22314,
-      "nonmonetary_pct": 0.217631,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.696203,
-      "cash_bail_pct_white": 0.42029,
-      "total_cases": 363
-    },
-    {
-      "name": "Nicholson, Jennifer L.",
-      "cash_bail_pct": 0.487903,
-      "unsecured_pct": 0.0,
-      "ror_pct": 0.181452,
-      "nonmonetary_pct": 0.330645,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.587156,
-      "cash_bail_pct_white": 0.459103,
-      "total_cases": 496
-    },
-    {
-      "name": "Rishel, David B.",
-      "cash_bail_pct": 0.422145,
-      "unsecured_pct": 0.017301,
-      "ror_pct": 0.349481,
-      "nonmonetary_pct": 0.211073,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.52381,
-      "cash_bail_pct_white": 0.403361,
-      "total_cases": 289
-    }
-  ],
-  "Lebanon": [
-    {
-      "name": "Capello, Thomas M.",
-      "cash_bail_pct": 0.448529,
-      "unsecured_pct": 0.551471,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.580645,
-      "cash_bail_pct_white": 0.434322,
-      "total_cases": 544
-    },
-    {
-      "name": "Dissinger, Maria M.",
-      "cash_bail_pct": 0.35085,
-      "unsecured_pct": 0.64915,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.454545,
-      "cash_bail_pct_white": 0.354128,
-      "total_cases": 647
-    },
-    {
-      "name": "Ditzler, John W.",
-      "cash_bail_pct": 0.296053,
-      "unsecured_pct": 0.685855,
-      "ror_pct": 0.018092,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.37931,
-      "cash_bail_pct_white": 0.289963,
-      "total_cases": 608
-    },
-    {
-      "name": "Garver, Carl Russell",
-      "cash_bail_pct": 0.413379,
-      "unsecured_pct": 0.586621,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.574468,
-      "cash_bail_pct_white": 0.4,
-      "total_cases": 583
-    },
-    {
-      "name": "Verna, Anthony J.",
-      "cash_bail_pct": 0.354167,
-      "unsecured_pct": 0.645833,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.588235,
-      "cash_bail_pct_white": 0.348018,
-      "total_cases": 768
-    },
-    {
-      "name": "Wolfe, Kim R.",
-      "cash_bail_pct": 0.41272,
-      "unsecured_pct": 0.58728,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.507692,
-      "cash_bail_pct_white": 0.406627,
-      "total_cases": 739
-    }
-  ],
-  "Lehigh": [
-    {
-      "name": "Balliet, Carl L.",
-      "cash_bail_pct": 0.606299,
-      "unsecured_pct": 0.393701,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.758621,
-      "cash_bail_pct_white": 0.523256,
-      "total_cases": 127
-    },
-    {
-      "name": "Beck, Rod",
-      "cash_bail_pct": 0.530351,
-      "unsecured_pct": 0.257188,
-      "ror_pct": 0.21246,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.772277,
-      "cash_bail_pct_white": 0.473029,
-      "total_cases": 626
-    },
-    {
-      "name": "Butler, Donna R.",
-      "cash_bail_pct": 0.593633,
-      "unsecured_pct": 0.391386,
-      "ror_pct": 0.013109,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.001873,
-      "cash_bail_pct_black": 0.686869,
-      "cash_bail_pct_white": 0.551637,
-      "total_cases": 534
-    },
-    {
-      "name": "Crawford, Charles H.",
-      "cash_bail_pct": 0.512,
-      "unsecured_pct": 0.488,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.684211,
-      "cash_bail_pct_white": 0.446809,
-      "total_cases": 125
-    },
-    {
-      "name": "D'Amore, Michael D.",
-      "cash_bail_pct": 0.437931,
-      "unsecured_pct": 0.191954,
-      "ror_pct": 0.357471,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.012644,
-      "cash_bail_pct_black": 0.470588,
-      "cash_bail_pct_white": 0.428058,
-      "total_cases": 870
-    },
-    {
-      "name": "Devine, Karen C.",
-      "cash_bail_pct": 0.583333,
-      "unsecured_pct": 0.416667,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.61244,
-      "cash_bail_pct_white": 0.588384,
-      "total_cases": 708
-    },
-    {
-      "name": "Engler, Patricia M.",
-      "cash_bail_pct": 0.591722,
-      "unsecured_pct": 0.408278,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.666667,
-      "cash_bail_pct_white": 0.605634,
-      "total_cases": 1063
-    },
-    {
-      "name": "Faulkner, Michael J.",
-      "cash_bail_pct": 0.409283,
-      "unsecured_pct": 0.588608,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.00211,
-      "cash_bail_pct_black": 0.440594,
-      "cash_bail_pct_white": 0.376437,
-      "total_cases": 948
-    },
-    {
-      "name": "Halal, Robert C.",
-      "cash_bail_pct": 0.558522,
-      "unsecured_pct": 0.441478,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.705882,
-      "cash_bail_pct_white": 0.529086,
-      "total_cases": 487
-    },
-    {
-      "name": "Hammond, Jacob E.",
-      "cash_bail_pct": 0.498899,
-      "unsecured_pct": 0.229075,
-      "ror_pct": 0.270925,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.001101,
-      "cash_bail_pct_black": 0.489691,
-      "cash_bail_pct_white": 0.483631,
-      "total_cases": 908
-    },
-    {
-      "name": "Howells, David M. Jr.",
-      "cash_bail_pct": 0.566372,
-      "unsecured_pct": 0.433628,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.584541,
-      "cash_bail_pct_white": 0.606127,
-      "total_cases": 791
-    },
-    {
-      "name": "Manescu, Ronald S.",
-      "cash_bail_pct": 0.691574,
-      "unsecured_pct": 0.308426,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.719512,
-      "cash_bail_pct_white": 0.691139,
-      "total_cases": 629
-    },
-    {
-      "name": "Maura, Wayne",
-      "cash_bail_pct": 0.650524,
-      "unsecured_pct": 0.349476,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.767045,
-      "cash_bail_pct_white": 0.599628,
-      "total_cases": 764
-    },
-    {
-      "name": "Pochron, Michael Joseph",
-      "cash_bail_pct": 0.658416,
-      "unsecured_pct": 0.341584,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.696552,
-      "cash_bail_pct_white": 0.627204,
-      "total_cases": 606
-    },
-    {
-      "name": "Santiago, Rashid",
-      "cash_bail_pct": 0.61519,
-      "unsecured_pct": 0.324051,
-      "ror_pct": 0.059494,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.001266,
-      "cash_bail_pct_black": 0.637681,
-      "cash_bail_pct_white": 0.64557,
-      "total_cases": 790
-    },
-    {
-      "name": "Trexler, Daniel C.",
-      "cash_bail_pct": 0.614238,
-      "unsecured_pct": 0.129139,
-      "ror_pct": 0.253311,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.003311,
-      "cash_bail_pct_black": 0.713115,
-      "cash_bail_pct_white": 0.567873,
-      "total_cases": 604
-    }
-  ],
-  "Luzerne": [
-    {
-      "name": "Barilla, David A.",
-      "cash_bail_pct": 0.44,
-      "unsecured_pct": 0.321739,
-      "ror_pct": 0.236522,
-      "nonmonetary_pct": 0.001739,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.644231,
-      "cash_bail_pct_white": 0.393333,
-      "total_cases": 575
-    },
-    {
-      "name": "Carmody, Joseph J.",
-      "cash_bail_pct": 0.382664,
-      "unsecured_pct": 0.458774,
-      "ror_pct": 0.15222,
-      "nonmonetary_pct": 0.006342,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.571429,
-      "cash_bail_pct_white": 0.332394,
-      "total_cases": 473
-    },
-    {
-      "name": "Cronauer, Rick",
-      "cash_bail_pct": 0.378412,
-      "unsecured_pct": 0.297767,
-      "ror_pct": 0.316377,
-      "nonmonetary_pct": 0.007444,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.418919,
-      "cash_bail_pct_white": 0.372694,
-      "total_cases": 806
-    },
-    {
-      "name": "Dixon, James M.",
-      "cash_bail_pct": 0.476923,
-      "unsecured_pct": 0.391608,
-      "ror_pct": 0.128671,
-      "nonmonetary_pct": 0.002797,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.657895,
-      "cash_bail_pct_white": 0.446771,
-      "total_cases": 715
-    },
-    {
-      "name": "Dotzel, Michael G.",
-      "cash_bail_pct": 0.295597,
-      "unsecured_pct": 0.127883,
-      "ror_pct": 0.519916,
-      "nonmonetary_pct": 0.056604,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.305263,
-      "cash_bail_pct_white": 0.29558,
-      "total_cases": 477
-    },
-    {
-      "name": "Halesey, Joseph A.",
-      "cash_bail_pct": 0.53626,
-      "unsecured_pct": 0.217557,
-      "ror_pct": 0.242366,
-      "nonmonetary_pct": 0.003817,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.769231,
-      "cash_bail_pct_white": 0.470914,
-      "total_cases": 524
-    },
-    {
-      "name": "Hasay, John E.",
-      "cash_bail_pct": 0.527027,
-      "unsecured_pct": 0.110811,
-      "ror_pct": 0.291892,
-      "nonmonetary_pct": 0.07027,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.806452,
-      "cash_bail_pct_white": 0.472603,
-      "total_cases": 370
-    },
-    {
-      "name": "Kravitz, Alexandra Kokura",
-      "cash_bail_pct": 0.41374,
-      "unsecured_pct": 0.300763,
-      "ror_pct": 0.280916,
-      "nonmonetary_pct": 0.00458,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.583333,
-      "cash_bail_pct_white": 0.376894,
-      "total_cases": 655
-    },
-    {
-      "name": "Malast, Diana",
-      "cash_bail_pct": 0.28,
-      "unsecured_pct": 0.25,
-      "ror_pct": 0.45,
-      "nonmonetary_pct": 0.02,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.35,
-      "cash_bail_pct_white": 0.272727,
-      "total_cases": 100
-    },
-    {
-      "name": "Malloy, Thomas F. Sr.",
-      "cash_bail_pct": 0.317125,
-      "unsecured_pct": 0.348837,
-      "ror_pct": 0.331924,
-      "nonmonetary_pct": 0.001057,
-      "nominal_pct": 0.001057,
-      "cash_bail_pct_black": 0.423387,
-      "cash_bail_pct_white": 0.280811,
-      "total_cases": 946
-    },
-    {
-      "name": "O'Donnell, Daniel",
-      "cash_bail_pct": 0.463054,
-      "unsecured_pct": 0.195402,
-      "ror_pct": 0.305419,
-      "nonmonetary_pct": 0.036125,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.702703,
-      "cash_bail_pct_white": 0.408805,
-      "total_cases": 609
-    },
-    {
-      "name": "Roberts, Paul J.",
-      "cash_bail_pct": 0.439446,
-      "unsecured_pct": 0.560554,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.655172,
-      "cash_bail_pct_white": 0.384279,
-      "total_cases": 289
-    },
-    {
-      "name": "Sharkey, Thomas",
-      "cash_bail_pct": 0.163399,
-      "unsecured_pct": 0.098039,
-      "ror_pct": 0.738562,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.388889,
-      "cash_bail_pct_white": 0.140625,
-      "total_cases": 153
-    },
-    {
-      "name": "Spagnuolo, Joseph D. Jr.",
-      "cash_bail_pct": 0.447883,
-      "unsecured_pct": 0.335505,
-      "ror_pct": 0.214984,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.001629,
-      "cash_bail_pct_black": 0.530973,
-      "cash_bail_pct_white": 0.433761,
-      "total_cases": 614
-    },
-    {
-      "name": "Tupper, Brian James",
-      "cash_bail_pct": 0.285467,
-      "unsecured_pct": 0.147059,
-      "ror_pct": 0.565744,
-      "nonmonetary_pct": 0.00173,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.671429,
-      "cash_bail_pct_white": 0.229979,
-      "total_cases": 578
-    },
-    {
-      "name": "Whittaker, Donald L.",
-      "cash_bail_pct": 0.611015,
-      "unsecured_pct": 0.079174,
-      "ror_pct": 0.304647,
-      "nonmonetary_pct": 0.003442,
-      "nominal_pct": 0.001721,
-      "cash_bail_pct_black": 0.804511,
-      "cash_bail_pct_white": 0.547619,
-      "total_cases": 581
-    },
-    {
-      "name": "Zola, Joseph D.",
-      "cash_bail_pct": 0.40625,
-      "unsecured_pct": 0.193182,
-      "ror_pct": 0.397727,
-      "nonmonetary_pct": 0.002841,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.661417,
-      "cash_bail_pct_white": 0.352087,
-      "total_cases": 704
-    }
-  ],
-  "Lycoming": [
-    {
-      "name": "Frey, Christian David",
-      "cash_bail_pct": 0.33499,
-      "unsecured_pct": 0.657058,
-      "ror_pct": 0.007952,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.545198,
-      "cash_bail_pct_white": 0.223975,
-      "total_cases": 1006
-    },
-    {
-      "name": "Kemp, Jon Edward",
-      "cash_bail_pct": 0.294715,
-      "unsecured_pct": 0.703252,
-      "ror_pct": 0.002033,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.578125,
-      "cash_bail_pct_white": 0.250585,
-      "total_cases": 492
-    },
-    {
-      "name": "Lepley, Jerry C.",
-      "cash_bail_pct": 0.364035,
-      "unsecured_pct": 0.635965,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.697674,
-      "cash_bail_pct_white": 0.334158,
-      "total_cases": 456
-    },
-    {
-      "name": "Page, Allen P. III",
-      "cash_bail_pct": 0.373272,
-      "unsecured_pct": 0.626728,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.526667,
-      "cash_bail_pct_white": 0.292035,
-      "total_cases": 868
-    },
-    {
-      "name": "Solomon, William C.",
-      "cash_bail_pct": 0.429213,
-      "unsecured_pct": 0.570787,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.790323,
-      "cash_bail_pct_white": 0.37037,
-      "total_cases": 445
-    },
-    {
-      "name": "Whiteman, Gary A.",
-      "cash_bail_pct": 0.28863,
-      "unsecured_pct": 0.71137,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.515385,
-      "cash_bail_pct_white": 0.236364,
-      "total_cases": 686
-    }
-  ],
-  "McKean": [
-    {
-      "name": "Cercone, Dominic Jr.",
-      "cash_bail_pct": 0.434524,
-      "unsecured_pct": 0.494048,
-      "ror_pct": 0.071429,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.655172,
-      "cash_bail_pct_white": 0.409241,
-      "total_cases": 336
-    },
-    {
-      "name": "Engman, David Richard",
-      "cash_bail_pct": 0.449541,
-      "unsecured_pct": 0.513761,
-      "ror_pct": 0.036697,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.9,
-      "cash_bail_pct_white": 0.485876,
-      "total_cases": 218
-    },
-    {
-      "name": "Luther, Richard W.",
-      "cash_bail_pct": 0.39527,
-      "unsecured_pct": 0.550676,
-      "ror_pct": 0.054054,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.4,
-      "cash_bail_pct_white": 0.400763,
-      "total_cases": 296
-    },
-    {
-      "name": "Todd, William K.",
-      "cash_bail_pct": 0.403333,
-      "unsecured_pct": 0.56,
-      "ror_pct": 0.033333,
-      "nonmonetary_pct": 0.003333,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.714286,
-      "cash_bail_pct_white": 0.382143,
-      "total_cases": 300
-    }
-  ],
-  "Mercer": [
-    {
-      "name": "Antos, Ronald E.",
-      "cash_bail_pct": 0.261216,
-      "unsecured_pct": 0.254703,
-      "ror_pct": 0.195369,
-      "nonmonetary_pct": 0.288712,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.34,
-      "cash_bail_pct_white": 0.222588,
-      "total_cases": 1382
-    },
-    {
-      "name": "Arthur, Brian R.",
-      "cash_bail_pct": 0.447861,
-      "unsecured_pct": 0.544118,
-      "ror_pct": 0.008021,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.75,
-      "cash_bail_pct_white": 0.406003,
-      "total_cases": 748
-    },
-    {
-      "name": "Fagley, William L.",
-      "cash_bail_pct": 0.188,
-      "unsecured_pct": 0.812,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.55,
-      "cash_bail_pct_white": 0.157895,
-      "total_cases": 250
-    },
-    {
-      "name": "Hinch, Lorinda L.",
-      "cash_bail_pct": 0.355372,
-      "unsecured_pct": 0.482094,
-      "ror_pct": 0.15978,
-      "nonmonetary_pct": 0.002755,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.489796,
-      "cash_bail_pct_white": 0.335505,
-      "total_cases": 363
-    },
-    {
-      "name": "McEwen, D. Neil",
-      "cash_bail_pct": 0.413428,
-      "unsecured_pct": 0.561837,
-      "ror_pct": 0.024735,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.619718,
-      "cash_bail_pct_white": 0.382353,
-      "total_cases": 566
-    },
-    {
-      "name": "Songer, Dennis M.",
-      "cash_bail_pct": 0.430129,
-      "unsecured_pct": 0.294351,
-      "ror_pct": 0.152626,
-      "nonmonetary_pct": 0.122894,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.486068,
-      "cash_bail_pct_white": 0.405045,
-      "total_cases": 1009
-    }
-  ],
-  "Mifflin": [
-    {
-      "name": "Miller, Jack E.",
-      "cash_bail_pct": 0.54717,
-      "unsecured_pct": 0.440252,
-      "ror_pct": 0.006289,
-      "nonmonetary_pct": 0.004193,
-      "nominal_pct": 0.002096,
-      "cash_bail_pct_black": 0.766667,
-      "cash_bail_pct_white": 0.536199,
-      "total_cases": 477
-    },
-    {
-      "name": "Reed, Jonathan W.",
-      "cash_bail_pct": 0.498901,
-      "unsecured_pct": 0.496703,
-      "ror_pct": 0.004396,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.740741,
-      "cash_bail_pct_white": 0.485849,
-      "total_cases": 455
-    },
-    {
-      "name": "Smith, Kent A.",
-      "cash_bail_pct": 0.385321,
-      "unsecured_pct": 0.610092,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.004587,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.592593,
-      "cash_bail_pct_white": 0.375,
-      "total_cases": 436
-    }
-  ],
-  "Monroe": [
-    {
-      "name": "Anzini, Kristina",
-      "cash_bail_pct": 0.386252,
-      "unsecured_pct": 0.610475,
-      "ror_pct": 0.003273,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.429379,
-      "cash_bail_pct_white": 0.370283,
-      "total_cases": 611
-    },
-    {
-      "name": "Claypool, Richard",
-      "cash_bail_pct": 0.293033,
-      "unsecured_pct": 0.706967,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.283688,
-      "cash_bail_pct_white": 0.305389,
-      "total_cases": 488
-    },
-    {
-      "name": "Fluegel, Anthony D.",
-      "cash_bail_pct": 0.457399,
-      "unsecured_pct": 0.307175,
-      "ror_pct": 0.235426,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.463576,
-      "cash_bail_pct_white": 0.463668,
-      "total_cases": 446
-    },
-    {
-      "name": "Germano, Brian",
-      "cash_bail_pct": 0.278638,
-      "unsecured_pct": 0.687307,
-      "ror_pct": 0.032508,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.001548,
-      "cash_bail_pct_black": 0.247368,
-      "cash_bail_pct_white": 0.294253,
-      "total_cases": 646
-    },
-    {
-      "name": "Higgins, C. Daniel",
-      "cash_bail_pct": 0.243191,
-      "unsecured_pct": 0.322957,
-      "ror_pct": 0.433852,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.263566,
-      "cash_bail_pct_white": 0.250704,
-      "total_cases": 514
-    },
-    {
-      "name": "Krawitz, Jolana",
-      "cash_bail_pct": 0.344068,
-      "unsecured_pct": 0.089831,
-      "ror_pct": 0.525424,
-      "nonmonetary_pct": 0.040678,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.545455,
-      "cash_bail_pct_white": 0.298097,
-      "total_cases": 590
-    },
-    {
-      "name": "Mancuso, Colleen",
-      "cash_bail_pct": 0.366366,
-      "unsecured_pct": 0.630631,
-      "ror_pct": 0.003003,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.4375,
-      "cash_bail_pct_white": 0.354962,
-      "total_cases": 333
-    },
-    {
-      "name": "Muth, Michael R.",
-      "cash_bail_pct": 0.392996,
-      "unsecured_pct": 0.607004,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.44375,
-      "cash_bail_pct_white": 0.369186,
-      "total_cases": 514
-    },
-    {
-      "name": "Olsen, Thomas E.",
-      "cash_bail_pct": 0.272984,
-      "unsecured_pct": 0.725601,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.001414,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.281915,
-      "cash_bail_pct_white": 0.274,
-      "total_cases": 707
-    },
-    {
-      "name": "Riley, Phillip R.",
-      "cash_bail_pct": 0.375573,
-      "unsecured_pct": 0.152672,
-      "ror_pct": 0.471756,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.340782,
-      "cash_bail_pct_white": 0.394336,
-      "total_cases": 655
-    }
-  ],
-  "Montgomery": [
-    {
-      "name": "Augustine, Albert J.",
-      "cash_bail_pct": 0.371988,
-      "unsecured_pct": 0.626506,
-      "ror_pct": 0.001506,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.643836,
-      "cash_bail_pct_white": 0.300199,
-      "total_cases": 664
-    },
-    {
-      "name": "Bernhardt, Francis J. III",
-      "cash_bail_pct": 0.378492,
-      "unsecured_pct": 0.315642,
-      "ror_pct": 0.305866,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.442857,
-      "cash_bail_pct_white": 0.342043,
-      "total_cases": 716
-    },
-    {
-      "name": "Casillo, Ester J.",
-      "cash_bail_pct": 0.354545,
-      "unsecured_pct": 0.645455,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.430769,
-      "cash_bail_pct_white": 0.321534,
-      "total_cases": 550
-    },
-    {
-      "name": "Cerski, Christopher",
-      "cash_bail_pct": 0.469444,
-      "unsecured_pct": 0.525,
-      "ror_pct": 0.005556,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.465686,
-      "cash_bail_pct_white": 0.492754,
-      "total_cases": 360
-    },
-    {
-      "name": "Eisner Zucker, Karen",
-      "cash_bail_pct": 0.306522,
-      "unsecured_pct": 0.693478,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.359375,
-      "cash_bail_pct_white": 0.257895,
-      "total_cases": 460
-    },
-    {
-      "name": "Friedenberg, Jay S.",
-      "cash_bail_pct": 0.244558,
-      "unsecured_pct": 0.247119,
-      "ror_pct": 0.508323,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.363636,
-      "cash_bail_pct_white": 0.206642,
-      "total_cases": 781
-    },
-    {
-      "name": "Gadzicki, Walter F. Jr.",
-      "cash_bail_pct": 0.333333,
-      "unsecured_pct": 0.324294,
-      "ror_pct": 0.342373,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.558824,
-      "cash_bail_pct_white": 0.250404,
-      "total_cases": 885
-    },
-    {
-      "name": "Gallagher, James",
-      "cash_bail_pct": 0.364253,
-      "unsecured_pct": 0.30543,
-      "ror_pct": 0.330317,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.460123,
-      "cash_bail_pct_white": 0.30566,
-      "total_cases": 442
-    },
-    {
-      "name": "Hudak Duffy, Andrea",
-      "cash_bail_pct": 0.290433,
-      "unsecured_pct": 0.465831,
-      "ror_pct": 0.243736,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.419689,
-      "cash_bail_pct_white": 0.264463,
-      "total_cases": 878
-    },
-    {
-      "name": "Hummel Fried, Catherine M.",
-      "cash_bail_pct": 0.298113,
-      "unsecured_pct": 0.7,
-      "ror_pct": 0.001887,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.554455,
-      "cash_bail_pct_white": 0.231144,
-      "total_cases": 530
-    },
-    {
-      "name": "Hunsicker, Margaret A.",
-      "cash_bail_pct": 0.466216,
-      "unsecured_pct": 0.280405,
-      "ror_pct": 0.253378,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.516923,
-      "cash_bail_pct_white": 0.418033,
-      "total_cases": 592
-    },
-    {
-      "name": "Kelly Rebar, Cathleen",
-      "cash_bail_pct": 0.376499,
-      "unsecured_pct": 0.623501,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.527638,
-      "cash_bail_pct_white": 0.334426,
-      "total_cases": 834
-    },
-    {
-      "name": "Kessler, John D.",
-      "cash_bail_pct": 0.274953,
-      "unsecured_pct": 0.34275,
-      "ror_pct": 0.382298,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.342466,
-      "cash_bail_pct_white": 0.228956,
-      "total_cases": 531
-    },
-    {
-      "name": "Kropp, Edward C. Sr.",
-      "cash_bail_pct": 0.444444,
-      "unsecured_pct": 0.553554,
-      "ror_pct": 0.002002,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.51963,
-      "cash_bail_pct_white": 0.384615,
-      "total_cases": 999
-    },
-    {
-      "name": "Lawrence, Francis J. Jr.",
-      "cash_bail_pct": 0.62844,
-      "unsecured_pct": 0.167431,
-      "ror_pct": 0.204128,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.685106,
-      "cash_bail_pct_white": 0.559585,
-      "total_cases": 436
-    },
-    {
-      "name": "Leo, Paul N.",
-      "cash_bail_pct": 0.342553,
-      "unsecured_pct": 0.655319,
-      "ror_pct": 0.002128,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.485075,
-      "cash_bail_pct_white": 0.289231,
-      "total_cases": 470
-    },
-    {
-      "name": "Levine, Edward",
-      "cash_bail_pct": 0.294192,
-      "unsecured_pct": 0.227273,
-      "ror_pct": 0.477273,
-      "nonmonetary_pct": 0.001263,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.461078,
-      "cash_bail_pct_white": 0.251736,
-      "total_cases": 792
-    },
-    {
-      "name": "Lukens, Deborah",
-      "cash_bail_pct": 0.369942,
-      "unsecured_pct": 0.225434,
-      "ror_pct": 0.404624,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.452555,
-      "cash_bail_pct_white": 0.331633,
-      "total_cases": 346
-    },
-    {
-      "name": "Maruszczak, William I.",
-      "cash_bail_pct": 0.27957,
-      "unsecured_pct": 0.717358,
-      "ror_pct": 0.003072,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.311355,
-      "cash_bail_pct_white": 0.252907,
-      "total_cases": 651
-    },
-    {
-      "name": "McGill, Katherine E.",
-      "cash_bail_pct": 0.354286,
-      "unsecured_pct": 0.645714,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.423611,
-      "cash_bail_pct_white": 0.319797,
-      "total_cases": 350
-    },
-    {
-      "name": "McHugh Casey, Elizabeth A.",
-      "cash_bail_pct": 0.444737,
-      "unsecured_pct": 0.555263,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.488372,
-      "cash_bail_pct_white": 0.409326,
-      "total_cases": 380
-    },
-    {
-      "name": "Nesbitt, Harry J. III",
-      "cash_bail_pct": 0.406061,
-      "unsecured_pct": 0.593939,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.49,
-      "cash_bail_pct_white": 0.381395,
-      "total_cases": 330
-    },
-    {
-      "name": "Palladino, Scott T.",
-      "cash_bail_pct": 0.514139,
-      "unsecured_pct": 0.455013,
-      "ror_pct": 0.030848,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.658863,
-      "cash_bail_pct_white": 0.423656,
-      "total_cases": 778
-    },
-    {
-      "name": "Price, Juanita A.",
-      "cash_bail_pct": 0.392037,
-      "unsecured_pct": 0.257274,
-      "ror_pct": 0.225115,
-      "nonmonetary_pct": 0.125574,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.493103,
-      "cash_bail_pct_white": 0.323615,
-      "total_cases": 653
-    },
-    {
-      "name": "Quinn, Michael P.",
-      "cash_bail_pct": 0.356932,
-      "unsecured_pct": 0.631268,
-      "ror_pct": 0.0059,
-      "nonmonetary_pct": 0.0059,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.369863,
-      "cash_bail_pct_white": 0.359116,
-      "total_cases": 339
-    },
-    {
-      "name": "Saylor, Maurice H.",
-      "cash_bail_pct": 0.396491,
-      "unsecured_pct": 0.603509,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.663462,
-      "cash_bail_pct_white": 0.338496,
-      "total_cases": 570
-    },
-    {
-      "name": "Schireson, Henry J.",
-      "cash_bail_pct": 0.28972,
-      "unsecured_pct": 0.71028,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.416667,
-      "cash_bail_pct_white": 0.215385,
-      "total_cases": 428
-    },
-    {
-      "name": "Scott, Gregory L.",
-      "cash_bail_pct": 0.617702,
-      "unsecured_pct": 0.333333,
-      "ror_pct": 0.047081,
-      "nonmonetary_pct": 0.001883,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.557432,
-      "cash_bail_pct_white": 0.709821,
-      "total_cases": 531
-    },
-    {
-      "name": "Sobeck, Robert M.",
-      "cash_bail_pct": 0.368519,
-      "unsecured_pct": 0.303704,
-      "ror_pct": 0.327778,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.551948,
-      "cash_bail_pct_white": 0.319088,
-      "total_cases": 540
-    },
-    {
-      "name": "Zaffarano, Patricia Ann",
-      "cash_bail_pct": 0.368635,
-      "unsecured_pct": 0.623218,
-      "ror_pct": 0.008147,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.494505,
-      "cash_bail_pct_white": 0.294521,
-      "total_cases": 491
-    }
-  ],
-  "Montour": [
-    {
-      "name": "Shrawder, Marvin K.",
-      "cash_bail_pct": 0.215789,
-      "unsecured_pct": 0.231579,
-      "ror_pct": 0.542105,
-      "nonmonetary_pct": 0.010526,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.166667,
-      "cash_bail_pct_white": 0.230769,
-      "total_cases": 190
-    }
-  ],
-  "Northampton": [
-    {
-      "name": "Barner, Joseph K.",
-      "cash_bail_pct": 0.306034,
-      "unsecured_pct": 0.693966,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.305263,
-      "cash_bail_pct_white": 0.308357,
-      "total_cases": 464
-    },
-    {
-      "name": "Broscius, Patricia C.",
-      "cash_bail_pct": 0.396518,
-      "unsecured_pct": 0.601547,
-      "ror_pct": 0.001934,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.362903,
-      "cash_bail_pct_white": 0.41989,
-      "total_cases": 517
-    },
-    {
-      "name": "Capobianco, John C.",
-      "cash_bail_pct": 0.529126,
-      "unsecured_pct": 0.470874,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.742268,
-      "cash_bail_pct_white": 0.5,
-      "total_cases": 618
-    },
-    {
-      "name": "Corpora, Daniel G.",
-      "cash_bail_pct": 0.596577,
-      "unsecured_pct": 0.354523,
-      "ror_pct": 0.0489,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.710145,
-      "cash_bail_pct_white": 0.544061,
-      "total_cases": 409
-    },
-    {
-      "name": "Grifo, Antonia",
-      "cash_bail_pct": 0.587368,
-      "unsecured_pct": 0.256842,
-      "ror_pct": 0.151579,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.004211,
-      "cash_bail_pct_black": 0.707965,
-      "cash_bail_pct_white": 0.559078,
-      "total_cases": 475
-    },
-    {
-      "name": "Hawke, Robert A.",
-      "cash_bail_pct": 0.57485,
-      "unsecured_pct": 0.423154,
-      "ror_pct": 0.001996,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.833333,
-      "cash_bail_pct_white": 0.536643,
-      "total_cases": 501
-    },
-    {
-      "name": "Manwaring, Roy A. II",
-      "cash_bail_pct": 0.486567,
-      "unsecured_pct": 0.468657,
-      "ror_pct": 0.044776,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.625,
-      "cash_bail_pct_white": 0.446565,
-      "total_cases": 335
-    },
-    {
-      "name": "Matos Gonzalez, Nancy",
-      "cash_bail_pct": 0.649635,
-      "unsecured_pct": 0.290146,
-      "ror_pct": 0.058394,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.001825,
-      "cash_bail_pct_black": 0.689655,
-      "cash_bail_pct_white": 0.64433,
-      "total_cases": 548
-    },
-    {
-      "name": "Narlesky, James J.",
-      "cash_bail_pct": 0.472906,
-      "unsecured_pct": 0.527094,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.542169,
-      "cash_bail_pct_white": 0.458746,
-      "total_cases": 406
-    },
-    {
-      "name": "Rapp, Anthony G. Jr.",
-      "cash_bail_pct": 0.337748,
-      "unsecured_pct": 0.642384,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.006623,
-      "nominal_pct": 0.013245,
-      "cash_bail_pct_black": 0.25,
-      "cash_bail_pct_white": 0.368421,
-      "total_cases": 151
-    },
-    {
-      "name": "Romig-Gainer, Elizabeth A.",
-      "cash_bail_pct": 0.237624,
-      "unsecured_pct": 0.178218,
-      "ror_pct": 0.584158,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.333333,
-      "cash_bail_pct_white": 0.212121,
-      "total_cases": 202
-    },
-    {
-      "name": "Schlegel, Douglas",
-      "cash_bail_pct": 0.507331,
-      "unsecured_pct": 0.16129,
-      "ror_pct": 0.322581,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.008798,
-      "cash_bail_pct_black": 0.759259,
-      "cash_bail_pct_white": 0.458781,
-      "total_cases": 341
-    },
-    {
-      "name": "Taschner, Jacqueline M.",
-      "cash_bail_pct": 0.531022,
-      "unsecured_pct": 0.279197,
-      "ror_pct": 0.184307,
-      "nonmonetary_pct": 0.001825,
-      "nominal_pct": 0.00365,
-      "cash_bail_pct_black": 0.5625,
-      "cash_bail_pct_white": 0.531172,
-      "total_cases": 548
-    },
-    {
-      "name": "Tidd, David W.",
-      "cash_bail_pct": 0.398058,
-      "unsecured_pct": 0.223301,
-      "ror_pct": 0.378641,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.411765,
-      "cash_bail_pct_white": 0.392857,
-      "total_cases": 103
-    },
-    {
-      "name": "Yetter, Richard H. III",
-      "cash_bail_pct": 0.576655,
-      "unsecured_pct": 0.355401,
-      "ror_pct": 0.06446,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.003484,
-      "cash_bail_pct_black": 0.635838,
-      "cash_bail_pct_white": 0.552699,
-      "total_cases": 574
-    },
-    {
-      "name": "Zito, Alicia Rose",
-      "cash_bail_pct": 0.566456,
-      "unsecured_pct": 0.427215,
-      "ror_pct": 0.003165,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.003165,
-      "cash_bail_pct_black": 0.694444,
-      "cash_bail_pct_white": 0.543071,
-      "total_cases": 316
-    }
-  ],
-  "Northumberland": [
-    {
-      "name": "Apfelbaum, Benjamin",
-      "cash_bail_pct": 0.285935,
-      "unsecured_pct": 0.324575,
-      "ror_pct": 0.386399,
-      "nonmonetary_pct": 0.001546,
-      "nominal_pct": 0.001546,
-      "cash_bail_pct_black": 0.45679,
-      "cash_bail_pct_white": 0.255941,
-      "total_cases": 647
-    },
-    {
-      "name": "Cashman, Richard P.",
-      "cash_bail_pct": 0.359173,
-      "unsecured_pct": 0.640827,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.421053,
-      "cash_bail_pct_white": 0.361111,
-      "total_cases": 387
-    },
-    {
-      "name": "Diehl, Michael I.",
-      "cash_bail_pct": 0.406667,
-      "unsecured_pct": 0.562222,
-      "ror_pct": 0.031111,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.666667,
-      "cash_bail_pct_white": 0.382927,
-      "total_cases": 450
-    },
-    {
-      "name": "Gembic, John",
-      "cash_bail_pct": 0.421508,
-      "unsecured_pct": 0.566131,
-      "ror_pct": 0.011125,
-      "nonmonetary_pct": 0.001236,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.754098,
-      "cash_bail_pct_white": 0.398333,
-      "total_cases": 809
-    }
-  ],
-  "Perry": [
-    {
-      "name": "Frownfelter, Elizabeth R.",
-      "cash_bail_pct": 0.467391,
-      "unsecured_pct": 0.070652,
-      "ror_pct": 0.461957,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.846154,
-      "cash_bail_pct_white": 0.431953,
-      "total_cases": 184
-    },
-    {
-      "name": "McGuire, Daniel R.",
-      "cash_bail_pct": 0.458599,
-      "unsecured_pct": 0.038217,
-      "ror_pct": 0.503185,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.6,
-      "cash_bail_pct_white": 0.431655,
-      "total_cases": 157
-    },
-    {
-      "name": "Schechterly, Michael E.",
-      "cash_bail_pct": 0.171329,
-      "unsecured_pct": 0.377622,
-      "ror_pct": 0.409091,
-      "nonmonetary_pct": 0.015734,
-      "nominal_pct": 0.026224,
-      "cash_bail_pct_black": 0.230769,
-      "cash_bail_pct_white": 0.165714,
-      "total_cases": 572
-    }
-  ],
-  "Philadelphia": [
-    {
-      "name": "Bedford, Sheila M.",
-      "cash_bail_pct": 0.499185,
-      "unsecured_pct": 0.035101,
-      "ror_pct": 0.343915,
-      "nonmonetary_pct": 0.121799,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.55868,
-      "cash_bail_pct_white": 0.433939,
-      "total_cases": 10427
-    },
-    {
-      "name": "DeLeon, James M.",
-      "cash_bail_pct": 0.111842,
-      "unsecured_pct": 0.842105,
-      "ror_pct": 0.046053,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.093333,
-      "cash_bail_pct_white": 0.111111,
-      "total_cases": 152
-    },
-    {
-      "name": "Devlin, Kevin R.",
-      "cash_bail_pct": 0.474274,
-      "unsecured_pct": 0.020282,
-      "ror_pct": 0.371477,
-      "nonmonetary_pct": 0.133967,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.531077,
-      "cash_bail_pct_white": 0.414718,
-      "total_cases": 9368
-    },
-    {
-      "name": "Dugan, Patrick F.",
-      "cash_bail_pct": 0.162393,
-      "unsecured_pct": 0.794872,
-      "ror_pct": 0.042735,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.169492,
-      "cash_bail_pct_white": 0.150943,
-      "total_cases": 117
-    },
-    {
-      "name": "E-Filing Judge",
-      "cash_bail_pct": 0.594798,
-      "unsecured_pct": 0.151978,
-      "ror_pct": 0.185297,
-      "nonmonetary_pct": 0.067928,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.691706,
-      "cash_bail_pct_white": 0.497315,
-      "total_cases": 4652
-    },
-    {
-      "name": "Emergency Arraignment Court Magistrate",
-      "cash_bail_pct": 0.496644,
-      "unsecured_pct": 0.010067,
-      "ror_pct": 0.337248,
-      "nonmonetary_pct": 0.15604,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.556075,
-      "cash_bail_pct_white": 0.432866,
-      "total_cases": 1192
-    },
-    {
-      "name": "Hayden, Charles",
-      "cash_bail_pct": 0.07563,
-      "unsecured_pct": 0.907563,
-      "ror_pct": 0.016807,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.070423,
-      "cash_bail_pct_white": 0.073171,
-      "total_cases": 119
-    },
-    {
-      "name": "Jimenez, Nazario Jr.",
-      "cash_bail_pct": 0.352,
-      "unsecured_pct": 0.608,
-      "ror_pct": 0.04,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.357143,
-      "cash_bail_pct_white": 0.343284,
-      "total_cases": 125
-    },
-    {
-      "name": "Kosinski, Gerard A.",
-      "cash_bail_pct": 0.160377,
-      "unsecured_pct": 0.778302,
-      "ror_pct": 0.061321,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.17094,
-      "cash_bail_pct_white": 0.157303,
-      "total_cases": 212
-    },
-    {
-      "name": "Meehan, William Austin Jr.",
-      "cash_bail_pct": 0.167273,
-      "unsecured_pct": 0.778182,
-      "ror_pct": 0.054545,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.170886,
-      "cash_bail_pct_white": 0.169811,
-      "total_cases": 275
-    },
-    {
-      "name": "O'Brien, James",
-      "cash_bail_pct": 0.516383,
-      "unsecured_pct": 0.093906,
-      "ror_pct": 0.333163,
-      "nonmonetary_pct": 0.056548,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.577351,
-      "cash_bail_pct_white": 0.44353,
-      "total_cases": 9797
-    },
-    {
-      "name": "Pew, Wendy L.",
-      "cash_bail_pct": 0.191176,
-      "unsecured_pct": 0.768382,
-      "ror_pct": 0.040441,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.240876,
-      "cash_bail_pct_white": 0.132812,
-      "total_cases": 272
-    },
-    {
-      "name": "Rebstock, Francis J.",
-      "cash_bail_pct": 0.532617,
-      "unsecured_pct": 0.054483,
-      "ror_pct": 0.406888,
-      "nonmonetary_pct": 0.006013,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.576199,
-      "cash_bail_pct_white": 0.468004,
-      "total_cases": 5488
-    },
-    {
-      "name": "Rice, Jane M.",
-      "cash_bail_pct": 0.519443,
-      "unsecured_pct": 0.165825,
-      "ror_pct": 0.307908,
-      "nonmonetary_pct": 0.006824,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.571873,
-      "cash_bail_pct_white": 0.457184,
-      "total_cases": 10698
-    },
-    {
-      "name": "Robbins, Harvey W.",
-      "cash_bail_pct": 0.16094,
-      "unsecured_pct": 0.792043,
-      "ror_pct": 0.0434,
-      "nonmonetary_pct": 0.003617,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.164,
-      "cash_bail_pct_white": 0.147887,
-      "total_cases": 553
-    },
-    {
-      "name": "Shuter, David C.",
-      "cash_bail_pct": 0.197802,
-      "unsecured_pct": 0.763736,
-      "ror_pct": 0.038462,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.212121,
-      "cash_bail_pct_white": 0.164557,
-      "total_cases": 182
-    },
-    {
-      "name": "Stack, Patrick",
-      "cash_bail_pct": 0.512712,
-      "unsecured_pct": 0.001535,
-      "ror_pct": 0.481915,
-      "nonmonetary_pct": 0.003838,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.574093,
-      "cash_bail_pct_white": 0.440613,
-      "total_cases": 10423
-    },
-    {
-      "name": "Washington, Craig M.",
-      "cash_bail_pct": 0.029126,
-      "unsecured_pct": 0.941748,
-      "ror_pct": 0.029126,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.023256,
-      "cash_bail_pct_white": 0.033898,
-      "total_cases": 103
-    }
-  ],
-  "Pike": [
-    {
-      "name": "Cooper, Alan B.",
-      "cash_bail_pct": 0.276836,
-      "unsecured_pct": 0.101695,
-      "ror_pct": 0.355932,
-      "nonmonetary_pct": 0.265537,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.5,
-      "cash_bail_pct_white": 0.234899,
-      "total_cases": 177
-    },
-    {
-      "name": "Fischer, Deborah",
-      "cash_bail_pct": 0.408922,
-      "unsecured_pct": 0.070632,
-      "ror_pct": 0.494424,
-      "nonmonetary_pct": 0.022305,
-      "nominal_pct": 0.003717,
-      "cash_bail_pct_black": 0.448276,
-      "cash_bail_pct_white": 0.411504,
-      "total_cases": 269
-    },
-    {
-      "name": "Menditto, Paul D. Sr.",
-      "cash_bail_pct": 0.29703,
-      "unsecured_pct": 0.094059,
-      "ror_pct": 0.212871,
-      "nonmonetary_pct": 0.39604,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.216216,
-      "cash_bail_pct_white": 0.346667,
-      "total_cases": 202
-    },
-    {
-      "name": "Muir, Shannon L.",
-      "cash_bail_pct": 0.321656,
-      "unsecured_pct": 0.006369,
-      "ror_pct": 0.124204,
-      "nonmonetary_pct": 0.547771,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.466667,
-      "cash_bail_pct_white": 0.308511,
-      "total_cases": 314
-    }
-  ],
-  "Potter": [
-    {
-      "name": "Easton, Annette L.",
-      "cash_bail_pct": 0.192488,
-      "unsecured_pct": 0.492958,
-      "ror_pct": 0.262911,
-      "nonmonetary_pct": 0.051643,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 1,
-      "cash_bail_pct_white": 0.190244,
-      "total_cases": 213
-    },
-    {
-      "name": "McCleaft, Kari A.",
-      "cash_bail_pct": 0.271429,
-      "unsecured_pct": 0.728571,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.666667,
-      "cash_bail_pct_white": 0.264706,
-      "total_cases": 140
-    },
-    {
-      "name": "Weiss, Delores G.",
-      "cash_bail_pct": 0.228395,
-      "unsecured_pct": 0.611111,
-      "ror_pct": 0.160494,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.0,
-      "cash_bail_pct_white": 0.235669,
-      "total_cases": 162
-    }
-  ],
-  "Schuylkill": [
-    {
-      "name": "Bayer, Stephen J.",
-      "cash_bail_pct": 0.343461,
-      "unsecured_pct": 0.153236,
-      "ror_pct": 0.494055,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.009247,
-      "cash_bail_pct_black": 0.5,
-      "cash_bail_pct_white": 0.341844,
-      "total_cases": 757
-    },
-    {
-      "name": "Ferrier, James R.",
-      "cash_bail_pct": 0.313131,
-      "unsecured_pct": 0.686869,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.205882,
-      "cash_bail_pct_white": 0.317972,
-      "total_cases": 693
-    },
-    {
-      "name": "Hale, Christina E.",
-      "cash_bail_pct": 0.439425,
-      "unsecured_pct": 0.234086,
-      "ror_pct": 0.326489,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.512821,
-      "cash_bail_pct_white": 0.434091,
-      "total_cases": 487
-    },
-    {
-      "name": "Kilker, Anthony J.",
-      "cash_bail_pct": 0.373178,
-      "unsecured_pct": 0.625364,
-      "ror_pct": 0.001458,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.57377,
-      "cash_bail_pct_white": 0.355519,
-      "total_cases": 686
-    },
-    {
-      "name": "Plachko, David A.",
-      "cash_bail_pct": 0.479062,
-      "unsecured_pct": 0.515913,
-      "ror_pct": 0.005025,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.529412,
-      "cash_bail_pct_white": 0.492593,
-      "total_cases": 597
-    },
-    {
-      "name": "Reiley, James",
-      "cash_bail_pct": 0.41109,
-      "unsecured_pct": 0.58891,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.45,
-      "cash_bail_pct_white": 0.401796,
-      "total_cases": 1046
-    },
-    {
-      "name": "Rossi, David J.",
-      "cash_bail_pct": 0.478788,
-      "unsecured_pct": 0.521212,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.809524,
-      "cash_bail_pct_white": 0.464668,
-      "total_cases": 495
-    }
-  ],
-  "Snyder": [
-    {
-      "name": "Hackenberg, Lori R.",
-      "cash_bail_pct": 0.352313,
-      "unsecured_pct": 0.52669,
-      "ror_pct": 0.060498,
-      "nonmonetary_pct": 0.060498,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.7,
-      "cash_bail_pct_white": 0.339483,
-      "total_cases": 281
-    },
-    {
-      "name": "Reed, John H.",
-      "cash_bail_pct": 0.364238,
-      "unsecured_pct": 0.609272,
-      "ror_pct": 0.018212,
-      "nonmonetary_pct": 0.008278,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.518519,
-      "cash_bail_pct_white": 0.349265,
-      "total_cases": 604
-    }
-  ],
-  "Somerset": [
-    {
-      "name": "Bell, Douglas McCall",
-      "cash_bail_pct": 0.208,
-      "unsecured_pct": 0.196,
-      "ror_pct": 0.1,
-      "nonmonetary_pct": 0.496,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 1,
-      "cash_bail_pct_white": 0.206612,
-      "total_cases": 250
-    },
-    {
-      "name": "Johnson, Kenneth W.",
-      "cash_bail_pct": 0.223496,
-      "unsecured_pct": 0.282235,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.494269,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.621622,
-      "cash_bail_pct_white": 0.204019,
-      "total_cases": 698
-    },
-    {
-      "name": "Mankamyer, Susan",
-      "cash_bail_pct": 0.256484,
-      "unsecured_pct": 0.144092,
-      "ror_pct": 0.043228,
-      "nonmonetary_pct": 0.556196,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.857143,
-      "cash_bail_pct_white": 0.237654,
-      "total_cases": 347
-    },
-    {
-      "name": "Seger, William E.",
-      "cash_bail_pct": 0.237918,
-      "unsecured_pct": 0.256506,
-      "ror_pct": 0.003717,
-      "nonmonetary_pct": 0.501859,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.666667,
-      "cash_bail_pct_white": 0.230769,
-      "total_cases": 269
-    },
-    {
-      "name": "Stevanus, Sandra L.",
-      "cash_bail_pct": 0.367188,
-      "unsecured_pct": 0.273438,
-      "ror_pct": 0.011719,
-      "nonmonetary_pct": 0.347656,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.740741,
-      "cash_bail_pct_white": 0.328829,
-      "total_cases": 256
-    }
-  ],
-  "Susquehanna": [
-    {
-      "name": "Brainard, Suzanne M.",
-      "cash_bail_pct": 0.298507,
-      "unsecured_pct": 0.383085,
-      "ror_pct": 0.283582,
-      "nonmonetary_pct": 0.034826,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.5,
-      "cash_bail_pct_white": 0.294416,
-      "total_cases": 201
-    },
-    {
-      "name": "Cordner, Jodi L.",
-      "cash_bail_pct": 0.34767,
-      "unsecured_pct": 0.258065,
-      "ror_pct": 0.394265,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.545455,
-      "cash_bail_pct_white": 0.343396,
-      "total_cases": 279
-    },
-    {
-      "name": "Hollister, Jeffrey L.",
-      "cash_bail_pct": 0.521401,
-      "unsecured_pct": 0.381323,
-      "ror_pct": 0.097276,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.857143,
-      "cash_bail_pct_white": 0.516529,
-      "total_cases": 257
-    }
-  ],
-  "Tioga": [
-    {
-      "name": "Carlson, James E.",
-      "cash_bail_pct": 0.296296,
-      "unsecured_pct": 0.703704,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.384615,
-      "cash_bail_pct_white": 0.292208,
-      "total_cases": 324
-    },
-    {
-      "name": "Edgcomb, James R.",
-      "cash_bail_pct": 0.371069,
-      "unsecured_pct": 0.628931,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.666667,
-      "cash_bail_pct_white": 0.363636,
-      "total_cases": 318
-    },
-    {
-      "name": "Repard, Robert L.",
-      "cash_bail_pct": 0.248756,
-      "unsecured_pct": 0.751244,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.666667,
-      "cash_bail_pct_white": 0.229167,
-      "total_cases": 201
-    }
-  ],
-  "Union": [
-    {
-      "name": "Armbruster, Leo S.",
-      "cash_bail_pct": 0.159459,
-      "unsecured_pct": 0.056757,
-      "ror_pct": 0.751351,
-      "nonmonetary_pct": 0.032432,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.204082,
-      "cash_bail_pct_white": 0.149206,
-      "total_cases": 370
-    },
-    {
-      "name": "Mensch, Jeffrey L.",
-      "cash_bail_pct": 0.259843,
-      "unsecured_pct": 0.185039,
-      "ror_pct": 0.212598,
-      "nonmonetary_pct": 0.34252,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.5,
-      "cash_bail_pct_white": 0.23913,
-      "total_cases": 254
-    }
-  ],
-  "Venango": [
-    {
-      "name": "Fish, Andrew F.",
-      "cash_bail_pct": 0.434095,
-      "unsecured_pct": 0.564148,
-      "ror_pct": 0.001757,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.645833,
-      "cash_bail_pct_white": 0.414062,
-      "total_cases": 569
-    },
-    {
-      "name": "Kirtland, Matthew T.",
-      "cash_bail_pct": 0.283688,
-      "unsecured_pct": 0.716312,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.641509,
-      "cash_bail_pct_white": 0.233062,
-      "total_cases": 423
-    },
-    {
-      "name": "Lowrey, Patrick E.",
-      "cash_bail_pct": 0.416667,
-      "unsecured_pct": 0.581081,
-      "ror_pct": 0.002252,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.607143,
-      "cash_bail_pct_white": 0.404819,
-      "total_cases": 444
-    }
-  ],
-  "Warren": [
-    {
-      "name": "Bauer, Laura",
-      "cash_bail_pct": 0.354839,
-      "unsecured_pct": 0.064516,
-      "ror_pct": 0.493088,
-      "nonmonetary_pct": 0.087558,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.666667,
-      "cash_bail_pct_white": 0.35122,
-      "total_cases": 217
-    },
-    {
-      "name": "Carlson, Glenn S.",
-      "cash_bail_pct": 0.453376,
-      "unsecured_pct": 0.212219,
-      "ror_pct": 0.33119,
-      "nonmonetary_pct": 0.003215,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.833333,
-      "cash_bail_pct_white": 0.447368,
-      "total_cases": 311
-    },
-    {
-      "name": "Woodin, Todd A.",
-      "cash_bail_pct": 0.333333,
-      "unsecured_pct": 0.166667,
-      "ror_pct": 0.496124,
-      "nonmonetary_pct": 0.003876,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.571429,
-      "cash_bail_pct_white": 0.322314,
-      "total_cases": 258
-    }
-  ],
-  "Washington": [
-    {
-      "name": "Ellis, James C.",
-      "cash_bail_pct": 0.311275,
-      "unsecured_pct": 0.125,
-      "ror_pct": 0.563725,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.625,
-      "cash_bail_pct_white": 0.2849,
-      "total_cases": 408
-    },
-    {
-      "name": "Havelka, Gary H.",
-      "cash_bail_pct": 0.505085,
-      "unsecured_pct": 0.125424,
-      "ror_pct": 0.369492,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.862069,
-      "cash_bail_pct_white": 0.4875,
-      "total_cases": 295
-    },
-    {
-      "name": "Hopkins, Larry W.",
-      "cash_bail_pct": 0.536508,
-      "unsecured_pct": 0.45873,
-      "ror_pct": 0.004762,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.706349,
-      "cash_bail_pct_white": 0.5,
-      "total_cases": 630
-    },
-    {
-      "name": "Kanalis, Joshua P.",
-      "cash_bail_pct": 0.303426,
-      "unsecured_pct": 0.696574,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.313043,
-      "cash_bail_pct_white": 0.301031,
-      "total_cases": 613
-    },
-    {
-      "name": "Mark, David W.",
-      "cash_bail_pct": 0.409426,
-      "unsecured_pct": 0.07511,
-      "ror_pct": 0.469809,
-      "nonmonetary_pct": 0.045655,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.627119,
-      "cash_bail_pct_white": 0.367459,
-      "total_cases": 679
-    },
-    {
-      "name": "McDonald, Traci L.",
-      "cash_bail_pct": 0.278846,
-      "unsecured_pct": 0.521154,
-      "ror_pct": 0.2,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.48,
-      "cash_bail_pct_white": 0.261161,
-      "total_cases": 520
-    },
-    {
-      "name": "Redlinger, Robert W.",
-      "cash_bail_pct": 0.438833,
-      "unsecured_pct": 0.391695,
-      "ror_pct": 0.16835,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.001122,
-      "cash_bail_pct_black": 0.569307,
-      "cash_bail_pct_white": 0.403963,
-      "total_cases": 891
-    },
-    {
-      "name": "Thompson, Curtis",
-      "cash_bail_pct": 0.346154,
-      "unsecured_pct": 0.651282,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.002564,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.615385,
-      "cash_bail_pct_white": 0.319648,
-      "total_cases": 390
-    },
-    {
-      "name": "Ward, Ethan T.",
-      "cash_bail_pct": 0.502404,
-      "unsecured_pct": 0.495192,
-      "ror_pct": 0.002404,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.7,
-      "cash_bail_pct_white": 0.469741,
-      "total_cases": 416
-    },
-    {
-      "name": "Weller, Jay",
-      "cash_bail_pct": 0.290598,
-      "unsecured_pct": 0.028846,
-      "ror_pct": 0.646368,
-      "nonmonetary_pct": 0.034188,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.450331,
-      "cash_bail_pct_white": 0.260417,
-      "total_cases": 936
-    },
-    {
-      "name": "Wilson, Mark",
-      "cash_bail_pct": 0.538272,
-      "unsecured_pct": 0.234568,
-      "ror_pct": 0.22716,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.648649,
-      "cash_bail_pct_white": 0.506289,
-      "total_cases": 405
-    }
-  ],
-  "Wayne": [
-    {
-      "name": "Carney, Bonnie L.",
-      "cash_bail_pct": 0.396078,
-      "unsecured_pct": 0.490196,
-      "ror_pct": 0.113725,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.583333,
-      "cash_bail_pct_white": 0.376569,
-      "total_cases": 255
-    },
-    {
-      "name": "Edwards, Ronald",
-      "cash_bail_pct": 0.39,
-      "unsecured_pct": 0.08,
-      "ror_pct": 0.53,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.444444,
-      "cash_bail_pct_white": 0.387978,
-      "total_cases": 200
-    },
-    {
-      "name": "Myers, Linus H.",
-      "cash_bail_pct": 0.344948,
-      "unsecured_pct": 0.236934,
-      "ror_pct": 0.418118,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.714286,
-      "cash_bail_pct_white": 0.323194,
-      "total_cases": 287
-    }
-  ],
-  "Westmoreland": [
-    {
-      "name": "Albert, James",
-      "cash_bail_pct": 0.296852,
-      "unsecured_pct": 0.508246,
-      "ror_pct": 0.193403,
-      "nonmonetary_pct": 0.001499,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.440678,
-      "cash_bail_pct_white": 0.284188,
-      "total_cases": 667
-    },
-    {
-      "name": "Bilik, Mark",
-      "cash_bail_pct": 0.369524,
-      "unsecured_pct": 0.139048,
-      "ror_pct": 0.491429,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.469388,
-      "cash_bail_pct_white": 0.365471,
-      "total_cases": 525
-    },
-    {
-      "name": "Bompiani, L. Anthony",
-      "cash_bail_pct": 0.240446,
-      "unsecured_pct": 0.265924,
-      "ror_pct": 0.490446,
-      "nonmonetary_pct": 0.003185,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.386667,
-      "cash_bail_pct_white": 0.220729,
-      "total_cases": 628
-    },
-    {
-      "name": "Buczak, Jason",
-      "cash_bail_pct": 0.293785,
-      "unsecured_pct": 0.271186,
-      "ror_pct": 0.433145,
-      "nonmonetary_pct": 0.001883,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.576923,
-      "cash_bail_pct_white": 0.266811,
-      "total_cases": 531
-    },
-    {
-      "name": "Christner, Charles M.",
-      "cash_bail_pct": 0.320189,
-      "unsecured_pct": 0.105678,
-      "ror_pct": 0.399054,
-      "nonmonetary_pct": 0.175079,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.513158,
-      "cash_bail_pct_white": 0.291439,
-      "total_cases": 634
-    },
-    {
-      "name": "Conway, Charles R.",
-      "cash_bail_pct": 0.156015,
-      "unsecured_pct": 0.261278,
-      "ror_pct": 0.577068,
-      "nonmonetary_pct": 0.005639,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.348837,
-      "cash_bail_pct_white": 0.139434,
-      "total_cases": 532
-    },
-    {
-      "name": "Dalfonso, Joseph A.",
-      "cash_bail_pct": 0.350797,
-      "unsecured_pct": 0.138952,
-      "ror_pct": 0.290433,
-      "nonmonetary_pct": 0.219818,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.470588,
-      "cash_bail_pct_white": 0.299674,
-      "total_cases": 878
-    },
-    {
-      "name": "DeMarchis, Joseph R.",
-      "cash_bail_pct": 0.453453,
-      "unsecured_pct": 0.510511,
-      "ror_pct": 0.036036,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.60119,
-      "cash_bail_pct_white": 0.39876,
-      "total_cases": 666
-    },
-    {
-      "name": "Eckels, Roger",
-      "cash_bail_pct": 0.34632,
-      "unsecured_pct": 0.290043,
-      "ror_pct": 0.361472,
-      "nonmonetary_pct": 0.002165,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.666667,
-      "cash_bail_pct_white": 0.300268,
-      "total_cases": 462
-    },
-    {
-      "name": "Falcon, James N.",
-      "cash_bail_pct": 0.269565,
-      "unsecured_pct": 0.449275,
-      "ror_pct": 0.26087,
-      "nonmonetary_pct": 0.02029,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.338983,
-      "cash_bail_pct_white": 0.278689,
-      "total_cases": 345
-    },
-    {
-      "name": "Gongaware, Wayne",
-      "cash_bail_pct": 0.187126,
-      "unsecured_pct": 0.502994,
-      "ror_pct": 0.305389,
-      "nonmonetary_pct": 0.004491,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.306452,
-      "cash_bail_pct_white": 0.171717,
-      "total_cases": 668
-    },
-    {
-      "name": "Kistler, Helen M.",
-      "cash_bail_pct": 0.306043,
-      "unsecured_pct": 0.68616,
-      "ror_pct": 0.007797,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.385965,
-      "cash_bail_pct_white": 0.292978,
-      "total_cases": 513
-    },
-    {
-      "name": "Mahady, Michael",
-      "cash_bail_pct": 0.254587,
-      "unsecured_pct": 0.071101,
-      "ror_pct": 0.674312,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.395833,
-      "cash_bail_pct_white": 0.244772,
-      "total_cases": 872
-    },
-    {
-      "name": "Mansour, Mark Stephen",
-      "cash_bail_pct": 0.342318,
-      "unsecured_pct": 0.142857,
-      "ror_pct": 0.266846,
-      "nonmonetary_pct": 0.247978,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.553398,
-      "cash_bail_pct_white": 0.327715,
-      "total_cases": 742
-    },
-    {
-      "name": "Moore, Charles D.",
-      "cash_bail_pct": 0.311644,
-      "unsecured_pct": 0.034247,
-      "ror_pct": 0.606164,
-      "nonmonetary_pct": 0.047945,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.53125,
-      "cash_bail_pct_white": 0.314961,
-      "total_cases": 584
-    },
-    {
-      "name": "Pallone, Frank J. Jr.",
-      "cash_bail_pct": 0.452249,
-      "unsecured_pct": 0.248619,
-      "ror_pct": 0.298343,
-      "nonmonetary_pct": 0.000789,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.514113,
-      "cash_bail_pct_white": 0.422402,
-      "total_cases": 1267
-    },
-    {
-      "name": "Peck, Yackopec Cheryl J.",
-      "cash_bail_pct": 0.281888,
-      "unsecured_pct": 0.715561,
-      "ror_pct": 0.001276,
-      "nonmonetary_pct": 0.001276,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.483871,
-      "cash_bail_pct_white": 0.261364,
-      "total_cases": 784
-    },
-    {
-      "name": "Thiel, Denise S.",
-      "cash_bail_pct": 0.307229,
-      "unsecured_pct": 0.271084,
-      "ror_pct": 0.421687,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.8,
-      "cash_bail_pct_white": 0.266667,
-      "total_cases": 332
-    },
-    {
-      "name": "Weimer, Douglas Reid",
-      "cash_bail_pct": 0.263441,
-      "unsecured_pct": 0.693548,
-      "ror_pct": 0.043011,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.625,
-      "cash_bail_pct_white": 0.229412,
-      "total_cases": 186
-    }
-  ],
-  "Wyoming": [
-    {
-      "name": "Plummer, David K",
-      "cash_bail_pct": 0.288732,
-      "unsecured_pct": 0.709507,
-      "ror_pct": 0.001761,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.166667,
-      "cash_bail_pct_white": 0.2939,
-      "total_cases": 568
-    },
-    {
-      "name": "Smith, Carl W. Jr.",
-      "cash_bail_pct": 0.448622,
-      "unsecured_pct": 0.548872,
-      "ror_pct": 0.002506,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.727273,
-      "cash_bail_pct_white": 0.437995,
-      "total_cases": 399
-    }
-  ],
-  "York": [
-    {
-      "name": "Albright, Keith L.",
-      "cash_bail_pct": 0.409621,
-      "unsecured_pct": 0.303207,
-      "ror_pct": 0.260933,
-      "nonmonetary_pct": 0.026239,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.429577,
-      "cash_bail_pct_white": 0.410448,
-      "total_cases": 686
-    },
-    {
-      "name": "Bloss, Barry L.",
-      "cash_bail_pct": 0.47747,
-      "unsecured_pct": 0.055336,
-      "ror_pct": 0.324111,
-      "nonmonetary_pct": 0.142292,
-      "nominal_pct": 0.000791,
-      "cash_bail_pct_black": 0.528926,
-      "cash_bail_pct_white": 0.458476,
-      "total_cases": 1265
-    },
-    {
-      "name": "Clancy, Jennifer J.P.",
-      "cash_bail_pct": 0.540404,
-      "unsecured_pct": 0.200337,
-      "ror_pct": 0.232323,
-      "nonmonetary_pct": 0.026936,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.565217,
-      "cash_bail_pct_white": 0.533958,
-      "total_cases": 594
-    },
-    {
-      "name": "Dubs, Dwayne A.",
-      "cash_bail_pct": 0.360054,
-      "unsecured_pct": 0.142663,
-      "ror_pct": 0.493207,
-      "nonmonetary_pct": 0.004076,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.607407,
-      "cash_bail_pct_white": 0.305369,
-      "total_cases": 736
-    },
-    {
-      "name": "Eckenrode, Robert A.",
-      "cash_bail_pct": 0.350769,
-      "unsecured_pct": 0.118462,
-      "ror_pct": 0.503077,
-      "nonmonetary_pct": 0.027692,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.516129,
-      "cash_bail_pct_white": 0.315891,
-      "total_cases": 650
-    },
-    {
-      "name": "Edie, Nancy Lee",
-      "cash_bail_pct": 0.186352,
-      "unsecured_pct": 0.026247,
-      "ror_pct": 0.771654,
-      "nonmonetary_pct": 0.015748,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.225,
-      "cash_bail_pct_white": 0.174497,
-      "total_cases": 381
-    },
-    {
-      "name": "Eshbach, David C.",
-      "cash_bail_pct": 0.557402,
-      "unsecured_pct": 0.099698,
-      "ror_pct": 0.223565,
-      "nonmonetary_pct": 0.119335,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.66055,
-      "cash_bail_pct_white": 0.538321,
-      "total_cases": 662
-    },
-    {
-      "name": "Fishel, John H.",
-      "cash_bail_pct": 0.31791,
-      "unsecured_pct": 0.071642,
-      "ror_pct": 0.50597,
-      "nonmonetary_pct": 0.071642,
-      "nominal_pct": 0.032836,
-      "cash_bail_pct_black": 0.518072,
-      "cash_bail_pct_white": 0.294014,
-      "total_cases": 670
-    },
-    {
-      "name": "Groom, Walter",
-      "cash_bail_pct": 0.556522,
-      "unsecured_pct": 0.434783,
-      "ror_pct": 0.008696,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.722222,
-      "cash_bail_pct_white": 0.487179,
-      "total_cases": 115
-    },
-    {
-      "name": "Gross, Scott J.",
-      "cash_bail_pct": 0.414466,
-      "unsecured_pct": 0.174512,
-      "ror_pct": 0.350172,
-      "nonmonetary_pct": 0.057405,
-      "nominal_pct": 0.003444,
-      "cash_bail_pct_black": 0.641176,
-      "cash_bail_pct_white": 0.355072,
-      "total_cases": 871
-    },
-    {
-      "name": "Haskell, Ronald J. Jr.",
-      "cash_bail_pct": 0.504762,
-      "unsecured_pct": 0.154286,
-      "ror_pct": 0.249524,
-      "nonmonetary_pct": 0.089524,
-      "nominal_pct": 0.001905,
-      "cash_bail_pct_black": 0.52,
-      "cash_bail_pct_white": 0.5,
-      "total_cases": 525
-    },
-    {
-      "name": "Laird, Scott",
-      "cash_bail_pct": 0.434783,
-      "unsecured_pct": 0.071429,
-      "ror_pct": 0.358696,
-      "nonmonetary_pct": 0.135093,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.626667,
-      "cash_bail_pct_white": 0.371663,
-      "total_cases": 644
-    },
-    {
-      "name": "Manifold, Laura S.",
-      "cash_bail_pct": 0.427921,
-      "unsecured_pct": 0.157815,
-      "ror_pct": 0.358118,
-      "nonmonetary_pct": 0.054628,
-      "nominal_pct": 0.001517,
-      "cash_bail_pct_black": 0.47482,
-      "cash_bail_pct_white": 0.417647,
-      "total_cases": 659
-    },
-    {
-      "name": "Martin, Richard E. II",
-      "cash_bail_pct": 0.774882,
-      "unsecured_pct": 0.21564,
-      "ror_pct": 0.004739,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.004739,
-      "cash_bail_pct_black": 0.896296,
-      "cash_bail_pct_white": 0.714789,
-      "total_cases": 422
-    },
-    {
-      "name": "Meisenhelter, Douglas F.",
-      "cash_bail_pct": 0.827338,
-      "unsecured_pct": 0.172662,
-      "ror_pct": 0.0,
-      "nonmonetary_pct": 0.0,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.878049,
-      "cash_bail_pct_white": 0.805217,
-      "total_cases": 834
-    },
-    {
-      "name": "Miner, James S.",
-      "cash_bail_pct": 0.451817,
-      "unsecured_pct": 0.064771,
-      "ror_pct": 0.473934,
-      "nonmonetary_pct": 0.007899,
-      "nominal_pct": 0.00158,
-      "cash_bail_pct_black": 0.716981,
-      "cash_bail_pct_white": 0.397706,
-      "total_cases": 633
-    },
-    {
-      "name": "Morgan, James H.",
-      "cash_bail_pct": 0.508969,
-      "unsecured_pct": 0.152466,
-      "ror_pct": 0.318386,
-      "nonmonetary_pct": 0.015695,
-      "nominal_pct": 0.004484,
-      "cash_bail_pct_black": 0.50641,
-      "cash_bail_pct_white": 0.519713,
-      "total_cases": 446
-    },
-    {
-      "name": "Oberdorf, Jeffrey L.",
-      "cash_bail_pct": 0.289665,
-      "unsecured_pct": 0.238719,
-      "ror_pct": 0.443959,
-      "nonmonetary_pct": 0.024745,
-      "nominal_pct": 0.002911,
-      "cash_bail_pct_black": 0.301136,
-      "cash_bail_pct_white": 0.286282,
-      "total_cases": 687
-    },
-    {
-      "name": "Reilly, Thomas J.",
-      "cash_bail_pct": 0.408983,
-      "unsecured_pct": 0.281324,
-      "ror_pct": 0.297872,
-      "nonmonetary_pct": 0.01182,
-      "nominal_pct": 0.0,
-      "cash_bail_pct_black": 0.602941,
-      "cash_bail_pct_white": 0.37464,
-      "total_cases": 423
-    },
-    {
-      "name": "Thomas, Richard T.",
-      "cash_bail_pct": 0.413163,
-      "unsecured_pct": 0.149909,
-      "ror_pct": 0.33638,
-      "nonmonetary_pct": 0.084095,
-      "nominal_pct": 0.016453,
-      "cash_bail_pct_black": 0.578431,
-      "cash_bail_pct_white": 0.381944,
-      "total_cases": 547
-    },
-    {
-      "name": "Toluba, Joel N.",
-      "cash_bail_pct": 0.428339,
-      "unsecured_pct": 0.232899,
-      "ror_pct": 0.333876,
-      "nonmonetary_pct": 0.003257,
-      "nominal_pct": 0.001629,
-      "cash_bail_pct_black": 0.461538,
-      "cash_bail_pct_white": 0.416901,
-      "total_cases": 614
-    },
-    {
-      "name": "Williams, Linda L.",
-      "cash_bail_pct": 0.489209,
-      "unsecured_pct": 0.02518,
-      "ror_pct": 0.327338,
-      "nonmonetary_pct": 0.156475,
-      "nominal_pct": 0.001799,
-      "cash_bail_pct_black": 0.567568,
-      "cash_bail_pct_white": 0.440367,
-      "total_cases": 556
-    }
-  ]
-};
+
+
+
+
+
+
+export const MDJ_DATA = {"Adams":[{"id":"0","County":"Adams","name":"Beauchat, Mark D.","%__Denied":0.01030927835,"%__Monetary":0.2309278351,"%__Nominal":"0","%__Nonmonetary":0.00824742268,"%__ROR":0.618556701,"%__Unsecured":0.1319587629,"Count__Denied":5,"Count__Monetary":112,"Count__Nominal":"0","Count__Nonmonetary":4,"Count__ROR":300,"Count__Unsecured":64,"total_cases":485},{"id":3,"County":"Adams","name":"Harvey, Matthew Robert","%__Denied":0.005226480836,"%__Monetary":0.287456446,"%__Nominal":"0","%__Nonmonetary":0.001742160279,"%__ROR":0.4425087108,"%__Unsecured":0.2630662021,"Count__Denied":3,"Count__Monetary":165,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":254,"Count__Unsecured":151,"total_cases":574},{"id":5,"County":"Adams","name":"Little, Tony J.","%__Denied":"0","%__Monetary":0.2075848303,"%__Nominal":0.003992015968,"%__Nonmonetary":"0","%__ROR":0.4411177645,"%__Unsecured":0.3473053892,"Count__Denied":"0","Count__Monetary":104,"Count__Nominal":2,"Count__Nonmonetary":"0","Count__ROR":221,"Count__Unsecured":174,"total_cases":501},{"id":7,"County":"Adams","name":"Snyder, Christopher A.","%__Denied":0.001814882033,"%__Monetary":0.22323049,"%__Nominal":"0","%__Nonmonetary":0.001814882033,"%__ROR":0.4591651543,"%__Unsecured":0.3139745917,"Count__Denied":1,"Count__Monetary":123,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":253,"Count__Unsecured":173,"total_cases":551}],"Allegheny":[{"id":10,"County":"Allegheny","name":"Arnoni, Ronald A.","%__Denied":0.01818181818,"%__Monetary":0.1506493506,"%__Nominal":"0","%__Nonmonetary":0.6,"%__ROR":0.01558441558,"%__Unsecured":0.2155844156,"Count__Denied":7,"Count__Monetary":58,"Count__Nominal":"0","Count__Nonmonetary":231,"Count__ROR":6,"Count__Unsecured":83,"total_cases":385},{"id":11,"County":"Allegheny","name":"Barton, David J.","%__Denied":0.06574394464,"%__Monetary":0.2006920415,"%__Nominal":"0","%__Nonmonetary":0.2837370242,"%__ROR":0.446366782,"%__Unsecured":0.003460207612,"Count__Denied":19,"Count__Monetary":58,"Count__Nominal":"0","Count__Nonmonetary":82,"Count__ROR":129,"Count__Unsecured":1,"total_cases":289},{"id":13,"County":"Allegheny","name":"Bengel, Carolyn S.","%__Denied":0.08635097493,"%__Monetary":0.2590529248,"%__Nominal":"0","%__Nonmonetary":0.2729805014,"%__ROR":0.3676880223,"%__Unsecured":0.0139275766,"Count__Denied":31,"Count__Monetary":93,"Count__Nominal":"0","Count__Nonmonetary":98,"Count__ROR":132,"Count__Unsecured":5,"total_cases":359},{"id":16,"County":"Allegheny","name":"Boni, Bruce J.","%__Denied":0.04651162791,"%__Monetary":0.1356589147,"%__Nominal":"0","%__Nonmonetary":0.5329457364,"%__ROR":0.1957364341,"%__Unsecured":0.08914728682,"Count__Denied":24,"Count__Monetary":70,"Count__Nominal":"0","Count__Nonmonetary":275,"Count__ROR":101,"Count__Unsecured":46,"total_cases":516},{"id":17,"County":"Allegheny","name":"Borkowski, Edward J.","%__Denied":0.2549019608,"%__Monetary":"0","%__Nominal":"0","%__Nonmonetary":0.5980392157,"%__ROR":0.1470588235,"%__Unsecured":"0","Count__Denied":104,"Count__Monetary":"0","Count__Nominal":"0","Count__Nonmonetary":244,"Count__ROR":60,"Count__Unsecured":"0","total_cases":408},{"id":19,"County":"Allegheny","name":"Brletic, Thomas S.","%__Denied":0.06458797327,"%__Monetary":0.5623608018,"%__Nominal":"0","%__Nonmonetary":0.2349665924,"%__ROR":0.03452115813,"%__Unsecured":0.1035634744,"Count__Denied":58,"Count__Monetary":505,"Count__Nominal":"0","Count__Nonmonetary":211,"Count__ROR":31,"Count__Unsecured":93,"total_cases":898},{"id":20,"County":"Allegheny","name":"Butler, Daniel E.","%__Denied":0.01476793249,"%__Monetary":0.4514767932,"%__Nominal":"0","%__Nonmonetary":0.4388185654,"%__ROR":0.09282700422,"%__Unsecured":0.002109704641,"Count__Denied":7,"Count__Monetary":214,"Count__Nominal":"0","Count__Nonmonetary":208,"Count__ROR":44,"Count__Unsecured":1,"total_cases":474},{"id":22,"County":"Allegheny","name":"Campbell, Patrick D.","%__Denied":0.05208333333,"%__Monetary":0.2135416667,"%__Nominal":"0","%__Nonmonetary":0.40625,"%__ROR":0.2552083333,"%__Unsecured":0.07291666667,"Count__Denied":10,"Count__Monetary":41,"Count__Nominal":"0","Count__Nonmonetary":78,"Count__ROR":49,"Count__Unsecured":14,"total_cases":192},{"id":25,"County":"Allegheny","name":"Ceoffe, Anthony M.","%__Denied":0.0258302583,"%__Monetary":0.3431734317,"%__Nominal":"0","%__Nonmonetary":0.5608856089,"%__ROR":0.05535055351,"%__Unsecured":0.0147601476,"Count__Denied":7,"Count__Monetary":93,"Count__Nominal":"0","Count__Nonmonetary":152,"Count__ROR":15,"Count__Unsecured":4,"total_cases":271},{"id":26,"County":"Allegheny","name":"Clark, Kim Berkeley","%__Denied":0.2105263158,"%__Monetary":0.2105263158,"%__Nominal":"0","%__Nonmonetary":0.3157894737,"%__ROR":0.2330827068,"%__Unsecured":0.03007518797,"Count__Denied":28,"Count__Monetary":28,"Count__Nominal":"0","Count__Nonmonetary":42,"Count__ROR":31,"Count__Unsecured":4,"total_cases":133},{"id":27,"County":"Allegheny","name":"Conroy, Eileen M.","%__Denied":0.07839866555,"%__Monetary":0.4537114262,"%__Nominal":"0","%__Nonmonetary":0.3628023353,"%__ROR":0.1042535446,"%__Unsecured":0.000834028357,"Count__Denied":94,"Count__Monetary":544,"Count__Nominal":"0","Count__Nonmonetary":435,"Count__ROR":125,"Count__Unsecured":1,"total_cases":1199},{"id":29,"County":"Allegheny","name":"Cooper, Kevin Eugene Jr.","%__Denied":0.09893048128,"%__Monetary":0.1737967914,"%__Nominal":"0","%__Nonmonetary":0.5026737968,"%__ROR":0.2112299465,"%__Unsecured":0.01336898396,"Count__Denied":37,"Count__Monetary":65,"Count__Nominal":"0","Count__Nonmonetary":188,"Count__ROR":79,"Count__Unsecured":5,"total_cases":374},{"id":32,"County":"Allegheny","name":"DeLuca, Anthony L.","%__Denied":0.03142857143,"%__Monetary":0.1542857143,"%__Nominal":"0","%__Nonmonetary":0.5914285714,"%__ROR":0.1828571429,"%__Unsecured":0.04,"Count__Denied":11,"Count__Monetary":54,"Count__Nominal":"0","Count__Nonmonetary":207,"Count__ROR":64,"Count__Unsecured":14,"total_cases":350},{"id":34,"County":"Allegheny","name":"Dzvonick, Robert Paul","%__Denied":0.01873767258,"%__Monetary":0.83234714,"%__Nominal":"0","%__Nonmonetary":0.1193293886,"%__ROR":0.02958579882,"%__Unsecured":"0","Count__Denied":19,"Count__Monetary":844,"Count__Nominal":"0","Count__Nonmonetary":121,"Count__ROR":30,"Count__Unsecured":"0","total_cases":1014},{"id":37,"County":"Allegheny","name":"Eichler, Roxanne Sakoian","%__Denied":0.005730659026,"%__Monetary":0.1318051576,"%__Nominal":"0","%__Nonmonetary":0.335243553,"%__ROR":0.4441260745,"%__Unsecured":0.08309455587,"Count__Denied":2,"Count__Monetary":46,"Count__Nominal":"0","Count__Nonmonetary":117,"Count__ROR":155,"Count__Unsecured":29,"total_cases":349},{"id":40,"County":"Allegheny","name":"Ford, Robert L.","%__Denied":0.01582278481,"%__Monetary":0.1930379747,"%__Nominal":"0","%__Nonmonetary":0.7626582278,"%__ROR":0.02848101266,"%__Unsecured":"0","Count__Denied":5,"Count__Monetary":61,"Count__Nominal":"0","Count__Nonmonetary":241,"Count__ROR":9,"Count__Unsecured":"0","total_cases":316},{"id":42,"County":"Allegheny","name":"Hanley, James Joseph Jr.","%__Denied":0.009840098401,"%__Monetary":0.184501845,"%__Nominal":"0","%__Nonmonetary":0.4870848708,"%__ROR":0.2865928659,"%__Unsecured":0.0319803198,"Count__Denied":8,"Count__Monetary":150,"Count__Nominal":"0","Count__Nonmonetary":396,"Count__ROR":233,"Count__Unsecured":26,"total_cases":813},{"id":43,"County":"Allegheny","name":"Herbst, Jeffrey L.","%__Denied":0.09064327485,"%__Monetary":0.1461988304,"%__Nominal":"0","%__Nonmonetary":0.3070175439,"%__ROR":0.4473684211,"%__Unsecured":0.008771929825,"Count__Denied":31,"Count__Monetary":50,"Count__Nominal":"0","Count__Nonmonetary":105,"Count__ROR":153,"Count__Unsecured":3,"total_cases":342},{"id":44,"County":"Allegheny","name":"Hoots, Kim Marie","%__Denied":"0","%__Monetary":0.4017467249,"%__Nominal":"0","%__Nonmonetary":0.1746724891,"%__ROR":0.2969432314,"%__Unsecured":0.1266375546,"Count__Denied":"0","Count__Monetary":92,"Count__Nominal":"0","Count__Nonmonetary":40,"Count__ROR":68,"Count__Unsecured":29,"total_cases":229},{"id":46,"County":"Allegheny","name":"Hromyak, Leonard J.","%__Denied":0.008498583569,"%__Monetary":0.5325779037,"%__Nominal":"0","%__Nonmonetary":0.3484419263,"%__ROR":0.1104815864,"%__Unsecured":"0","Count__Denied":3,"Count__Monetary":188,"Count__Nominal":"0","Count__Nonmonetary":123,"Count__ROR":39,"Count__Unsecured":"0","total_cases":353},{"id":47,"County":"Allegheny","name":"Kaiser, Ralph E.","%__Denied":0.02949852507,"%__Monetary":0.1268436578,"%__Nominal":"0","%__Nonmonetary":0.3185840708,"%__ROR":0.5162241888,"%__Unsecured":0.008849557522,"Count__Denied":10,"Count__Monetary":43,"Count__Nominal":"0","Count__Nonmonetary":108,"Count__ROR":175,"Count__Unsecured":3,"total_cases":339},{"id":48,"County":"Allegheny","name":"King, Richard G.","%__Denied":0.009009009009,"%__Monetary":0.2612612613,"%__Nominal":"0","%__Nonmonetary":0.6126126126,"%__ROR":0.08108108108,"%__Unsecured":0.03603603604,"Count__Denied":1,"Count__Monetary":29,"Count__Nominal":"0","Count__Nonmonetary":68,"Count__ROR":9,"Count__Unsecured":4,"total_cases":111},{"id":49,"County":"Allegheny","name":"Kobistek, Jack","%__Denied":0.03560830861,"%__Monetary":0.05044510386,"%__Nominal":"0","%__Nonmonetary":0.4896142433,"%__ROR":0.2462908012,"%__Unsecured":0.178041543,"Count__Denied":12,"Count__Monetary":17,"Count__Nominal":"0","Count__Nonmonetary":165,"Count__ROR":83,"Count__Unsecured":60,"total_cases":337},{"id":50,"County":"Allegheny","name":"Konieczka, Daniel J. Jr.","%__Denied":0.04885496183,"%__Monetary":0.0641221374,"%__Nominal":0.001526717557,"%__Nonmonetary":0.2916030534,"%__ROR":0.558778626,"%__Unsecured":0.03511450382,"Count__Denied":32,"Count__Monetary":42,"Count__Nominal":1,"Count__Nonmonetary":191,"Count__ROR":366,"Count__Unsecured":23,"total_cases":655},{"id":54,"County":"Allegheny","name":"Martin, Armand","%__Denied":0.09381663113,"%__Monetary":0.1471215352,"%__Nominal":"0","%__Nonmonetary":0.2025586354,"%__ROR":0.5415778252,"%__Unsecured":0.01492537313,"Count__Denied":44,"Count__Monetary":69,"Count__Nominal":"0","Count__Nonmonetary":95,"Count__ROR":254,"Count__Unsecured":7,"total_cases":469},{"id":55,"County":"Allegheny","name":"Martini, Nicholas C.","%__Denied":0.1014925373,"%__Monetary":0.1223880597,"%__Nominal":"0","%__Nonmonetary":0.6626865672,"%__ROR":0.1074626866,"%__Unsecured":0.005970149254,"Count__Denied":34,"Count__Monetary":41,"Count__Nominal":"0","Count__Nonmonetary":222,"Count__ROR":36,"Count__Unsecured":2,"total_cases":335},{"id":56,"County":"Allegheny","name":"Martini, Randy C.","%__Denied":0.05981308411,"%__Monetary":0.3345794393,"%__Nominal":"0","%__Nonmonetary":0.4523364486,"%__ROR":0.1476635514,"%__Unsecured":0.005607476636,"Count__Denied":32,"Count__Monetary":179,"Count__Nominal":"0","Count__Nonmonetary":242,"Count__ROR":79,"Count__Unsecured":3,"total_cases":535},{"id":57,"County":"Allegheny","name":"McGraw-Desmet, Maureen","%__Denied":0.05319148936,"%__Monetary":0.2375886525,"%__Nominal":"0","%__Nonmonetary":0.2446808511,"%__ROR":0.4255319149,"%__Unsecured":0.0390070922,"Count__Denied":15,"Count__Monetary":67,"Count__Nominal":"0","Count__Nonmonetary":69,"Count__ROR":120,"Count__Unsecured":11,"total_cases":282},{"id":60,"County":"Allegheny","name":"Miller, Thomas  Jr.","%__Denied":0.02100840336,"%__Monetary":0.3319327731,"%__Nominal":"0","%__Nonmonetary":0.2647058824,"%__ROR":0.3613445378,"%__Unsecured":0.02100840336,"Count__Denied":5,"Count__Monetary":79,"Count__Nominal":"0","Count__Nonmonetary":63,"Count__ROR":86,"Count__Unsecured":5,"total_cases":238},{"id":61,"County":"Allegheny","name":"Mills, Beth S.","%__Denied":0.01538461538,"%__Monetary":0.4102564103,"%__Nominal":"0","%__Nonmonetary":0.3025641026,"%__ROR":0.2717948718,"%__Unsecured":"0","Count__Denied":3,"Count__Monetary":80,"Count__Nominal":"0","Count__Nonmonetary":59,"Count__ROR":53,"Count__Unsecured":"0","total_cases":195},{"id":62,"County":"Allegheny","name":"Motznik, James A.","%__Denied":0.2719101124,"%__Monetary":0.1662921348,"%__Nominal":"0","%__Nonmonetary":0.3865168539,"%__ROR":0.1752808989,"%__Unsecured":"0","Count__Denied":121,"Count__Monetary":74,"Count__Nominal":"0","Count__Nonmonetary":172,"Count__ROR":78,"Count__Unsecured":"0","total_cases":445},{"id":63,"County":"Allegheny","name":"Olasz, Richard D. Jr.","%__Denied":0.04137931034,"%__Monetary":0.1149425287,"%__Nominal":"0","%__Nonmonetary":0.6022988506,"%__ROR":0.2390804598,"%__Unsecured":0.002298850575,"Count__Denied":18,"Count__Monetary":50,"Count__Nominal":"0","Count__Nonmonetary":262,"Count__ROR":104,"Count__Unsecured":1,"total_cases":435},{"id":64,"County":"Allegheny","name":"Opiela, Richard G.","%__Denied":0.1206896552,"%__Monetary":0.1494252874,"%__Nominal":0.005747126437,"%__Nonmonetary":0.2040229885,"%__ROR":0.1695402299,"%__Unsecured":0.3505747126,"Count__Denied":42,"Count__Monetary":52,"Count__Nominal":2,"Count__Nonmonetary":71,"Count__ROR":59,"Count__Unsecured":122,"total_cases":348},{"id":65,"County":"Allegheny","name":"Orenstein, Xander","%__Denied":0.07971014493,"%__Monetary":0.07391304348,"%__Nominal":"0","%__Nonmonetary":0.5797101449,"%__ROR":0.2086956522,"%__Unsecured":0.05797101449,"Count__Denied":55,"Count__Monetary":51,"Count__Nominal":"0","Count__Nonmonetary":400,"Count__ROR":144,"Count__Unsecured":40,"total_cases":690},{"id":67,"County":"Allegheny","name":"Pappas, Mik","%__Denied":0.06934306569,"%__Monetary":0.02919708029,"%__Nominal":"0","%__Nonmonetary":0.5182481752,"%__ROR":0.2372262774,"%__Unsecured":0.1459854015,"Count__Denied":19,"Count__Monetary":8,"Count__Nominal":"0","Count__Nonmonetary":142,"Count__ROR":65,"Count__Unsecured":40,"total_cases":274},{"id":68,"County":"Allegheny","name":"Petite, Oscar Jerome Jr.","%__Denied":0.007407407407,"%__Monetary":0.2814814815,"%__Nominal":"0","%__Nonmonetary":0.4962962963,"%__ROR":0.2148148148,"%__Unsecured":"0","Count__Denied":2,"Count__Monetary":76,"Count__Nominal":"0","Count__Nonmonetary":134,"Count__ROR":58,"Count__Unsecured":"0","total_cases":270},{"id":70,"County":"Allegheny","name":"Ravenstahl, Robert  Jr.","%__Denied":0.01168831169,"%__Monetary":0.3701298701,"%__Nominal":"0","%__Nonmonetary":0.5376623377,"%__ROR":0.08051948052,"%__Unsecured":"0","Count__Denied":9,"Count__Monetary":285,"Count__Nominal":"0","Count__Nonmonetary":414,"Count__ROR":62,"Count__Unsecured":"0","total_cases":770},{"id":72,"County":"Allegheny","name":"Riazzi, Eugene F. Jr.","%__Denied":0.02488687783,"%__Monetary":0.407239819,"%__Nominal":"0","%__Nonmonetary":0.4208144796,"%__ROR":0.1447963801,"%__Unsecured":0.002262443439,"Count__Denied":11,"Count__Monetary":180,"Count__Nominal":"0","Count__Nonmonetary":186,"Count__ROR":64,"Count__Unsecured":1,"total_cases":442},{"id":73,"County":"Allegheny","name":"Ricciardi, Eugene","%__Denied":0.1783295711,"%__Monetary":0.2776523702,"%__Nominal":"0","%__Nonmonetary":0.4853273138,"%__ROR":0.05869074492,"%__Unsecured":"0","Count__Denied":79,"Count__Monetary":123,"Count__Nominal":"0","Count__Nonmonetary":215,"Count__ROR":26,"Count__Unsecured":"0","total_cases":443},{"id":74,"County":"Allegheny","name":"Rudzki, Matthew V.","%__Denied":0.05289672544,"%__Monetary":0.07556675063,"%__Nominal":"0","%__Nonmonetary":0.3904282116,"%__ROR":0.4785894207,"%__Unsecured":0.002518891688,"Count__Denied":21,"Count__Monetary":30,"Count__Nominal":"0","Count__Nonmonetary":155,"Count__ROR":190,"Count__Unsecured":1,"total_cases":397},{"id":75,"County":"Allegheny","name":"Santicola, Michele K.","%__Denied":0.07228915663,"%__Monetary":0.1365461847,"%__Nominal":"0","%__Nonmonetary":0.4558232932,"%__ROR":0.3333333333,"%__Unsecured":0.002008032129,"Count__Denied":36,"Count__Monetary":68,"Count__Nominal":"0","Count__Nonmonetary":227,"Count__ROR":166,"Count__Unsecured":1,"total_cases":498},{"id":77,"County":"Allegheny","name":"Saveikis, Anthony","%__Denied":0.08391608392,"%__Monetary":0.06293706294,"%__Nominal":"0","%__Nonmonetary":0.3006993007,"%__ROR":0.5384615385,"%__Unsecured":0.01398601399,"Count__Denied":12,"Count__Monetary":9,"Count__Nominal":"0","Count__Nonmonetary":43,"Count__ROR":77,"Count__Unsecured":2,"total_cases":143},{"id":78,"County":"Allegheny","name":"Schricker, Scott H.","%__Denied":0.06722689076,"%__Monetary":0.1042016807,"%__Nominal":0.001680672269,"%__Nonmonetary":0.08067226891,"%__ROR":0.7378151261,"%__Unsecured":0.008403361345,"Count__Denied":40,"Count__Monetary":62,"Count__Nominal":1,"Count__Nonmonetary":48,"Count__ROR":439,"Count__Unsecured":5,"total_cases":595},{"id":80,"County":"Allegheny","name":"Smith, Tara","%__Denied":0.0136239782,"%__Monetary":0.272479564,"%__Nominal":"0","%__Nonmonetary":0.4495912807,"%__ROR":0.2152588556,"%__Unsecured":0.04904632153,"Count__Denied":5,"Count__Monetary":100,"Count__Nominal":"0","Count__Nonmonetary":165,"Count__ROR":79,"Count__Unsecured":18,"total_cases":367},{"id":81,"County":"Allegheny","name":"Sosovicka, David J.","%__Denied":0.01545253863,"%__Monetary":0.3907284768,"%__Nominal":"0","%__Nonmonetary":0.3885209713,"%__ROR":0.2030905077,"%__Unsecured":0.002207505519,"Count__Denied":7,"Count__Monetary":177,"Count__Nominal":"0","Count__Nonmonetary":176,"Count__ROR":92,"Count__Unsecured":1,"total_cases":453},{"id":83,"County":"Allegheny","name":"Stephens, Craig C.","%__Denied":0.05085959885,"%__Monetary":0.2585959885,"%__Nominal":"0","%__Nonmonetary":0.2851002865,"%__ROR":0.1719197708,"%__Unsecured":0.2335243553,"Count__Denied":71,"Count__Monetary":361,"Count__Nominal":"0","Count__Nonmonetary":398,"Count__ROR":240,"Count__Unsecured":326,"total_cases":1396},{"id":84,"County":"Allegheny","name":"Swan, Tom","%__Denied":0.09192200557,"%__Monetary":0.1002785515,"%__Nominal":"0","%__Nonmonetary":0.3175487465,"%__ROR":0.4707520891,"%__Unsecured":0.01949860724,"Count__Denied":33,"Count__Monetary":36,"Count__Nominal":"0","Count__Nonmonetary":114,"Count__ROR":169,"Count__Unsecured":7,"total_cases":359},{"id":85,"County":"Allegheny","name":"Swearingen-Batch, Carla M.","%__Denied":0.01435406699,"%__Monetary":0.2703349282,"%__Nominal":0.002392344498,"%__Nonmonetary":0.5813397129,"%__ROR":0.1315789474,"%__Unsecured":"0","Count__Denied":6,"Count__Monetary":113,"Count__Nominal":1,"Count__Nonmonetary":243,"Count__ROR":55,"Count__Unsecured":"0","total_cases":418},{"id":86,"County":"Allegheny","name":"Thatcher, Michael W.","%__Denied":0.0652173913,"%__Monetary":0.1820652174,"%__Nominal":"0","%__Nonmonetary":0.2989130435,"%__ROR":0.375,"%__Unsecured":0.07880434783,"Count__Denied":24,"Count__Monetary":67,"Count__Nominal":"0","Count__Nonmonetary":110,"Count__ROR":138,"Count__Unsecured":29,"total_cases":368},{"id":89,"County":"Allegheny","name":"Torkowsky, Thomas R.","%__Denied":0.01340996169,"%__Monetary":0.601532567,"%__Nominal":"0","%__Nonmonetary":0.1417624521,"%__ROR":0.2413793103,"%__Unsecured":0.001915708812,"Count__Denied":7,"Count__Monetary":314,"Count__Nominal":"0","Count__Nonmonetary":74,"Count__ROR":126,"Count__Unsecured":1,"total_cases":522},{"id":90,"County":"Allegheny","name":"Wagner, William","%__Denied":"0","%__Monetary":0.07096774194,"%__Nominal":"0","%__Nonmonetary":0.05161290323,"%__ROR":0.7419354839,"%__Unsecured":0.135483871,"Count__Denied":"0","Count__Monetary":11,"Count__Nominal":"0","Count__Nonmonetary":8,"Count__ROR":115,"Count__Unsecured":21,"total_cases":155},{"id":91,"County":"Allegheny","name":"Wheatley, Hilary K.","%__Denied":0.1047904192,"%__Monetary":0.01796407186,"%__Nominal":0.01796407186,"%__Nonmonetary":0.4341317365,"%__ROR":0.380239521,"%__Unsecured":0.04491017964,"Count__Denied":35,"Count__Monetary":6,"Count__Nominal":6,"Count__Nonmonetary":145,"Count__ROR":127,"Count__Unsecured":15,"total_cases":334},{"id":92,"County":"Allegheny","name":"Williams Duncan, Leah","%__Denied":0.1173469388,"%__Monetary":0.04846938776,"%__Nominal":"0","%__Nonmonetary":0.6556122449,"%__ROR":0.1683673469,"%__Unsecured":0.01020408163,"Count__Denied":46,"Count__Monetary":19,"Count__Nominal":"0","Count__Nonmonetary":257,"Count__ROR":66,"Count__Unsecured":4,"total_cases":392},{"id":93,"County":"Allegheny","name":"Wright, Jehosha","%__Denied":0.08413001912,"%__Monetary":0.01529636711,"%__Nominal":"0","%__Nonmonetary":0.5315487572,"%__ROR":0.240917782,"%__Unsecured":0.1281070746,"Count__Denied":44,"Count__Monetary":8,"Count__Nominal":"0","Count__Nonmonetary":278,"Count__ROR":126,"Count__Unsecured":67,"total_cases":523},{"id":94,"County":"Allegheny","name":"Zucco, Linda Inez","%__Denied":0.1154791155,"%__Monetary":0.4127764128,"%__Nominal":"0","%__Nonmonetary":0.3562653563,"%__ROR":0.113022113,"%__Unsecured":0.002457002457,"Count__Denied":47,"Count__Monetary":168,"Count__Nominal":"0","Count__Nonmonetary":145,"Count__ROR":46,"Count__Unsecured":1,"total_cases":407}],"Armstrong":[{"id":96,"County":"Armstrong","name":"Andring, James","%__Denied":0.00243902439,"%__Monetary":0.4756097561,"%__Nominal":"0","%__Nonmonetary":0.00243902439,"%__ROR":"0","%__Unsecured":0.5195121951,"Count__Denied":1,"Count__Monetary":195,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":"0","Count__Unsecured":213,"total_cases":410},{"id":97,"County":"Armstrong","name":"DeComo, J. Gary","%__Denied":"0","%__Monetary":0.4246575342,"%__Nominal":"0","%__Nonmonetary":0.01598173516,"%__ROR":0.5342465753,"%__Unsecured":0.02511415525,"Count__Denied":"0","Count__Monetary":186,"Count__Nominal":"0","Count__Nonmonetary":7,"Count__ROR":234,"Count__Unsecured":11,"total_cases":438},{"id":99,"County":"Armstrong","name":"McCausland, Kevin Lee","%__Denied":0.003831417625,"%__Monetary":0.5632183908,"%__Nominal":"0","%__Nonmonetary":0.01149425287,"%__ROR":0.2681992337,"%__Unsecured":0.153256705,"Count__Denied":1,"Count__Monetary":147,"Count__Nominal":"0","Count__Nonmonetary":3,"Count__ROR":70,"Count__Unsecured":40,"total_cases":261},{"id":101,"County":"Armstrong","name":"Owen, James H.","%__Denied":"0","%__Monetary":0.3333333333,"%__Nominal":"0","%__Nonmonetary":0.015625,"%__ROR":0.4965277778,"%__Unsecured":0.1545138889,"Count__Denied":"0","Count__Monetary":192,"Count__Nominal":"0","Count__Nonmonetary":9,"Count__ROR":286,"Count__Unsecured":89,"total_cases":576}],"Beaver":[{"id":106,"County":"Beaver","name":"Armour, John W.","%__Denied":"0","%__Monetary":0.4743589744,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.4551282051,"%__Unsecured":0.07051282051,"Count__Denied":"0","Count__Monetary":74,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":71,"Count__Unsecured":11,"total_cases":156},{"id":107,"County":"Beaver","name":"Conroy, Eileen M.","%__Denied":0.01379310345,"%__Monetary":0.4724137931,"%__Nominal":"0","%__Nonmonetary":0.03793103448,"%__ROR":0.4172413793,"%__Unsecured":0.05862068966,"Count__Denied":4,"Count__Monetary":137,"Count__Nominal":"0","Count__Nonmonetary":11,"Count__ROR":121,"Count__Unsecured":17,"total_cases":290},{"id":108,"County":"Beaver","name":"Dappenbrook, Robert P.","%__Denied":0.002840909091,"%__Monetary":0.28125,"%__Nominal":"0","%__Nonmonetary":0.002840909091,"%__ROR":0.5738636364,"%__Unsecured":0.1392045455,"Count__Denied":1,"Count__Monetary":99,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":202,"Count__Unsecured":49,"total_cases":352},{"id":110,"County":"Beaver","name":"Goodwald, Dirk A.","%__Denied":0.002242152466,"%__Monetary":0.5313901345,"%__Nominal":0.002242152466,"%__Nonmonetary":0.002242152466,"%__ROR":0.3565022422,"%__Unsecured":0.1053811659,"Count__Denied":1,"Count__Monetary":237,"Count__Nominal":1,"Count__Nonmonetary":1,"Count__ROR":159,"Count__Unsecured":47,"total_cases":446},{"id":111,"County":"Beaver","name":"Howe, Edward","%__Denied":0.008791208791,"%__Monetary":0.5384615385,"%__Nominal":"0","%__Nonmonetary":0.002197802198,"%__ROR":0.3604395604,"%__Unsecured":0.09010989011,"Count__Denied":4,"Count__Monetary":245,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":164,"Count__Unsecured":41,"total_cases":455},{"id":112,"County":"Beaver","name":"Korol, Alex","%__Denied":0.00206185567,"%__Monetary":0.5835051546,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3072164948,"%__Unsecured":0.1072164948,"Count__Denied":1,"Count__Monetary":283,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":149,"Count__Unsecured":52,"total_cases":485},{"id":113,"County":"Beaver","name":"Loughner, C. Douglas","%__Denied":"0","%__Monetary":0.4857142857,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.4285714286,"%__Unsecured":0.08571428571,"Count__Denied":"0","Count__Monetary":51,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":45,"Count__Unsecured":9,"total_cases":105},{"id":119,"County":"Beaver","name":"Santillan, Felicia","%__Denied":0.01923076923,"%__Monetary":0.5811965812,"%__Nominal":"0","%__Nonmonetary":0.01923076923,"%__ROR":0.3333333333,"%__Unsecured":0.04700854701,"Count__Denied":9,"Count__Monetary":272,"Count__Nominal":"0","Count__Nonmonetary":9,"Count__ROR":156,"Count__Unsecured":22,"total_cases":468},{"id":120,"County":"Beaver","name":"Schafer, Joseph","%__Denied":0.004962779156,"%__Monetary":0.3771712159,"%__Nominal":0.002481389578,"%__Nonmonetary":"0","%__ROR":0.4218362283,"%__Unsecured":0.1935483871,"Count__Denied":2,"Count__Monetary":152,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":170,"Count__Unsecured":78,"total_cases":403}],"Bedford":[{"id":123,"County":"Bedford","name":"Baker, Brian K.","%__Denied":0.005747126437,"%__Monetary":0.3390804598,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.01149425287,"%__Unsecured":0.6436781609,"Count__Denied":1,"Count__Monetary":59,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":2,"Count__Unsecured":112,"total_cases":174},{"id":125,"County":"Bedford","name":"Calhoun, Kathy S.","%__Denied":0.008403361345,"%__Monetary":0.3823529412,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.02521008403,"%__Unsecured":0.5840336134,"Count__Denied":2,"Count__Monetary":91,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":6,"Count__Unsecured":139,"total_cases":238},{"id":127,"County":"Bedford","name":"Diehl, Kevin R.","%__Denied":0.008875739645,"%__Monetary":0.449704142,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5414201183,"Count__Denied":3,"Count__Monetary":152,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":183,"total_cases":338},{"id":131,"County":"Bedford","name":"Osman, Tonya M.","%__Denied":0.01063829787,"%__Monetary":0.304964539,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.01773049645,"%__Unsecured":0.6666666667,"Count__Denied":3,"Count__Monetary":86,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":5,"Count__Unsecured":188,"total_cases":282}],"Berks":[{"id":132,"County":"Berks","name":"Bagenstose, Kim L.","%__Denied":"0","%__Monetary":0.3190546529,"%__Nominal":"0","%__Nonmonetary":0.001477104874,"%__ROR":0.388478582,"%__Unsecured":0.2909896603,"Count__Denied":"0","Count__Monetary":216,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":263,"Count__Unsecured":197,"total_cases":677},{"id":134,"County":"Berks","name":"Book, Andrea J.","%__Denied":"0","%__Monetary":0.3126684636,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2991913747,"%__Unsecured":0.3881401617,"Count__Denied":"0","Count__Monetary":116,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":111,"Count__Unsecured":144,"total_cases":371},{"id":137,"County":"Berks","name":"Butler, Tonya A.","%__Denied":0.01416430595,"%__Monetary":0.6203966006,"%__Nominal":"0","%__Nonmonetary":0.00283286119,"%__ROR":"0","%__Unsecured":0.3626062323,"Count__Denied":5,"Count__Monetary":219,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":"0","Count__Unsecured":128,"total_cases":353},{"id":138,"County":"Berks","name":"Campos, Priscilla","%__Denied":0.007692307692,"%__Monetary":0.6076923077,"%__Nominal":"0","%__Nonmonetary":0.002564102564,"%__ROR":0.05897435897,"%__Unsecured":0.3230769231,"Count__Denied":3,"Count__Monetary":237,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":23,"Count__Unsecured":126,"total_cases":390},{"id":139,"County":"Berks","name":"Chieffo, Steven Michael","%__Denied":"0","%__Monetary":0.359832636,"%__Nominal":0.006276150628,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6338912134,"Count__Denied":"0","Count__Monetary":172,"Count__Nominal":3,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":303,"total_cases":478},{"id":143,"County":"Berks","name":"Fegley, Sandra L.","%__Denied":0.001138952164,"%__Monetary":0.2961275626,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.1856492027,"%__Unsecured":0.5170842825,"Count__Denied":1,"Count__Monetary":260,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":163,"Count__Unsecured":454,"total_cases":878},{"id":148,"County":"Berks","name":"Glass, David E.","%__Denied":0.002028397566,"%__Monetary":0.4421906694,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5557809331,"Count__Denied":1,"Count__Monetary":218,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":274,"total_cases":493},{"id":149,"County":"Berks","name":"Greth, Gail M.","%__Denied":"0","%__Monetary":0.3502994012,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6497005988,"Count__Denied":"0","Count__Monetary":117,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":217,"total_cases":334},{"id":152,"County":"Berks","name":"Johnson, Carissa L.","%__Denied":0.01677852349,"%__Monetary":0.6241610738,"%__Nominal":0.003355704698,"%__Nonmonetary":"0","%__ROR":0.02684563758,"%__Unsecured":0.3288590604,"Count__Denied":5,"Count__Monetary":186,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":8,"Count__Unsecured":98,"total_cases":298},{"id":157,"County":"Berks","name":"Patton, Dean R.","%__Denied":0.00380952381,"%__Monetary":0.3180952381,"%__Nominal":"0","%__Nonmonetary":0.001904761905,"%__ROR":"0","%__Unsecured":0.6761904762,"Count__Denied":2,"Count__Monetary":167,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":"0","Count__Unsecured":355,"total_cases":525},{"id":158,"County":"Berks","name":"Robinson, Alvin B.","%__Denied":0.01133786848,"%__Monetary":0.6326530612,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.002267573696,"%__Unsecured":0.3537414966,"Count__Denied":5,"Count__Monetary":279,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":156,"total_cases":441},{"id":160,"County":"Berks","name":"Scott, Kyley L.","%__Denied":0.008620689655,"%__Monetary":0.5775862069,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2112068966,"%__Unsecured":0.2025862069,"Count__Denied":2,"Count__Monetary":134,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":49,"Count__Unsecured":47,"total_cases":232},{"id":162,"County":"Berks","name":"Stitzel, Gloria W.","%__Denied":"0","%__Monetary":0.3611111111,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6388888889,"Count__Denied":"0","Count__Monetary":91,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":161,"total_cases":252},{"id":163,"County":"Berks","name":"Strand, Brian K.","%__Denied":0.008064516129,"%__Monetary":0.3870967742,"%__Nominal":"0","%__Nonmonetary":0.01344086022,"%__ROR":0.3629032258,"%__Unsecured":0.2284946237,"Count__Denied":3,"Count__Monetary":144,"Count__Nominal":"0","Count__Nonmonetary":5,"Count__ROR":135,"Count__Unsecured":85,"total_cases":372},{"id":164,"County":"Berks","name":"Taylor, Eric J.","%__Denied":0.004968944099,"%__Monetary":0.349068323,"%__Nominal":0.006211180124,"%__Nonmonetary":0.3850931677,"%__ROR":0.2149068323,"%__Unsecured":0.0397515528,"Count__Denied":4,"Count__Monetary":281,"Count__Nominal":5,"Count__Nonmonetary":310,"Count__ROR":173,"Count__Unsecured":32,"total_cases":805},{"id":168,"County":"Berks","name":"Yoch, David L.","%__Denied":0.004862236629,"%__Monetary":0.3987034036,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2139384117,"%__Unsecured":0.3824959481,"Count__Denied":3,"Count__Monetary":246,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":132,"Count__Unsecured":236,"total_cases":617},{"id":169,"County":"Berks","name":"Young, Ann L.","%__Denied":0.004132231405,"%__Monetary":0.3140495868,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.4152892562,"%__Unsecured":0.2665289256,"Count__Denied":2,"Count__Monetary":152,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":201,"Count__Unsecured":129,"total_cases":484}],"Blair":[{"id":170,"County":"Blair","name":"Aigner, Paula M.","%__Denied":"0","%__Monetary":0.3883495146,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6116504854,"Count__Denied":"0","Count__Monetary":280,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":441,"total_cases":721},{"id":173,"County":"Blair","name":"Blattenberger, Andrew L.","%__Denied":0.01047120419,"%__Monetary":0.3438045375,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6457242583,"Count__Denied":6,"Count__Monetary":197,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":370,"total_cases":573},{"id":174,"County":"Blair","name":"DeAntonio, Daniel C.","%__Denied":0.001183431953,"%__Monetary":0.4130177515,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5857988166,"Count__Denied":1,"Count__Monetary":349,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":495,"total_cases":845},{"id":177,"County":"Blair","name":"Dunio, Matthew","%__Denied":0.001464128843,"%__Monetary":0.3616398243,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6368960469,"Count__Denied":1,"Count__Monetary":247,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":435,"total_cases":683},{"id":180,"County":"Blair","name":"Jones, Benjamin F.","%__Denied":0.01538461538,"%__Monetary":0.4377622378,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.001398601399,"%__Unsecured":0.5454545455,"Count__Denied":11,"Count__Monetary":313,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":390,"total_cases":715},{"id":183,"County":"Blair","name":"Miller, Fred B.","%__Denied":0.00539083558,"%__Monetary":0.3854447439,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6091644205,"Count__Denied":2,"Count__Monetary":143,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":226,"total_cases":371}],"Bradford":[{"id":190,"County":"Bradford","name":"Carr, Todd","%__Denied":0.004184100418,"%__Monetary":0.3682008368,"%__Nominal":"0","%__Nonmonetary":0.4539748954,"%__ROR":0.03765690377,"%__Unsecured":0.1359832636,"Count__Denied":2,"Count__Monetary":176,"Count__Nominal":"0","Count__Nonmonetary":217,"Count__ROR":18,"Count__Unsecured":65,"total_cases":478},{"id":192,"County":"Bradford","name":"Hurley, Larry J.","%__Denied":0.0027100271,"%__Monetary":0.783197832,"%__Nominal":"0","%__Nonmonetary":0.1571815718,"%__ROR":"0","%__Unsecured":0.05691056911,"Count__Denied":1,"Count__Monetary":289,"Count__Nominal":"0","Count__Nonmonetary":58,"Count__ROR":"0","Count__Unsecured":21,"total_cases":369},{"id":193,"County":"Bradford","name":"Wheaton, Fred M.","%__Denied":0.01104972376,"%__Monetary":0.7845303867,"%__Nominal":"0","%__Nonmonetary":0.03314917127,"%__ROR":0.01657458564,"%__Unsecured":0.1546961326,"Count__Denied":2,"Count__Monetary":142,"Count__Nominal":"0","Count__Nonmonetary":6,"Count__ROR":3,"Count__Unsecured":28,"total_cases":181},{"id":194,"County":"Bradford","name":"Wilcox, Jonathan","%__Denied":"0","%__Monetary":0.5622317597,"%__Nominal":"0","%__Nonmonetary":0.01287553648,"%__ROR":0.08154506438,"%__Unsecured":0.3433476395,"Count__Denied":"0","Count__Monetary":131,"Count__Nominal":"0","Count__Nonmonetary":3,"Count__ROR":19,"Count__Unsecured":80,"total_cases":233}],"Bucks":[{"id":196,"County":"Bucks","name":"Armitage, Regina","%__Denied":0.001508295626,"%__Monetary":0.2171945701,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.4449472097,"%__Unsecured":0.3363499246,"Count__Denied":1,"Count__Monetary":144,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":295,"Count__Unsecured":223,"total_cases":663},{"id":198,"County":"Bucks","name":"Baranoski, Daniel","%__Denied":0.01315789474,"%__Monetary":0.3082706767,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3308270677,"%__Unsecured":0.3477443609,"Count__Denied":7,"Count__Monetary":164,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":176,"Count__Unsecured":185,"total_cases":532},{"id":202,"County":"Bucks","name":"Corr, Stephen A.","%__Denied":"0","%__Monetary":0.0564516129,"%__Nominal":"0","%__Nonmonetary":0.02419354839,"%__ROR":0.09677419355,"%__Unsecured":0.8225806452,"Count__Denied":"0","Count__Monetary":7,"Count__Nominal":"0","Count__Nonmonetary":3,"Count__ROR":12,"Count__Unsecured":102,"total_cases":124},{"id":203,"County":"Bucks","name":"Douple, Mark D.","%__Denied":"0","%__Monetary":0.4078624079,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5921375921,"Count__Denied":"0","Count__Monetary":166,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":241,"total_cases":407},{"id":204,"County":"Bucks","name":"Falcone, Joseph P.","%__Denied":"0","%__Monetary":0.4107708553,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.01795142555,"%__Unsecured":0.5712777191,"Count__Denied":"0","Count__Monetary":389,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":17,"Count__Unsecured":541,"total_cases":947},{"id":205,"County":"Bucks","name":"Finello, Daniel J. Jr.","%__Denied":"0","%__Monetary":0.3461538462,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6538461538,"Count__Denied":"0","Count__Monetary":99,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":187,"total_cases":286},{"id":206,"County":"Bucks","name":"Finley, Jeffrey L.","%__Denied":"0","%__Monetary":0.09523809524,"%__Nominal":"0","%__Nonmonetary":0.02857142857,"%__ROR":0.1714285714,"%__Unsecured":0.7047619048,"Count__Denied":"0","Count__Monetary":10,"Count__Nominal":"0","Count__Nonmonetary":3,"Count__ROR":18,"Count__Unsecured":74,"total_cases":105},{"id":208,"County":"Bucks","name":"Gaier, Lisa J.","%__Denied":0.00289017341,"%__Monetary":0.2528901734,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.00289017341,"%__Unsecured":0.7413294798,"Count__Denied":2,"Count__Monetary":175,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":2,"Count__Unsecured":513,"total_cases":692},{"id":209,"County":"Bucks","name":"Gallagher, Michael W.","%__Denied":"0","%__Monetary":0.363317757,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.636682243,"Count__Denied":"0","Count__Monetary":311,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":545,"total_cases":856},{"id":210,"County":"Bucks","name":"Gambardella, Gary","%__Denied":"0","%__Monetary":0.2504930966,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3609467456,"%__Unsecured":0.3885601578,"Count__Denied":"0","Count__Monetary":127,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":183,"Count__Unsecured":197,"total_cases":507},{"id":211,"County":"Bucks","name":"Gibbons, Diane E.","%__Denied":"0","%__Monetary":0.07042253521,"%__Nominal":"0","%__Nonmonetary":0.04929577465,"%__ROR":0.2957746479,"%__Unsecured":0.5845070423,"Count__Denied":"0","Count__Monetary":10,"Count__Nominal":"0","Count__Nonmonetary":7,"Count__ROR":42,"Count__Unsecured":83,"total_cases":142},{"id":212,"County":"Bucks","name":"Gilman, Gary B.","%__Denied":"0","%__Monetary":0.01724137931,"%__Nominal":"0","%__Nonmonetary":0.02586206897,"%__ROR":"0","%__Unsecured":0.9568965517,"Count__Denied":"0","Count__Monetary":2,"Count__Nominal":"0","Count__Nonmonetary":3,"Count__ROR":"0","Count__Unsecured":111,"total_cases":116},{"id":213,"County":"Bucks","name":"Hughes, Terrence","%__Denied":0.007263922518,"%__Monetary":0.4866828087,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.007263922518,"%__Unsecured":0.4987893462,"Count__Denied":3,"Count__Monetary":201,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":3,"Count__Unsecured":206,"total_cases":413},{"id":214,"County":"Bucks","name":"Jonas, Charles D.","%__Denied":"0","%__Monetary":0.25,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.75,"Count__Denied":"0","Count__Monetary":25,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":75,"total_cases":100},{"id":215,"County":"Bucks","name":"Kline, Joanne V.","%__Denied":"0","%__Monetary":0.2073732719,"%__Nominal":"0","%__Nonmonetary":0.03686635945,"%__ROR":0.02304147465,"%__Unsecured":0.732718894,"Count__Denied":"0","Count__Monetary":45,"Count__Nominal":"0","Count__Nonmonetary":8,"Count__ROR":5,"Count__Unsecured":159,"total_cases":217},{"id":218,"County":"Bucks","name":"Kronnagel, Corryn L.","%__Denied":0.002865329513,"%__Monetary":0.3065902579,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6905444126,"Count__Denied":1,"Count__Monetary":107,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":241,"total_cases":349},{"id":219,"County":"Bucks","name":"Liller, Charissa J.","%__Denied":"0","%__Monetary":0.1214953271,"%__Nominal":"0","%__Nonmonetary":0.06542056075,"%__ROR":0.05607476636,"%__Unsecured":0.7570093458,"Count__Denied":"0","Count__Monetary":13,"Count__Nominal":"0","Count__Nonmonetary":7,"Count__ROR":6,"Count__Unsecured":81,"total_cases":107},{"id":220,"County":"Bucks","name":"Marriott, Brian M.","%__Denied":"0","%__Monetary":0.3255813953,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.1046511628,"%__Unsecured":0.5697674419,"Count__Denied":"0","Count__Monetary":112,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":36,"Count__Unsecured":196,"total_cases":344},{"id":225,"County":"Bucks","name":"Peranteau, Frank W. Sr.","%__Denied":0.01298701299,"%__Monetary":0.5324675325,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.4545454545,"Count__Denied":3,"Count__Monetary":123,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":105,"total_cases":231},{"id":226,"County":"Bucks","name":"Petrucci, Michael W.","%__Denied":0.00278551532,"%__Monetary":0.4150417827,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5821727019,"Count__Denied":1,"Count__Monetary":149,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":209,"total_cases":359},{"id":227,"County":"Bucks","name":"Snow, Maggie","%__Denied":"0","%__Monetary":0.2757475083,"%__Nominal":0.003322259136,"%__Nonmonetary":"0","%__ROR":0.3488372093,"%__Unsecured":0.3720930233,"Count__Denied":"0","Count__Monetary":83,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":105,"Count__Unsecured":112,"total_cases":301},{"id":229,"County":"Bucks","name":"Vislosky, Jan","%__Denied":0.001538461538,"%__Monetary":0.3753846154,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.001538461538,"%__Unsecured":0.6215384615,"Count__Denied":1,"Count__Monetary":244,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":404,"total_cases":650},{"id":230,"County":"Bucks","name":"Wagner, Kevin P.","%__Denied":0.006504065041,"%__Monetary":0.4780487805,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.09430894309,"%__Unsecured":0.4211382114,"Count__Denied":4,"Count__Monetary":294,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":58,"Count__Unsecured":259,"total_cases":615},{"id":231,"County":"Bucks","name":"Waite, Clyde W.","%__Denied":"0","%__Monetary":0.07913669065,"%__Nominal":"0","%__Nonmonetary":0.007194244604,"%__ROR":0.08633093525,"%__Unsecured":0.8273381295,"Count__Denied":"0","Count__Monetary":11,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":12,"Count__Unsecured":115,"total_cases":139},{"id":232,"County":"Bucks","name":"Wertman, Stacy","%__Denied":0.001602564103,"%__Monetary":0.3798076923,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3237179487,"%__Unsecured":0.2948717949,"Count__Denied":1,"Count__Monetary":237,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":202,"Count__Unsecured":184,"total_cases":624}],"Butler":[{"id":243,"County":"Butler","name":"Flaherty, Kevin J.","%__Denied":0.01214574899,"%__Monetary":0.3886639676,"%__Nominal":0.002024291498,"%__Nonmonetary":0.07085020243,"%__ROR":0.4210526316,"%__Unsecured":0.1052631579,"Count__Denied":6,"Count__Monetary":192,"Count__Nominal":1,"Count__Nonmonetary":35,"Count__ROR":208,"Count__Unsecured":52,"total_cases":494},{"id":244,"County":"Butler","name":"Fullerton, William T.","%__Denied":0.006944444444,"%__Monetary":0.275462963,"%__Nominal":0.01157407407,"%__Nonmonetary":0.1643518519,"%__ROR":0.537037037,"%__Unsecured":0.00462962963,"Count__Denied":3,"Count__Monetary":119,"Count__Nominal":5,"Count__Nonmonetary":71,"Count__ROR":232,"Count__Unsecured":2,"total_cases":432},{"id":246,"County":"Butler","name":"Haggerty, Sue","%__Denied":"0","%__Monetary":0.3935483871,"%__Nominal":"0","%__Nonmonetary":0.03225806452,"%__ROR":0.4290322581,"%__Unsecured":0.1451612903,"Count__Denied":"0","Count__Monetary":122,"Count__Nominal":"0","Count__Nonmonetary":10,"Count__ROR":133,"Count__Unsecured":45,"total_cases":310},{"id":249,"County":"Butler","name":"Marcinkiewicz, Amy M.","%__Denied":"0","%__Monetary":0.2492836676,"%__Nominal":"0","%__Nonmonetary":0.2206303725,"%__ROR":0.3581661891,"%__Unsecured":0.1719197708,"Count__Denied":"0","Count__Monetary":87,"Count__Nominal":"0","Count__Nonmonetary":77,"Count__ROR":125,"Count__Unsecured":60,"total_cases":349},{"id":252,"County":"Butler","name":"Nash, Joseph J.","%__Denied":0.0119047619,"%__Monetary":0.35,"%__Nominal":"0","%__Nonmonetary":0.2904761905,"%__ROR":0.2523809524,"%__Unsecured":0.09523809524,"Count__Denied":5,"Count__Monetary":147,"Count__Nominal":"0","Count__Nonmonetary":122,"Count__ROR":106,"Count__Unsecured":40,"total_cases":420},{"id":253,"County":"Butler","name":"O'Donnell, Kevin P.","%__Denied":0.004662004662,"%__Monetary":0.2331002331,"%__Nominal":0.006993006993,"%__Nonmonetary":0.07925407925,"%__ROR":0.6596736597,"%__Unsecured":0.01631701632,"Count__Denied":2,"Count__Monetary":100,"Count__Nominal":3,"Count__Nonmonetary":34,"Count__ROR":283,"Count__Unsecured":7,"total_cases":429},{"id":259,"County":"Butler","name":"Stoughton, Lewis E.","%__Denied":0.001785714286,"%__Monetary":0.2803571429,"%__Nominal":0.02142857143,"%__Nonmonetary":0.2964285714,"%__ROR":0.3678571429,"%__Unsecured":0.03214285714,"Count__Denied":1,"Count__Monetary":157,"Count__Nominal":12,"Count__Nonmonetary":166,"Count__ROR":206,"Count__Unsecured":18,"total_cases":560}],"Cambria":[{"id":266,"County":"Cambria","name":"Beyer, David L.","%__Denied":"0","%__Monetary":0.2233009709,"%__Nominal":"0","%__Nonmonetary":0.009708737864,"%__ROR":0.2621359223,"%__Unsecured":0.5048543689,"Count__Denied":"0","Count__Monetary":23,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":27,"Count__Unsecured":52,"total_cases":103},{"id":272,"County":"Cambria","name":"Gindlesperger, Susan M.","%__Denied":"0","%__Monetary":0.3392070485,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.008810572687,"%__Unsecured":0.6519823789,"Count__Denied":"0","Count__Monetary":154,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":4,"Count__Unsecured":296,"total_cases":454},{"id":279,"County":"Cambria","name":"Prebish, John  Jr.","%__Denied":0.002604166667,"%__Monetary":0.3151041667,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3125,"%__Unsecured":0.3697916667,"Count__Denied":1,"Count__Monetary":121,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":120,"Count__Unsecured":142,"total_cases":384},{"id":280,"County":"Cambria","name":"Price, Kevin J.","%__Denied":0.009975062344,"%__Monetary":0.493765586,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.004987531172,"%__Unsecured":0.4912718204,"Count__Denied":4,"Count__Monetary":198,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":2,"Count__Unsecured":197,"total_cases":401},{"id":283,"County":"Cambria","name":"Varner, Rick W.","%__Denied":0.003267973856,"%__Monetary":0.5424836601,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.454248366,"Count__Denied":1,"Count__Monetary":166,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":139,"total_cases":306},{"id":284,"County":"Cambria","name":"Zanghi, Mary Ann","%__Denied":"0","%__Monetary":0.522875817,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2810457516,"%__Unsecured":0.1960784314,"Count__Denied":"0","Count__Monetary":160,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":86,"Count__Unsecured":60,"total_cases":306},{"id":285,"County":"Cambria","name":"Zungali, Michael","%__Denied":0.015625,"%__Monetary":0.38125,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2375,"%__Unsecured":0.365625,"Count__Denied":5,"Count__Monetary":122,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":76,"Count__Unsecured":117,"total_cases":320}],"Carbon":[{"id":289,"County":"Carbon","name":"Homanko, Joseph D. Sr.","%__Denied":0.01992031873,"%__Monetary":0.3466135458,"%__Nominal":"0","%__Nonmonetary":0.003984063745,"%__ROR":0.171314741,"%__Unsecured":0.4581673307,"Count__Denied":5,"Count__Monetary":87,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":43,"Count__Unsecured":115,"total_cases":251},{"id":290,"County":"Carbon","name":"Kissner, William J.","%__Denied":0.009259259259,"%__Monetary":0.2425925926,"%__Nominal":0.001851851852,"%__Nonmonetary":"0","%__ROR":0.3962962963,"%__Unsecured":0.35,"Count__Denied":5,"Count__Monetary":131,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":214,"Count__Unsecured":189,"total_cases":540},{"id":291,"County":"Carbon","name":"Kosciolek, Casimir T.","%__Denied":0.006006006006,"%__Monetary":0.4474474474,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.1651651652,"%__Unsecured":0.3813813814,"Count__Denied":2,"Count__Monetary":149,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":55,"Count__Unsecured":127,"total_cases":333},{"id":295,"County":"Carbon","name":"Schrantz, Eric M.","%__Denied":"0","%__Monetary":0.3854166667,"%__Nominal":0.002604166667,"%__Nonmonetary":"0","%__ROR":0.2109375,"%__Unsecured":0.4010416667,"Count__Denied":"0","Count__Monetary":148,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":81,"Count__Unsecured":154,"total_cases":384}],"Centre":[{"id":297,"County":"Centre","name":"Gillette-Walker, Kelley","%__Denied":0.1487964989,"%__Monetary":0.306345733,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.4332603939,"%__Unsecured":0.1115973742,"Count__Denied":68,"Count__Monetary":140,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":198,"Count__Unsecured":51,"total_cases":457},{"id":300,"County":"Centre","name":"Hahn, Donald M.","%__Denied":"0","%__Monetary":0.2230483271,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.6394052045,"%__Unsecured":0.1375464684,"Count__Denied":"0","Count__Monetary":60,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":172,"Count__Unsecured":37,"total_cases":269},{"id":301,"County":"Centre","name":"Koehle, Gregory M.","%__Denied":0.1047619048,"%__Monetary":0.1714285714,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.653968254,"%__Unsecured":0.06984126984,"Count__Denied":33,"Count__Monetary":54,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":206,"Count__Unsecured":22,"total_cases":315},{"id":303,"County":"Centre","name":"Lachman, Steven F.","%__Denied":0.003344481605,"%__Monetary":0.1505016722,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.7257525084,"%__Unsecured":0.1204013378,"Count__Denied":1,"Count__Monetary":45,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":217,"Count__Unsecured":36,"total_cases":299},{"id":305,"County":"Centre","name":"McClain, Casey M.","%__Denied":0.03908794788,"%__Monetary":0.2117263844,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.5374592834,"%__Unsecured":0.2117263844,"Count__Denied":12,"Count__Monetary":65,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":165,"Count__Unsecured":65,"total_cases":307},{"id":310,"County":"Centre","name":"Sinclair, Allen W.","%__Denied":0.002421307506,"%__Monetary":0.2227602906,"%__Nominal":"0","%__Nonmonetary":0.002421307506,"%__ROR":0.6755447942,"%__Unsecured":0.09685230024,"Count__Denied":1,"Count__Monetary":92,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":279,"Count__Unsecured":40,"total_cases":413}],"Chester":[{"id":311,"County":"Chester","name":"Bailey, John R.","%__Denied":0.001589825119,"%__Monetary":0.3036565978,"%__Nominal":0.0413354531,"%__Nonmonetary":"0","%__ROR":0.2813990461,"%__Unsecured":0.3720190779,"Count__Denied":1,"Count__Monetary":191,"Count__Nominal":26,"Count__Nonmonetary":"0","Count__ROR":177,"Count__Unsecured":234,"total_cases":629},{"id":316,"County":"Chester","name":"Feldman, Ann M.","%__Denied":"0","%__Monetary":0.3433628319,"%__Nominal":0.02654867257,"%__Nonmonetary":"0","%__ROR":0.1769911504,"%__Unsecured":0.4530973451,"Count__Denied":"0","Count__Monetary":194,"Count__Nominal":15,"Count__Nonmonetary":"0","Count__ROR":100,"Count__Unsecured":256,"total_cases":565},{"id":319,"County":"Chester","name":"Gill, Nancy A.","%__Denied":"0","%__Monetary":0.4276315789,"%__Nominal":0.008771929825,"%__Nonmonetary":"0","%__ROR":0.1228070175,"%__Unsecured":0.4407894737,"Count__Denied":"0","Count__Monetary":195,"Count__Nominal":4,"Count__Nonmonetary":"0","Count__ROR":56,"Count__Unsecured":201,"total_cases":456},{"id":320,"County":"Chester","name":"Goch, Martin G.","%__Denied":"0","%__Monetary":0.4185185185,"%__Nominal":0.01481481481,"%__Nonmonetary":"0","%__ROR":0.1814814815,"%__Unsecured":0.3851851852,"Count__Denied":"0","Count__Monetary":226,"Count__Nominal":8,"Count__Nonmonetary":"0","Count__ROR":98,"Count__Unsecured":208,"total_cases":540},{"id":323,"County":"Chester","name":"Hines, Gregory V.","%__Denied":0.005244755245,"%__Monetary":0.5751748252,"%__Nominal":0.01223776224,"%__Nonmonetary":"0","%__ROR":0.06993006993,"%__Unsecured":0.3374125874,"Count__Denied":3,"Count__Monetary":329,"Count__Nominal":7,"Count__Nonmonetary":"0","Count__ROR":40,"Count__Unsecured":193,"total_cases":572},{"id":324,"County":"Chester","name":"Hipple, John A.","%__Denied":0.004210526316,"%__Monetary":0.4378947368,"%__Nominal":0.02105263158,"%__Nonmonetary":"0","%__ROR":0.2568421053,"%__Unsecured":0.28,"Count__Denied":2,"Count__Monetary":208,"Count__Nominal":10,"Count__Nonmonetary":"0","Count__ROR":122,"Count__Unsecured":133,"total_cases":475},{"id":325,"County":"Chester","name":"Holt, Lauren N.","%__Denied":"0","%__Monetary":0.3659793814,"%__Nominal":0.01030927835,"%__Nonmonetary":"0","%__ROR":0.2199312715,"%__Unsecured":0.4037800687,"Count__Denied":"0","Count__Monetary":213,"Count__Nominal":6,"Count__Nonmonetary":"0","Count__ROR":128,"Count__Unsecured":235,"total_cases":582},{"id":326,"County":"Chester","name":"Iacocca, Albert Michael","%__Denied":0.004411764706,"%__Monetary":0.2455882353,"%__Nominal":0.01176470588,"%__Nonmonetary":"0","%__ROR":0.3647058824,"%__Unsecured":0.3735294118,"Count__Denied":3,"Count__Monetary":167,"Count__Nominal":8,"Count__Nonmonetary":"0","Count__ROR":248,"Count__Unsecured":254,"total_cases":680},{"id":327,"County":"Chester","name":"Kovaleski, James C.","%__Denied":0.007042253521,"%__Monetary":0.234741784,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2018779343,"%__Unsecured":0.5563380282,"Count__Denied":3,"Count__Monetary":100,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":86,"Count__Unsecured":237,"total_cases":426},{"id":328,"County":"Chester","name":"Kraut, William D.","%__Denied":"0","%__Monetary":0.413202934,"%__Nominal":0.0097799511,"%__Nonmonetary":"0","%__ROR":0.2151589242,"%__Unsecured":0.3618581907,"Count__Denied":"0","Count__Monetary":169,"Count__Nominal":4,"Count__Nonmonetary":"0","Count__ROR":88,"Count__Unsecured":148,"total_cases":409},{"id":329,"County":"Chester","name":"Lieberman, Marc J.","%__Denied":0.002237136465,"%__Monetary":0.3333333333,"%__Nominal":0.01118568233,"%__Nonmonetary":"0","%__ROR":0.2639821029,"%__Unsecured":0.389261745,"Count__Denied":1,"Count__Monetary":149,"Count__Nominal":5,"Count__Nonmonetary":"0","Count__ROR":118,"Count__Unsecured":174,"total_cases":447},{"id":330,"County":"Chester","name":"Massey, Scott A.","%__Denied":0.007824726135,"%__Monetary":0.3536776213,"%__Nominal":0.009389671362,"%__Nonmonetary":"0","%__ROR":0.2754303599,"%__Unsecured":0.3536776213,"Count__Denied":5,"Count__Monetary":226,"Count__Nominal":6,"Count__Nonmonetary":"0","Count__ROR":176,"Count__Unsecured":226,"total_cases":639},{"id":337,"County":"Chester","name":"Seavey, Matthew","%__Denied":0.004026845638,"%__Monetary":0.2630872483,"%__Nominal":0.02281879195,"%__Nonmonetary":"0","%__ROR":0.3932885906,"%__Unsecured":0.3167785235,"Count__Denied":3,"Count__Monetary":196,"Count__Nominal":17,"Count__Nonmonetary":"0","Count__ROR":293,"Count__Unsecured":236,"total_cases":745},{"id":339,"County":"Chester","name":"Simmons, N. Paige","%__Denied":"0","%__Monetary":0.4217252396,"%__Nominal":0.006389776358,"%__Nonmonetary":"0","%__ROR":0.1853035144,"%__Unsecured":0.3865814696,"Count__Denied":"0","Count__Monetary":132,"Count__Nominal":2,"Count__Nonmonetary":"0","Count__ROR":58,"Count__Unsecured":121,"total_cases":313},{"id":340,"County":"Chester","name":"Smith, Mackenzie W.","%__Denied":0.01219512195,"%__Monetary":0.3,"%__Nominal":0.009756097561,"%__Nonmonetary":"0","%__ROR":0.2268292683,"%__Unsecured":0.4512195122,"Count__Denied":5,"Count__Monetary":123,"Count__Nominal":4,"Count__Nonmonetary":"0","Count__ROR":93,"Count__Unsecured":185,"total_cases":410},{"id":346,"County":"Chester","name":"Vito, Marian T.","%__Denied":0.003086419753,"%__Monetary":0.4166666667,"%__Nominal":0.01543209877,"%__Nonmonetary":"0","%__ROR":0.2530864198,"%__Unsecured":0.3117283951,"Count__Denied":1,"Count__Monetary":135,"Count__Nominal":5,"Count__Nonmonetary":"0","Count__ROR":82,"Count__Unsecured":101,"total_cases":324}],"Clarion":[{"id":349,"County":"Clarion","name":"Heeter, Jarah Lee","%__Denied":0.007194244604,"%__Monetary":0.4100719424,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3884892086,"%__Unsecured":0.1942446043,"Count__Denied":1,"Count__Monetary":57,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":54,"Count__Unsecured":27,"total_cases":139},{"id":350,"County":"Clarion","name":"Miller, Jeffrey C.","%__Denied":"0","%__Monetary":0.3406113537,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3449781659,"%__Unsecured":0.3144104803,"Count__Denied":"0","Count__Monetary":78,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":79,"Count__Unsecured":72,"total_cases":229},{"id":351,"County":"Clarion","name":"Quinn, Duane L.","%__Denied":"0","%__Monetary":0.3661417323,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.4448818898,"%__Unsecured":0.188976378,"Count__Denied":"0","Count__Monetary":93,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":113,"Count__Unsecured":48,"total_cases":254},{"id":352,"County":"Clarion","name":"Schill, Timothy P.","%__Denied":"0","%__Monetary":0.4454545455,"%__Nominal":0.004545454545,"%__Nonmonetary":"0","%__ROR":0.4136363636,"%__Unsecured":0.1363636364,"Count__Denied":"0","Count__Monetary":98,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":91,"Count__Unsecured":30,"total_cases":220}],"Clearfield":[{"id":354,"County":"Clearfield","name":"Ammerman, Fredric J.","%__Denied":"0","%__Monetary":0.2790697674,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.7209302326,"Count__Denied":"0","Count__Monetary":36,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":93,"total_cases":129},{"id":357,"County":"Clearfield","name":"Glass, James Brian","%__Denied":0.02582159624,"%__Monetary":0.4718309859,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5023474178,"Count__Denied":11,"Count__Monetary":201,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":214,"total_cases":426},{"id":359,"County":"Clearfield","name":"Meholick, David S.","%__Denied":0.003984063745,"%__Monetary":0.3187250996,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6772908367,"Count__Denied":2,"Count__Monetary":160,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":340,"total_cases":502},{"id":360,"County":"Clearfield","name":"Morris, Joseph M.","%__Denied":0.01343570058,"%__Monetary":0.5547024952,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.4318618042,"Count__Denied":7,"Count__Monetary":289,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":225,"total_cases":521},{"id":361,"County":"Clearfield","name":"Nevling, Jerome M.","%__Denied":0.01682692308,"%__Monetary":0.4254807692,"%__Nominal":"0","%__Nonmonetary":0.002403846154,"%__ROR":0.002403846154,"%__Unsecured":0.5528846154,"Count__Denied":7,"Count__Monetary":177,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":1,"Count__Unsecured":230,"total_cases":416}],"Clinton":[{"id":363,"County":"Clinton","name":"Kibler, Keith G.","%__Denied":0.01320132013,"%__Monetary":0.4422442244,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.01320132013,"%__Unsecured":0.5313531353,"Count__Denied":4,"Count__Monetary":134,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":4,"Count__Unsecured":161,"total_cases":303},{"id":365,"County":"Clinton","name":"Maggs, John W.","%__Denied":0.01630434783,"%__Monetary":0.6358695652,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.347826087,"Count__Denied":3,"Count__Monetary":117,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":64,"total_cases":184},{"id":367,"County":"Clinton","name":"Mills, Frank P.","%__Denied":0.002444987775,"%__Monetary":0.1491442543,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.4083129584,"%__Unsecured":0.4400977995,"Count__Denied":1,"Count__Monetary":61,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":167,"Count__Unsecured":180,"total_cases":409}],"Columbia":[{"id":368,"County":"Columbia","name":"Brewer, Doug D","%__Denied":0.002906976744,"%__Monetary":0.3110465116,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.5029069767,"%__Unsecured":0.1831395349,"Count__Denied":1,"Count__Monetary":107,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":173,"Count__Unsecured":63,"total_cases":344},{"id":369,"County":"Columbia","name":"Cashman, Richard P.","%__Denied":0.007299270073,"%__Monetary":0.2481751825,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.7445255474,"Count__Denied":1,"Count__Monetary":34,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":102,"total_cases":137},{"id":375,"County":"Columbia","name":"Knecht, Richard W.","%__Denied":0.01242236025,"%__Monetary":0.2173913043,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2732919255,"%__Unsecured":0.4968944099,"Count__Denied":2,"Count__Monetary":35,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":44,"Count__Unsecured":80,"total_cases":161},{"id":376,"County":"Columbia","name":"Lawton, Russell L.","%__Denied":0.002747252747,"%__Monetary":0.3049450549,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.002747252747,"%__Unsecured":0.6895604396,"Count__Denied":1,"Count__Monetary":111,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":251,"total_cases":364},{"id":378,"County":"Columbia","name":"Long, Craig W.","%__Denied":"0","%__Monetary":0.3782608696,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3608695652,"%__Unsecured":0.2608695652,"Count__Denied":"0","Count__Monetary":87,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":83,"Count__Unsecured":60,"total_cases":230},{"id":380,"County":"Columbia","name":"Norton, Gary E.","%__Denied":"0","%__Monetary":0.05309734513,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.9469026549,"Count__Denied":"0","Count__Monetary":6,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":107,"total_cases":113}],"Crawford":[{"id":385,"County":"Crawford","name":"Nicols, Amy L.","%__Denied":0.004395604396,"%__Monetary":0.3032967033,"%__Nominal":"0","%__Nonmonetary":0.01318681319,"%__ROR":0.4967032967,"%__Unsecured":0.1824175824,"Count__Denied":2,"Count__Monetary":138,"Count__Nominal":"0","Count__Nonmonetary":6,"Count__ROR":226,"Count__Unsecured":83,"total_cases":455},{"id":386,"County":"Crawford","name":"Pendolino, Samuel V.","%__Denied":0.01607717042,"%__Monetary":0.3922829582,"%__Nominal":"0","%__Nonmonetary":0.1061093248,"%__ROR":0.3585209003,"%__Unsecured":0.1270096463,"Count__Denied":10,"Count__Monetary":244,"Count__Nominal":"0","Count__Nonmonetary":66,"Count__ROR":223,"Count__Unsecured":79,"total_cases":622},{"id":389,"County":"Crawford","name":"Stallard, Adam D.","%__Denied":0.002673796791,"%__Monetary":0.2326203209,"%__Nominal":"0","%__Nonmonetary":0.01336898396,"%__ROR":0.5695187166,"%__Unsecured":0.1818181818,"Count__Denied":1,"Count__Monetary":87,"Count__Nominal":"0","Count__Nonmonetary":5,"Count__ROR":213,"Count__Unsecured":68,"total_cases":374},{"id":391,"County":"Crawford","name":"Zilhaver, Lincoln S.","%__Denied":"0","%__Monetary":0.3397849462,"%__Nominal":"0","%__Nonmonetary":0.264516129,"%__ROR":0.3806451613,"%__Unsecured":0.01505376344,"Count__Denied":"0","Count__Monetary":158,"Count__Nominal":"0","Count__Nonmonetary":123,"Count__ROR":177,"Count__Unsecured":7,"total_cases":465}],"Cumberland":[{"id":392,"County":"Cumberland","name":"Adams, H. Anthony","%__Denied":0.003344481605,"%__Monetary":0.3779264214,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3913043478,"%__Unsecured":0.2274247492,"Count__Denied":1,"Count__Monetary":113,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":117,"Count__Unsecured":68,"total_cases":299},{"id":393,"County":"Cumberland","name":"Beckley, Elizabeth S.","%__Denied":"0","%__Monetary":0.51,"%__Nominal":0.002,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.488,"Count__Denied":"0","Count__Monetary":255,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":244,"total_cases":500},{"id":394,"County":"Cumberland","name":"Birbeck, Jonathan R.","%__Denied":0.01649175412,"%__Monetary":0.23988006,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.5427286357,"%__Unsecured":0.2008995502,"Count__Denied":11,"Count__Monetary":160,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":362,"Count__Unsecured":134,"total_cases":667},{"id":398,"County":"Cumberland","name":"Cohick, Vivian","%__Denied":0.002777777778,"%__Monetary":0.4055555556,"%__Nominal":"0","%__Nonmonetary":0.01111111111,"%__ROR":0.3666666667,"%__Unsecured":0.2138888889,"Count__Denied":1,"Count__Monetary":146,"Count__Nominal":"0","Count__Nonmonetary":4,"Count__ROR":132,"Count__Unsecured":77,"total_cases":360},{"id":400,"County":"Cumberland","name":"Delozier, Christopher","%__Denied":0.002919708029,"%__Monetary":0.2948905109,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.302189781,"%__Unsecured":0.4,"Count__Denied":2,"Count__Monetary":202,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":207,"Count__Unsecured":274,"total_cases":685},{"id":401,"County":"Cumberland","name":"Fegley, Paul M.","%__Denied":0.0637755102,"%__Monetary":0.362244898,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3826530612,"%__Unsecured":0.1913265306,"Count__Denied":25,"Count__Monetary":142,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":150,"Count__Unsecured":75,"total_cases":392},{"id":402,"County":"Cumberland","name":"Freedman, Daniel J.","%__Denied":0.02807775378,"%__Monetary":0.3045356371,"%__Nominal":0.002159827214,"%__Nonmonetary":"0","%__ROR":0.4254859611,"%__Unsecured":0.2397408207,"Count__Denied":13,"Count__Monetary":141,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":197,"Count__Unsecured":111,"total_cases":463},{"id":406,"County":"Cumberland","name":"Martin, Mark","%__Denied":0.009280742459,"%__Monetary":0.3874709977,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3341067285,"%__Unsecured":0.2691415313,"Count__Denied":4,"Count__Monetary":167,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":144,"Count__Unsecured":116,"total_cases":431},{"id":412,"County":"Cumberland","name":"Sanderson, Michael","%__Denied":0.01699716714,"%__Monetary":0.3796033994,"%__Nominal":0.00283286119,"%__Nonmonetary":"0","%__ROR":0.3711048159,"%__Unsecured":0.2294617564,"Count__Denied":6,"Count__Monetary":134,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":131,"Count__Unsecured":81,"total_cases":353},{"id":414,"County":"Cumberland","name":"Silcox, Kathryn H.","%__Denied":0.006430868167,"%__Monetary":0.3488745981,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3167202572,"%__Unsecured":0.3279742765,"Count__Denied":4,"Count__Monetary":217,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":197,"Count__Unsecured":204,"total_cases":622}],"Dauphin":[{"id":423,"County":"Dauphin","name":"Johnson, Gregory D.","%__Denied":0.02777777778,"%__Monetary":0.2962962963,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.4722222222,"%__Unsecured":0.2037037037,"Count__Denied":9,"Count__Monetary":96,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":153,"Count__Unsecured":66,"total_cases":324},{"id":424,"County":"Dauphin","name":"Johnson, Hanif L. Sr.","%__Denied":0.03296703297,"%__Monetary":0.5659340659,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.4010989011,"Count__Denied":12,"Count__Monetary":206,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":146,"total_cases":364},{"id":425,"County":"Dauphin","name":"Judy, David H.","%__Denied":0.005714285714,"%__Monetary":0.3238095238,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2476190476,"%__Unsecured":0.4228571429,"Count__Denied":3,"Count__Monetary":170,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":130,"Count__Unsecured":222,"total_cases":525},{"id":426,"County":"Dauphin","name":"Klein, Dale E.","%__Denied":0.01305970149,"%__Monetary":0.2611940299,"%__Nominal":0.01119402985,"%__Nonmonetary":"0","%__ROR":0.3134328358,"%__Unsecured":0.401119403,"Count__Denied":7,"Count__Monetary":140,"Count__Nominal":6,"Count__Nonmonetary":"0","Count__ROR":168,"Count__Unsecured":215,"total_cases":536},{"id":427,"County":"Dauphin","name":"Lenker, James A.","%__Denied":0.01547619048,"%__Monetary":0.755952381,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.00119047619,"%__Unsecured":0.2273809524,"Count__Denied":13,"Count__Monetary":635,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":191,"total_cases":840},{"id":428,"County":"Dauphin","name":"Lenker, Kenneth A.","%__Denied":0.02,"%__Monetary":0.3925,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2725,"%__Unsecured":0.315,"Count__Denied":8,"Count__Monetary":157,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":109,"Count__Unsecured":126,"total_cases":400},{"id":430,"County":"Dauphin","name":"Lindsey, Joseph S.","%__Denied":0.009333333333,"%__Monetary":0.268,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.7226666667,"Count__Denied":7,"Count__Monetary":201,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":542,"total_cases":750},{"id":431,"County":"Dauphin","name":"Margerum, Rebecca Jo","%__Denied":0.0327510917,"%__Monetary":0.2641921397,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3799126638,"%__Unsecured":0.3231441048,"Count__Denied":15,"Count__Monetary":121,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":174,"Count__Unsecured":148,"total_cases":458},{"id":432,"County":"Dauphin","name":"Marsico, Edward M.","%__Denied":"0","%__Monetary":0.08482142857,"%__Nominal":0.004464285714,"%__Nonmonetary":"0","%__ROR":0.02232142857,"%__Unsecured":0.8883928571,"Count__Denied":"0","Count__Monetary":19,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":5,"Count__Unsecured":199,"total_cases":224},{"id":433,"County":"Dauphin","name":"McKnight, Sonya M.","%__Denied":0.01709401709,"%__Monetary":0.4615384615,"%__Nominal":"0","%__Nonmonetary":0.008547008547,"%__ROR":0.2136752137,"%__Unsecured":0.2991452991,"Count__Denied":4,"Count__Monetary":108,"Count__Nominal":"0","Count__Nonmonetary":2,"Count__ROR":50,"Count__Unsecured":70,"total_cases":234},{"id":436,"County":"Dauphin","name":"O'Leary, David","%__Denied":0.04126984127,"%__Monetary":0.2349206349,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.1619047619,"%__Unsecured":0.5619047619,"Count__Denied":13,"Count__Monetary":74,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":51,"Count__Unsecured":177,"total_cases":315},{"id":437,"County":"Dauphin","name":"Pelino, Dominic","%__Denied":0.005836575875,"%__Monetary":0.2315175097,"%__Nominal":"0","%__Nonmonetary":0.1167315175,"%__ROR":0.53307393,"%__Unsecured":0.1128404669,"Count__Denied":3,"Count__Monetary":119,"Count__Nominal":"0","Count__Nonmonetary":60,"Count__ROR":274,"Count__Unsecured":58,"total_cases":514},{"id":438,"County":"Dauphin","name":"Pianka, Barbara W.","%__Denied":0.02857142857,"%__Monetary":0.5071428571,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.002380952381,"%__Unsecured":0.4619047619,"Count__Denied":12,"Count__Monetary":213,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":194,"total_cases":420},{"id":439,"County":"Dauphin","name":"Postelle, Lavon A.","%__Denied":0.008,"%__Monetary":0.816,"%__Nominal":"0","%__Nonmonetary":0.008,"%__ROR":"0","%__Unsecured":0.168,"Count__Denied":1,"Count__Monetary":102,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":"0","Count__Unsecured":21,"total_cases":125},{"id":441,"County":"Dauphin","name":"Smith, Michael J.","%__Denied":0.01247920133,"%__Monetary":0.3361064892,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.0008319467554,"%__Unsecured":0.6505823627,"Count__Denied":15,"Count__Monetary":404,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":782,"total_cases":1202},{"id":443,"County":"Dauphin","name":"Urrutia, Marian","%__Denied":0.0201884253,"%__Monetary":0.2126514132,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.07940780619,"%__Unsecured":0.6877523553,"Count__Denied":15,"Count__Monetary":158,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":59,"Count__Unsecured":511,"total_cases":743},{"id":445,"County":"Dauphin","name":"Wenner, William C.","%__Denied":0.04381846635,"%__Monetary":0.2910798122,"%__Nominal":0.001564945227,"%__Nonmonetary":"0","%__ROR":0.4882629108,"%__Unsecured":0.1752738654,"Count__Denied":28,"Count__Monetary":186,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":312,"Count__Unsecured":112,"total_cases":639},{"id":448,"County":"Dauphin","name":"Zozos, George A.","%__Denied":0.009174311927,"%__Monetary":0.6539973788,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.007863695937,"%__Unsecured":0.3289646134,"Count__Denied":7,"Count__Monetary":499,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":6,"Count__Unsecured":251,"total_cases":763},{"id":449,"County":"Dauphin","name":"Zozos, Paul T.","%__Denied":0.01992753623,"%__Monetary":0.4311594203,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5489130435,"Count__Denied":11,"Count__Monetary":238,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":303,"total_cases":552}],"Delaware":[{"id":455,"County":"Delaware","name":"Burke, Robert R.","%__Denied":0.006535947712,"%__Monetary":0.6895424837,"%__Nominal":0.01307189542,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.2908496732,"Count__Denied":2,"Count__Monetary":211,"Count__Nominal":4,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":89,"total_cases":306},{"id":456,"County":"Delaware","name":"Burns, Michael A.","%__Denied":0.006134969325,"%__Monetary":0.7116564417,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.282208589,"Count__Denied":2,"Count__Monetary":232,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":92,"total_cases":326},{"id":460,"County":"Delaware","name":"Culp, Michael F.","%__Denied":"0","%__Monetary":0.6948228883,"%__Nominal":0.02179836512,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.2833787466,"Count__Denied":"0","Count__Monetary":255,"Count__Nominal":8,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":104,"total_cases":367},{"id":461,"County":"Delaware","name":"D'Agostino, Robert M.","%__Denied":0.007957559682,"%__Monetary":0.5649867374,"%__Nominal":0.01061007958,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.4164456233,"Count__Denied":3,"Count__Monetary":213,"Count__Nominal":4,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":157,"total_cases":377},{"id":464,"County":"Delaware","name":"Davis, Wilden H.","%__Denied":0.002849002849,"%__Monetary":0.6723646724,"%__Nominal":0.02564102564,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.2991452991,"Count__Denied":1,"Count__Monetary":236,"Count__Nominal":9,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":105,"total_cases":351},{"id":465,"County":"Delaware","name":"Dawson, George B.","%__Denied":0.002583979328,"%__Monetary":0.5943152455,"%__Nominal":0.005167958656,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.3979328165,"Count__Denied":1,"Count__Monetary":230,"Count__Nominal":2,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":154,"total_cases":387},{"id":467,"County":"Delaware","name":"Forbes, Tammi L.","%__Denied":0.01384083045,"%__Monetary":0.6228373702,"%__Nominal":0.03460207612,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.3287197232,"Count__Denied":4,"Count__Monetary":180,"Count__Nominal":10,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":95,"total_cases":289},{"id":470,"County":"Delaware","name":"Gallard, Elizabeth S.","%__Denied":0.004329004329,"%__Monetary":0.5584415584,"%__Nominal":0.008658008658,"%__Nonmonetary":"0","%__ROR":0.01298701299,"%__Unsecured":0.4155844156,"Count__Denied":1,"Count__Monetary":129,"Count__Nominal":2,"Count__Nonmonetary":"0","Count__ROR":3,"Count__Unsecured":96,"total_cases":231},{"id":471,"County":"Delaware","name":"Goldberg, Andrew","%__Denied":0.003012048193,"%__Monetary":0.6596385542,"%__Nominal":0.003012048193,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.3343373494,"Count__Denied":1,"Count__Monetary":219,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":111,"total_cases":332},{"id":473,"County":"Delaware","name":"Griffin, David R.","%__Denied":0.005769230769,"%__Monetary":0.4307692308,"%__Nominal":0.02692307692,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5365384615,"Count__Denied":3,"Count__Monetary":224,"Count__Nominal":14,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":279,"total_cases":520},{"id":474,"County":"Delaware","name":"Grimes, Lee Cullen","%__Denied":0.01785714286,"%__Monetary":0.568452381,"%__Nominal":0.07142857143,"%__Nonmonetary":0.08035714286,"%__ROR":0.1398809524,"%__Unsecured":0.1220238095,"Count__Denied":6,"Count__Monetary":191,"Count__Nominal":24,"Count__Nonmonetary":27,"Count__ROR":47,"Count__Unsecured":41,"total_cases":336},{"id":475,"County":"Delaware","name":"Holefelder, Diane M.","%__Denied":0.003795066414,"%__Monetary":0.330170778,"%__Nominal":0.02277039848,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6432637571,"Count__Denied":2,"Count__Monetary":174,"Count__Nominal":12,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":339,"total_cases":527},{"id":476,"County":"Delaware","name":"Hunter, Leon","%__Denied":0.005449591281,"%__Monetary":0.621253406,"%__Nominal":0.00272479564,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.3705722071,"Count__Denied":2,"Count__Monetary":228,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":136,"total_cases":367},{"id":477,"County":"Delaware","name":"Karapalides, Harry J.","%__Denied":0.01020408163,"%__Monetary":0.6666666667,"%__Nominal":0.02380952381,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.2993197279,"Count__Denied":3,"Count__Monetary":196,"Count__Nominal":7,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":88,"total_cases":294},{"id":480,"County":"Delaware","name":"Lacey, Thomas J.","%__Denied":0.02380952381,"%__Monetary":0.5595238095,"%__Nominal":0.02976190476,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.3869047619,"Count__Denied":4,"Count__Monetary":94,"Count__Nominal":5,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":65,"total_cases":168},{"id":481,"County":"Delaware","name":"Lang, David H.","%__Denied":0.01142857143,"%__Monetary":0.3085714286,"%__Nominal":0.05142857143,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6285714286,"Count__Denied":4,"Count__Monetary":108,"Count__Nominal":18,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":220,"total_cases":350},{"id":482,"County":"Delaware","name":"Lippart, Jack D.","%__Denied":0.006600660066,"%__Monetary":0.3663366337,"%__Nominal":0.003300330033,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6237623762,"Count__Denied":4,"Count__Monetary":222,"Count__Nominal":2,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":378,"total_cases":606},{"id":484,"County":"Delaware","name":"Mallon, Gregory M.","%__Denied":"0","%__Monetary":0.518134715,"%__Nominal":0.02590673575,"%__Nonmonetary":"0","%__ROR":0.00518134715,"%__Unsecured":0.4507772021,"Count__Denied":"0","Count__Monetary":100,"Count__Nominal":5,"Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":87,"total_cases":193},{"id":485,"County":"Delaware","name":"Mancini Duerr, Elysia","%__Denied":0.01623376623,"%__Monetary":0.5097402597,"%__Nominal":0.02922077922,"%__Nonmonetary":"0","%__ROR":0.02597402597,"%__Unsecured":0.4188311688,"Count__Denied":5,"Count__Monetary":157,"Count__Nominal":9,"Count__Nonmonetary":"0","Count__ROR":8,"Count__Unsecured":129,"total_cases":308},{"id":486,"County":"Delaware","name":"Mattox, Christopher R.","%__Denied":0.01136363636,"%__Monetary":0.6628787879,"%__Nominal":0.007575757576,"%__Nonmonetary":"0","%__ROR":0.003787878788,"%__Unsecured":0.3143939394,"Count__Denied":3,"Count__Monetary":175,"Count__Nominal":2,"Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":83,"total_cases":264},{"id":488,"County":"Delaware","name":"Merkins, James","%__Denied":0.01194029851,"%__Monetary":0.6179104478,"%__Nominal":0.01791044776,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.352238806,"Count__Denied":4,"Count__Monetary":207,"Count__Nominal":6,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":118,"total_cases":335},{"id":489,"County":"Delaware","name":"Micozzie-Aguirre, Kelly A.","%__Denied":0.003289473684,"%__Monetary":0.6710526316,"%__Nominal":0.009868421053,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.3157894737,"Count__Denied":1,"Count__Monetary":204,"Count__Nominal":3,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":96,"total_cases":304},{"id":491,"County":"Delaware","name":"Perfetti, John J.","%__Denied":0.00350877193,"%__Monetary":0.5473684211,"%__Nominal":0.00701754386,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.4421052632,"Count__Denied":1,"Count__Monetary":156,"Count__Nominal":2,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":126,"total_cases":285},{"id":493,"County":"Delaware","name":"Radano, Robert J.","%__Denied":0.007843137255,"%__Monetary":0.6823529412,"%__Nominal":0.007843137255,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.3019607843,"Count__Denied":2,"Count__Monetary":174,"Count__Nominal":2,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":77,"total_cases":255},{"id":494,"County":"Delaware","name":"Roberts, Wendy B.","%__Denied":0.006833712984,"%__Monetary":0.3371298405,"%__Nominal":0.006833712984,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6492027335,"Count__Denied":3,"Count__Monetary":148,"Count__Nominal":3,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":285,"total_cases":439},{"id":495,"County":"Delaware","name":"Sandone, Steven A.","%__Denied":0.005115089514,"%__Monetary":0.6547314578,"%__Nominal":0.01534526854,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.3248081841,"Count__Denied":2,"Count__Monetary":256,"Count__Nominal":6,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":127,"total_cases":391},{"id":497,"County":"Delaware","name":"Stone, Georgia L.","%__Denied":0.001414427157,"%__Monetary":0.4342291372,"%__Nominal":0.0198019802,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5445544554,"Count__Denied":1,"Count__Monetary":307,"Count__Nominal":14,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":385,"total_cases":707},{"id":498,"County":"Delaware","name":"Strohl, Walter A.","%__Denied":0.004464285714,"%__Monetary":0.6495535714,"%__Nominal":0.006696428571,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.3392857143,"Count__Denied":2,"Count__Monetary":291,"Count__Nominal":3,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":152,"total_cases":448},{"id":500,"County":"Delaware","name":"Turner, Philip S.","%__Denied":"0","%__Monetary":0.4158415842,"%__Nominal":"0","%__Nonmonetary":0.009900990099,"%__ROR":0.009900990099,"%__Unsecured":0.5643564356,"Count__Denied":"0","Count__Monetary":42,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":1,"Count__Unsecured":57,"total_cases":101},{"id":501,"County":"Delaware","name":"Vann, Dawn L.","%__Denied":"0","%__Monetary":0.4852071006,"%__Nominal":0.005917159763,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5088757396,"Count__Denied":"0","Count__Monetary":164,"Count__Nominal":2,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":172,"total_cases":338},{"id":502,"County":"Delaware","name":"Williams, W Keith II","%__Denied":0.002849002849,"%__Monetary":0.5754985755,"%__Nominal":0.01994301994,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.4017094017,"Count__Denied":1,"Count__Monetary":202,"Count__Nominal":7,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":141,"total_cases":351}],"Elk":[{"id":505,"County":"Elk","name":"Jacob, Mark S.","%__Denied":0.002293577982,"%__Monetary":0.2385321101,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.7591743119,"Count__Denied":1,"Count__Monetary":104,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":331,"total_cases":436},{"id":506,"County":"Elk","name":"Martin, James L.","%__Denied":"0","%__Monetary":0.3361823362,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6638176638,"Count__Denied":"0","Count__Monetary":118,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":233,"total_cases":351}],"Erie":[{"id":508,"County":"Erie","name":"Beveridge, Timothy S.","%__Denied":0.001552795031,"%__Monetary":0.5807453416,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2795031056,"%__Unsecured":0.1381987578,"Count__Denied":1,"Count__Monetary":374,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":180,"Count__Unsecured":89,"total_cases":644},{"id":509,"County":"Erie","name":"Bizzarro, Paul A.","%__Denied":0.01449275362,"%__Monetary":0.685300207,"%__Nominal":0.002070393375,"%__Nonmonetary":"0","%__ROR":0.07246376812,"%__Unsecured":0.2256728778,"Count__Denied":7,"Count__Monetary":331,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":35,"Count__Unsecured":109,"total_cases":483},{"id":510,"County":"Erie","name":"Brabender, Daniel J. Jr.","%__Denied":0.007142857143,"%__Monetary":0.2857142857,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3857142857,"%__Unsecured":0.3214285714,"Count__Denied":1,"Count__Monetary":40,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":54,"Count__Unsecured":45,"total_cases":140},{"id":511,"County":"Erie","name":"Buell, Denise Marie","%__Denied":0.003558718861,"%__Monetary":0.3772241993,"%__Nominal":0.007117437722,"%__Nonmonetary":"0","%__ROR":0.4128113879,"%__Unsecured":0.1992882562,"Count__Denied":1,"Count__Monetary":106,"Count__Nominal":2,"Count__Nonmonetary":"0","Count__ROR":116,"Count__Unsecured":56,"total_cases":281},{"id":512,"County":"Erie","name":"Carney, Thomas","%__Denied":0.004056795132,"%__Monetary":0.8620689655,"%__Nominal":0.002028397566,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.1318458418,"Count__Denied":2,"Count__Monetary":425,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":65,"total_cases":493},{"id":514,"County":"Erie","name":"Ferrick, Lisa","%__Denied":"0","%__Monetary":0.2823779193,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.5838641189,"%__Unsecured":0.1337579618,"Count__Denied":"0","Count__Monetary":133,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":275,"Count__Unsecured":63,"total_cases":471},{"id":515,"County":"Erie","name":"Gadley, Jeffrey S.","%__Denied":"0","%__Monetary":0.4130434783,"%__Nominal":"0","%__Nonmonetary":0.007246376812,"%__ROR":0.4347826087,"%__Unsecured":0.1449275362,"Count__Denied":"0","Count__Monetary":57,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":60,"Count__Unsecured":20,"total_cases":138},{"id":516,"County":"Erie","name":"Hammer, Scott B.","%__Denied":0.00583090379,"%__Monetary":0.443148688,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3702623907,"%__Unsecured":0.1807580175,"Count__Denied":2,"Count__Monetary":152,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":127,"Count__Unsecured":62,"total_cases":343},{"id":518,"County":"Erie","name":"Mack, Suzanne C.","%__Denied":0.0127388535,"%__Monetary":0.5414012739,"%__Nominal":"0","%__Nonmonetary":0.03662420382,"%__ROR":0.148089172,"%__Unsecured":0.2611464968,"Count__Denied":8,"Count__Monetary":340,"Count__Nominal":"0","Count__Nonmonetary":23,"Count__ROR":93,"Count__Unsecured":164,"total_cases":628},{"id":521,"County":"Erie","name":"McGowan, Brian M.","%__Denied":0.004819277108,"%__Monetary":0.2409638554,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.5325301205,"%__Unsecured":0.221686747,"Count__Denied":2,"Count__Monetary":100,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":221,"Count__Unsecured":92,"total_cases":415},{"id":522,"County":"Erie","name":"Mead, John J.","%__Denied":0.006329113924,"%__Monetary":0.1518987342,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2215189873,"%__Unsecured":0.6202531646,"Count__Denied":1,"Count__Monetary":24,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":35,"Count__Unsecured":98,"total_cases":158},{"id":523,"County":"Erie","name":"Mikielski, Laurie","%__Denied":0.002325581395,"%__Monetary":0.4023255814,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.4441860465,"%__Unsecured":0.1511627907,"Count__Denied":1,"Count__Monetary":173,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":191,"Count__Unsecured":65,"total_cases":430},{"id":525,"County":"Erie","name":"Ridge, David","%__Denied":"0","%__Monetary":0.1678321678,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.03496503497,"%__Unsecured":0.7972027972,"Count__Denied":"0","Count__Monetary":24,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":5,"Count__Unsecured":114,"total_cases":143},{"id":526,"County":"Erie","name":"Strohmeyer, Susan D.","%__Denied":"0","%__Monetary":0.4360655738,"%__Nominal":"0","%__Nonmonetary":0.003278688525,"%__ROR":0.406557377,"%__Unsecured":0.1540983607,"Count__Denied":"0","Count__Monetary":133,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":124,"Count__Unsecured":47,"total_cases":305},{"id":527,"County":"Erie","name":"Stuck-Lewis, Denise","%__Denied":0.002544529262,"%__Monetary":0.3129770992,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.5038167939,"%__Unsecured":0.1806615776,"Count__Denied":1,"Count__Monetary":123,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":198,"Count__Unsecured":71,"total_cases":393},{"id":529,"County":"Erie","name":"Wilson, Edward","%__Denied":0.006535947712,"%__Monetary":0.7777777778,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.08660130719,"%__Unsecured":0.1290849673,"Count__Denied":4,"Count__Monetary":476,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":53,"Count__Unsecured":79,"total_cases":612}],"Fayette":[{"id":537,"County":"Fayette","name":"Cox, Jason A.","%__Denied":0.02579132474,"%__Monetary":0.3528722157,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6213364596,"Count__Denied":22,"Count__Monetary":301,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":530,"total_cases":853},{"id":538,"County":"Fayette","name":"Defino, Michael  Jr.","%__Denied":0.06911447084,"%__Monetary":0.1943844492,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.01727861771,"%__Unsecured":0.7192224622,"Count__Denied":32,"Count__Monetary":90,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":8,"Count__Unsecured":333,"total_cases":463},{"id":540,"County":"Fayette","name":"Haggerty, Ronald J. Jr.","%__Denied":0.02845528455,"%__Monetary":0.3590785908,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6124661247,"Count__Denied":21,"Count__Monetary":265,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":452,"total_cases":738},{"id":542,"County":"Fayette","name":"Henning, Nathan A.","%__Denied":0.06782945736,"%__Monetary":0.3507751938,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.003875968992,"%__Unsecured":0.5775193798,"Count__Denied":35,"Count__Monetary":181,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":2,"Count__Unsecured":298,"total_cases":516},{"id":543,"County":"Fayette","name":"Jeffries, Jennifer L.","%__Denied":0.01711026616,"%__Monetary":0.3669201521,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6159695817,"Count__Denied":9,"Count__Monetary":193,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":324,"total_cases":526},{"id":546,"County":"Fayette","name":"Kasunic, Richard II","%__Denied":0.01348747592,"%__Monetary":0.2909441233,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.02312138728,"%__Unsecured":0.6724470135,"Count__Denied":7,"Count__Monetary":151,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":12,"Count__Unsecured":349,"total_cases":519},{"id":547,"County":"Fayette","name":"Leskinen, Steve P.","%__Denied":"0","%__Monetary":0.05988023952,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.02994011976,"%__Unsecured":0.9101796407,"Count__Denied":"0","Count__Monetary":10,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":5,"Count__Unsecured":152,"total_cases":167},{"id":550,"County":"Fayette","name":"Shimshock, Daniel C.","%__Denied":0.04219409283,"%__Monetary":0.2426160338,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.7151898734,"Count__Denied":20,"Count__Monetary":115,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":339,"total_cases":474}],"Forest":[{"id":557,"County":"Forest","name":"Miller, Daniel L.","%__Denied":"0","%__Monetary":0.2608695652,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.0347826087,"%__Unsecured":0.7043478261,"Count__Denied":"0","Count__Monetary":30,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":4,"Count__Unsecured":81,"total_cases":115}],"Franklin":[{"id":560,"County":"Franklin","name":"Cunningham, Duane K.","%__Denied":0.01347708895,"%__Monetary":0.460916442,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3908355795,"%__Unsecured":0.1347708895,"Count__Denied":5,"Count__Monetary":171,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":145,"Count__Unsecured":50,"total_cases":371},{"id":561,"County":"Franklin","name":"Eyer, Jody C.","%__Denied":0.02208201893,"%__Monetary":0.356466877,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3974763407,"%__Unsecured":0.2239747634,"Count__Denied":7,"Count__Monetary":113,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":126,"Count__Unsecured":71,"total_cases":317},{"id":562,"County":"Franklin","name":"Gomez Shockey, Annie","%__Denied":0.002079002079,"%__Monetary":0.4324324324,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2681912682,"%__Unsecured":0.2972972973,"Count__Denied":1,"Count__Monetary":208,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":129,"Count__Unsecured":143,"total_cases":481},{"id":565,"County":"Franklin","name":"Manns, Glenn Kenneth","%__Denied":0.03784860558,"%__Monetary":0.4442231076,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2549800797,"%__Unsecured":0.2629482072,"Count__Denied":19,"Count__Monetary":223,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":128,"Count__Unsecured":132,"total_cases":502},{"id":568,"County":"Franklin","name":"Nicklas, Kristin D.","%__Denied":0.01483050847,"%__Monetary":0.2966101695,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.406779661,"%__Unsecured":0.281779661,"Count__Denied":7,"Count__Monetary":140,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":192,"Count__Unsecured":133,"total_cases":472},{"id":569,"County":"Franklin","name":"Plum, David L.","%__Denied":0.003802281369,"%__Monetary":0.391634981,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.4106463878,"%__Unsecured":0.1939163498,"Count__Denied":1,"Count__Monetary":103,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":108,"Count__Unsecured":51,"total_cases":263},{"id":570,"County":"Franklin","name":"Rock, Kelly L.","%__Denied":0.0075,"%__Monetary":0.38,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.435,"%__Unsecured":0.1775,"Count__Denied":3,"Count__Monetary":152,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":174,"Count__Unsecured":71,"total_cases":400}],"Fulton":[{"id":575,"County":"Fulton","name":"Heming, Tamela M.","%__Denied":0.01754385965,"%__Monetary":0.1929824561,"%__Nominal":0.01754385965,"%__Nonmonetary":0.07894736842,"%__ROR":0.4298245614,"%__Unsecured":0.2631578947,"Count__Denied":2,"Count__Monetary":22,"Count__Nominal":2,"Count__Nonmonetary":9,"Count__ROR":49,"Count__Unsecured":30,"total_cases":114},{"id":576,"County":"Fulton","name":"Horne, Devin C.","%__Denied":0.008474576271,"%__Monetary":0.2627118644,"%__Nominal":"0","%__Nonmonetary":0.01694915254,"%__ROR":0.4830508475,"%__Unsecured":0.2288135593,"Count__Denied":1,"Count__Monetary":31,"Count__Nominal":"0","Count__Nonmonetary":2,"Count__ROR":57,"Count__Unsecured":27,"total_cases":118},{"id":578,"County":"Fulton","name":"Washabaugh, David A. V","%__Denied":0.01226993865,"%__Monetary":0.2085889571,"%__Nominal":"0","%__Nonmonetary":0.03067484663,"%__ROR":0.5521472393,"%__Unsecured":0.1963190184,"Count__Denied":2,"Count__Monetary":34,"Count__Nominal":"0","Count__Nonmonetary":5,"Count__ROR":90,"Count__Unsecured":32,"total_cases":163}],"Greene":[{"id":579,"County":"Greene","name":"Balint, David Curt","%__Denied":0.02884615385,"%__Monetary":0.4807692308,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2259615385,"%__Unsecured":0.2644230769,"Count__Denied":6,"Count__Monetary":100,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":47,"Count__Unsecured":55,"total_cases":208},{"id":580,"County":"Greene","name":"Bates, D. Glenn","%__Denied":"0","%__Monetary":0.5502392344,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.4497607656,"Count__Denied":"0","Count__Monetary":115,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":94,"total_cases":209},{"id":584,"County":"Greene","name":"Watson, Lee","%__Denied":0.07943925234,"%__Monetary":0.4205607477,"%__Nominal":"0","%__Nonmonetary":0.004672897196,"%__ROR":0.2710280374,"%__Unsecured":0.2242990654,"Count__Denied":17,"Count__Monetary":90,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":58,"Count__Unsecured":48,"total_cases":214}],"Huntingdon":[{"id":586,"County":"Huntingdon","name":"Brenneman, Rufus S.","%__Denied":0.01639344262,"%__Monetary":0.4885245902,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.01967213115,"%__Unsecured":0.4754098361,"Count__Denied":5,"Count__Monetary":149,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":6,"Count__Unsecured":145,"total_cases":305},{"id":587,"County":"Huntingdon","name":"Covert, Lisa Marie","%__Denied":0.0197740113,"%__Monetary":0.5254237288,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.4548022599,"Count__Denied":7,"Count__Monetary":186,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":161,"total_cases":354},{"id":588,"County":"Huntingdon","name":"Gummo, Douglas L.","%__Denied":0.02030456853,"%__Monetary":0.3197969543,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3096446701,"%__Unsecured":0.3502538071,"Count__Denied":4,"Count__Monetary":63,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":61,"Count__Unsecured":69,"total_cases":197}],"Indiana":[{"id":592,"County":"Indiana","name":"Bell, Robert Steele Sr.","%__Denied":0.006849315068,"%__Monetary":0.2979452055,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.5239726027,"%__Unsecured":0.1712328767,"Count__Denied":2,"Count__Monetary":87,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":153,"Count__Unsecured":50,"total_cases":292},{"id":596,"County":"Indiana","name":"Haberl, Guy B.","%__Denied":0.01265822785,"%__Monetary":0.4556962025,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.06329113924,"%__Unsecured":0.4683544304,"Count__Denied":4,"Count__Monetary":144,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":20,"Count__Unsecured":148,"total_cases":316},{"id":598,"County":"Indiana","name":"Steffee, Susanne V.","%__Denied":0.028125,"%__Monetary":0.325,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.459375,"%__Unsecured":0.1875,"Count__Denied":9,"Count__Monetary":104,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":147,"Count__Unsecured":60,"total_cases":320},{"id":599,"County":"Indiana","name":"Welch, Christopher S.","%__Denied":0.009836065574,"%__Monetary":0.3803278689,"%__Nominal":0.003278688525,"%__Nonmonetary":"0","%__ROR":0.01967213115,"%__Unsecured":0.5868852459,"Count__Denied":3,"Count__Monetary":116,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":6,"Count__Unsecured":179,"total_cases":305}],"Jefferson":[{"id":600,"County":"Jefferson","name":"Bazylak, Gregory M","%__Denied":0.006269592476,"%__Monetary":0.3479623824,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6457680251,"Count__Denied":2,"Count__Monetary":111,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":206,"total_cases":319},{"id":604,"County":"Jefferson","name":"Inzana, David B.","%__Denied":"0","%__Monetary":0.2537878788,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.7462121212,"Count__Denied":"0","Count__Monetary":67,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":197,"total_cases":264},{"id":605,"County":"Jefferson","name":"Mizerock, Jacqueline J.","%__Denied":"0","%__Monetary":0.1257309942,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.8742690058,"Count__Denied":"0","Count__Monetary":43,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":299,"total_cases":342}],"Juniata":[{"id":609,"County":"Juniata","name":"Leister, Jacqueline T.","%__Denied":0.006578947368,"%__Monetary":0.4210526316,"%__Nominal":"0","%__Nonmonetary":0.5065789474,"%__ROR":"0","%__Unsecured":0.06578947368,"Count__Denied":1,"Count__Monetary":64,"Count__Nominal":"0","Count__Nonmonetary":77,"Count__ROR":"0","Count__Unsecured":10,"total_cases":152},{"id":611,"County":"Juniata","name":"Powell, Tracy L.","%__Denied":"0","%__Monetary":0.3465346535,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6534653465,"Count__Denied":"0","Count__Monetary":70,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":132,"total_cases":202}],"Lackawanna":[{"id":613,"County":"Lackawanna","name":"Adcock, Kipp Edward","%__Denied":0.02182539683,"%__Monetary":0.5257936508,"%__Nominal":0.001984126984,"%__Nonmonetary":0.02777777778,"%__ROR":0.02182539683,"%__Unsecured":0.4007936508,"Count__Denied":11,"Count__Monetary":265,"Count__Nominal":1,"Count__Nonmonetary":14,"Count__ROR":11,"Count__Unsecured":202,"total_cases":504},{"id":618,"County":"Lackawanna","name":"Corbett, Joanne Price","%__Denied":0.004024144869,"%__Monetary":0.615694165,"%__Nominal":0.004024144869,"%__Nonmonetary":0.02012072435,"%__ROR":0.006036217304,"%__Unsecured":0.3501006036,"Count__Denied":2,"Count__Monetary":306,"Count__Nominal":2,"Count__Nonmonetary":10,"Count__ROR":3,"Count__Unsecured":174,"total_cases":497},{"id":621,"County":"Lackawanna","name":"Farrell, Alyce Hailstone","%__Denied":0.009638554217,"%__Monetary":0.4674698795,"%__Nominal":"0","%__Nonmonetary":0.0313253012,"%__ROR":0.01204819277,"%__Unsecured":0.4795180723,"Count__Denied":4,"Count__Monetary":194,"Count__Nominal":"0","Count__Nonmonetary":13,"Count__ROR":5,"Count__Unsecured":199,"total_cases":415},{"id":622,"County":"Lackawanna","name":"Gallagher, Terrence V.","%__Denied":"0","%__Monetary":0.4753694581,"%__Nominal":"0","%__Nonmonetary":0.09113300493,"%__ROR":0.04433497537,"%__Unsecured":0.3891625616,"Count__Denied":"0","Count__Monetary":193,"Count__Nominal":"0","Count__Nonmonetary":37,"Count__ROR":18,"Count__Unsecured":158,"total_cases":406},{"id":629,"County":"Lackawanna","name":"Keeler, Paul","%__Denied":"0","%__Monetary":0.525751073,"%__Nominal":"0","%__Nonmonetary":0.0364806867,"%__ROR":0.02145922747,"%__Unsecured":0.4163090129,"Count__Denied":"0","Count__Monetary":245,"Count__Nominal":"0","Count__Nonmonetary":17,"Count__ROR":10,"Count__Unsecured":194,"total_cases":466},{"id":631,"County":"Lackawanna","name":"McGraw, Sean P.","%__Denied":0.001968503937,"%__Monetary":0.5374015748,"%__Nominal":"0","%__Nonmonetary":0.009842519685,"%__ROR":0.007874015748,"%__Unsecured":0.4429133858,"Count__Denied":1,"Count__Monetary":273,"Count__Nominal":"0","Count__Nonmonetary":5,"Count__ROR":4,"Count__Unsecured":225,"total_cases":508},{"id":633,"County":"Lackawanna","name":"Pesota, John P.","%__Denied":"0","%__Monetary":0.5396475771,"%__Nominal":"0","%__Nonmonetary":0.1453744493,"%__ROR":0.03744493392,"%__Unsecured":0.2775330396,"Count__Denied":"0","Count__Monetary":245,"Count__Nominal":"0","Count__Nonmonetary":66,"Count__ROR":17,"Count__Unsecured":126,"total_cases":454},{"id":635,"County":"Lackawanna","name":"Seig, George E.","%__Denied":0.01555555556,"%__Monetary":0.6444444444,"%__Nominal":0.004444444444,"%__Nonmonetary":0.02444444444,"%__ROR":"0","%__Unsecured":0.3111111111,"Count__Denied":7,"Count__Monetary":290,"Count__Nominal":2,"Count__Nonmonetary":11,"Count__ROR":"0","Count__Unsecured":140,"total_cases":450},{"id":638,"County":"Lackawanna","name":"Turlip, Laura M.","%__Denied":0.01307189542,"%__Monetary":0.4836601307,"%__Nominal":"0","%__Nonmonetary":0.008169934641,"%__ROR":"0","%__Unsecured":0.4950980392,"Count__Denied":8,"Count__Monetary":296,"Count__Nominal":"0","Count__Nonmonetary":5,"Count__ROR":"0","Count__Unsecured":303,"total_cases":612},{"id":639,"County":"Lackawanna","name":"Ware, Paul J","%__Denied":0.01096491228,"%__Monetary":0.5855263158,"%__Nominal":"0","%__Nonmonetary":0.03728070175,"%__ROR":0.006578947368,"%__Unsecured":0.3596491228,"Count__Denied":5,"Count__Monetary":267,"Count__Nominal":"0","Count__Nonmonetary":17,"Count__ROR":3,"Count__Unsecured":164,"total_cases":456}],"Lancaster":[{"id":642,"County":"Lancaster","name":"Ashworth, David L.","%__Denied":"0","%__Monetary":0.0404040404,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.6565656566,"%__Unsecured":0.303030303,"Count__Denied":"0","Count__Monetary":8,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":130,"Count__Unsecured":60,"total_cases":198},{"id":643,"County":"Lancaster","name":"Bearinger, Clark","%__Denied":0.02903225806,"%__Monetary":0.5419354839,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.08709677419,"%__Unsecured":0.3419354839,"Count__Denied":9,"Count__Monetary":168,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":27,"Count__Unsecured":106,"total_cases":310},{"id":644,"County":"Lancaster","name":"Benner, William E. Jr.","%__Denied":0.00269541779,"%__Monetary":0.4501347709,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.08894878706,"%__Unsecured":0.4582210243,"Count__Denied":1,"Count__Monetary":167,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":33,"Count__Unsecured":170,"total_cases":371},{"id":645,"County":"Lancaster","name":"Bixler, Miles K.","%__Denied":0.004608294931,"%__Monetary":0.4930875576,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.04147465438,"%__Unsecured":0.4608294931,"Count__Denied":2,"Count__Monetary":214,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":18,"Count__Unsecured":200,"total_cases":434},{"id":647,"County":"Lancaster","name":"Chudzik, Brian E.","%__Denied":0.005235602094,"%__Monetary":0.5602094241,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.4345549738,"Count__Denied":2,"Count__Monetary":214,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":166,"total_cases":382},{"id":648,"County":"Lancaster","name":"Commins, B. Denise","%__Denied":0.002994011976,"%__Monetary":0.4491017964,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.02694610778,"%__Unsecured":0.5209580838,"Count__Denied":2,"Count__Monetary":300,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":18,"Count__Unsecured":348,"total_cases":668},{"id":653,"County":"Lancaster","name":"Hartman, Rodney H.","%__Denied":"0","%__Monetary":0.02092511013,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.7279735683,"%__Unsecured":0.2511013216,"Count__Denied":"0","Count__Monetary":19,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":661,"Count__Unsecured":228,"total_cases":908},{"id":654,"County":"Lancaster","name":"Heisse, Jonathan W.","%__Denied":0.001818181818,"%__Monetary":0.4163636364,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3054545455,"%__Unsecured":0.2763636364,"Count__Denied":1,"Count__Monetary":229,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":168,"Count__Unsecured":152,"total_cases":550},{"id":655,"County":"Lancaster","name":"Herman, Robert A. Jr.","%__Denied":"0","%__Monetary":0.06374172185,"%__Nominal":0.0008278145695,"%__Nonmonetary":"0","%__ROR":0.7491721854,"%__Unsecured":0.1862582781,"Count__Denied":"0","Count__Monetary":77,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":905,"Count__Unsecured":225,"total_cases":1208},{"id":656,"County":"Lancaster","name":"Keller, Joshua R.","%__Denied":0.08881578947,"%__Monetary":0.3717105263,"%__Nominal":0.01315789474,"%__Nonmonetary":"0","%__ROR":0.1151315789,"%__Unsecured":0.4111842105,"Count__Denied":27,"Count__Monetary":113,"Count__Nominal":4,"Count__Nonmonetary":"0","Count__ROR":35,"Count__Unsecured":125,"total_cases":304},{"id":659,"County":"Lancaster","name":"LeFever, Andrew T.","%__Denied":0.02008928571,"%__Monetary":0.2857142857,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.06919642857,"%__Unsecured":0.625,"Count__Denied":9,"Count__Monetary":128,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":31,"Count__Unsecured":280,"total_cases":448},{"id":660,"County":"Lancaster","name":"Miller, David P.","%__Denied":0.003710575139,"%__Monetary":0.3376623377,"%__Nominal":"0","%__Nonmonetary":0.00185528757,"%__ROR":0.2244897959,"%__Unsecured":0.4322820037,"Count__Denied":2,"Count__Monetary":182,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":121,"Count__Unsecured":233,"total_cases":539},{"id":662,"County":"Lancaster","name":"Miller, Randall L.","%__Denied":0.001333333333,"%__Monetary":0.3653333333,"%__Nominal":0.004,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6293333333,"Count__Denied":1,"Count__Monetary":274,"Count__Nominal":3,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":472,"total_cases":750},{"id":663,"County":"Lancaster","name":"Mongiovi Sponaugle, Mary","%__Denied":0.002247191011,"%__Monetary":0.3528089888,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2157303371,"%__Unsecured":0.4292134831,"Count__Denied":1,"Count__Monetary":157,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":96,"Count__Unsecured":191,"total_cases":445},{"id":664,"County":"Lancaster","name":"Mylin, Stuart J.","%__Denied":0.009933774834,"%__Monetary":0.5695364238,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.003311258278,"%__Unsecured":0.417218543,"Count__Denied":3,"Count__Monetary":172,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":126,"total_cases":302},{"id":667,"County":"Lancaster","name":"Richardson, Jodie E.","%__Denied":0.01928374656,"%__Monetary":0.5592286501,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.0523415978,"%__Unsecured":0.3691460055,"Count__Denied":7,"Count__Monetary":203,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":19,"Count__Unsecured":134,"total_cases":363},{"id":669,"County":"Lancaster","name":"Roth, Bruce A.","%__Denied":0.01183431953,"%__Monetary":0.5562130178,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.4319526627,"Count__Denied":4,"Count__Monetary":188,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":146,"total_cases":338},{"id":671,"County":"Lancaster","name":"Russell, Tony S.","%__Denied":0.004901960784,"%__Monetary":0.3946078431,"%__Nominal":0.002450980392,"%__Nonmonetary":"0","%__ROR":0.002450980392,"%__Unsecured":0.5955882353,"Count__Denied":2,"Count__Monetary":161,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":243,"total_cases":408},{"id":672,"County":"Lancaster","name":"Sheller, Raymond S.","%__Denied":0.02549575071,"%__Monetary":0.552407932,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.07082152975,"%__Unsecured":0.3512747875,"Count__Denied":9,"Count__Monetary":195,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":25,"Count__Unsecured":124,"total_cases":353},{"id":678,"County":"Lancaster","name":"Tobin, Edward A.","%__Denied":0.02114803625,"%__Monetary":0.419939577,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.01510574018,"%__Unsecured":0.5438066465,"Count__Denied":7,"Count__Monetary":139,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":5,"Count__Unsecured":180,"total_cases":331},{"id":679,"County":"Lancaster","name":"Witkonis, Adam J.","%__Denied":0.003649635036,"%__Monetary":0.4489051095,"%__Nominal":0.01277372263,"%__Nonmonetary":"0","%__ROR":0.151459854,"%__Unsecured":0.3832116788,"Count__Denied":2,"Count__Monetary":246,"Count__Nominal":7,"Count__Nonmonetary":"0","Count__ROR":83,"Count__Unsecured":210,"total_cases":548}],"Lawrence":[{"id":683,"County":"Lawrence","name":"Amodie, Melissa A.","%__Denied":0.007075471698,"%__Monetary":0.6768867925,"%__Nominal":"0","%__Nonmonetary":0.1886792453,"%__ROR":0.1108490566,"%__Unsecured":0.01650943396,"Count__Denied":3,"Count__Monetary":287,"Count__Nominal":"0","Count__Nonmonetary":80,"Count__ROR":47,"Count__Unsecured":7,"total_cases":424},{"id":684,"County":"Lawrence","name":"Cartwright, Jerry G. Jr.","%__Denied":0.006756756757,"%__Monetary":0.4527027027,"%__Nominal":"0","%__Nonmonetary":0.2297297297,"%__ROR":0.3006756757,"%__Unsecured":0.01013513514,"Count__Denied":2,"Count__Monetary":134,"Count__Nominal":"0","Count__Nonmonetary":68,"Count__ROR":89,"Count__Unsecured":3,"total_cases":296},{"id":687,"County":"Lawrence","name":"McGrath, Scott A.","%__Denied":"0","%__Monetary":0.04098360656,"%__Nominal":"0","%__Nonmonetary":0.4426229508,"%__ROR":0.5163934426,"%__Unsecured":"0","Count__Denied":"0","Count__Monetary":5,"Count__Nominal":"0","Count__Nonmonetary":54,"Count__ROR":63,"Count__Unsecured":"0","total_cases":122},{"id":690,"County":"Lawrence","name":"Nicholson, Jennifer L.","%__Denied":0.003496503497,"%__Monetary":0.458041958,"%__Nominal":"0","%__Nonmonetary":0.2377622378,"%__ROR":0.2657342657,"%__Unsecured":0.03496503497,"Count__Denied":1,"Count__Monetary":131,"Count__Nominal":"0","Count__Nonmonetary":68,"Count__ROR":76,"Count__Unsecured":10,"total_cases":286},{"id":693,"County":"Lawrence","name":"Rishel, David Blair","%__Denied":"0","%__Monetary":0.02459016393,"%__Nominal":"0","%__Nonmonetary":0.3196721311,"%__ROR":0.6475409836,"%__Unsecured":0.008196721311,"Count__Denied":"0","Count__Monetary":3,"Count__Nominal":"0","Count__Nonmonetary":39,"Count__ROR":79,"Count__Unsecured":1,"total_cases":122},{"id":694,"County":"Lawrence","name":"Russo, Richard A.","%__Denied":0.003194888179,"%__Monetary":0.4856230032,"%__Nominal":"0","%__Nonmonetary":0.1565495208,"%__ROR":0.2236421725,"%__Unsecured":0.1309904153,"Count__Denied":1,"Count__Monetary":152,"Count__Nominal":"0","Count__Nonmonetary":49,"Count__ROR":70,"Count__Unsecured":41,"total_cases":313}],"Lebanon":[{"id":696,"County":"Lebanon","name":"Dissinger, Maria M.","%__Denied":"0","%__Monetary":0.4147727273,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5852272727,"Count__Denied":"0","Count__Monetary":146,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":206,"total_cases":352},{"id":697,"County":"Lebanon","name":"Ditzler, John W.","%__Denied":0.004444444444,"%__Monetary":0.2466666667,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.002222222222,"%__Unsecured":0.7466666667,"Count__Denied":2,"Count__Monetary":111,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":336,"total_cases":450},{"id":699,"County":"Lebanon","name":"Figueroa, Aurelis","%__Denied":0.03004291845,"%__Monetary":0.2446351931,"%__Nominal":0.01716738197,"%__Nonmonetary":"0","%__ROR":0.09442060086,"%__Unsecured":0.6137339056,"Count__Denied":7,"Count__Monetary":57,"Count__Nominal":4,"Count__Nonmonetary":"0","Count__ROR":22,"Count__Unsecured":143,"total_cases":233},{"id":700,"County":"Lebanon","name":"Garver, Carl R.","%__Denied":0.01376146789,"%__Monetary":0.3233944954,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6628440367,"Count__Denied":6,"Count__Monetary":141,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":289,"total_cases":436},{"id":705,"County":"Lebanon","name":"Verna, Anthony J.","%__Denied":0.004115226337,"%__Monetary":0.3333333333,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6625514403,"Count__Denied":2,"Count__Monetary":162,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":322,"total_cases":486},{"id":706,"County":"Lebanon","name":"Wolfe, Kim R.","%__Denied":0.001828153565,"%__Monetary":0.2833638026,"%__Nominal":0.001828153565,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.7129798903,"Count__Denied":1,"Count__Monetary":155,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":390,"total_cases":547}],"Lehigh":[{"id":710,"County":"Lehigh","name":"Creighton, Tom Clair","%__Denied":"0","%__Monetary":0.7216494845,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.2783505155,"Count__Denied":"0","Count__Monetary":280,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":108,"total_cases":388},{"id":711,"County":"Lehigh","name":"D'Amore, Michael","%__Denied":0.01605839416,"%__Monetary":0.3474452555,"%__Nominal":0.1474452555,"%__Nonmonetary":"0","%__ROR":0.2116788321,"%__Unsecured":0.2773722628,"Count__Denied":11,"Count__Monetary":238,"Count__Nominal":101,"Count__Nonmonetary":"0","Count__ROR":145,"Count__Unsecured":190,"total_cases":685},{"id":712,"County":"Lehigh","name":"Devine, Karen C.","%__Denied":0.00176366843,"%__Monetary":0.5802469136,"%__Nominal":0.1128747795,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.3051146384,"Count__Denied":1,"Count__Monetary":329,"Count__Nominal":64,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":173,"total_cases":567},{"id":713,"County":"Lehigh","name":"Faulkner, Michael J","%__Denied":"0","%__Monetary":0.2969151671,"%__Nominal":0.001285347044,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.7017994859,"Count__Denied":"0","Count__Monetary":231,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":546,"total_cases":778},{"id":714,"County":"Lehigh","name":"Hammond, Jacob E.","%__Denied":0.001937984496,"%__Monetary":0.5484496124,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.09108527132,"%__Unsecured":0.3585271318,"Count__Denied":1,"Count__Monetary":283,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":47,"Count__Unsecured":185,"total_cases":516},{"id":715,"County":"Lehigh","name":"Heffelfinger, Todd P.","%__Denied":0.001428571429,"%__Monetary":0.3914285714,"%__Nominal":0.001428571429,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6057142857,"Count__Denied":1,"Count__Monetary":274,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":424,"total_cases":700},{"id":716,"County":"Lehigh","name":"Howells, David M. Jr.","%__Denied":0.01098901099,"%__Monetary":0.5516483516,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.4373626374,"Count__Denied":5,"Count__Monetary":251,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":199,"total_cases":455},{"id":719,"County":"Lehigh","name":"Manescu, Ronald S.","%__Denied":0.002155172414,"%__Monetary":0.713362069,"%__Nominal":0.002155172414,"%__Nonmonetary":"0","%__ROR":0.002155172414,"%__Unsecured":0.2801724138,"Count__Denied":1,"Count__Monetary":331,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":130,"total_cases":464},{"id":721,"County":"Lehigh","name":"Pochron, Michael Joseph","%__Denied":"0","%__Monetary":0.4439102564,"%__Nominal":0.003205128205,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5528846154,"Count__Denied":"0","Count__Monetary":277,"Count__Nominal":2,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":345,"total_cases":624},{"id":724,"County":"Lehigh","name":"Santiago, Rashid","%__Denied":0.003851091142,"%__Monetary":0.4184852375,"%__Nominal":0.04492939666,"%__Nonmonetary":"0","%__ROR":0.05263157895,"%__Unsecured":0.4801026958,"Count__Denied":3,"Count__Monetary":326,"Count__Nominal":35,"Count__Nonmonetary":"0","Count__ROR":41,"Count__Unsecured":374,"total_cases":779},{"id":728,"County":"Lehigh","name":"Trexler, Daniel C.","%__Denied":"0","%__Monetary":0.3132664437,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6867335563,"Count__Denied":"0","Count__Monetary":281,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":616,"total_cases":897},{"id":729,"County":"Lehigh","name":"Vega Sirop, Linda","%__Denied":0.01225114855,"%__Monetary":0.5007656968,"%__Nominal":0.07044410413,"%__Nonmonetary":"0","%__ROR":0.1822358346,"%__Unsecured":0.2343032159,"Count__Denied":8,"Count__Monetary":327,"Count__Nominal":46,"Count__Nonmonetary":"0","Count__ROR":119,"Count__Unsecured":153,"total_cases":653},{"id":730,"County":"Lehigh","name":"Zanelli, Amy","%__Denied":0.01372997712,"%__Monetary":0.5606407323,"%__Nominal":0.02059496568,"%__Nonmonetary":"0","%__ROR":0.1601830664,"%__Unsecured":0.2448512586,"Count__Denied":6,"Count__Monetary":245,"Count__Nominal":9,"Count__Nonmonetary":"0","Count__ROR":70,"Count__Unsecured":107,"total_cases":437}],"Luzerne":[{"id":731,"County":"Luzerne","name":"Barilla, David A.","%__Denied":0.04452054795,"%__Monetary":0.3664383562,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.1267123288,"%__Unsecured":0.4623287671,"Count__Denied":13,"Count__Monetary":107,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":37,"Count__Unsecured":135,"total_cases":292},{"id":733,"County":"Luzerne","name":"Carmody, Joseph J.","%__Denied":"0","%__Monetary":0.3463203463,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.07359307359,"%__Unsecured":0.5800865801,"Count__Denied":"0","Count__Monetary":80,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":17,"Count__Unsecured":134,"total_cases":231},{"id":734,"County":"Luzerne","name":"Christopher, Matthew C.","%__Denied":0.01595744681,"%__Monetary":0.2712765957,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3191489362,"%__Unsecured":0.3936170213,"Count__Denied":3,"Count__Monetary":51,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":60,"Count__Unsecured":74,"total_cases":188},{"id":735,"County":"Luzerne","name":"Cronauer, Rick","%__Denied":0.01132075472,"%__Monetary":0.2377358491,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.5226415094,"%__Unsecured":0.2283018868,"Count__Denied":6,"Count__Monetary":126,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":277,"Count__Unsecured":121,"total_cases":530},{"id":736,"County":"Luzerne","name":"Dixon, James M","%__Denied":0.1103047896,"%__Monetary":0.1886792453,"%__Nominal":"0","%__Nonmonetary":0.00145137881,"%__ROR":0.4165457184,"%__Unsecured":0.2830188679,"Count__Denied":76,"Count__Monetary":130,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":287,"Count__Unsecured":195,"total_cases":689},{"id":737,"County":"Luzerne","name":"Dotzel, Michael G.","%__Denied":0.004987531172,"%__Monetary":0.1346633416,"%__Nominal":"0","%__Nonmonetary":0.02743142145,"%__ROR":0.710723192,"%__Unsecured":0.1221945137,"Count__Denied":2,"Count__Monetary":54,"Count__Nominal":"0","Count__Nonmonetary":11,"Count__ROR":285,"Count__Unsecured":49,"total_cases":401},{"id":738,"County":"Luzerne","name":"Haggerty, James J.","%__Denied":0.01677852349,"%__Monetary":0.3791946309,"%__Nominal":0.003355704698,"%__Nonmonetary":0.03691275168,"%__ROR":0.1644295302,"%__Unsecured":0.3993288591,"Count__Denied":5,"Count__Monetary":113,"Count__Nominal":1,"Count__Nonmonetary":11,"Count__ROR":49,"Count__Unsecured":119,"total_cases":298},{"id":739,"County":"Luzerne","name":"Halesey, Joseph A.","%__Denied":0.03333333333,"%__Monetary":0.57,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.09666666667,"%__Unsecured":0.3,"Count__Denied":10,"Count__Monetary":171,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":29,"Count__Unsecured":90,"total_cases":300},{"id":742,"County":"Luzerne","name":"Kravitz, Alexandra Kokura","%__Denied":0.01865671642,"%__Monetary":0.4440298507,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.1268656716,"%__Unsecured":0.4104477612,"Count__Denied":5,"Count__Monetary":119,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":34,"Count__Unsecured":110,"total_cases":268},{"id":744,"County":"Luzerne","name":"Lupas, David W.","%__Denied":"0","%__Monetary":0.08732394366,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.9126760563,"Count__Denied":"0","Count__Monetary":31,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":324,"total_cases":355},{"id":745,"County":"Luzerne","name":"Malloy, Thomas F. Sr.","%__Denied":0.05439330544,"%__Monetary":0.4330543933,"%__Nominal":"0","%__Nonmonetary":0.002092050209,"%__ROR":0.1087866109,"%__Unsecured":0.4016736402,"Count__Denied":26,"Count__Monetary":207,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":52,"Count__Unsecured":192,"total_cases":478},{"id":746,"County":"Luzerne","name":"O'Donnell, Daniel","%__Denied":0.03255813953,"%__Monetary":0.3325581395,"%__Nominal":"0","%__Nonmonetary":0.02093023256,"%__ROR":0.4534883721,"%__Unsecured":0.1604651163,"Count__Denied":14,"Count__Monetary":143,"Count__Nominal":"0","Count__Nonmonetary":9,"Count__ROR":195,"Count__Unsecured":69,"total_cases":430},{"id":749,"County":"Luzerne","name":"Sklarosky, Joseph F. Jr.","%__Denied":"0","%__Monetary":0.09863945578,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.9013605442,"Count__Denied":"0","Count__Monetary":29,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":265,"total_cases":294},{"id":750,"County":"Luzerne","name":"Spagnuolo, Joseph D. Jr.","%__Denied":0.07307692308,"%__Monetary":0.55,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.1153846154,"%__Unsecured":0.2615384615,"Count__Denied":19,"Count__Monetary":143,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":30,"Count__Unsecured":68,"total_cases":260},{"id":752,"County":"Luzerne","name":"Tupper, Brian J.","%__Denied":0.02935010482,"%__Monetary":0.2725366876,"%__Nominal":"0","%__Nonmonetary":0.002096436059,"%__ROR":0.4255765199,"%__Unsecured":0.2704402516,"Count__Denied":14,"Count__Monetary":130,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":203,"Count__Unsecured":129,"total_cases":477},{"id":754,"County":"Luzerne","name":"Vough, Michael T.","%__Denied":0.01945525292,"%__Monetary":0.01167315175,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.9688715953,"Count__Denied":5,"Count__Monetary":3,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":249,"total_cases":257},{"id":755,"County":"Luzerne","name":"Webby, Ferris Peter Sr.","%__Denied":0.02985074627,"%__Monetary":0.4378109453,"%__Nominal":0.004975124378,"%__Nonmonetary":"0","%__ROR":0.2114427861,"%__Unsecured":0.315920398,"Count__Denied":12,"Count__Monetary":176,"Count__Nominal":2,"Count__Nonmonetary":"0","Count__ROR":85,"Count__Unsecured":127,"total_cases":402},{"id":756,"County":"Luzerne","name":"Whittaker, Donald L.","%__Denied":0.1054545455,"%__Monetary":0.5890909091,"%__Nominal":"0","%__Nonmonetary":0.01090909091,"%__ROR":0.06909090909,"%__Unsecured":0.2254545455,"Count__Denied":29,"Count__Monetary":162,"Count__Nominal":"0","Count__Nonmonetary":3,"Count__ROR":19,"Count__Unsecured":62,"total_cases":275},{"id":757,"County":"Luzerne","name":"Zola, Joseph D.","%__Denied":0.01478743068,"%__Monetary":0.1552680222,"%__Nominal":"0","%__Nonmonetary":0.005545286506,"%__ROR":0.6414048059,"%__Unsecured":0.1829944547,"Count__Denied":8,"Count__Monetary":84,"Count__Nominal":"0","Count__Nonmonetary":3,"Count__ROR":347,"Count__Unsecured":99,"total_cases":541}],"Lycoming":[{"id":759,"County":"Lycoming","name":"Biichle, Aaron S.","%__Denied":0.008591065292,"%__Monetary":0.3642611684,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6271477663,"Count__Denied":5,"Count__Monetary":212,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":365,"total_cases":582},{"id":765,"County":"Lycoming","name":"Dieter, Denise L.","%__Denied":0.06166219839,"%__Monetary":0.3780160858,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5603217158,"Count__Denied":23,"Count__Monetary":141,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":209,"total_cases":373},{"id":766,"County":"Lycoming","name":"Frey, Christian David","%__Denied":0.03666666667,"%__Monetary":0.425,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.003333333333,"%__Unsecured":0.535,"Count__Denied":22,"Count__Monetary":255,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":2,"Count__Unsecured":321,"total_cases":600},{"id":770,"County":"Lycoming","name":"Page, Allen P. III","%__Denied":"0","%__Monetary":0.1428571429,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.8571428571,"Count__Denied":"0","Count__Monetary":16,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":96,"total_cases":112},{"id":771,"County":"Lycoming","name":"Solomon, William C.","%__Denied":0.0495049505,"%__Monetary":0.4297029703,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5207920792,"Count__Denied":25,"Count__Monetary":217,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":263,"total_cases":505},{"id":773,"County":"Lycoming","name":"Whiteman, Gary A","%__Denied":0.02647975078,"%__Monetary":0.277258567,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6962616822,"Count__Denied":17,"Count__Monetary":178,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":447,"total_cases":642}],"McKean":[{"id":774,"County":"McKean","name":"Cercone, Dominic A. Jr.","%__Denied":0.004866180049,"%__Monetary":0.3357664234,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.0900243309,"%__Unsecured":0.5693430657,"Count__Denied":2,"Count__Monetary":138,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":37,"Count__Unsecured":234,"total_cases":411},{"id":775,"County":"McKean","name":"Engman, David Richard","%__Denied":"0","%__Monetary":0.3678571429,"%__Nominal":0.003571428571,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6285714286,"Count__Denied":"0","Count__Monetary":103,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":176,"total_cases":280},{"id":777,"County":"McKean","name":"Luther, Richard W.","%__Denied":0.002252252252,"%__Monetary":0.3243243243,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.05405405405,"%__Unsecured":0.6193693694,"Count__Denied":1,"Count__Monetary":144,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":24,"Count__Unsecured":275,"total_cases":444},{"id":780,"County":"McKean","name":"Todd, William K.","%__Denied":0.005934718101,"%__Monetary":0.3827893175,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.05341246291,"%__Unsecured":0.5578635015,"Count__Denied":2,"Count__Monetary":129,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":18,"Count__Unsecured":188,"total_cases":337}],"Mercer":[{"id":783,"County":"Mercer","name":"Arthur, Brian","%__Denied":"0","%__Monetary":0.402,"%__Nominal":0.002,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.596,"Count__Denied":"0","Count__Monetary":201,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":298,"total_cases":500},{"id":786,"County":"Mercer","name":"Davis, Daniel W.","%__Denied":0.005405405405,"%__Monetary":0.4216216216,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.04144144144,"%__Unsecured":0.5315315315,"Count__Denied":3,"Count__Monetary":234,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":23,"Count__Unsecured":295,"total_cases":555},{"id":789,"County":"Mercer","name":"Martwinski, Travis P.","%__Denied":"0","%__Monetary":0.4528593509,"%__Nominal":"0","%__Nonmonetary":0.00772797527,"%__ROR":0.2256568779,"%__Unsecured":0.313755796,"Count__Denied":"0","Count__Monetary":293,"Count__Nominal":"0","Count__Nonmonetary":5,"Count__ROR":146,"Count__Unsecured":203,"total_cases":647},{"id":793,"County":"Mercer","name":"Odem, Mary Ann","%__Denied":"0","%__Monetary":0.3095768374,"%__Nominal":"0","%__Nonmonetary":0.06792873051,"%__ROR":0.1080178174,"%__Unsecured":0.5144766147,"Count__Denied":"0","Count__Monetary":278,"Count__Nominal":"0","Count__Nonmonetary":61,"Count__ROR":97,"Count__Unsecured":462,"total_cases":898},{"id":797,"County":"Mercer","name":"Straub, Douglas E.","%__Denied":"0","%__Monetary":0.2464589235,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.01133144476,"%__Unsecured":0.7422096317,"Count__Denied":"0","Count__Monetary":87,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":4,"Count__Unsecured":262,"total_cases":353}],"Mifflin":[{"id":801,"County":"Mifflin","name":"Miller, Jack E.","%__Denied":0.01104972376,"%__Monetary":0.5580110497,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.4309392265,"Count__Denied":4,"Count__Monetary":202,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":156,"total_cases":362},{"id":802,"County":"Mifflin","name":"Reed, Jonathan W.","%__Denied":0.008797653959,"%__Monetary":0.5395894428,"%__Nominal":0.00293255132,"%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.4486803519,"Count__Denied":3,"Count__Monetary":184,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":153,"total_cases":341},{"id":803,"County":"Mifflin","name":"Smith, Kent A.","%__Denied":0.00583090379,"%__Monetary":0.4781341108,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5160349854,"Count__Denied":2,"Count__Monetary":164,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":177,"total_cases":343}],"Monroe":[{"id":804,"County":"Monroe","name":"Anzini, Kristina","%__Denied":0.02138157895,"%__Monetary":0.25,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.4802631579,"%__Unsecured":0.2483552632,"Count__Denied":13,"Count__Monetary":152,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":292,"Count__Unsecured":151,"total_cases":608},{"id":806,"County":"Monroe","name":"Gasper, Paul J.","%__Denied":0.005727376861,"%__Monetary":0.2233676976,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.01030927835,"%__Unsecured":0.7605956472,"Count__Denied":5,"Count__Monetary":195,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":9,"Count__Unsecured":664,"total_cases":873},{"id":807,"County":"Monroe","name":"Germano, Brian","%__Denied":0.01876172608,"%__Monetary":0.3939962477,"%__Nominal":0.001876172608,"%__Nonmonetary":"0","%__ROR":0.3264540338,"%__Unsecured":0.2589118199,"Count__Denied":10,"Count__Monetary":210,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":174,"Count__Unsecured":138,"total_cases":533},{"id":808,"County":"Monroe","name":"Higgins, Jr., C. Daniel","%__Denied":"0","%__Monetary":0.04098360656,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.03278688525,"%__Unsecured":0.9262295082,"Count__Denied":"0","Count__Monetary":5,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":4,"Count__Unsecured":113,"total_cases":122},{"id":811,"County":"Monroe","name":"Kresge, Daniel","%__Denied":0.004754358162,"%__Monetary":0.2282091918,"%__Nominal":0.001584786054,"%__Nonmonetary":"0","%__ROR":0.4136291601,"%__Unsecured":0.351822504,"Count__Denied":3,"Count__Monetary":144,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":261,"Count__Unsecured":222,"total_cases":631},{"id":813,"County":"Monroe","name":"Mancuso, Colleen","%__Denied":0.001818181818,"%__Monetary":0.3036363636,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.01272727273,"%__Unsecured":0.6818181818,"Count__Denied":1,"Count__Monetary":167,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":7,"Count__Unsecured":375,"total_cases":550},{"id":815,"County":"Monroe","name":"Muth, Michael R.","%__Denied":0.01063829787,"%__Monetary":0.3446808511,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.002127659574,"%__Unsecured":0.6425531915,"Count__Denied":5,"Count__Monetary":162,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":302,"total_cases":470},{"id":816,"County":"Monroe","name":"Riley, Phillip R.","%__Denied":"0","%__Monetary":0.3759398496,"%__Nominal":"0","%__Nonmonetary":0.001879699248,"%__ROR":0.4342105263,"%__Unsecured":0.1879699248,"Count__Denied":"0","Count__Monetary":200,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":231,"Count__Unsecured":100,"total_cases":532},{"id":824,"County":"Monroe","name":"Travagline, Danielle","%__Denied":0.0193236715,"%__Monetary":0.3333333333,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2342995169,"%__Unsecured":0.4130434783,"Count__Denied":8,"Count__Monetary":138,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":97,"Count__Unsecured":171,"total_cases":414}],"Montgomery":[{"id":831,"County":"Montgomery","name":"Alfarano, Marc A.","%__Denied":"0","%__Monetary":0.3287981859,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.002267573696,"%__Unsecured":0.6689342404,"Count__Denied":"0","Count__Monetary":145,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":295,"total_cases":441},{"id":832,"County":"Montgomery","name":"Ashe, Denise","%__Denied":0.007352941176,"%__Monetary":0.2095588235,"%__Nominal":0.003676470588,"%__Nonmonetary":"0","%__ROR":0.08088235294,"%__Unsecured":0.6985294118,"Count__Denied":2,"Count__Monetary":57,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":22,"Count__Unsecured":190,"total_cases":272},{"id":833,"County":"Montgomery","name":"Augustine, Albert J.","%__Denied":0.003418803419,"%__Monetary":0.2752136752,"%__Nominal":"0","%__Nonmonetary":0.001709401709,"%__ROR":0.001709401709,"%__Unsecured":0.7179487179,"Count__Denied":2,"Count__Monetary":161,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":1,"Count__Unsecured":420,"total_cases":585},{"id":841,"County":"Montgomery","name":"Cerski, Christopher J.","%__Denied":"0","%__Monetary":0.3492647059,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.07352941176,"%__Unsecured":0.5772058824,"Count__Denied":"0","Count__Monetary":95,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":20,"Count__Unsecured":157,"total_cases":272},{"id":844,"County":"Montgomery","name":"Coggins, Maureen C.","%__Denied":0.006607929515,"%__Monetary":0.2665198238,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.004405286344,"%__Unsecured":0.7224669604,"Count__Denied":3,"Count__Monetary":121,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":2,"Count__Unsecured":328,"total_cases":454},{"id":847,"County":"Montgomery","name":"DelRicci, Thomas M.","%__Denied":"0","%__Monetary":0.07936507937,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3412698413,"%__Unsecured":0.5793650794,"Count__Denied":"0","Count__Monetary":10,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":43,"Count__Unsecured":73,"total_cases":126},{"id":849,"County":"Montgomery","name":"Eisner Zucker, Karen","%__Denied":0.005376344086,"%__Monetary":0.2956989247,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6989247312,"Count__Denied":2,"Count__Monetary":110,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":260,"total_cases":372},{"id":852,"County":"Montgomery","name":"Friedenberg, Jay S.","%__Denied":"0","%__Monetary":0.2421227197,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2570480929,"%__Unsecured":0.5008291874,"Count__Denied":"0","Count__Monetary":146,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":155,"Count__Unsecured":302,"total_cases":603},{"id":854,"County":"Montgomery","name":"Gallagher, James P.","%__Denied":0.007334963325,"%__Monetary":0.3300733496,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3080684597,"%__Unsecured":0.3545232274,"Count__Denied":3,"Count__Monetary":135,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":126,"Count__Unsecured":145,"total_cases":409},{"id":857,"County":"Montgomery","name":"Griffis, Jodi L.","%__Denied":0.003787878788,"%__Monetary":0.2954545455,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.259469697,"%__Unsecured":0.4412878788,"Count__Denied":2,"Count__Monetary":156,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":137,"Count__Unsecured":233,"total_cases":528},{"id":859,"County":"Montgomery","name":"Hudak Duffy, Andrea","%__Denied":0.001792114695,"%__Monetary":0.2329749104,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2652329749,"%__Unsecured":0.5,"Count__Denied":1,"Count__Monetary":130,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":148,"Count__Unsecured":279,"total_cases":558},{"id":860,"County":"Montgomery","name":"Hunsicker, Margaret A.","%__Denied":0.002801120448,"%__Monetary":0.3221288515,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2464985994,"%__Unsecured":0.4285714286,"Count__Denied":1,"Count__Monetary":115,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":88,"Count__Unsecured":153,"total_cases":357},{"id":863,"County":"Montgomery","name":"Kelly Rebar, Cathleen","%__Denied":"0","%__Monetary":0.2865497076,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.007797270955,"%__Unsecured":0.7056530214,"Count__Denied":"0","Count__Monetary":147,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":4,"Count__Unsecured":362,"total_cases":513},{"id":864,"County":"Montgomery","name":"Kessler, John D.","%__Denied":0.007211538462,"%__Monetary":0.3341346154,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.1971153846,"%__Unsecured":0.4615384615,"Count__Denied":3,"Count__Monetary":139,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":82,"Count__Unsecured":192,"total_cases":416},{"id":866,"County":"Montgomery","name":"Kropp, Edward C. Sr.","%__Denied":0.006382978723,"%__Monetary":0.3765957447,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6170212766,"Count__Denied":3,"Count__Monetary":177,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":290,"total_cases":470},{"id":867,"County":"Montgomery","name":"Krouse, Patrick O.","%__Denied":0.001890359168,"%__Monetary":0.2873345936,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3345935728,"%__Unsecured":0.3761814745,"Count__Denied":1,"Count__Monetary":152,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":177,"Count__Unsecured":199,"total_cases":529},{"id":868,"County":"Montgomery","name":"Lawrence, Francis J. Jr.","%__Denied":0.00406504065,"%__Monetary":0.4756097561,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2073170732,"%__Unsecured":0.3130081301,"Count__Denied":1,"Count__Monetary":117,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":51,"Count__Unsecured":77,"total_cases":246},{"id":870,"County":"Montgomery","name":"Leo, Paul N.","%__Denied":"0","%__Monetary":0.3685300207,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6314699793,"Count__Denied":"0","Count__Monetary":178,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":305,"total_cases":483},{"id":871,"County":"Montgomery","name":"Leonard, Suzan","%__Denied":"0","%__Monetary":0.2942779292,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2997275204,"%__Unsecured":0.4059945504,"Count__Denied":"0","Count__Monetary":108,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":110,"Count__Unsecured":149,"total_cases":367},{"id":872,"County":"Montgomery","name":"Levine, Edward","%__Denied":"0","%__Monetary":0.194398682,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3805601318,"%__Unsecured":0.4250411862,"Count__Denied":"0","Count__Monetary":118,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":231,"Count__Unsecured":258,"total_cases":607},{"id":873,"County":"Montgomery","name":"Lukens, Deborah A.","%__Denied":"0","%__Monetary":0.3894389439,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2706270627,"%__Unsecured":0.3399339934,"Count__Denied":"0","Count__Monetary":118,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":82,"Count__Unsecured":103,"total_cases":303},{"id":875,"County":"Montgomery","name":"McGill, Katherine E","%__Denied":0.01052631579,"%__Monetary":0.3657894737,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.09736842105,"%__Unsecured":0.5263157895,"Count__Denied":4,"Count__Monetary":139,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":37,"Count__Unsecured":200,"total_cases":380},{"id":876,"County":"Montgomery","name":"McHugh Casey, Elizabeth","%__Denied":0.00641025641,"%__Monetary":0.4423076923,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5512820513,"Count__Denied":1,"Count__Monetary":69,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":86,"total_cases":156},{"id":878,"County":"Montgomery","name":"Nesbitt, Harry J. III","%__Denied":"0","%__Monetary":0.4044117647,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5955882353,"Count__Denied":"0","Count__Monetary":110,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":162,"total_cases":272},{"id":881,"County":"Montgomery","name":"Palladino, Scott T","%__Denied":0.002577319588,"%__Monetary":0.4020618557,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.01546391753,"%__Unsecured":0.5798969072,"Count__Denied":1,"Count__Monetary":156,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":6,"Count__Unsecured":225,"total_cases":388},{"id":883,"County":"Montgomery","name":"Price, Juanita A.","%__Denied":0.007407407407,"%__Monetary":0.375308642,"%__Nominal":"0","%__Nonmonetary":0.05925925926,"%__ROR":0.1580246914,"%__Unsecured":0.4,"Count__Denied":3,"Count__Monetary":152,"Count__Nominal":"0","Count__Nonmonetary":24,"Count__ROR":64,"Count__Unsecured":162,"total_cases":405},{"id":884,"County":"Montgomery","name":"Quinn, Michael P.","%__Denied":0.006688963211,"%__Monetary":0.3444816054,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.1237458194,"%__Unsecured":0.525083612,"Count__Denied":2,"Count__Monetary":103,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":37,"Count__Unsecured":157,"total_cases":299},{"id":886,"County":"Montgomery","name":"Rogers, Thomas P.","%__Denied":"0","%__Monetary":0.09433962264,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.03144654088,"%__Unsecured":0.8742138365,"Count__Denied":"0","Count__Monetary":15,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":5,"Count__Unsecured":139,"total_cases":159},{"id":887,"County":"Montgomery","name":"Rothstein, Wendy","%__Denied":"0","%__Monetary":0.07826086957,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.9217391304,"Count__Denied":"0","Count__Monetary":9,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":106,"total_cases":115},{"id":889,"County":"Montgomery","name":"Saylor, Maurice H.","%__Denied":0.006302521008,"%__Monetary":0.3571428571,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6365546218,"Count__Denied":3,"Count__Monetary":170,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":303,"total_cases":476},{"id":891,"County":"Montgomery","name":"Schireson, Henry J.","%__Denied":0.002123142251,"%__Monetary":0.2590233546,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.002123142251,"%__Unsecured":0.7367303609,"Count__Denied":1,"Count__Monetary":122,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":347,"total_cases":471},{"id":895,"County":"Montgomery","name":"Walker, Virgil B.","%__Denied":0.009933774834,"%__Monetary":0.1324503311,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.04966887417,"%__Unsecured":0.8079470199,"Count__Denied":3,"Count__Monetary":40,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":15,"Count__Unsecured":244,"total_cases":302},{"id":897,"County":"Montgomery","name":"Welsh, Richard H.","%__Denied":0.001594896332,"%__Monetary":0.2137161085,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.298245614,"%__Unsecured":0.4864433812,"Count__Denied":1,"Count__Monetary":134,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":187,"Count__Unsecured":305,"total_cases":627},{"id":899,"County":"Montgomery","name":"Zaffarano, Patricia A.","%__Denied":0.01146131805,"%__Monetary":0.3925501433,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2922636103,"%__Unsecured":0.3037249284,"Count__Denied":4,"Count__Monetary":137,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":102,"Count__Unsecured":106,"total_cases":349}],"Northampton":[{"id":913,"County":"Northampton","name":"Capobianco, John C.","%__Denied":0.003663003663,"%__Monetary":0.3443223443,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.652014652,"Count__Denied":2,"Count__Monetary":188,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":356,"total_cases":546},{"id":914,"County":"Northampton","name":"Corpora, Daniel G.","%__Denied":0.009803921569,"%__Monetary":0.5065359477,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.05882352941,"%__Unsecured":0.4248366013,"Count__Denied":3,"Count__Monetary":155,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":18,"Count__Unsecured":130,"total_cases":306},{"id":917,"County":"Northampton","name":"Englesson, Nicholas E.","%__Denied":"0","%__Monetary":0.3363431151,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.002257336343,"%__Unsecured":0.6613995485,"Count__Denied":"0","Count__Monetary":149,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":293,"total_cases":443},{"id":918,"County":"Northampton","name":"Hawke, Robert A.","%__Denied":0.007194244604,"%__Monetary":0.3543165468,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6384892086,"Count__Denied":4,"Count__Monetary":197,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":355,"total_cases":556},{"id":919,"County":"Northampton","name":"Hutnik, Susan","%__Denied":0.002645502646,"%__Monetary":0.2883597884,"%__Nominal":0.005291005291,"%__Nonmonetary":"0","%__ROR":0.3783068783,"%__Unsecured":0.3253968254,"Count__Denied":1,"Count__Monetary":109,"Count__Nominal":2,"Count__Nonmonetary":"0","Count__ROR":143,"Count__Unsecured":123,"total_cases":378},{"id":921,"County":"Northampton","name":"Knisley, Jordan A.","%__Denied":"0","%__Monetary":0.3196721311,"%__Nominal":0.008196721311,"%__Nonmonetary":"0","%__ROR":0.2267759563,"%__Unsecured":0.4453551913,"Count__Denied":"0","Count__Monetary":117,"Count__Nominal":3,"Count__Nonmonetary":"0","Count__ROR":83,"Count__Unsecured":163,"total_cases":366},{"id":923,"County":"Northampton","name":"Manwaring, Roy A. II","%__Denied":"0","%__Monetary":0.3385093168,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.03726708075,"%__Unsecured":0.6242236025,"Count__Denied":"0","Count__Monetary":109,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":12,"Count__Unsecured":201,"total_cases":322},{"id":924,"County":"Northampton","name":"McClure, Sandra L.","%__Denied":0.002375296912,"%__Monetary":0.486935867,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.02137767221,"%__Unsecured":0.4893111639,"Count__Denied":1,"Count__Monetary":205,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":9,"Count__Unsecured":206,"total_cases":421},{"id":925,"County":"Northampton","name":"Mege, Alan Roger","%__Denied":0.004761904762,"%__Monetary":0.2595238095,"%__Nominal":0.004761904762,"%__Nonmonetary":"0","%__ROR":0.2023809524,"%__Unsecured":0.5285714286,"Count__Denied":2,"Count__Monetary":109,"Count__Nominal":2,"Count__Nonmonetary":"0","Count__ROR":85,"Count__Unsecured":222,"total_cases":420},{"id":927,"County":"Northampton","name":"Munley, Thomas J.","%__Denied":"0","%__Monetary":0.3626373626,"%__Nominal":0.01648351648,"%__Nonmonetary":"0","%__ROR":0.3296703297,"%__Unsecured":0.2912087912,"Count__Denied":"0","Count__Monetary":66,"Count__Nominal":3,"Count__Nonmonetary":"0","Count__ROR":60,"Count__Unsecured":53,"total_cases":182},{"id":931,"County":"Northampton","name":"Schlegel, Douglas","%__Denied":"0","%__Monetary":0.3157894737,"%__Nominal":0.003289473684,"%__Nonmonetary":"0","%__ROR":0.375,"%__Unsecured":0.3059210526,"Count__Denied":"0","Count__Monetary":96,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":114,"Count__Unsecured":93,"total_cases":304},{"id":933,"County":"Northampton","name":"Weber, Robert Christian","%__Denied":0.003058103976,"%__Monetary":0.4220183486,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.009174311927,"%__Unsecured":0.5657492355,"Count__Denied":1,"Count__Monetary":138,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":3,"Count__Unsecured":185,"total_cases":327},{"id":934,"County":"Northampton","name":"Yetter, Richard H. III","%__Denied":0.01689189189,"%__Monetary":0.5405405405,"%__Nominal":0.006756756757,"%__Nonmonetary":"0","%__ROR":0.1182432432,"%__Unsecured":0.3175675676,"Count__Denied":5,"Count__Monetary":160,"Count__Nominal":2,"Count__Nonmonetary":"0","Count__ROR":35,"Count__Unsecured":94,"total_cases":296},{"id":935,"County":"Northampton","name":"Zito, Alicia Rose","%__Denied":"0","%__Monetary":0.4137931034,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5862068966,"Count__Denied":"0","Count__Monetary":132,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":187,"total_cases":319},{"id":936,"County":"Northampton","name":"Zumas, Vivian I.","%__Denied":0.009287925697,"%__Monetary":0.4674922601,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5232198142,"Count__Denied":3,"Count__Monetary":151,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":169,"total_cases":323}],"Northumberland":[{"id":937,"County":"Northumberland","name":"Cole, William Charles","%__Denied":0.002136752137,"%__Monetary":0.5833333333,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.4145299145,"Count__Denied":1,"Count__Monetary":273,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":194,"total_cases":468},{"id":939,"County":"Northumberland","name":"Diehl, Michael I.","%__Denied":0.01279707495,"%__Monetary":0.3089579525,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3491773309,"%__Unsecured":0.3290676417,"Count__Denied":7,"Count__Monetary":169,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":191,"Count__Unsecured":180,"total_cases":547},{"id":940,"County":"Northumberland","name":"Gembic, John","%__Denied":0.001677852349,"%__Monetary":0.5218120805,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.4765100671,"Count__Denied":1,"Count__Monetary":311,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":284,"total_cases":596},{"id":941,"County":"Northumberland","name":"Jones, Hugh Alan","%__Denied":"0","%__Monetary":0.08403361345,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.9159663866,"Count__Denied":"0","Count__Monetary":10,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":109,"total_cases":119},{"id":947,"County":"Northumberland","name":"Toomey, Michael Patrick","%__Denied":0.01496259352,"%__Monetary":0.3591022444,"%__Nominal":0.002493765586,"%__Nonmonetary":"0","%__ROR":0.1072319202,"%__Unsecured":0.5162094763,"Count__Denied":6,"Count__Monetary":144,"Count__Nominal":1,"Count__Nonmonetary":"0","Count__ROR":43,"Count__Unsecured":207,"total_cases":401}],"Perry":[{"id":953,"County":"Perry","name":"Frownfelter, Elizabeth R.","%__Denied":"0","%__Monetary":0.2034883721,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.738372093,"%__Unsecured":0.05813953488,"Count__Denied":"0","Count__Monetary":35,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":127,"Count__Unsecured":10,"total_cases":172},{"id":954,"County":"Perry","name":"Gibney, Richard C.","%__Denied":0.00487804878,"%__Monetary":0.2268292683,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.5926829268,"%__Unsecured":0.1756097561,"Count__Denied":2,"Count__Monetary":93,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":243,"Count__Unsecured":72,"total_cases":410},{"id":962,"County":"Perry","name":"Wood, Jeffrey J.","%__Denied":0.007246376812,"%__Monetary":0.1992753623,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.652173913,"%__Unsecured":0.1413043478,"Count__Denied":2,"Count__Monetary":55,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":180,"Count__Unsecured":39,"total_cases":276}],"Philadelphia":[{"id":964,"County":"Philadelphia","name":"Bernard, Francis X.","%__Denied":0.02668890742,"%__Monetary":0.647206005,"%__Nominal":"0","%__Nonmonetary":0.0005560189046,"%__ROR":0.1420628301,"%__Unsecured":0.1834862385,"Count__Denied":96,"Count__Monetary":2328,"Count__Nominal":"0","Count__Nonmonetary":2,"Count__ROR":511,"Count__Unsecured":660,"total_cases":3597},{"id":966,"County":"Philadelphia","name":"Capone, Joseph P.","%__Denied":0.007352941176,"%__Monetary":0.5735294118,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.09558823529,"%__Unsecured":0.3235294118,"Count__Denied":1,"Count__Monetary":78,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":13,"Count__Unsecured":44,"total_cases":136},{"id":968,"County":"Philadelphia","name":"Connor, Lauren","%__Denied":0.01537070524,"%__Monetary":0.5009041591,"%__Nominal":"0","%__Nonmonetary":0.000226039783,"%__ROR":0.2262658228,"%__Unsecured":0.2572332731,"Count__Denied":68,"Count__Monetary":2216,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":1001,"Count__Unsecured":1138,"total_cases":4424},{"id":971,"County":"Philadelphia","name":"E-Filing Judge","%__Denied":0.0213740458,"%__Monetary":0.5992366412,"%__Nominal":"0","%__Nonmonetary":0.0007633587786,"%__ROR":0.1740458015,"%__Unsecured":0.2045801527,"Count__Denied":28,"Count__Monetary":785,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":228,"Count__Unsecured":268,"total_cases":1310},{"id":975,"County":"Philadelphia","name":"Rainey, Debra","%__Denied":0.02273929138,"%__Monetary":0.4936541512,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2313590693,"%__Unsecured":0.2522474881,"Count__Denied":86,"Count__Monetary":1867,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":875,"Count__Unsecured":954,"total_cases":3782},{"id":976,"County":"Philadelphia","name":"Rigmaiden-DeLeon, Marilyn","%__Denied":0.01949094244,"%__Monetary":0.5599633112,"%__Nominal":"0","%__Nonmonetary":0.002063746847,"%__ROR":0.2114193992,"%__Unsecured":0.2070626003,"Count__Denied":85,"Count__Monetary":2442,"Count__Nominal":"0","Count__Nonmonetary":9,"Count__ROR":922,"Count__Unsecured":903,"total_cases":4361},{"id":977,"County":"Philadelphia","name":"Stack, Patrick","%__Denied":0.01920995671,"%__Monetary":0.6071428571,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3011363636,"%__Unsecured":0.07251082251,"Count__Denied":71,"Count__Monetary":2244,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1113,"Count__Unsecured":268,"total_cases":3696},{"id":978,"County":"Philadelphia","name":"Williams, Naomi","%__Denied":0.01628755967,"%__Monetary":0.5428250491,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2181971356,"%__Unsecured":0.2226902555,"Count__Denied":58,"Count__Monetary":1933,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":777,"Count__Unsecured":793,"total_cases":3561}],"Pike":[{"id":981,"County":"Pike","name":"Cooper, Alan B.","%__Denied":0.01167315175,"%__Monetary":0.1906614786,"%__Nominal":"0","%__Nonmonetary":0.3073929961,"%__ROR":0.326848249,"%__Unsecured":0.1634241245,"Count__Denied":3,"Count__Monetary":49,"Count__Nominal":"0","Count__Nonmonetary":79,"Count__ROR":84,"Count__Unsecured":42,"total_cases":257},{"id":982,"County":"Pike","name":"Fischer, Deborah","%__Denied":0.003861003861,"%__Monetary":0.3745173745,"%__Nominal":"0","%__Nonmonetary":0.1698841699,"%__ROR":0.4131274131,"%__Unsecured":0.03861003861,"Count__Denied":1,"Count__Monetary":97,"Count__Nominal":"0","Count__Nonmonetary":44,"Count__ROR":107,"Count__Unsecured":10,"total_cases":259},{"id":984,"County":"Pike","name":"Menditto, Paul D. Sr.","%__Denied":0.01587301587,"%__Monetary":0.25,"%__Nominal":"0","%__Nonmonetary":0.3968253968,"%__ROR":0.2579365079,"%__Unsecured":0.07936507937,"Count__Denied":4,"Count__Monetary":63,"Count__Nominal":"0","Count__Nonmonetary":100,"Count__ROR":65,"Count__Unsecured":20,"total_cases":252},{"id":985,"County":"Pike","name":"Schmalzle, Randy","%__Denied":0.01552795031,"%__Monetary":0.2857142857,"%__Nominal":"0","%__Nonmonetary":0.2142857143,"%__ROR":0.350931677,"%__Unsecured":0.1335403727,"Count__Denied":5,"Count__Monetary":92,"Count__Nominal":"0","Count__Nonmonetary":69,"Count__ROR":113,"Count__Unsecured":43,"total_cases":322}],"Potter":[{"id":989,"County":"Potter","name":"Hawkins, James L.","%__Denied":0.006289308176,"%__Monetary":0.1132075472,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.8805031447,"Count__Denied":1,"Count__Monetary":18,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":140,"total_cases":159},{"id":991,"County":"Potter","name":"Kalacinski, Christopher Dominic","%__Denied":0.02362204724,"%__Monetary":0.188976378,"%__Nominal":"0","%__Nonmonetary":0.1023622047,"%__ROR":0.1417322835,"%__Unsecured":0.5433070866,"Count__Denied":3,"Count__Monetary":24,"Count__Nominal":"0","Count__Nonmonetary":13,"Count__ROR":18,"Count__Unsecured":69,"total_cases":127}],"Schuylkill":[{"id":996,"County":"Schuylkill","name":"Bayer, Stephen J.","%__Denied":"0","%__Monetary":0.3717472119,"%__Nominal":0.007434944238,"%__Nonmonetary":"0","%__ROR":0.3940520446,"%__Unsecured":0.2267657993,"Count__Denied":"0","Count__Monetary":100,"Count__Nominal":2,"Count__Nonmonetary":"0","Count__ROR":106,"Count__Unsecured":61,"total_cases":269},{"id":1002,"County":"Schuylkill","name":"Hobbs, Christopher","%__Denied":"0","%__Monetary":0.14,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.03,"%__Unsecured":0.83,"Count__Denied":"0","Count__Monetary":14,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":3,"Count__Unsecured":83,"total_cases":100},{"id":1003,"County":"Schuylkill","name":"Kilker, Anthony J.","%__Denied":"0","%__Monetary":0.4520547945,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5479452055,"Count__Denied":"0","Count__Monetary":165,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":200,"total_cases":365},{"id":1005,"County":"Schuylkill","name":"Plachko, David A.","%__Denied":0.002380952381,"%__Monetary":0.4095238095,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.002380952381,"%__Unsecured":0.5857142857,"Count__Denied":1,"Count__Monetary":172,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":246,"total_cases":420},{"id":1006,"County":"Schuylkill","name":"Reiley, James","%__Denied":0.007142857143,"%__Monetary":0.4160714286,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5767857143,"Count__Denied":4,"Count__Monetary":233,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":323,"total_cases":560},{"id":1007,"County":"Schuylkill","name":"Rossi, David J.","%__Denied":"0","%__Monetary":0.3639143731,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6360856269,"Count__Denied":"0","Count__Monetary":119,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":208,"total_cases":327},{"id":1009,"County":"Schuylkill","name":"Serina, Andrew J.","%__Denied":"0","%__Monetary":0.1983695652,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.1304347826,"%__Unsecured":0.6711956522,"Count__Denied":"0","Count__Monetary":73,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":48,"Count__Unsecured":247,"total_cases":368},{"id":1010,"County":"Schuylkill","name":"Tarantelli, Edward","%__Denied":"0","%__Monetary":0.4817927171,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.01680672269,"%__Unsecured":0.5014005602,"Count__Denied":"0","Count__Monetary":172,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":6,"Count__Unsecured":179,"total_cases":357}],"Snyder":[{"id":1016,"County":"Snyder","name":"Reed, John H.","%__Denied":0.01595744681,"%__Monetary":0.2925531915,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.03191489362,"%__Unsecured":0.6595744681,"Count__Denied":3,"Count__Monetary":55,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":6,"Count__Unsecured":124,"total_cases":188},{"id":1020,"County":"Snyder","name":"Trawitz, Bo","%__Denied":0.00956937799,"%__Monetary":0.2200956938,"%__Nominal":"0","%__Nonmonetary":0.1531100478,"%__ROR":0.1004784689,"%__Unsecured":0.5167464115,"Count__Denied":2,"Count__Monetary":46,"Count__Nominal":"0","Count__Nonmonetary":32,"Count__ROR":21,"Count__Unsecured":108,"total_cases":209}],"Somerset":[{"id":1022,"County":"Somerset","name":"Bell, Douglas","%__Denied":"0","%__Monetary":0.3082191781,"%__Nominal":"0","%__Nonmonetary":0.4520547945,"%__ROR":"0","%__Unsecured":0.2397260274,"Count__Denied":"0","Count__Monetary":45,"Count__Nominal":"0","Count__Nonmonetary":66,"Count__ROR":"0","Count__Unsecured":35,"total_cases":146},{"id":1028,"County":"Somerset","name":"Johnson, Kenneth W","%__Denied":"0","%__Monetary":0.3484162896,"%__Nominal":"0","%__Nonmonetary":0.3009049774,"%__ROR":"0","%__Unsecured":0.350678733,"Count__Denied":"0","Count__Monetary":154,"Count__Nominal":"0","Count__Nonmonetary":133,"Count__ROR":"0","Count__Unsecured":155,"total_cases":442},{"id":1029,"County":"Somerset","name":"Mankamyer, Susan","%__Denied":0.03238866397,"%__Monetary":0.2631578947,"%__Nominal":0.008097165992,"%__Nonmonetary":0.5101214575,"%__ROR":0.01619433198,"%__Unsecured":0.1700404858,"Count__Denied":8,"Count__Monetary":65,"Count__Nominal":2,"Count__Nonmonetary":126,"Count__ROR":4,"Count__Unsecured":42,"total_cases":247},{"id":1030,"County":"Somerset","name":"Seger, William E.","%__Denied":0.005128205128,"%__Monetary":0.3538461538,"%__Nominal":"0","%__Nonmonetary":0.3846153846,"%__ROR":0.01025641026,"%__Unsecured":0.2461538462,"Count__Denied":1,"Count__Monetary":69,"Count__Nominal":"0","Count__Nonmonetary":75,"Count__ROR":2,"Count__Unsecured":48,"total_cases":195},{"id":1031,"County":"Somerset","name":"Stevanus, Sandra L.","%__Denied":0.01183431953,"%__Monetary":0.3964497041,"%__Nominal":"0","%__Nonmonetary":0.3017751479,"%__ROR":0.01183431953,"%__Unsecured":0.2781065089,"Count__Denied":2,"Count__Monetary":67,"Count__Nominal":"0","Count__Nonmonetary":51,"Count__ROR":2,"Count__Unsecured":47,"total_cases":169}],"Sullivan":[{"id":1034,"County":"Sullivan","name":"Vandine, Jennifer Y.","%__Denied":0.01515151515,"%__Monetary":0.2954545455,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.007575757576,"%__Unsecured":0.6818181818,"Count__Denied":2,"Count__Monetary":39,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":90,"total_cases":132}],"Susquehanna":[{"id":1035,"County":"Susquehanna","name":"Brainard, Suzanne","%__Denied":"0","%__Monetary":0.219123506,"%__Nominal":"0","%__Nonmonetary":0.02788844622,"%__ROR":0.4741035857,"%__Unsecured":0.2788844622,"Count__Denied":"0","Count__Monetary":55,"Count__Nominal":"0","Count__Nonmonetary":7,"Count__ROR":119,"Count__Unsecured":70,"total_cases":251},{"id":1037,"County":"Susquehanna","name":"Cordner, Jodi L.","%__Denied":0.02429149798,"%__Monetary":0.2348178138,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.4372469636,"%__Unsecured":0.3036437247,"Count__Denied":6,"Count__Monetary":58,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":108,"Count__Unsecured":75,"total_cases":247},{"id":1038,"County":"Susquehanna","name":"Hollister, Jeffrey L.","%__Denied":"0","%__Monetary":0.4270833333,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.1145833333,"%__Unsecured":0.4583333333,"Count__Denied":"0","Count__Monetary":82,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":22,"Count__Unsecured":88,"total_cases":192}],"Tioga":[{"id":1044,"County":"Tioga","name":"Cummings, Tiffany","%__Denied":0.04184100418,"%__Monetary":0.2343096234,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.7238493724,"Count__Denied":10,"Count__Monetary":56,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":173,"total_cases":239},{"id":1045,"County":"Tioga","name":"Edgcomb, James R.","%__Denied":0.04166666667,"%__Monetary":0.421875,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5364583333,"Count__Denied":8,"Count__Monetary":81,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":103,"total_cases":192},{"id":1050,"County":"Tioga","name":"Repard, Robert L.","%__Denied":0.06206896552,"%__Monetary":0.324137931,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.01379310345,"%__Unsecured":0.6,"Count__Denied":9,"Count__Monetary":47,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":2,"Count__Unsecured":87,"total_cases":145}],"Union":[{"id":1056,"County":"Union","name":"Mensch, Jeffrey L.","%__Denied":0.003921568627,"%__Monetary":0.2039215686,"%__Nominal":"0","%__Nonmonetary":0.2117647059,"%__ROR":0.4901960784,"%__Unsecured":0.09019607843,"Count__Denied":1,"Count__Monetary":52,"Count__Nominal":"0","Count__Nonmonetary":54,"Count__ROR":125,"Count__Unsecured":23,"total_cases":255},{"id":1059,"County":"Union","name":"Rowe, Jeffrey A.","%__Denied":0.006944444444,"%__Monetary":0.2708333333,"%__Nominal":"0","%__Nonmonetary":0.1354166667,"%__ROR":0.4027777778,"%__Unsecured":0.1840277778,"Count__Denied":2,"Count__Monetary":78,"Count__Nominal":"0","Count__Nonmonetary":39,"Count__ROR":116,"Count__Unsecured":53,"total_cases":288}],"Venango":[{"id":1064,"County":"Venango","name":"Fish, Andrew F.","%__Denied":0.115942029,"%__Monetary":0.4251207729,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.002415458937,"%__Unsecured":0.4565217391,"Count__Denied":48,"Count__Monetary":176,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":189,"total_cases":414},{"id":1066,"County":"Venango","name":"Kirtland, Matthew T.","%__Denied":0.05721393035,"%__Monetary":0.2885572139,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.004975124378,"%__Unsecured":0.6492537313,"Count__Denied":23,"Count__Monetary":116,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":2,"Count__Unsecured":261,"total_cases":402},{"id":1068,"County":"Venango","name":"Lowrey, Patrick E.","%__Denied":0.1627118644,"%__Monetary":0.2372881356,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6,"Count__Denied":48,"Count__Monetary":70,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":177,"total_cases":295}],"Warren":[{"id":1072,"County":"Warren","name":"Bauer, Laura S.","%__Denied":"0","%__Monetary":0.3966480447,"%__Nominal":"0","%__Nonmonetary":0.1620111732,"%__ROR":0.3966480447,"%__Unsecured":0.04469273743,"Count__Denied":"0","Count__Monetary":71,"Count__Nominal":"0","Count__Nonmonetary":29,"Count__ROR":71,"Count__Unsecured":8,"total_cases":179},{"id":1075,"County":"Warren","name":"Woodin, Todd A.","%__Denied":"0","%__Monetary":0.3888888889,"%__Nominal":"0","%__Nonmonetary":0.006172839506,"%__ROR":0.4259259259,"%__Unsecured":0.1790123457,"Count__Denied":"0","Count__Monetary":63,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":69,"Count__Unsecured":29,"total_cases":162},{"id":1076,"County":"Warren","name":"Zydonik, Raymond F.","%__Denied":0.01515151515,"%__Monetary":0.3888888889,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3636363636,"%__Unsecured":0.2323232323,"Count__Denied":3,"Count__Monetary":77,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":72,"Count__Unsecured":46,"total_cases":198}],"Washington":[{"id":1077,"County":"Washington","name":"Bruner, John Paul","%__Denied":0.004716981132,"%__Monetary":0.5330188679,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.004716981132,"%__Unsecured":0.4575471698,"Count__Denied":1,"Count__Monetary":113,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":97,"total_cases":212},{"id":1078,"County":"Washington","name":"Costanzo, Valarie","%__Denied":"0","%__Monetary":0.2857142857,"%__Nominal":"0","%__Nonmonetary":0.009523809524,"%__ROR":"0","%__Unsecured":0.7047619048,"Count__Denied":"0","Count__Monetary":30,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":"0","Count__Unsecured":74,"total_cases":105},{"id":1082,"County":"Washington","name":"Havelka, Gary H.","%__Denied":0.03361344538,"%__Monetary":0.6554621849,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.04201680672,"%__Unsecured":0.268907563,"Count__Denied":4,"Count__Monetary":78,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":5,"Count__Unsecured":32,"total_cases":119},{"id":1083,"County":"Washington","name":"Hopkins, Larry W.","%__Denied":0.002915451895,"%__Monetary":0.02623906706,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.970845481,"Count__Denied":1,"Count__Monetary":9,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":333,"total_cases":343},{"id":1084,"County":"Washington","name":"Kanalis, Joshua P.","%__Denied":0.171875,"%__Monetary":0.34765625,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.30859375,"%__Unsecured":0.171875,"Count__Denied":44,"Count__Monetary":89,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":79,"Count__Unsecured":44,"total_cases":256},{"id":1085,"County":"Washington","name":"Manfredi, Michael L.","%__Denied":0.02489626556,"%__Monetary":0.3921161826,"%__Nominal":"0","%__Nonmonetary":0.02489626556,"%__ROR":0.3070539419,"%__Unsecured":0.2510373444,"Count__Denied":12,"Count__Monetary":189,"Count__Nominal":"0","Count__Nonmonetary":12,"Count__ROR":148,"Count__Unsecured":121,"total_cases":482},{"id":1086,"County":"Washington","name":"Mark, David W.","%__Denied":0.01960784314,"%__Monetary":0.05490196078,"%__Nominal":"0","%__Nonmonetary":0.01176470588,"%__ROR":0.7960784314,"%__Unsecured":0.1176470588,"Count__Denied":5,"Count__Monetary":14,"Count__Nominal":"0","Count__Nonmonetary":3,"Count__ROR":203,"Count__Unsecured":30,"total_cases":255},{"id":1087,"County":"Washington","name":"McQuillan, Louis J.","%__Denied":0.02621722846,"%__Monetary":0.3707865169,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.06367041199,"%__Unsecured":0.5393258427,"Count__Denied":7,"Count__Monetary":99,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":17,"Count__Unsecured":144,"total_cases":267},{"id":1088,"County":"Washington","name":"Melograne, Phillippe","%__Denied":0.02262443439,"%__Monetary":0.3574660633,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.09049773756,"%__Unsecured":0.5294117647,"Count__Denied":5,"Count__Monetary":79,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":20,"Count__Unsecured":117,"total_cases":221},{"id":1090,"County":"Washington","name":"Neuman, Brandon","%__Denied":0.006896551724,"%__Monetary":0.1379310345,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.03448275862,"%__Unsecured":0.8206896552,"Count__Denied":1,"Count__Monetary":20,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":5,"Count__Unsecured":119,"total_cases":145},{"id":1091,"County":"Washington","name":"Porter, Eric Glenn","%__Denied":0.06291390728,"%__Monetary":0.4900662252,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.006622516556,"%__Unsecured":0.440397351,"Count__Denied":19,"Count__Monetary":148,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":2,"Count__Unsecured":133,"total_cases":302},{"id":1093,"County":"Washington","name":"Saieva, James  Jr.","%__Denied":0.01016949153,"%__Monetary":0.606779661,"%__Nominal":"0","%__Nonmonetary":0.01016949153,"%__ROR":0.1728813559,"%__Unsecured":0.2,"Count__Denied":3,"Count__Monetary":179,"Count__Nominal":"0","Count__Nonmonetary":3,"Count__ROR":51,"Count__Unsecured":59,"total_cases":295},{"id":1094,"County":"Washington","name":"Stewart, Kelly J.","%__Denied":0.04077253219,"%__Monetary":0.4120171674,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.002145922747,"%__Unsecured":0.5450643777,"Count__Denied":19,"Count__Monetary":192,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":254,"total_cases":466},{"id":1095,"County":"Washington","name":"Thompson, Curtis","%__Denied":0.01515151515,"%__Monetary":0.4696969697,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.5151515152,"Count__Denied":3,"Count__Monetary":93,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":102,"total_cases":198},{"id":1096,"County":"Washington","name":"Wilson, Mark","%__Denied":0.01568627451,"%__Monetary":0.5215686275,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.1843137255,"%__Unsecured":0.2784313725,"Count__Denied":4,"Count__Monetary":133,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":47,"Count__Unsecured":71,"total_cases":255}],"Wayne":[{"id":1097,"County":"Wayne","name":"Bates, Kay L.","%__Denied":0.01136363636,"%__Monetary":0.5284090909,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.1875,"%__Unsecured":0.2727272727,"Count__Denied":2,"Count__Monetary":93,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":33,"Count__Unsecured":48,"total_cases":176},{"id":1099,"County":"Wayne","name":"Carney, Bonnie L.","%__Denied":0.01428571429,"%__Monetary":0.6428571429,"%__Nominal":"0","%__Nonmonetary":0.007142857143,"%__ROR":0.06428571429,"%__Unsecured":0.2714285714,"Count__Denied":2,"Count__Monetary":90,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":9,"Count__Unsecured":38,"total_cases":140},{"id":1100,"County":"Wayne","name":"Dunsinger, Jonathan J.","%__Denied":"0","%__Monetary":0.1960784314,"%__Nominal":"0","%__Nonmonetary":0.002801120448,"%__ROR":0.3473389356,"%__Unsecured":0.4537815126,"Count__Denied":"0","Count__Monetary":70,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":124,"Count__Unsecured":162,"total_cases":357}],"Westmoreland":[{"id":1105,"County":"Westmoreland","name":"Bilik, Mark J.","%__Denied":"0","%__Monetary":0.2709677419,"%__Nominal":"0","%__Nonmonetary":0.01290322581,"%__ROR":0.5032258065,"%__Unsecured":0.2129032258,"Count__Denied":"0","Count__Monetary":42,"Count__Nominal":"0","Count__Nonmonetary":2,"Count__ROR":78,"Count__Unsecured":33,"total_cases":155},{"id":1108,"County":"Westmoreland","name":"Buczak, Jason","%__Denied":0.07282913165,"%__Monetary":0.2352941176,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3921568627,"%__Unsecured":0.299719888,"Count__Denied":26,"Count__Monetary":84,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":140,"Count__Unsecured":107,"total_cases":357},{"id":1110,"County":"Westmoreland","name":"Christner, Charles M.","%__Denied":0.0176056338,"%__Monetary":0.2992957746,"%__Nominal":"0","%__Nonmonetary":0.1514084507,"%__ROR":0.4612676056,"%__Unsecured":0.07042253521,"Count__Denied":5,"Count__Monetary":85,"Count__Nominal":"0","Count__Nonmonetary":43,"Count__ROR":131,"Count__Unsecured":20,"total_cases":284},{"id":1112,"County":"Westmoreland","name":"Conway, Charles R.","%__Denied":0.06614785992,"%__Monetary":0.08949416342,"%__Nominal":0.03501945525,"%__Nonmonetary":0.003891050584,"%__ROR":0.5058365759,"%__Unsecured":0.2996108949,"Count__Denied":17,"Count__Monetary":23,"Count__Nominal":9,"Count__Nonmonetary":1,"Count__ROR":130,"Count__Unsecured":77,"total_cases":257},{"id":1116,"County":"Westmoreland","name":"DeMarchis, Joseph R.","%__Denied":0.05144032922,"%__Monetary":0.3580246914,"%__Nominal":"0","%__Nonmonetary":0.002057613169,"%__ROR":0.06172839506,"%__Unsecured":0.5267489712,"Count__Denied":25,"Count__Monetary":174,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":30,"Count__Unsecured":256,"total_cases":486},{"id":1120,"County":"Westmoreland","name":"Fanchalsky, Scott A.","%__Denied":0.03345724907,"%__Monetary":0.2602230483,"%__Nominal":"0","%__Nonmonetary":0.003717472119,"%__ROR":0.5092936803,"%__Unsecured":0.1933085502,"Count__Denied":18,"Count__Monetary":140,"Count__Nominal":"0","Count__Nonmonetary":2,"Count__ROR":274,"Count__Unsecured":104,"total_cases":538},{"id":1121,"County":"Westmoreland","name":"Flanigan, Chris","%__Denied":0.08143322476,"%__Monetary":0.3175895765,"%__Nominal":0.00325732899,"%__Nonmonetary":0.03908794788,"%__ROR":0.3175895765,"%__Unsecured":0.2410423453,"Count__Denied":50,"Count__Monetary":195,"Count__Nominal":2,"Count__Nonmonetary":24,"Count__ROR":195,"Count__Unsecured":148,"total_cases":614},{"id":1123,"County":"Westmoreland","name":"Gongaware, Wayne","%__Denied":0.03950617284,"%__Monetary":0.187654321,"%__Nominal":"0","%__Nonmonetary":0.002469135802,"%__ROR":0.187654321,"%__Unsecured":0.5827160494,"Count__Denied":16,"Count__Monetary":76,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":76,"Count__Unsecured":236,"total_cases":405},{"id":1125,"County":"Westmoreland","name":"Hammers, Kelly Tua","%__Denied":0.06268656716,"%__Monetary":0.2746268657,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.1373134328,"%__Unsecured":0.5253731343,"Count__Denied":21,"Count__Monetary":92,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":46,"Count__Unsecured":176,"total_cases":335},{"id":1129,"County":"Westmoreland","name":"Kistler, Helen M.","%__Denied":0.05882352941,"%__Monetary":0.2647058824,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2647058824,"%__Unsecured":0.4117647059,"Count__Denied":8,"Count__Monetary":36,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":36,"Count__Unsecured":56,"total_cases":136},{"id":1132,"County":"Westmoreland","name":"Mahady, Tamara J.","%__Denied":0.02170283806,"%__Monetary":0.1652754591,"%__Nominal":0.006677796327,"%__Nonmonetary":0.003338898164,"%__ROR":0.6410684474,"%__Unsecured":0.1619365609,"Count__Denied":13,"Count__Monetary":99,"Count__Nominal":4,"Count__Nonmonetary":2,"Count__ROR":384,"Count__Unsecured":97,"total_cases":599},{"id":1133,"County":"Westmoreland","name":"Mansour, Mark","%__Denied":0.03036437247,"%__Monetary":0.4170040486,"%__Nominal":"0","%__Nonmonetary":0.02024291498,"%__ROR":0.2874493927,"%__Unsecured":0.2449392713,"Count__Denied":15,"Count__Monetary":206,"Count__Nominal":"0","Count__Nonmonetary":10,"Count__ROR":142,"Count__Unsecured":121,"total_cases":494},{"id":1137,"County":"Westmoreland","name":"Moore, Charles D.","%__Denied":0.006451612903,"%__Monetary":0.3322580645,"%__Nominal":"0","%__Nonmonetary":0.04677419355,"%__ROR":0.5887096774,"%__Unsecured":0.02580645161,"Count__Denied":4,"Count__Monetary":206,"Count__Nominal":"0","Count__Nonmonetary":29,"Count__ROR":365,"Count__Unsecured":16,"total_cases":620},{"id":1140,"County":"Westmoreland","name":"Pallone, Frank J. Jr.","%__Denied":0.03443328551,"%__Monetary":0.2869440459,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.3744619799,"%__Unsecured":0.3041606887,"Count__Denied":24,"Count__Monetary":200,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":261,"Count__Unsecured":212,"total_cases":697},{"id":1141,"County":"Westmoreland","name":"Peck-Yakopec, Cheryl J.","%__Denied":0.01388888889,"%__Monetary":0.2361111111,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.001736111111,"%__Unsecured":0.7482638889,"Count__Denied":8,"Count__Monetary":136,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":431,"total_cases":576},{"id":1146,"County":"Westmoreland","name":"Thiel, Denise S.","%__Denied":0.0622406639,"%__Monetary":0.2406639004,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.4937759336,"%__Unsecured":0.2033195021,"Count__Denied":15,"Count__Monetary":58,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":119,"Count__Unsecured":49,"total_cases":241},{"id":1147,"County":"Westmoreland","name":"Tyburski, Rebecca C.","%__Denied":0.1135646688,"%__Monetary":0.2870662461,"%__Nominal":0.003154574132,"%__Nonmonetary":0.2996845426,"%__ROR":0.03154574132,"%__Unsecured":0.2649842271,"Count__Denied":36,"Count__Monetary":91,"Count__Nominal":1,"Count__Nonmonetary":95,"Count__ROR":10,"Count__Unsecured":84,"total_cases":317},{"id":1148,"County":"Westmoreland","name":"Vlasic, Wayne P.","%__Denied":0.00979020979,"%__Monetary":0.1776223776,"%__Nominal":"0","%__Nonmonetary":0.001398601399,"%__ROR":0.2909090909,"%__Unsecured":0.5202797203,"Count__Denied":7,"Count__Monetary":127,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":208,"Count__Unsecured":372,"total_cases":715}],"Wyoming":[{"id":1152,"County":"Wyoming","name":"Plummer, David K","%__Denied":0.003968253968,"%__Monetary":0.2380952381,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.003968253968,"%__Unsecured":0.753968254,"Count__Denied":1,"Count__Monetary":60,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":1,"Count__Unsecured":190,"total_cases":252},{"id":1154,"County":"Wyoming","name":"Smith, Carl W. Jr.","%__Denied":"0","%__Monetary":0.3109243697,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":"0","%__Unsecured":0.6890756303,"Count__Denied":"0","Count__Monetary":74,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":"0","Count__Unsecured":164,"total_cases":238}],"York":[{"id":1155,"County":"York","name":"Albright, Keith L.","%__Denied":0.009090909091,"%__Monetary":0.5454545455,"%__Nominal":"0","%__Nonmonetary":0.009090909091,"%__ROR":0.1363636364,"%__Unsecured":0.3,"Count__Denied":1,"Count__Monetary":60,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":15,"Count__Unsecured":33,"total_cases":110},{"id":1157,"County":"York","name":"Bloss, Barry L. Jr.","%__Denied":0.01013024602,"%__Monetary":0.3415340087,"%__Nominal":"0","%__Nonmonetary":0.1273516643,"%__ROR":0.4413892909,"%__Unsecured":0.07959479016,"Count__Denied":7,"Count__Monetary":236,"Count__Nominal":"0","Count__Nonmonetary":88,"Count__ROR":305,"Count__Unsecured":55,"total_cases":691},{"id":1158,"County":"York","name":"Boxley, Adrian  Sr.","%__Denied":0.01428571429,"%__Monetary":0.4571428571,"%__Nominal":0.002857142857,"%__Nonmonetary":0.06571428571,"%__ROR":0.18,"%__Unsecured":0.28,"Count__Denied":5,"Count__Monetary":160,"Count__Nominal":1,"Count__Nonmonetary":23,"Count__ROR":63,"Count__Unsecured":98,"total_cases":350},{"id":1159,"County":"York","name":"Clancy, Jennifer J.P.","%__Denied":0.01284796574,"%__Monetary":0.3832976445,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.2505353319,"%__Unsecured":0.3533190578,"Count__Denied":6,"Count__Monetary":179,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":117,"Count__Unsecured":165,"total_cases":467},{"id":1160,"County":"York","name":"Cook, Maria M.","%__Denied":"0","%__Monetary":0.07751937984,"%__Nominal":"0","%__Nonmonetary":0.1085271318,"%__ROR":0.1627906977,"%__Unsecured":0.6511627907,"Count__Denied":"0","Count__Monetary":10,"Count__Nominal":"0","Count__Nonmonetary":14,"Count__ROR":21,"Count__Unsecured":84,"total_cases":129},{"id":1161,"County":"York","name":"Eckenrode, Robert A.","%__Denied":0.01134215501,"%__Monetary":0.3988657845,"%__Nominal":"0","%__Nonmonetary":0.04347826087,"%__ROR":0.3875236295,"%__Unsecured":0.1587901701,"Count__Denied":6,"Count__Monetary":211,"Count__Nominal":"0","Count__Nonmonetary":23,"Count__ROR":205,"Count__Unsecured":84,"total_cases":529},{"id":1163,"County":"York","name":"Eshbach, David C","%__Denied":0.02750491159,"%__Monetary":0.3752455796,"%__Nominal":0.005893909627,"%__Nonmonetary":0.1453831041,"%__ROR":0.2907662083,"%__Unsecured":0.1552062868,"Count__Denied":14,"Count__Monetary":191,"Count__Nominal":3,"Count__Nonmonetary":74,"Count__ROR":148,"Count__Unsecured":79,"total_cases":509},{"id":1164,"County":"York","name":"Fishel, John H.","%__Denied":0.05135520685,"%__Monetary":0.2881597718,"%__Nominal":0.008559201141,"%__Nonmonetary":0.05848787447,"%__ROR":0.4964336662,"%__Unsecured":0.0970042796,"Count__Denied":36,"Count__Monetary":202,"Count__Nominal":6,"Count__Nonmonetary":41,"Count__ROR":348,"Count__Unsecured":68,"total_cases":701},{"id":1165,"County":"York","name":"Gross, Scott J.","%__Denied":0.001324503311,"%__Monetary":0.2556291391,"%__Nominal":0.006622516556,"%__Nonmonetary":0.1735099338,"%__ROR":0.4225165563,"%__Unsecured":0.140397351,"Count__Denied":1,"Count__Monetary":193,"Count__Nominal":5,"Count__Nonmonetary":131,"Count__ROR":319,"Count__Unsecured":106,"total_cases":755},{"id":1167,"County":"York","name":"Harteis, Thomas L.","%__Denied":0.0286259542,"%__Monetary":0.3778625954,"%__Nominal":0.02290076336,"%__Nonmonetary":0.06297709924,"%__ROR":0.2099236641,"%__Unsecured":0.2977099237,"Count__Denied":15,"Count__Monetary":198,"Count__Nominal":12,"Count__Nonmonetary":33,"Count__ROR":110,"Count__Unsecured":156,"total_cases":524},{"id":1169,"County":"York","name":"Herman, Robert A. Jr.","%__Denied":0.01115241636,"%__Monetary":0.1449814126,"%__Nominal":"0","%__Nonmonetary":0.003717472119,"%__ROR":0.5799256506,"%__Unsecured":0.2602230483,"Count__Denied":3,"Count__Monetary":39,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":156,"Count__Unsecured":70,"total_cases":269},{"id":1171,"County":"York","name":"Kraft, Amber","%__Denied":"0","%__Monetary":0.0347826087,"%__Nominal":"0","%__Nonmonetary":0.0347826087,"%__ROR":0.2434782609,"%__Unsecured":0.6869565217,"Count__Denied":"0","Count__Monetary":4,"Count__Nominal":"0","Count__Nonmonetary":4,"Count__ROR":28,"Count__Unsecured":79,"total_cases":115},{"id":1172,"County":"York","name":"Laird, Scott","%__Denied":0.01468189233,"%__Monetary":0.4045676998,"%__Nominal":0.00163132137,"%__Nonmonetary":0.1745513866,"%__ROR":0.3800978793,"%__Unsecured":0.02446982055,"Count__Denied":9,"Count__Monetary":248,"Count__Nominal":1,"Count__Nonmonetary":107,"Count__ROR":233,"Count__Unsecured":15,"total_cases":613},{"id":1173,"County":"York","name":"Manifold, Laura S.","%__Denied":0.01386138614,"%__Monetary":0.3762376238,"%__Nominal":"0","%__Nonmonetary":0.05940594059,"%__ROR":0.3683168317,"%__Unsecured":0.1821782178,"Count__Denied":7,"Count__Monetary":190,"Count__Nominal":"0","Count__Nonmonetary":30,"Count__ROR":186,"Count__Unsecured":92,"total_cases":505},{"id":1177,"County":"York","name":"Morgan, James H.","%__Denied":0.02813852814,"%__Monetary":0.4653679654,"%__Nominal":"0","%__Nonmonetary":0.004329004329,"%__ROR":0.3008658009,"%__Unsecured":0.2012987013,"Count__Denied":13,"Count__Monetary":215,"Count__Nominal":"0","Count__Nonmonetary":2,"Count__ROR":139,"Count__Unsecured":93,"total_cases":462},{"id":1178,"County":"York","name":"Ness, Harry M.","%__Denied":"0","%__Monetary":0.1635514019,"%__Nominal":"0","%__Nonmonetary":"0","%__ROR":0.191588785,"%__Unsecured":0.6448598131,"Count__Denied":"0","Count__Monetary":35,"Count__Nominal":"0","Count__Nonmonetary":"0","Count__ROR":41,"Count__Unsecured":138,"total_cases":214},{"id":1179,"County":"York","name":"Oberdorf, Jeffrey L.","%__Denied":0.01123595506,"%__Monetary":0.2851123596,"%__Nominal":0.002808988764,"%__Nonmonetary":0.01123595506,"%__ROR":0.4325842697,"%__Unsecured":0.2570224719,"Count__Denied":8,"Count__Monetary":203,"Count__Nominal":2,"Count__Nonmonetary":8,"Count__ROR":308,"Count__Unsecured":183,"total_cases":712},{"id":1180,"County":"York","name":"Prendergast, Kathleen J.","%__Denied":"0","%__Monetary":0.1194968553,"%__Nominal":"0","%__Nonmonetary":0.03144654088,"%__ROR":0.2075471698,"%__Unsecured":0.641509434,"Count__Denied":"0","Count__Monetary":19,"Count__Nominal":"0","Count__Nonmonetary":5,"Count__ROR":33,"Count__Unsecured":102,"total_cases":159},{"id":1182,"County":"York","name":"Reilly, Thomas J.","%__Denied":0.01533018868,"%__Monetary":0.3455188679,"%__Nominal":0.01650943396,"%__Nonmonetary":0.001179245283,"%__ROR":0.3054245283,"%__Unsecured":0.3160377358,"Count__Denied":13,"Count__Monetary":293,"Count__Nominal":14,"Count__Nonmonetary":1,"Count__ROR":259,"Count__Unsecured":268,"total_cases":848},{"id":1185,"County":"York","name":"Sneeringer, Jeffrey A.","%__Denied":0.004132231405,"%__Monetary":0.3842975207,"%__Nominal":"0","%__Nonmonetary":0.02066115702,"%__ROR":0.3119834711,"%__Unsecured":0.2789256198,"Count__Denied":2,"Count__Monetary":186,"Count__Nominal":"0","Count__Nonmonetary":10,"Count__ROR":151,"Count__Unsecured":135,"total_cases":484},{"id":1186,"County":"York","name":"Snyder, Greogry M.","%__Denied":0.005714285714,"%__Monetary":0.06285714286,"%__Nominal":0.005714285714,"%__Nonmonetary":0.005714285714,"%__ROR":0.52,"%__Unsecured":0.4,"Count__Denied":1,"Count__Monetary":11,"Count__Nominal":1,"Count__Nonmonetary":1,"Count__ROR":91,"Count__Unsecured":70,"total_cases":175},{"id":1187,"County":"York","name":"Sweeney, Lindy Lane","%__Denied":0.02819548872,"%__Monetary":0.1879699248,"%__Nominal":"0","%__Nonmonetary":0.02443609023,"%__ROR":0.257518797,"%__Unsecured":0.5018796992,"Count__Denied":15,"Count__Monetary":100,"Count__Nominal":"0","Count__Nonmonetary":13,"Count__ROR":137,"Count__Unsecured":267,"total_cases":532},{"id":1189,"County":"York","name":"Thomas, Richard T.","%__Denied":0.01210653753,"%__Monetary":0.3268765133,"%__Nominal":0.02905569007,"%__Nonmonetary":0.06537530266,"%__ROR":0.3849878935,"%__Unsecured":0.181598063,"Count__Denied":5,"Count__Monetary":135,"Count__Nominal":12,"Count__Nonmonetary":27,"Count__ROR":159,"Count__Unsecured":75,"total_cases":413},{"id":1190,"County":"York","name":"Toluba, Joel N.","%__Denied":0.01353965184,"%__Monetary":0.4545454545,"%__Nominal":"0","%__Nonmonetary":0.001934235977,"%__ROR":0.2321083172,"%__Unsecured":0.2978723404,"Count__Denied":7,"Count__Monetary":235,"Count__Nominal":"0","Count__Nonmonetary":1,"Count__ROR":120,"Count__Unsecured":154,"total_cases":517}]};
+
+
+// export const MDJ_DATA = {
+//   "Adams": [
+//     {
+//       "name": "Beauchat, Mark D.",
+//       "cash_bail_pct": 0.28827,
+//       "unsecured_pct": 0.10338,
+//       "ror_pct": 0.32008,
+//       "nonmonetary_pct": 0.28827,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.4,
+//       "cash_bail_pct_white": 0.276786,
+//       "total_cases": 503
+//     },
+//     {
+//       "name": "Bowman, Daniel S.",
+//       "cash_bail_pct": 0.346334,
+//       "unsecured_pct": 0.126365,
+//       "ror_pct": 0.263651,
+//       "nonmonetary_pct": 0.263651,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.460317,
+//       "cash_bail_pct_white": 0.338681,
+//       "total_cases": 641
+//     },
+//     {
+//       "name": "Harvey, Matthew Robert",
+//       "cash_bail_pct": 0.352518,
+//       "unsecured_pct": 0.440647,
+//       "ror_pct": 0.17446,
+//       "nonmonetary_pct": 0.032374,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.484848,
+//       "cash_bail_pct_white": 0.333333,
+//       "total_cases": 556
+//     },
+//     {
+//       "name": "Little, Tony J.",
+//       "cash_bail_pct": 0.259067,
+//       "unsecured_pct": 0.466321,
+//       "ror_pct": 0.260794,
+//       "nonmonetary_pct": 0.013817,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.408163,
+//       "cash_bail_pct_white": 0.252446,
+//       "total_cases": 579
+//     }
+//   ],
+//   "Allegheny": [
+//     {
+//       "name": "Armour, John W.",
+//       "cash_bail_pct": 0.639423,
+//       "unsecured_pct": 0.000801,
+//       "ror_pct": 0.066506,
+//       "nonmonetary_pct": 0.293269,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.660714,
+//       "cash_bail_pct_white": 0.62013,
+//       "total_cases": 1248
+//     },
+//     {
+//       "name": "Arnoni, Ronald A.",
+//       "cash_bail_pct": 0.372986,
+//       "unsecured_pct": 0.184634,
+//       "ror_pct": 0.039653,
+//       "nonmonetary_pct": 0.39777,
+//       "nominal_pct": 0.004957,
+//       "cash_bail_pct_black": 0.646154,
+//       "cash_bail_pct_white": 0.290541,
+//       "total_cases": 807
+//     },
+//     {
+//       "name": "Barner, Robert L.",
+//       "cash_bail_pct": 0.621569,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.083333,
+//       "nonmonetary_pct": 0.295098,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.67658,
+//       "cash_bail_pct_white": 0.563715,
+//       "total_cases": 1020
+//     },
+//     {
+//       "name": "Barton, David J.",
+//       "cash_bail_pct": 0.322742,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.481605,
+//       "nonmonetary_pct": 0.195652,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.522222,
+//       "cash_bail_pct_white": 0.245614,
+//       "total_cases": 598
+//     },
+//     {
+//       "name": "Bengel, Carolyn S.",
+//       "cash_bail_pct": 0.519451,
+//       "unsecured_pct": 0.010297,
+//       "ror_pct": 0.291762,
+//       "nonmonetary_pct": 0.17849,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.726619,
+//       "cash_bail_pct_white": 0.418403,
+//       "total_cases": 874
+//     },
+//     {
+//       "name": "Brletic, Thomas S.",
+//       "cash_bail_pct": 0.714207,
+//       "unsecured_pct": 0.013216,
+//       "ror_pct": 0.148128,
+//       "nonmonetary_pct": 0.123899,
+//       "nominal_pct": 0.000551,
+//       "cash_bail_pct_black": 0.799327,
+//       "cash_bail_pct_white": 0.634038,
+//       "total_cases": 1816
+//     },
+//     {
+//       "name": "Butler, Daniel E.",
+//       "cash_bail_pct": 0.452659,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.220493,
+//       "nonmonetary_pct": 0.326848,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.511682,
+//       "cash_bail_pct_white": 0.395706,
+//       "total_cases": 771
+//     },
+//     {
+//       "name": "Caulfield, Thomas P.",
+//       "cash_bail_pct": 0.25,
+//       "unsecured_pct": 0.003226,
+//       "ror_pct": 0.120968,
+//       "nonmonetary_pct": 0.625806,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.279883,
+//       "cash_bail_pct_white": 0.215613,
+//       "total_cases": 620
+//     },
+//     {
+//       "name": "Ceoffe, Anthony M.",
+//       "cash_bail_pct": 0.323481,
+//       "unsecured_pct": 0.039409,
+//       "ror_pct": 0.275862,
+//       "nonmonetary_pct": 0.359606,
+//       "nominal_pct": 0.001642,
+//       "cash_bail_pct_black": 0.372168,
+//       "cash_bail_pct_white": 0.274744,
+//       "total_cases": 1218
+//     },
+//     {
+//       "name": "Cercone, Mary A.",
+//       "cash_bail_pct": 0.230869,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.103761,
+//       "nonmonetary_pct": 0.66537,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.31454,
+//       "cash_bail_pct_white": 0.169856,
+//       "total_cases": 771
+//     },
+//     {
+//       "name": "Cooper, Kevin E.",
+//       "cash_bail_pct": 0.363955,
+//       "unsecured_pct": 0.020997,
+//       "ror_pct": 0.272966,
+//       "nonmonetary_pct": 0.342082,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.422807,
+//       "cash_bail_pct_white": 0.312839,
+//       "total_cases": 1143
+//     },
+//     {
+//       "name": "Costa, Ron Sr.",
+//       "cash_bail_pct": 0.547289,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.220681,
+//       "nonmonetary_pct": 0.23203,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.608924,
+//       "cash_bail_pct_white": 0.5,
+//       "total_cases": 793
+//     },
+//     {
+//       "name": "Cramer, Jesse J.",
+//       "cash_bail_pct": 0.694379,
+//       "unsecured_pct": 0.222012,
+//       "ror_pct": 0.082192,
+//       "nonmonetary_pct": 0.001417,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.74882,
+//       "cash_bail_pct_white": 0.645631,
+//       "total_cases": 2117
+//     },
+//     {
+//       "name": "DeLuca, Anthony L.",
+//       "cash_bail_pct": 0.348297,
+//       "unsecured_pct": 0.001548,
+//       "ror_pct": 0.334365,
+//       "nonmonetary_pct": 0.315789,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.417417,
+//       "cash_bail_pct_white": 0.269737,
+//       "total_cases": 646
+//     },
+//     {
+//       "name": "Dzvonick, Robert Paul",
+//       "cash_bail_pct": 0.27676,
+//       "unsecured_pct": 0.001929,
+//       "ror_pct": 0.616201,
+//       "nonmonetary_pct": 0.105111,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.551471,
+//       "cash_bail_pct_white": 0.180611,
+//       "total_cases": 1037
+//     },
+//     {
+//       "name": "Eichler, Roxanne Sakoian",
+//       "cash_bail_pct": 0.244924,
+//       "unsecured_pct": 0.058376,
+//       "ror_pct": 0.474619,
+//       "nonmonetary_pct": 0.222081,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.315789,
+//       "cash_bail_pct_white": 0.190698,
+//       "total_cases": 788
+//     },
+//     {
+//       "name": "Ford, Robert L.",
+//       "cash_bail_pct": 0.342954,
+//       "unsecured_pct": 0.003396,
+//       "ror_pct": 0.018676,
+//       "nonmonetary_pct": 0.634975,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.488506,
+//       "cash_bail_pct_white": 0.278325,
+//       "total_cases": 589
+//     },
+//     {
+//       "name": "Hanley, James Joseph Jr.",
+//       "cash_bail_pct": 0.338885,
+//       "unsecured_pct": 0.016015,
+//       "ror_pct": 0.326714,
+//       "nonmonetary_pct": 0.318386,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.423833,
+//       "cash_bail_pct_white": 0.248276,
+//       "total_cases": 1561
+//     },
+//     {
+//       "name": "Herbst, Jeffrey L.",
+//       "cash_bail_pct": 0.217391,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.580645,
+//       "nonmonetary_pct": 0.201964,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.267742,
+//       "cash_bail_pct_white": 0.181586,
+//       "total_cases": 713
+//     },
+//     {
+//       "name": "Hoots, Kim Marie",
+//       "cash_bail_pct": 0.641509,
+//       "unsecured_pct": 0.130189,
+//       "ror_pct": 0.124528,
+//       "nonmonetary_pct": 0.103774,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.60745,
+//       "cash_bail_pct_white": 0.715116,
+//       "total_cases": 530
+//     },
+//     {
+//       "name": "Hromyak, Leonard J.",
+//       "cash_bail_pct": 0.50508,
+//       "unsecured_pct": 0.001451,
+//       "ror_pct": 0.107402,
+//       "nonmonetary_pct": 0.386067,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.53681,
+//       "cash_bail_pct_white": 0.480114,
+//       "total_cases": 689
+//     },
+//     {
+//       "name": "Joyce, Dennis Robert",
+//       "cash_bail_pct": 0.383775,
+//       "unsecured_pct": 0.00312,
+//       "ror_pct": 0.124805,
+//       "nonmonetary_pct": 0.486739,
+//       "nominal_pct": 0.00156,
+//       "cash_bail_pct_black": 0.462963,
+//       "cash_bail_pct_white": 0.327824,
+//       "total_cases": 641
+//     },
+//     {
+//       "name": "Kaiser, Ralph E.",
+//       "cash_bail_pct": 0.255289,
+//       "unsecured_pct": 0.00141,
+//       "ror_pct": 0.558533,
+//       "nonmonetary_pct": 0.184767,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.402439,
+//       "cash_bail_pct_white": 0.186047,
+//       "total_cases": 709
+//     },
+//     {
+//       "name": "King, Richard G.",
+//       "cash_bail_pct": 0.3174,
+//       "unsecured_pct": 0.028681,
+//       "ror_pct": 0.219885,
+//       "nonmonetary_pct": 0.434034,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.395745,
+//       "cash_bail_pct_white": 0.256318,
+//       "total_cases": 523
+//     },
+//     {
+//       "name": "Lang, Elissa Marie",
+//       "cash_bail_pct": 0.232249,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.307692,
+//       "nonmonetary_pct": 0.460059,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.383673,
+//       "cash_bail_pct_white": 0.143541,
+//       "total_cases": 676
+//     },
+//     {
+//       "name": "Larotonda, Blaise P.",
+//       "cash_bail_pct": 0.423295,
+//       "unsecured_pct": 0.00142,
+//       "ror_pct": 0.40483,
+//       "nonmonetary_pct": 0.170455,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.652968,
+//       "cash_bail_pct_white": 0.320755,
+//       "total_cases": 704
+//     },
+//     {
+//       "name": "Manning, Jeffrey A.",
+//       "cash_bail_pct": 0.246696,
+//       "unsecured_pct": 0.057269,
+//       "ror_pct": 0.436123,
+//       "nonmonetary_pct": 0.259912,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.304348,
+//       "cash_bail_pct_white": 0.192661,
+//       "total_cases": 227
+//     },
+//     {
+//       "name": "Martin, Armand",
+//       "cash_bail_pct": 0.376471,
+//       "unsecured_pct": 0.005348,
+//       "ror_pct": 0.175401,
+//       "nonmonetary_pct": 0.442781,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.426065,
+//       "cash_bail_pct_white": 0.340952,
+//       "total_cases": 935
+//     },
+//     {
+//       "name": "Martini, Randy C.",
+//       "cash_bail_pct": 0.491453,
+//       "unsecured_pct": 0.001068,
+//       "ror_pct": 0.185897,
+//       "nonmonetary_pct": 0.321581,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.574297,
+//       "cash_bail_pct_white": 0.404762,
+//       "total_cases": 936
+//     },
+//     {
+//       "name": "McGraw-Desmet, Maureen",
+//       "cash_bail_pct": 0.300188,
+//       "unsecured_pct": 0.009381,
+//       "ror_pct": 0.425891,
+//       "nonmonetary_pct": 0.26454,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.457627,
+//       "cash_bail_pct_white": 0.221902,
+//       "total_cases": 533
+//     },
+//     {
+//       "name": "Miller, Thomas Jr.",
+//       "cash_bail_pct": 0.420561,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.46729,
+//       "nonmonetary_pct": 0.11215,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.62844,
+//       "cash_bail_pct_white": 0.31401,
+//       "total_cases": 642
+//     },
+//     {
+//       "name": "Mills, Beth S.",
+//       "cash_bail_pct": 0.417939,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.314885,
+//       "nonmonetary_pct": 0.267176,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.573684,
+//       "cash_bail_pct_white": 0.332308,
+//       "total_cases": 524
+//     },
+//     {
+//       "name": "Motznik, James A.",
+//       "cash_bail_pct": 0.496751,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.254152,
+//       "nonmonetary_pct": 0.249097,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.55663,
+//       "cash_bail_pct_white": 0.439873,
+//       "total_cases": 1385
+//     },
+//     {
+//       "name": "Murray, Mary P.",
+//       "cash_bail_pct": 0.193333,
+//       "unsecured_pct": 0.000833,
+//       "ror_pct": 0.445,
+//       "nonmonetary_pct": 0.358333,
+//       "nominal_pct": 0.0025,
+//       "cash_bail_pct_black": 0.298387,
+//       "cash_bail_pct_white": 0.150124,
+//       "total_cases": 1200
+//     },
+//     {
+//       "name": "Olasz, Richard D. Jr.",
+//       "cash_bail_pct": 0.276013,
+//       "unsecured_pct": 0.009858,
+//       "ror_pct": 0.197152,
+//       "nonmonetary_pct": 0.515882,
+//       "nominal_pct": 0.001095,
+//       "cash_bail_pct_black": 0.34689,
+//       "cash_bail_pct_white": 0.214137,
+//       "total_cases": 913
+//     },
+//     {
+//       "name": "Opiela, Richard G.",
+//       "cash_bail_pct": 0.293924,
+//       "unsecured_pct": 0.246305,
+//       "ror_pct": 0.183908,
+//       "nonmonetary_pct": 0.275862,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.474227,
+//       "cash_bail_pct_white": 0.211823,
+//       "total_cases": 609
+//     },
+//     {
+//       "name": "Petite, Oscar Jerome Jr.",
+//       "cash_bail_pct": 0.342669,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.288303,
+//       "nonmonetary_pct": 0.367381,
+//       "nominal_pct": 0.001647,
+//       "cash_bail_pct_black": 0.44186,
+//       "cash_bail_pct_white": 0.249147,
+//       "total_cases": 607
+//     },
+//     {
+//       "name": "Ravenstahl, Robert Jr.",
+//       "cash_bail_pct": 0.301179,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.289389,
+//       "nonmonetary_pct": 0.409432,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.338395,
+//       "cash_bail_pct_white": 0.272727,
+//       "total_cases": 933
+//     },
+//     {
+//       "name": "Riazzi, Eugene F. Jr.",
+//       "cash_bail_pct": 0.375852,
+//       "unsecured_pct": 0.002921,
+//       "ror_pct": 0.273612,
+//       "nonmonetary_pct": 0.345667,
+//       "nominal_pct": 0.001947,
+//       "cash_bail_pct_black": 0.39661,
+//       "cash_bail_pct_white": 0.352246,
+//       "total_cases": 1027
+//     },
+//     {
+//       "name": "Ricciardi, Eugene",
+//       "cash_bail_pct": 0.488941,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.235157,
+//       "nonmonetary_pct": 0.275902,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.559908,
+//       "cash_bail_pct_white": 0.424096,
+//       "total_cases": 859
+//     },
+//     {
+//       "name": "Rushing, Derwin",
+//       "cash_bail_pct": 0.33114,
+//       "unsecured_pct": 0.002924,
+//       "ror_pct": 0.259503,
+//       "nonmonetary_pct": 0.406433,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.384505,
+//       "cash_bail_pct_white": 0.269716,
+//       "total_cases": 1368
+//     },
+//     {
+//       "name": "Saveikis, Anthony",
+//       "cash_bail_pct": 0.388889,
+//       "unsecured_pct": 0.011111,
+//       "ror_pct": 0.42963,
+//       "nonmonetary_pct": 0.17037,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.645714,
+//       "cash_bail_pct_white": 0.263456,
+//       "total_cases": 540
+//     },
+//     {
+//       "name": "Schricker, Scott H.",
+//       "cash_bail_pct": 0.238722,
+//       "unsecured_pct": 0.00282,
+//       "ror_pct": 0.68797,
+//       "nonmonetary_pct": 0.070489,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.258427,
+//       "cash_bail_pct_white": 0.212121,
+//       "total_cases": 1064
+//     },
+//     {
+//       "name": "Shaffer, Peter H.",
+//       "cash_bail_pct": 0.35545,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.151659,
+//       "nonmonetary_pct": 0.492891,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.486842,
+//       "cash_bail_pct_white": 0.296875,
+//       "total_cases": 211
+//     },
+//     {
+//       "name": "Smith, Tara",
+//       "cash_bail_pct": 0.341191,
+//       "unsecured_pct": 0.055831,
+//       "ror_pct": 0.151365,
+//       "nonmonetary_pct": 0.451613,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.523636,
+//       "cash_bail_pct_white": 0.241779,
+//       "total_cases": 806
+//     },
+//     {
+//       "name": "Sosovicka, David J.",
+//       "cash_bail_pct": 0.472368,
+//       "unsecured_pct": 0.001316,
+//       "ror_pct": 0.217105,
+//       "nonmonetary_pct": 0.309211,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.679348,
+//       "cash_bail_pct_white": 0.407733,
+//       "total_cases": 760
+//     },
+//     {
+//       "name": "Stephens, Craig C.",
+//       "cash_bail_pct": 0.474676,
+//       "unsecured_pct": 0.084806,
+//       "ror_pct": 0.194346,
+//       "nonmonetary_pct": 0.246172,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.615616,
+//       "cash_bail_pct_white": 0.388889,
+//       "total_cases": 849
+//     },
+//     {
+//       "name": "Swan, Tom",
+//       "cash_bail_pct": 0.253289,
+//       "unsecured_pct": 0.001645,
+//       "ror_pct": 0.347039,
+//       "nonmonetary_pct": 0.398026,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.458333,
+//       "cash_bail_pct_white": 0.175115,
+//       "total_cases": 608
+//     },
+//     {
+//       "name": "Swearingen-Batch, Carla M.",
+//       "cash_bail_pct": 0.278261,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.150725,
+//       "nonmonetary_pct": 0.571014,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.503472,
+//       "cash_bail_pct_white": 0.192034,
+//       "total_cases": 1035
+//     },
+//     {
+//       "name": "Tibbs, Edward A.",
+//       "cash_bail_pct": 0.652322,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.077869,
+//       "nonmonetary_pct": 0.269809,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.704042,
+//       "cash_bail_pct_white": 0.601783,
+//       "total_cases": 1464
+//     },
+//     {
+//       "name": "Torkowsky, Thomas R.",
+//       "cash_bail_pct": 0.572093,
+//       "unsecured_pct": 0.004651,
+//       "ror_pct": 0.344186,
+//       "nonmonetary_pct": 0.07907,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.651822,
+//       "cash_bail_pct_white": 0.451977,
+//       "total_cases": 430
+//     },
+//     {
+//       "name": "Wagner, William",
+//       "cash_bail_pct": 0.428291,
+//       "unsecured_pct": 0.084479,
+//       "ror_pct": 0.32613,
+//       "nonmonetary_pct": 0.1611,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.664804,
+//       "cash_bail_pct_white": 0.30094,
+//       "total_cases": 509
+//     },
+//     {
+//       "name": "Welsh, Regis C.",
+//       "cash_bail_pct": 0.799292,
+//       "unsecured_pct": 0.003542,
+//       "ror_pct": 0.086187,
+//       "nonmonetary_pct": 0.11098,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.833922,
+//       "cash_bail_pct_white": 0.765644,
+//       "total_cases": 1694
+//     },
+//     {
+//       "name": "Zucco, Linda Inez",
+//       "cash_bail_pct": 0.253829,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.398249,
+//       "nonmonetary_pct": 0.347921,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.375796,
+//       "cash_bail_pct_white": 0.187713,
+//       "total_cases": 457
+//     },
+//     {
+//       "name": "Zyra, Gary M.",
+//       "cash_bail_pct": 0.487013,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.094156,
+//       "nonmonetary_pct": 0.418831,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.557576,
+//       "cash_bail_pct_white": 0.4,
+//       "total_cases": 308
+//     }
+//   ],
+//   "Armstrong": [
+//     {
+//       "name": "Andring, James",
+//       "cash_bail_pct": 0.610951,
+//       "unsecured_pct": 0.383285,
+//       "ror_pct": 0.005764,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.833333,
+//       "cash_bail_pct_white": 0.607717,
+//       "total_cases": 347
+//     },
+//     {
+//       "name": "Decomo, J. Gary",
+//       "cash_bail_pct": 0.364912,
+//       "unsecured_pct": 0.012281,
+//       "ror_pct": 0.542105,
+//       "nonmonetary_pct": 0.080702,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.513514,
+//       "cash_bail_pct_white": 0.351248,
+//       "total_cases": 570
+//     },
+//     {
+//       "name": "Owen, James H.",
+//       "cash_bail_pct": 0.406036,
+//       "unsecured_pct": 0.108368,
+//       "ror_pct": 0.473251,
+//       "nonmonetary_pct": 0.012346,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.660714,
+//       "cash_bail_pct_white": 0.386018,
+//       "total_cases": 729
+//     }
+//   ],
+//   "Beaver": [
+//     {
+//       "name": "Armour, John W.",
+//       "cash_bail_pct": 0.556757,
+//       "unsecured_pct": 0.021622,
+//       "ror_pct": 0.353153,
+//       "nonmonetary_pct": 0.068468,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.697183,
+//       "cash_bail_pct_white": 0.523316,
+//       "total_cases": 555
+//     },
+//     {
+//       "name": "Conroy, Eileen M.",
+//       "cash_bail_pct": 0.298246,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.640351,
+//       "nonmonetary_pct": 0.061404,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.37931,
+//       "cash_bail_pct_white": 0.302632,
+//       "total_cases": 114
+//     },
+//     {
+//       "name": "Finn, Timothy",
+//       "cash_bail_pct": 0.320127,
+//       "unsecured_pct": 0.242472,
+//       "ror_pct": 0.418384,
+//       "nonmonetary_pct": 0.019017,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.529412,
+//       "cash_bail_pct_white": 0.257336,
+//       "total_cases": 631
+//     },
+//     {
+//       "name": "Hladio, Andrew M.",
+//       "cash_bail_pct": 0.625,
+//       "unsecured_pct": 0.141204,
+//       "ror_pct": 0.222222,
+//       "nonmonetary_pct": 0.011574,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.719424,
+//       "cash_bail_pct_white": 0.600707,
+//       "total_cases": 432
+//     },
+//     {
+//       "name": "Howe, Edward",
+//       "cash_bail_pct": 0.557398,
+//       "unsecured_pct": 0.133929,
+//       "ror_pct": 0.294643,
+//       "nonmonetary_pct": 0.014031,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.70297,
+//       "cash_bail_pct_white": 0.517241,
+//       "total_cases": 784
+//     },
+//     {
+//       "name": "Livingston, William R. II",
+//       "cash_bail_pct": 0.677249,
+//       "unsecured_pct": 0.05291,
+//       "ror_pct": 0.267196,
+//       "nonmonetary_pct": 0.002646,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.827068,
+//       "cash_bail_pct_white": 0.605263,
+//       "total_cases": 378
+//     },
+//     {
+//       "name": "Loughner, C. Douglas.",
+//       "cash_bail_pct": 0.533733,
+//       "unsecured_pct": 0.032984,
+//       "ror_pct": 0.413793,
+//       "nonmonetary_pct": 0.01949,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.6875,
+//       "cash_bail_pct_white": 0.484444,
+//       "total_cases": 667
+//     },
+//     {
+//       "name": "Nicholson, Dale F.",
+//       "cash_bail_pct": 0.493557,
+//       "unsecured_pct": 0.190722,
+//       "ror_pct": 0.298969,
+//       "nonmonetary_pct": 0.016753,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.616822,
+//       "cash_bail_pct_white": 0.439024,
+//       "total_cases": 776
+//     },
+//     {
+//       "name": "Schafer, Joseph",
+//       "cash_bail_pct": 0.430295,
+//       "unsecured_pct": 0.175603,
+//       "ror_pct": 0.380697,
+//       "nonmonetary_pct": 0.013405,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.570681,
+//       "cash_bail_pct_white": 0.378119,
+//       "total_cases": 746
+//     },
+//     {
+//       "name": "Swihart, Janet",
+//       "cash_bail_pct": 0.534712,
+//       "unsecured_pct": 0.143279,
+//       "ror_pct": 0.310192,
+//       "nonmonetary_pct": 0.01034,
+//       "nominal_pct": 0.001477,
+//       "cash_bail_pct_black": 0.633028,
+//       "cash_bail_pct_white": 0.501176,
+//       "total_cases": 677
+//     }
+//   ],
+//   "Bedford": [
+//     {
+//       "name": "Baker, Brian K.",
+//       "cash_bail_pct": 0.370262,
+//       "unsecured_pct": 0.594752,
+//       "ror_pct": 0.034985,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.590909,
+//       "cash_bail_pct_white": 0.356467,
+//       "total_cases": 343
+//     },
+//     {
+//       "name": "Bingham, H. Cyril Jr.",
+//       "cash_bail_pct": 0.450135,
+//       "unsecured_pct": 0.549865,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.733333,
+//       "cash_bail_pct_white": 0.420732,
+//       "total_cases": 371
+//     },
+//     {
+//       "name": "Calhoun, Kathy S.",
+//       "cash_bail_pct": 0.342932,
+//       "unsecured_pct": 0.625654,
+//       "ror_pct": 0.031414,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.411765,
+//       "cash_bail_pct_white": 0.338983,
+//       "total_cases": 382
+//     },
+//     {
+//       "name": "Osman, Tonya M.",
+//       "cash_bail_pct": 0.320946,
+//       "unsecured_pct": 0.668919,
+//       "ror_pct": 0.010135,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.352941,
+//       "cash_bail_pct_white": 0.318681,
+//       "total_cases": 296
+//     }
+//   ],
+//   "Berks": [
+//     {
+//       "name": "Bagenstose, Kim L.",
+//       "cash_bail_pct": 0.315399,
+//       "unsecured_pct": 0.320965,
+//       "ror_pct": 0.363636,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.482143,
+//       "cash_bail_pct_white": 0.295983,
+//       "total_cases": 539
+//     },
+//     {
+//       "name": "Bentz, Nicholas M. Jr.",
+//       "cash_bail_pct": 0.374858,
+//       "unsecured_pct": 0.272933,
+//       "ror_pct": 0.352208,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.418182,
+//       "cash_bail_pct_white": 0.398413,
+//       "total_cases": 883
+//     },
+//     {
+//       "name": "Book, Andrea",
+//       "cash_bail_pct": 0.437681,
+//       "unsecured_pct": 0.37971,
+//       "ror_pct": 0.17971,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.002899,
+//       "cash_bail_pct_black": 0.52381,
+//       "cash_bail_pct_white": 0.434629,
+//       "total_cases": 345
+//     },
+//     {
+//       "name": "Dougherty, Timothy M.",
+//       "cash_bail_pct": 0.298611,
+//       "unsecured_pct": 0.069444,
+//       "ror_pct": 0.631944,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.30303,
+//       "cash_bail_pct_white": 0.340206,
+//       "total_cases": 144
+//     },
+//     {
+//       "name": "Fegley, Sandra L.",
+//       "cash_bail_pct": 0.320574,
+//       "unsecured_pct": 0.302632,
+//       "ror_pct": 0.375598,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.001196,
+//       "cash_bail_pct_black": 0.292517,
+//       "cash_bail_pct_white": 0.327434,
+//       "total_cases": 836
+//     },
+//     {
+//       "name": "Frederick, Victor M. IV",
+//       "cash_bail_pct": 0.366972,
+//       "unsecured_pct": 0.633028,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.4,
+//       "cash_bail_pct_white": 0.37234,
+//       "total_cases": 436
+//     },
+//     {
+//       "name": "Gauby, Thomas M. Sr.",
+//       "cash_bail_pct": 0.427083,
+//       "unsecured_pct": 0.3125,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.260417,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.409091,
+//       "cash_bail_pct_white": 0.431193,
+//       "total_cases": 384
+//     },
+//     {
+//       "name": "Glass, David E.",
+//       "cash_bail_pct": 0.567227,
+//       "unsecured_pct": 0.432773,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.890909,
+//       "cash_bail_pct_white": 0.534653,
+//       "total_cases": 476
+//     },
+//     {
+//       "name": "Greth, Gail M.",
+//       "cash_bail_pct": 0.355231,
+//       "unsecured_pct": 0.644769,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.342466,
+//       "cash_bail_pct_white": 0.351682,
+//       "total_cases": 411
+//     },
+//     {
+//       "name": "Hadzick, Paul J.",
+//       "cash_bail_pct": 0.82459,
+//       "unsecured_pct": 0.17377,
+//       "ror_pct": 0.001639,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.85124,
+//       "cash_bail_pct_white": 0.824786,
+//       "total_cases": 1220
+//     },
+//     {
+//       "name": "Hall, William N. Jr.",
+//       "cash_bail_pct": 0.954044,
+//       "unsecured_pct": 0.044118,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.001838,
+//       "cash_bail_pct_black": 0.980583,
+//       "cash_bail_pct_white": 0.948235,
+//       "total_cases": 544
+//     },
+//     {
+//       "name": "Hartman, Michael G.",
+//       "cash_bail_pct": 0.330454,
+//       "unsecured_pct": 0.669546,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.4,
+//       "cash_bail_pct_white": 0.320755,
+//       "total_cases": 463
+//     },
+//     {
+//       "name": "Kennedy, Stuart D.",
+//       "cash_bail_pct": 0.622263,
+//       "unsecured_pct": 0.209854,
+//       "ror_pct": 0.167883,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.678899,
+//       "cash_bail_pct_white": 0.631188,
+//       "total_cases": 548
+//     },
+//     {
+//       "name": "Kowalski, Phyllis J.",
+//       "cash_bail_pct": 0.555215,
+//       "unsecured_pct": 0.43865,
+//       "ror_pct": 0.006135,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.540541,
+//       "cash_bail_pct_white": 0.562232,
+//       "total_cases": 326
+//     },
+//     {
+//       "name": "Leonardziak, Michael J.",
+//       "cash_bail_pct": 0.495327,
+//       "unsecured_pct": 0.495327,
+//       "ror_pct": 0.009346,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.481481,
+//       "cash_bail_pct_white": 0.506849,
+//       "total_cases": 107
+//     },
+//     {
+//       "name": "Patton, Dean R.",
+//       "cash_bail_pct": 0.457143,
+//       "unsecured_pct": 0.542857,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.578512,
+//       "cash_bail_pct_white": 0.428571,
+//       "total_cases": 770
+//     },
+//     {
+//       "name": "Robinson, Alvin B.",
+//       "cash_bail_pct": 0.67642,
+//       "unsecured_pct": 0.320138,
+//       "ror_pct": 0.003442,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.669355,
+//       "cash_bail_pct_white": 0.695444,
+//       "total_cases": 581
+//     },
+//     {
+//       "name": "Scott, Kyley L.",
+//       "cash_bail_pct": 0.523702,
+//       "unsecured_pct": 0.21219,
+//       "ror_pct": 0.264108,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.620253,
+//       "cash_bail_pct_white": 0.535385,
+//       "total_cases": 443
+//     },
+//     {
+//       "name": "Xavios, Thomas H.",
+//       "cash_bail_pct": 0.542654,
+//       "unsecured_pct": 0.440758,
+//       "ror_pct": 0.016588,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.641975,
+//       "cash_bail_pct_white": 0.552542,
+//       "total_cases": 422
+//     },
+//     {
+//       "name": "Yoch, David L.",
+//       "cash_bail_pct": 0.437396,
+//       "unsecured_pct": 0.320534,
+//       "ror_pct": 0.24207,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.546512,
+//       "cash_bail_pct_white": 0.425051,
+//       "total_cases": 599
+//     },
+//     {
+//       "name": "Young, Ann L.",
+//       "cash_bail_pct": 0.378729,
+//       "unsecured_pct": 0.155642,
+//       "ror_pct": 0.465629,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.461538,
+//       "cash_bail_pct_white": 0.363495,
+//       "total_cases": 771
+//     }
+//   ],
+//   "Blair": [
+//     {
+//       "name": "Aigner, Paula M.",
+//       "cash_bail_pct": 0.393885,
+//       "unsecured_pct": 0.606115,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.681818,
+//       "cash_bail_pct_white": 0.373016,
+//       "total_cases": 556
+//     },
+//     {
+//       "name": "Auker, Jeffrey P.",
+//       "cash_bail_pct": 0.276146,
+//       "unsecured_pct": 0.703878,
+//       "ror_pct": 0.016451,
+//       "nonmonetary_pct": 0.003525,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.345679,
+//       "cash_bail_pct_white": 0.281831,
+//       "total_cases": 851
+//     },
+//     {
+//       "name": "Jackson, Steven D.",
+//       "cash_bail_pct": 0.178049,
+//       "unsecured_pct": 0.821951,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.413333,
+//       "cash_bail_pct_white": 0.157601,
+//       "total_cases": 820
+//     },
+//     {
+//       "name": "Kelly, Todd F.",
+//       "cash_bail_pct": 0.294398,
+//       "unsecured_pct": 0.705602,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.445545,
+//       "cash_bail_pct_white": 0.27977,
+//       "total_cases": 839
+//     },
+//     {
+//       "name": "Miller, Fred B.",
+//       "cash_bail_pct": 0.428382,
+//       "unsecured_pct": 0.564987,
+//       "ror_pct": 0.006631,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.77027,
+//       "cash_bail_pct_white": 0.395173,
+//       "total_cases": 754
+//     },
+//     {
+//       "name": "Ormsby, Craig E.",
+//       "cash_bail_pct": 0.322718,
+//       "unsecured_pct": 0.677282,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.903226,
+//       "cash_bail_pct_white": 0.287037,
+//       "total_cases": 471
+//     }
+//   ],
+//   "Bradford": [
+//     {
+//       "name": "Clark, Timothy M.",
+//       "cash_bail_pct": 0.419355,
+//       "unsecured_pct": 0.019355,
+//       "ror_pct": 0.016129,
+//       "nonmonetary_pct": 0.545161,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.45,
+//       "cash_bail_pct_white": 0.422877,
+//       "total_cases": 620
+//     },
+//     {
+//       "name": "Shaw, Michael",
+//       "cash_bail_pct": 0.606132,
+//       "unsecured_pct": 0.028302,
+//       "ror_pct": 0.007075,
+//       "nonmonetary_pct": 0.358491,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.826087,
+//       "cash_bail_pct_white": 0.595361,
+//       "total_cases": 424
+//     },
+//     {
+//       "name": "Wheaton, Fred M.",
+//       "cash_bail_pct": 0.44086,
+//       "unsecured_pct": 0.47043,
+//       "ror_pct": 0.069892,
+//       "nonmonetary_pct": 0.018817,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.5,
+//       "cash_bail_pct_white": 0.438356,
+//       "total_cases": 372
+//     },
+//     {
+//       "name": "Wilcox, Jonathan",
+//       "cash_bail_pct": 0.369014,
+//       "unsecured_pct": 0.112676,
+//       "ror_pct": 0.470423,
+//       "nonmonetary_pct": 0.047887,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.4,
+//       "cash_bail_pct_white": 0.367647,
+//       "total_cases": 355
+//     }
+//   ],
+//   "Bucks": [
+//     {
+//       "name": "Armitage, Regina",
+//       "cash_bail_pct": 0.316038,
+//       "unsecured_pct": 0.435535,
+//       "ror_pct": 0.248428,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.3875,
+//       "cash_bail_pct_white": 0.306122,
+//       "total_cases": 636
+//     },
+//     {
+//       "name": "Baranoski, Daniel",
+//       "cash_bail_pct": 0.339422,
+//       "unsecured_pct": 0.263318,
+//       "ror_pct": 0.395738,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.001522,
+//       "cash_bail_pct_black": 0.447368,
+//       "cash_bail_pct_white": 0.308943,
+//       "total_cases": 657
+//     },
+//     {
+//       "name": "Baum, Charles W.",
+//       "cash_bail_pct": 0.316817,
+//       "unsecured_pct": 0.68018,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.003003,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.471429,
+//       "cash_bail_pct_white": 0.298094,
+//       "total_cases": 666
+//     },
+//     {
+//       "name": "Benz, William J.",
+//       "cash_bail_pct": 0.179936,
+//       "unsecured_pct": 0.813694,
+//       "ror_pct": 0.003185,
+//       "nonmonetary_pct": 0.003185,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.25,
+//       "cash_bail_pct_white": 0.173077,
+//       "total_cases": 628
+//     },
+//     {
+//       "name": "Burns, Michael J.",
+//       "cash_bail_pct": 0.384615,
+//       "unsecured_pct": 0.488166,
+//       "ror_pct": 0.127219,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.468354,
+//       "cash_bail_pct_white": 0.368,
+//       "total_cases": 338
+//     },
+//     {
+//       "name": "Daly, Philip J.",
+//       "cash_bail_pct": 0.272727,
+//       "unsecured_pct": 0.30303,
+//       "ror_pct": 0.424242,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.2,
+//       "cash_bail_pct_white": 0.275862,
+//       "total_cases": 132
+//     },
+//     {
+//       "name": "Deatelhauser, Kenneth E.",
+//       "cash_bail_pct": 0.355556,
+//       "unsecured_pct": 0.127778,
+//       "ror_pct": 0.516667,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.56,
+//       "cash_bail_pct_white": 0.326667,
+//       "total_cases": 180
+//     },
+//     {
+//       "name": "Douple, Mark D.",
+//       "cash_bail_pct": 0.410909,
+//       "unsecured_pct": 0.587273,
+//       "ror_pct": 0.001818,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.685714,
+//       "cash_bail_pct_white": 0.371739,
+//       "total_cases": 550
+//     },
+//     {
+//       "name": "Durkin, John J.",
+//       "cash_bail_pct": 0.358333,
+//       "unsecured_pct": 0.633333,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.008333,
+//       "cash_bail_pct_black": 0.3,
+//       "cash_bail_pct_white": 0.371134,
+//       "total_cases": 120
+//     },
+//     {
+//       "name": "Falcone, Joseph P.",
+//       "cash_bail_pct": 0.342873,
+//       "unsecured_pct": 0.637486,
+//       "ror_pct": 0.01908,
+//       "nonmonetary_pct": 0.000561,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.394841,
+//       "cash_bail_pct_white": 0.328467,
+//       "total_cases": 1782
+//     },
+//     {
+//       "name": "Finello, Daniel J. Jr.",
+//       "cash_bail_pct": 0.387097,
+//       "unsecured_pct": 0.606855,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.006048,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.5,
+//       "cash_bail_pct_white": 0.367758,
+//       "total_cases": 496
+//     },
+//     {
+//       "name": "Gallagher, Michael W.",
+//       "cash_bail_pct": 0.338158,
+//       "unsecured_pct": 0.657895,
+//       "ror_pct": 0.003289,
+//       "nonmonetary_pct": 0.000658,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.38484,
+//       "cash_bail_pct_white": 0.33157,
+//       "total_cases": 1520
+//     },
+//     {
+//       "name": "Gambardella, Gary",
+//       "cash_bail_pct": 0.323529,
+//       "unsecured_pct": 0.345201,
+//       "ror_pct": 0.329721,
+//       "nonmonetary_pct": 0.001548,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.466667,
+//       "cash_bail_pct_white": 0.305699,
+//       "total_cases": 646
+//     },
+//     {
+//       "name": "Kelly, John J. Jr.",
+//       "cash_bail_pct": 0.330986,
+//       "unsecured_pct": 0.667606,
+//       "ror_pct": 0.001408,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.386905,
+//       "cash_bail_pct_white": 0.317919,
+//       "total_cases": 710
+//     },
+//     {
+//       "name": "Kline, Joanne V.",
+//       "cash_bail_pct": 0.459499,
+//       "unsecured_pct": 0.069219,
+//       "ror_pct": 0.446244,
+//       "nonmonetary_pct": 0.025037,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.516129,
+//       "cash_bail_pct_white": 0.444906,
+//       "total_cases": 679
+//     },
+//     {
+//       "name": "Peranteau, Frank W. Sr.",
+//       "cash_bail_pct": 0.445652,
+//       "unsecured_pct": 0.518116,
+//       "ror_pct": 0.028986,
+//       "nonmonetary_pct": 0.007246,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.65,
+//       "cash_bail_pct_white": 0.388626,
+//       "total_cases": 276
+//     },
+//     {
+//       "name": "Petrucci, Michael W.",
+//       "cash_bail_pct": 0.429293,
+//       "unsecured_pct": 0.570707,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.623188,
+//       "cash_bail_pct_white": 0.389937,
+//       "total_cases": 396
+//     },
+//     {
+//       "name": "Roth, C. Robert",
+//       "cash_bail_pct": 0.300261,
+//       "unsecured_pct": 0.211488,
+//       "ror_pct": 0.488251,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.413793,
+//       "cash_bail_pct_white": 0.293948,
+//       "total_cases": 383
+//     },
+//     {
+//       "name": "Schnell, Robert A. Jr.",
+//       "cash_bail_pct": 0.40566,
+//       "unsecured_pct": 0.245283,
+//       "ror_pct": 0.349057,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.444444,
+//       "cash_bail_pct_white": 0.410526,
+//       "total_cases": 106
+//     },
+//     {
+//       "name": "Seaman, Jean",
+//       "cash_bail_pct": 0.3084,
+//       "unsecured_pct": 0.188723,
+//       "ror_pct": 0.500575,
+//       "nonmonetary_pct": 0.002301,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.507246,
+//       "cash_bail_pct_white": 0.274262,
+//       "total_cases": 869
+//     },
+//     {
+//       "name": "Snow, Maggie",
+//       "cash_bail_pct": 0.326705,
+//       "unsecured_pct": 0.303977,
+//       "ror_pct": 0.369318,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.590164,
+//       "cash_bail_pct_white": 0.281588,
+//       "total_cases": 352
+//     },
+//     {
+//       "name": "Vislosky, Jan",
+//       "cash_bail_pct": 0.331868,
+//       "unsecured_pct": 0.661538,
+//       "ror_pct": 0.004396,
+//       "nonmonetary_pct": 0.002198,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.375,
+//       "cash_bail_pct_white": 0.321678,
+//       "total_cases": 910
+//     },
+//     {
+//       "name": "Wagner, Robert L. Jr.",
+//       "cash_bail_pct": 0.463542,
+//       "unsecured_pct": 0.185764,
+//       "ror_pct": 0.350694,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.65873,
+//       "cash_bail_pct_white": 0.410835,
+//       "total_cases": 576
+//     },
+//     {
+//       "name": "Waltman, John I.",
+//       "cash_bail_pct": 0.480447,
+//       "unsecured_pct": 0.357542,
+//       "ror_pct": 0.162011,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.638889,
+//       "cash_bail_pct_white": 0.451852,
+//       "total_cases": 179
+//     }
+//   ],
+//   "Butler": [
+//     {
+//       "name": "Fullerton, William T.",
+//       "cash_bail_pct": 0.445682,
+//       "unsecured_pct": 0.022284,
+//       "ror_pct": 0.410399,
+//       "nonmonetary_pct": 0.104921,
+//       "nominal_pct": 0.016713,
+//       "cash_bail_pct_black": 0.744966,
+//       "cash_bail_pct_white": 0.398463,
+//       "total_cases": 1077
+//     },
+//     {
+//       "name": "Haggerty, Sue",
+//       "cash_bail_pct": 0.325455,
+//       "unsecured_pct": 0.123636,
+//       "ror_pct": 0.503636,
+//       "nonmonetary_pct": 0.043636,
+//       "nominal_pct": 0.003636,
+//       "cash_bail_pct_black": 0.647059,
+//       "cash_bail_pct_white": 0.307692,
+//       "total_cases": 550
+//     },
+//     {
+//       "name": "Kovach, David T.",
+//       "cash_bail_pct": 0.455556,
+//       "unsecured_pct": 0.098765,
+//       "ror_pct": 0.377778,
+//       "nonmonetary_pct": 0.067901,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.634615,
+//       "cash_bail_pct_white": 0.423929,
+//       "total_cases": 810
+//     },
+//     {
+//       "name": "O'Donnell, Kevin P.",
+//       "cash_bail_pct": 0.253857,
+//       "unsecured_pct": 0.008415,
+//       "ror_pct": 0.719495,
+//       "nonmonetary_pct": 0.015428,
+//       "nominal_pct": 0.002805,
+//       "cash_bail_pct_black": 0.409091,
+//       "cash_bail_pct_white": 0.24431,
+//       "total_cases": 713
+//     },
+//     {
+//       "name": "O'Donnell, William S.",
+//       "cash_bail_pct": 0.307692,
+//       "unsecured_pct": 0.080342,
+//       "ror_pct": 0.601709,
+//       "nonmonetary_pct": 0.010256,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.311688,
+//       "cash_bail_pct_white": 0.306,
+//       "total_cases": 585
+//     },
+//     {
+//       "name": "Seibel, Wayne D.",
+//       "cash_bail_pct": 0.218876,
+//       "unsecured_pct": 0.126506,
+//       "ror_pct": 0.459839,
+//       "nonmonetary_pct": 0.192771,
+//       "nominal_pct": 0.002008,
+//       "cash_bail_pct_black": 0.529412,
+//       "cash_bail_pct_white": 0.211207,
+//       "total_cases": 498
+//     },
+//     {
+//       "name": "Stoughton, Lewis E.",
+//       "cash_bail_pct": 0.354358,
+//       "unsecured_pct": 0.040138,
+//       "ror_pct": 0.446101,
+//       "nonmonetary_pct": 0.15367,
+//       "nominal_pct": 0.005734,
+//       "cash_bail_pct_black": 0.625,
+//       "cash_bail_pct_white": 0.339461,
+//       "total_cases": 872
+//     }
+//   ],
+//   "Cambria": [
+//     {
+//       "name": "Barron, John W.",
+//       "cash_bail_pct": 0.359756,
+//       "unsecured_pct": 0.375,
+//       "ror_pct": 0.265244,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.637795,
+//       "cash_bail_pct_white": 0.300601,
+//       "total_cases": 656
+//     },
+//     {
+//       "name": "Creany, Fred",
+//       "cash_bail_pct": 0.503521,
+//       "unsecured_pct": 0.096831,
+//       "ror_pct": 0.399648,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.932432,
+//       "cash_bail_pct_white": 0.434511,
+//       "total_cases": 568
+//     },
+//     {
+//       "name": "Musulin, Michael",
+//       "cash_bail_pct": 0.557932,
+//       "unsecured_pct": 0.197861,
+//       "ror_pct": 0.244207,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.65285,
+//       "cash_bail_pct_white": 0.515493,
+//       "total_cases": 561
+//     },
+//     {
+//       "name": "Prebish, John Jr.",
+//       "cash_bail_pct": 0.386694,
+//       "unsecured_pct": 0.413721,
+//       "ror_pct": 0.197505,
+//       "nonmonetary_pct": 0.002079,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.672414,
+//       "cash_bail_pct_white": 0.344578,
+//       "total_cases": 481
+//     },
+//     {
+//       "name": "Price, Kevin J.",
+//       "cash_bail_pct": 0.402344,
+//       "unsecured_pct": 0.572917,
+//       "ror_pct": 0.02474,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.511811,
+//       "cash_bail_pct_white": 0.350101,
+//       "total_cases": 768
+//     },
+//     {
+//       "name": "Varner, Rick W.",
+//       "cash_bail_pct": 0.539278,
+//       "unsecured_pct": 0.456476,
+//       "ror_pct": 0.004246,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.826923,
+//       "cash_bail_pct_white": 0.509756,
+//       "total_cases": 471
+//     },
+//     {
+//       "name": "Zanghi, Mary Ann",
+//       "cash_bail_pct": 0.552764,
+//       "unsecured_pct": 0.190955,
+//       "ror_pct": 0.253769,
+//       "nonmonetary_pct": 0.002513,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.767442,
+//       "cash_bail_pct_white": 0.488449,
+//       "total_cases": 398
+//     },
+//     {
+//       "name": "Zungali, Michael",
+//       "cash_bail_pct": 0.356994,
+//       "unsecured_pct": 0.321503,
+//       "ror_pct": 0.321503,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.825,
+//       "cash_bail_pct_white": 0.316279,
+//       "total_cases": 479
+//     }
+//   ],
+//   "Cameron": [
+//     {
+//       "name": "Brown, Barry D.",
+//       "cash_bail_pct": 0.216418,
+//       "unsecured_pct": 0.783582,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 1,
+//       "cash_bail_pct_white": 0.254902,
+//       "total_cases": 134
+//     }
+//   ],
+//   "Carbon": [
+//     {
+//       "name": "Homanko, Joseph D. Sr.",
+//       "cash_bail_pct": 0.356897,
+//       "unsecured_pct": 0.577586,
+//       "ror_pct": 0.065517,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.415584,
+//       "cash_bail_pct_white": 0.346072,
+//       "total_cases": 580
+//     },
+//     {
+//       "name": "Kissner, William J.",
+//       "cash_bail_pct": 0.27259,
+//       "unsecured_pct": 0.575301,
+//       "ror_pct": 0.152108,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.576923,
+//       "cash_bail_pct_white": 0.26087,
+//       "total_cases": 664
+//     },
+//     {
+//       "name": "Kosciolek, Casimir T.",
+//       "cash_bail_pct": 0.386266,
+//       "unsecured_pct": 0.454936,
+//       "ror_pct": 0.158798,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.590909,
+//       "cash_bail_pct_white": 0.373817,
+//       "total_cases": 699
+//     },
+//     {
+//       "name": "Lewis, Edward M.",
+//       "cash_bail_pct": 0.204545,
+//       "unsecured_pct": 0.573864,
+//       "ror_pct": 0.221591,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.4,
+//       "cash_bail_pct_white": 0.18,
+//       "total_cases": 176
+//     },
+//     {
+//       "name": "Schrantz, Eric M.",
+//       "cash_bail_pct": 0.328407,
+//       "unsecured_pct": 0.505747,
+//       "ror_pct": 0.165846,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.428571,
+//       "cash_bail_pct_white": 0.332721,
+//       "total_cases": 609
+//     }
+//   ],
+//   "Centre": [
+//     {
+//       "name": "Gillette-Walker, Kelley",
+//       "cash_bail_pct": 0.444828,
+//       "unsecured_pct": 0.086207,
+//       "ror_pct": 0.468966,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.748387,
+//       "cash_bail_pct_white": 0.37518,
+//       "total_cases": 870
+//     },
+//     {
+//       "name": "Horner, Ronald J.",
+//       "cash_bail_pct": 0.060241,
+//       "unsecured_pct": 0.036145,
+//       "ror_pct": 0.903614,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.25,
+//       "cash_bail_pct_white": 0.02682,
+//       "total_cases": 332
+//     },
+//     {
+//       "name": "Jordan, Thomas N.",
+//       "cash_bail_pct": 0.409605,
+//       "unsecured_pct": 0.129944,
+//       "ror_pct": 0.460452,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.72,
+//       "cash_bail_pct_white": 0.346021,
+//       "total_cases": 354
+//     },
+//     {
+//       "name": "Lachman, Steven Frederic",
+//       "cash_bail_pct": 0.180422,
+//       "unsecured_pct": 0.134357,
+//       "ror_pct": 0.685221,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.313953,
+//       "cash_bail_pct_white": 0.160714,
+//       "total_cases": 521
+//     },
+//     {
+//       "name": "Nileski, Charity L.",
+//       "cash_bail_pct": 0.007812,
+//       "unsecured_pct": 0.007812,
+//       "ror_pct": 0.984375,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.0,
+//       "cash_bail_pct_white": 0.009434,
+//       "total_cases": 128
+//     },
+//     {
+//       "name": "Prestia, Carmine W. Jr.",
+//       "cash_bail_pct": 0.204473,
+//       "unsecured_pct": 0.151757,
+//       "ror_pct": 0.64377,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.325,
+//       "cash_bail_pct_white": 0.169528,
+//       "total_cases": 626
+//     },
+//     {
+//       "name": "Sinclair, Allen W.",
+//       "cash_bail_pct": 0.271386,
+//       "unsecured_pct": 0.120944,
+//       "ror_pct": 0.60472,
+//       "nonmonetary_pct": 0.00295,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.44,
+//       "cash_bail_pct_white": 0.209924,
+//       "total_cases": 339
+//     }
+//   ],
+//   "Chester": [
+//     {
+//       "name": "Bailey, John R.",
+//       "cash_bail_pct": 0.385101,
+//       "unsecured_pct": 0.425505,
+//       "ror_pct": 0.184343,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.005051,
+//       "cash_bail_pct_black": 0.508197,
+//       "cash_bail_pct_white": 0.330813,
+//       "total_cases": 792
+//     },
+//     {
+//       "name": "Brown, Leonard J.",
+//       "cash_bail_pct": 0.258462,
+//       "unsecured_pct": 0.449231,
+//       "ror_pct": 0.292308,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.487179,
+//       "cash_bail_pct_white": 0.229682,
+//       "total_cases": 325
+//     },
+//     {
+//       "name": "Bruno, Mark A.",
+//       "cash_bail_pct": 0.36853,
+//       "unsecured_pct": 0.320911,
+//       "ror_pct": 0.291925,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.018634,
+//       "cash_bail_pct_black": 0.405797,
+//       "cash_bail_pct_white": 0.352239,
+//       "total_cases": 483
+//     },
+//     {
+//       "name": "Cabry, Michael J. III",
+//       "cash_bail_pct": 0.399023,
+//       "unsecured_pct": 0.387622,
+//       "ror_pct": 0.203583,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.009772,
+//       "cash_bail_pct_black": 0.525253,
+//       "cash_bail_pct_white": 0.381633,
+//       "total_cases": 614
+//     },
+//     {
+//       "name": "Donatelli, Lori Novak",
+//       "cash_bail_pct": 0.433036,
+//       "unsecured_pct": 0.350446,
+//       "ror_pct": 0.212054,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.004464,
+//       "cash_bail_pct_black": 0.547619,
+//       "cash_bail_pct_white": 0.386581,
+//       "total_cases": 448
+//     },
+//     {
+//       "name": "Gill, Nancy",
+//       "cash_bail_pct": 0.421712,
+//       "unsecured_pct": 0.475992,
+//       "ror_pct": 0.098121,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.004175,
+//       "cash_bail_pct_black": 0.492424,
+//       "cash_bail_pct_white": 0.403614,
+//       "total_cases": 479
+//     },
+//     {
+//       "name": "Hines, Gregory V.",
+//       "cash_bail_pct": 0.60735,
+//       "unsecured_pct": 0.338491,
+//       "ror_pct": 0.05029,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.003868,
+//       "cash_bail_pct_black": 0.61204,
+//       "cash_bail_pct_white": 0.586207,
+//       "total_cases": 517
+//     },
+//     {
+//       "name": "Knapp, Gwenn S.",
+//       "cash_bail_pct": 0.218009,
+//       "unsecured_pct": 0.459716,
+//       "ror_pct": 0.312796,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.009479,
+//       "cash_bail_pct_black": 0.346939,
+//       "cash_bail_pct_white": 0.18125,
+//       "total_cases": 211
+//     },
+//     {
+//       "name": "Koon, Grover E.",
+//       "cash_bail_pct": 0.517293,
+//       "unsecured_pct": 0.4,
+//       "ror_pct": 0.076692,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.006015,
+//       "cash_bail_pct_black": 0.549724,
+//       "cash_bail_pct_white": 0.491039,
+//       "total_cases": 665
+//     },
+//     {
+//       "name": "Kraut, William D.",
+//       "cash_bail_pct": 0.328018,
+//       "unsecured_pct": 0.416856,
+//       "ror_pct": 0.243736,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.01139,
+//       "cash_bail_pct_black": 0.427083,
+//       "cash_bail_pct_white": 0.309598,
+//       "total_cases": 439
+//     },
+//     {
+//       "name": "Massey, Scott A.",
+//       "cash_bail_pct": 0.436693,
+//       "unsecured_pct": 0.381137,
+//       "ror_pct": 0.174419,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.007752,
+//       "cash_bail_pct_black": 0.5375,
+//       "cash_bail_pct_white": 0.412646,
+//       "total_cases": 774
+//     },
+//     {
+//       "name": "Michaels, Theodore Peter Jr.",
+//       "cash_bail_pct": 0.354077,
+//       "unsecured_pct": 0.435622,
+//       "ror_pct": 0.208155,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.002146,
+//       "cash_bail_pct_black": 0.425743,
+//       "cash_bail_pct_white": 0.333333,
+//       "total_cases": 466
+//     },
+//     {
+//       "name": "Nistico, Charles",
+//       "cash_bail_pct": 0.243421,
+//       "unsecured_pct": 0.335526,
+//       "ror_pct": 0.421053,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.411765,
+//       "cash_bail_pct_white": 0.201754,
+//       "total_cases": 152
+//     },
+//     {
+//       "name": "Seavey, Matthew",
+//       "cash_bail_pct": 0.353341,
+//       "unsecured_pct": 0.361268,
+//       "ror_pct": 0.266138,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.019253,
+//       "cash_bail_pct_black": 0.541935,
+//       "cash_bail_pct_white": 0.311544,
+//       "total_cases": 883
+//     },
+//     {
+//       "name": "Sondergaard, Analisa",
+//       "cash_bail_pct": 0.323333,
+//       "unsecured_pct": 0.373333,
+//       "ror_pct": 0.285,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.018333,
+//       "cash_bail_pct_black": 0.420513,
+//       "cash_bail_pct_white": 0.270202,
+//       "total_cases": 600
+//     },
+//     {
+//       "name": "Tartaglio, Thomas W.",
+//       "cash_bail_pct": 0.387755,
+//       "unsecured_pct": 0.365306,
+//       "ror_pct": 0.228571,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.018367,
+//       "cash_bail_pct_black": 0.509804,
+//       "cash_bail_pct_white": 0.361186,
+//       "total_cases": 490
+//     },
+//     {
+//       "name": "Valocchi, Jeffrey J.",
+//       "cash_bail_pct": 0.310474,
+//       "unsecured_pct": 0.487531,
+//       "ror_pct": 0.180798,
+//       "nonmonetary_pct": 0.001247,
+//       "nominal_pct": 0.01995,
+//       "cash_bail_pct_black": 0.334572,
+//       "cash_bail_pct_white": 0.310413,
+//       "total_cases": 802
+//     },
+//     {
+//       "name": "Vito, Marian T.",
+//       "cash_bail_pct": 0.462287,
+//       "unsecured_pct": 0.326034,
+//       "ror_pct": 0.206813,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.004866,
+//       "cash_bail_pct_black": 0.521429,
+//       "cash_bail_pct_white": 0.442308,
+//       "total_cases": 411
+//     }
+//   ],
+//   "Clarion": [
+//     {
+//       "name": "Long Turk, Amy L.",
+//       "cash_bail_pct": 0.288235,
+//       "unsecured_pct": 0.388235,
+//       "ror_pct": 0.323529,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.4,
+//       "cash_bail_pct_white": 0.29932,
+//       "total_cases": 170
+//     },
+//     {
+//       "name": "Miller, Jeffrey C.",
+//       "cash_bail_pct": 0.443114,
+//       "unsecured_pct": 0.526946,
+//       "ror_pct": 0.02994,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.4,
+//       "cash_bail_pct_white": 0.448916,
+//       "total_cases": 334
+//     },
+//     {
+//       "name": "Quinn, Duane L.",
+//       "cash_bail_pct": 0.370166,
+//       "unsecured_pct": 0.290055,
+//       "ror_pct": 0.337017,
+//       "nonmonetary_pct": 0.002762,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.325581,
+//       "cash_bail_pct_white": 0.380471,
+//       "total_cases": 362
+//     },
+//     {
+//       "name": "Schill, Timothy P.",
+//       "cash_bail_pct": 0.42638,
+//       "unsecured_pct": 0.184049,
+//       "ror_pct": 0.389571,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.7,
+//       "cash_bail_pct_white": 0.428571,
+//       "total_cases": 326
+//     }
+//   ],
+//   "Clearfield": [
+//     {
+//       "name": "Ford, Patrick N.",
+//       "cash_bail_pct": 0.35614,
+//       "unsecured_pct": 0.64386,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.611111,
+//       "cash_bail_pct_white": 0.351005,
+//       "total_cases": 570
+//     },
+//     {
+//       "name": "Hawkins, James L.",
+//       "cash_bail_pct": 0.393393,
+//       "unsecured_pct": 0.606607,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.857143,
+//       "cash_bail_pct_white": 0.367213,
+//       "total_cases": 333
+//     },
+//     {
+//       "name": "Ireland, Richard Allen",
+//       "cash_bail_pct": 0.42243,
+//       "unsecured_pct": 0.57757,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.578947,
+//       "cash_bail_pct_white": 0.421782,
+//       "total_cases": 535
+//     },
+//     {
+//       "name": "Nevling, Jerome M.",
+//       "cash_bail_pct": 0.28869,
+//       "unsecured_pct": 0.705357,
+//       "ror_pct": 0.005952,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.5,
+//       "cash_bail_pct_white": 0.283912,
+//       "total_cases": 336
+//     }
+//   ],
+//   "Clinton": [
+//     {
+//       "name": "Maggs, John W.",
+//       "cash_bail_pct": 0.57346,
+//       "unsecured_pct": 0.42654,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.666667,
+//       "cash_bail_pct_white": 0.570681,
+//       "total_cases": 211
+//     },
+//     {
+//       "name": "Mills, Frank P.",
+//       "cash_bail_pct": 0.121777,
+//       "unsecured_pct": 0.654728,
+//       "ror_pct": 0.223496,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.2,
+//       "cash_bail_pct_white": 0.117371,
+//       "total_cases": 698
+//     },
+//     {
+//       "name": "Sanders, Joseph L.",
+//       "cash_bail_pct": 0.657807,
+//       "unsecured_pct": 0.328904,
+//       "ror_pct": 0.003322,
+//       "nonmonetary_pct": 0.006645,
+//       "nominal_pct": 0.003322,
+//       "cash_bail_pct_black": 0.542857,
+//       "cash_bail_pct_white": 0.676806,
+//       "total_cases": 301
+//     }
+//   ],
+//   "Columbia": [
+//     {
+//       "name": "Brewer, Doug D.",
+//       "cash_bail_pct": 0.501805,
+//       "unsecured_pct": 0.234657,
+//       "ror_pct": 0.259928,
+//       "nonmonetary_pct": 0.00361,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.625,
+//       "cash_bail_pct_white": 0.490272,
+//       "total_cases": 277
+//     },
+//     {
+//       "name": "Knecht, Richard W.",
+//       "cash_bail_pct": 0.451948,
+//       "unsecured_pct": 0.080519,
+//       "ror_pct": 0.464935,
+//       "nonmonetary_pct": 0.002597,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.657895,
+//       "cash_bail_pct_white": 0.438066,
+//       "total_cases": 385
+//     },
+//     {
+//       "name": "Lawton, Russell L.",
+//       "cash_bail_pct": 0.277193,
+//       "unsecured_pct": 0.722807,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.181818,
+//       "cash_bail_pct_white": 0.300429,
+//       "total_cases": 570
+//     },
+//     {
+//       "name": "Long, Craig W.",
+//       "cash_bail_pct": 0.432039,
+//       "unsecured_pct": 0.208738,
+//       "ror_pct": 0.359223,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.846154,
+//       "cash_bail_pct_white": 0.413043,
+//       "total_cases": 206
+//     }
+//   ],
+//   "Crawford": [
+//     {
+//       "name": "Marwood, Rita J.",
+//       "cash_bail_pct": 0.278846,
+//       "unsecured_pct": 0.199519,
+//       "ror_pct": 0.521635,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.428571,
+//       "cash_bail_pct_white": 0.2711,
+//       "total_cases": 416
+//     },
+//     {
+//       "name": "Nicols, Amy L.",
+//       "cash_bail_pct": 0.378556,
+//       "unsecured_pct": 0.161926,
+//       "ror_pct": 0.455142,
+//       "nonmonetary_pct": 0.004376,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.592593,
+//       "cash_bail_pct_white": 0.370546,
+//       "total_cases": 457
+//     },
+//     {
+//       "name": "Pendolino, Samuel V.",
+//       "cash_bail_pct": 0.391823,
+//       "unsecured_pct": 0.126065,
+//       "ror_pct": 0.383305,
+//       "nonmonetary_pct": 0.098807,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.581081,
+//       "cash_bail_pct_white": 0.365462,
+//       "total_cases": 587
+//     },
+//     {
+//       "name": "Zilhaver, Lincoln S.",
+//       "cash_bail_pct": 0.356998,
+//       "unsecured_pct": 0.042596,
+//       "ror_pct": 0.387424,
+//       "nonmonetary_pct": 0.212982,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.529412,
+//       "cash_bail_pct_white": 0.346939,
+//       "total_cases": 493
+//     }
+//   ],
+//   "Cumberland": [
+//     {
+//       "name": "Adams, H. Anthony",
+//       "cash_bail_pct": 0.255682,
+//       "unsecured_pct": 0.156818,
+//       "ror_pct": 0.5875,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.303867,
+//       "cash_bail_pct_white": 0.249631,
+//       "total_cases": 880
+//     },
+//     {
+//       "name": "Beckley, Elizabeth S.",
+//       "cash_bail_pct": 0.530488,
+//       "unsecured_pct": 0.469512,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.640244,
+//       "cash_bail_pct_white": 0.491667,
+//       "total_cases": 656
+//     },
+//     {
+//       "name": "Birbeck, Jonathan R.",
+//       "cash_bail_pct": 0.428064,
+//       "unsecured_pct": 0.069272,
+//       "ror_pct": 0.483126,
+//       "nonmonetary_pct": 0.019538,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.629032,
+//       "cash_bail_pct_white": 0.359155,
+//       "total_cases": 563
+//     },
+//     {
+//       "name": "Clement, Charles A. Jr.",
+//       "cash_bail_pct": 0.449541,
+//       "unsecured_pct": 0.120795,
+//       "ror_pct": 0.425076,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.004587,
+//       "cash_bail_pct_black": 0.583893,
+//       "cash_bail_pct_white": 0.409639,
+//       "total_cases": 654
+//     },
+//     {
+//       "name": "Cohick, Vivian",
+//       "cash_bail_pct": 0.386861,
+//       "unsecured_pct": 0.164234,
+//       "ror_pct": 0.421533,
+//       "nonmonetary_pct": 0.027372,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.641026,
+//       "cash_bail_pct_white": 0.35177,
+//       "total_cases": 548
+//     },
+//     {
+//       "name": "Correal, Paula P.",
+//       "cash_bail_pct": 0.441176,
+//       "unsecured_pct": 0.169118,
+//       "ror_pct": 0.389706,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.609756,
+//       "cash_bail_pct_white": 0.361702,
+//       "total_cases": 136
+//     },
+//     {
+//       "name": "Day, Susan K.",
+//       "cash_bail_pct": 0.424635,
+//       "unsecured_pct": 0.116694,
+//       "ror_pct": 0.45705,
+//       "nonmonetary_pct": 0.001621,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.522124,
+//       "cash_bail_pct_white": 0.403614,
+//       "total_cases": 617
+//     },
+//     {
+//       "name": "Dougherty, Richard S. Jr.",
+//       "cash_bail_pct": 0.421239,
+//       "unsecured_pct": 0.123894,
+//       "ror_pct": 0.447788,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.00708,
+//       "cash_bail_pct_black": 0.566667,
+//       "cash_bail_pct_white": 0.385321,
+//       "total_cases": 565
+//     },
+//     {
+//       "name": "Fegley, Paul M",
+//       "cash_bail_pct": 0.428099,
+//       "unsecured_pct": 0.157025,
+//       "ror_pct": 0.414876,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.539062,
+//       "cash_bail_pct_white": 0.395745,
+//       "total_cases": 605
+//     },
+//     {
+//       "name": "Martin, Mark",
+//       "cash_bail_pct": 0.378855,
+//       "unsecured_pct": 0.22467,
+//       "ror_pct": 0.396476,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.53913,
+//       "cash_bail_pct_white": 0.348294,
+//       "total_cases": 681
+//     },
+//     {
+//       "name": "Silcox, Kathryn H.",
+//       "cash_bail_pct": 0.450609,
+//       "unsecured_pct": 0.277402,
+//       "ror_pct": 0.269283,
+//       "nonmonetary_pct": 0.002706,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.644068,
+//       "cash_bail_pct_white": 0.412829,
+//       "total_cases": 739
+//     }
+//   ],
+//   "Dauphin": [
+//     {
+//       "name": "Johnson, Gregory D.",
+//       "cash_bail_pct": 0.309061,
+//       "unsecured_pct": 0.122977,
+//       "ror_pct": 0.564725,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.003236,
+//       "cash_bail_pct_black": 0.6,
+//       "cash_bail_pct_white": 0.232365,
+//       "total_cases": 618
+//     },
+//     {
+//       "name": "Judy, David H.",
+//       "cash_bail_pct": 0.405777,
+//       "unsecured_pct": 0.192572,
+//       "ror_pct": 0.401651,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.56087,
+//       "cash_bail_pct_white": 0.332632,
+//       "total_cases": 727
+//     },
+//     {
+//       "name": "Lenker, James A.",
+//       "cash_bail_pct": 0.429254,
+//       "unsecured_pct": 0.566922,
+//       "ror_pct": 0.003824,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.434783,
+//       "cash_bail_pct_white": 0.435345,
+//       "total_cases": 1046
+//     },
+//     {
+//       "name": "Lenker, Kenneth A.",
+//       "cash_bail_pct": 0.395833,
+//       "unsecured_pct": 0.255952,
+//       "ror_pct": 0.348214,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.448718,
+//       "cash_bail_pct_white": 0.350877,
+//       "total_cases": 672
+//     },
+//     {
+//       "name": "Lindsey, Joseph S.",
+//       "cash_bail_pct": 0.342037,
+//       "unsecured_pct": 0.657963,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.443787,
+//       "cash_bail_pct_white": 0.264851,
+//       "total_cases": 766
+//     },
+//     {
+//       "name": "Margerum, Rebecca J.",
+//       "cash_bail_pct": 0.35167,
+//       "unsecured_pct": 0.282908,
+//       "ror_pct": 0.365422,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.590476,
+//       "cash_bail_pct_white": 0.285347,
+//       "total_cases": 509
+//     },
+//     {
+//       "name": "McKnight, Sonya M.",
+//       "cash_bail_pct": 0.393293,
+//       "unsecured_pct": 0.254573,
+//       "ror_pct": 0.347561,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.004573,
+//       "cash_bail_pct_black": 0.394667,
+//       "cash_bail_pct_white": 0.4375,
+//       "total_cases": 656
+//     },
+//     {
+//       "name": "O'Leary, David",
+//       "cash_bail_pct": 0.348837,
+//       "unsecured_pct": 0.627907,
+//       "ror_pct": 0.023256,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.411111,
+//       "cash_bail_pct_white": 0.386905,
+//       "total_cases": 430
+//     },
+//     {
+//       "name": "Pelino, Dominic",
+//       "cash_bail_pct": 0.237984,
+//       "unsecured_pct": 0.103165,
+//       "ror_pct": 0.502931,
+//       "nonmonetary_pct": 0.15592,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.446154,
+//       "cash_bail_pct_white": 0.177673,
+//       "total_cases": 853
+//     },
+//     {
+//       "name": "Pianka, Barbara",
+//       "cash_bail_pct": 0.596573,
+//       "unsecured_pct": 0.403427,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.620968,
+//       "cash_bail_pct_white": 0.560166,
+//       "total_cases": 642
+//     },
+//     {
+//       "name": "Semic, Steven M.",
+//       "cash_bail_pct": 0.845777,
+//       "unsecured_pct": 0.150551,
+//       "ror_pct": 0.003672,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.850602,
+//       "cash_bail_pct_white": 0.842932,
+//       "total_cases": 817
+//     },
+//     {
+//       "name": "Shugars, Raymond F.",
+//       "cash_bail_pct": 0.900322,
+//       "unsecured_pct": 0.083601,
+//       "ror_pct": 0.016077,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.912821,
+//       "cash_bail_pct_white": 0.875,
+//       "total_cases": 311
+//     },
+//     {
+//       "name": "Smith, Michael J.",
+//       "cash_bail_pct": 0.327261,
+//       "unsecured_pct": 0.670854,
+//       "ror_pct": 0.001884,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.397799,
+//       "cash_bail_pct_white": 0.28427,
+//       "total_cases": 1592
+//     },
+//     {
+//       "name": "Teyral, Joann L.",
+//       "cash_bail_pct": 0.151079,
+//       "unsecured_pct": 0.482014,
+//       "ror_pct": 0.366906,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.169492,
+//       "cash_bail_pct_white": 0.188679,
+//       "total_cases": 139
+//     },
+//     {
+//       "name": "Wenner, William C.",
+//       "cash_bail_pct": 0.430052,
+//       "unsecured_pct": 0.119171,
+//       "ror_pct": 0.450777,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.501832,
+//       "cash_bail_pct_white": 0.384937,
+//       "total_cases": 772
+//     },
+//     {
+//       "name": "Witmer, Lowell A.",
+//       "cash_bail_pct": 0.480287,
+//       "unsecured_pct": 0.197133,
+//       "ror_pct": 0.320789,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.001792,
+//       "cash_bail_pct_black": 0.656977,
+//       "cash_bail_pct_white": 0.410326,
+//       "total_cases": 558
+//     },
+//     {
+//       "name": "Zozos, George A.",
+//       "cash_bail_pct": 0.664247,
+//       "unsecured_pct": 0.324864,
+//       "ror_pct": 0.009074,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.001815,
+//       "cash_bail_pct_black": 0.693009,
+//       "cash_bail_pct_white": 0.646154,
+//       "total_cases": 551
+//     },
+//     {
+//       "name": "Zozos, Paul T.",
+//       "cash_bail_pct": 0.497521,
+//       "unsecured_pct": 0.497521,
+//       "ror_pct": 0.004959,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.53271,
+//       "cash_bail_pct_white": 0.457692,
+//       "total_cases": 605
+//     }
+//   ],
+//   "Delaware": [
+//     {
+//       "name": "Berardocco, Ann",
+//       "cash_bail_pct": 0.705882,
+//       "unsecured_pct": 0.294118,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.757962,
+//       "cash_bail_pct_white": 0.626943,
+//       "total_cases": 527
+//     },
+//     {
+//       "name": "Burke, Robert R.",
+//       "cash_bail_pct": 0.509537,
+//       "unsecured_pct": 0.490463,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.580153,
+//       "cash_bail_pct_white": 0.44385,
+//       "total_cases": 367
+//     },
+//     {
+//       "name": "D'Agostino, Robert M.",
+//       "cash_bail_pct": 0.291188,
+//       "unsecured_pct": 0.704981,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.003831,
+//       "cash_bail_pct_black": 0.397727,
+//       "cash_bail_pct_white": 0.283333,
+//       "total_cases": 261
+//     },
+//     {
+//       "name": "Davis, Wilden H.",
+//       "cash_bail_pct": 0.757576,
+//       "unsecured_pct": 0.238095,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.004329,
+//       "cash_bail_pct_black": 0.753799,
+//       "cash_bail_pct_white": 0.814159,
+//       "total_cases": 462
+//     },
+//     {
+//       "name": "Gallagher, Vincent D. Jr.",
+//       "cash_bail_pct": 0.710262,
+//       "unsecured_pct": 0.289738,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.835681,
+//       "cash_bail_pct_white": 0.612319,
+//       "total_cases": 497
+//     },
+//     {
+//       "name": "Griffin, David",
+//       "cash_bail_pct": 0.51706,
+//       "unsecured_pct": 0.48294,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.585586,
+//       "cash_bail_pct_white": 0.452088,
+//       "total_cases": 762
+//     },
+//     {
+//       "name": "Holefelder, Diane M.",
+//       "cash_bail_pct": 0.517647,
+//       "unsecured_pct": 0.476471,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.005882,
+//       "cash_bail_pct_black": 0.715686,
+//       "cash_bail_pct_white": 0.385666,
+//       "total_cases": 510
+//     },
+//     {
+//       "name": "Hunter, Leon",
+//       "cash_bail_pct": 0.537975,
+//       "unsecured_pct": 0.43038,
+//       "ror_pct": 0.027426,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.004219,
+//       "cash_bail_pct_black": 0.671053,
+//       "cash_bail_pct_white": 0.485577,
+//       "total_cases": 474
+//     },
+//     {
+//       "name": "Karapalides, Harry J. Jr.",
+//       "cash_bail_pct": 0.564103,
+//       "unsecured_pct": 0.42906,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.006838,
+//       "cash_bail_pct_black": 0.577836,
+//       "cash_bail_pct_white": 0.534031,
+//       "total_cases": 585
+//     },
+//     {
+//       "name": "Krull, Deborah A.",
+//       "cash_bail_pct": 0.483607,
+//       "unsecured_pct": 0.516393,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.606061,
+//       "cash_bail_pct_white": 0.396667,
+//       "total_cases": 610
+//     },
+//     {
+//       "name": "Lacey, Thomas J.",
+//       "cash_bail_pct": 0.442244,
+//       "unsecured_pct": 0.531353,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.026403,
+//       "cash_bail_pct_black": 0.49697,
+//       "cash_bail_pct_white": 0.383333,
+//       "total_cases": 303
+//     },
+//     {
+//       "name": "Lacianca, Elisa C.",
+//       "cash_bail_pct": 0.419355,
+//       "unsecured_pct": 0.577713,
+//       "ror_pct": 0.002933,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.608696,
+//       "cash_bail_pct_white": 0.343915,
+//       "total_cases": 341
+//     },
+//     {
+//       "name": "Lang, David H.",
+//       "cash_bail_pct": 0.345652,
+//       "unsecured_pct": 0.606522,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.047826,
+//       "cash_bail_pct_black": 0.393939,
+//       "cash_bail_pct_white": 0.323887,
+//       "total_cases": 460
+//     },
+//     {
+//       "name": "Lippart, Jack D.",
+//       "cash_bail_pct": 0.426653,
+//       "unsecured_pct": 0.572314,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.001033,
+//       "cash_bail_pct_black": 0.556787,
+//       "cash_bail_pct_white": 0.35337,
+//       "total_cases": 968
+//     },
+//     {
+//       "name": "Lippincott, Nicholas S.",
+//       "cash_bail_pct": 0.604167,
+//       "unsecured_pct": 0.395833,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.742972,
+//       "cash_bail_pct_white": 0.453782,
+//       "total_cases": 528
+//     },
+//     {
+//       "name": "Loftus, Greg J.",
+//       "cash_bail_pct": 0.687931,
+//       "unsecured_pct": 0.312069,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.707692,
+//       "cash_bail_pct_white": 0.655462,
+//       "total_cases": 580
+//     },
+//     {
+//       "name": "Mattox, Christopher R.",
+//       "cash_bail_pct": 0.587326,
+//       "unsecured_pct": 0.411128,
+//       "ror_pct": 0.001546,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.618919,
+//       "cash_bail_pct_white": 0.572052,
+//       "total_cases": 647
+//     },
+//     {
+//       "name": "McCray, C. Walter III",
+//       "cash_bail_pct": 0.352201,
+//       "unsecured_pct": 0.534591,
+//       "ror_pct": 0.006289,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.106918,
+//       "cash_bail_pct_black": 0.420765,
+//       "cash_bail_pct_white": 0.259843,
+//       "total_cases": 318
+//     },
+//     {
+//       "name": "Merkins, James",
+//       "cash_bail_pct": 0.614545,
+//       "unsecured_pct": 0.381818,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.003636,
+//       "cash_bail_pct_black": 0.797872,
+//       "cash_bail_pct_white": 0.530488,
+//       "total_cases": 275
+//     },
+//     {
+//       "name": "Micozzie-Aguirre, Kelly A.",
+//       "cash_bail_pct": 0.49827,
+//       "unsecured_pct": 0.49481,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.00692,
+//       "cash_bail_pct_black": 0.6,
+//       "cash_bail_pct_white": 0.473684,
+//       "total_cases": 289
+//     },
+//     {
+//       "name": "Nistico, Charles",
+//       "cash_bail_pct": 0.439516,
+//       "unsecured_pct": 0.544355,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.016129,
+//       "cash_bail_pct_black": 0.507246,
+//       "cash_bail_pct_white": 0.377551,
+//       "total_cases": 248
+//     },
+//     {
+//       "name": "Puppio, Andrea B.",
+//       "cash_bail_pct": 0.571664,
+//       "unsecured_pct": 0.420099,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.001647,
+//       "nominal_pct": 0.00659,
+//       "cash_bail_pct_black": 0.658451,
+//       "cash_bail_pct_white": 0.516892,
+//       "total_cases": 607
+//     },
+//     {
+//       "name": "Radano, Robert J.",
+//       "cash_bail_pct": 0.625235,
+//       "unsecured_pct": 0.374765,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.65411,
+//       "cash_bail_pct_white": 0.618605,
+//       "total_cases": 531
+//     },
+//     {
+//       "name": "Roberts, Wendy B.",
+//       "cash_bail_pct": 0.282119,
+//       "unsecured_pct": 0.715232,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.002649,
+//       "cash_bail_pct_black": 0.405286,
+//       "cash_bail_pct_white": 0.194093,
+//       "total_cases": 755
+//     },
+//     {
+//       "name": "Sandone, Steven A.",
+//       "cash_bail_pct": 0.7,
+//       "unsecured_pct": 0.297778,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.002222,
+//       "cash_bail_pct_black": 0.743363,
+//       "cash_bail_pct_white": 0.682292,
+//       "total_cases": 450
+//     },
+//     {
+//       "name": "Seaton, Spencer B. Jr.",
+//       "cash_bail_pct": 0.738416,
+//       "unsecured_pct": 0.254111,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.007474,
+//       "cash_bail_pct_black": 0.756757,
+//       "cash_bail_pct_white": 0.731092,
+//       "total_cases": 669
+//     },
+//     {
+//       "name": "Strohl, Walter A.",
+//       "cash_bail_pct": 0.517021,
+//       "unsecured_pct": 0.476596,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.006383,
+//       "cash_bail_pct_black": 0.686047,
+//       "cash_bail_pct_white": 0.41637,
+//       "total_cases": 470
+//     },
+//     {
+//       "name": "Tenaglia, Leonard V.",
+//       "cash_bail_pct": 0.738865,
+//       "unsecured_pct": 0.261135,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.75,
+//       "cash_bail_pct_white": 0.711806,
+//       "total_cases": 1145
+//     },
+//     {
+//       "name": "Tozer, Peter P.",
+//       "cash_bail_pct": 0.600806,
+//       "unsecured_pct": 0.399194,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.626437,
+//       "cash_bail_pct_white": 0.586319,
+//       "total_cases": 496
+//     },
+//     {
+//       "name": "Turner, Phillip S.",
+//       "cash_bail_pct": 0.602026,
+//       "unsecured_pct": 0.39508,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.002894,
+//       "cash_bail_pct_black": 0.619672,
+//       "cash_bail_pct_white": 0.591398,
+//       "total_cases": 691
+//     },
+//     {
+//       "name": "Vann, Dawn L.",
+//       "cash_bail_pct": 0.525974,
+//       "unsecured_pct": 0.472403,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.001623,
+//       "cash_bail_pct_black": 0.575916,
+//       "cash_bail_pct_white": 0.582192,
+//       "total_cases": 616
+//     },
+//     {
+//       "name": "Williams, W Keith II",
+//       "cash_bail_pct": 0.572816,
+//       "unsecured_pct": 0.423301,
+//       "ror_pct": 0.001942,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.001942,
+//       "cash_bail_pct_black": 0.52861,
+//       "cash_bail_pct_white": 0.714286,
+//       "total_cases": 515
+//     }
+//   ],
+//   "Elk": [
+//     {
+//       "name": "Jacob, Mark S.",
+//       "cash_bail_pct": 0.25522,
+//       "unsecured_pct": 0.74478,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.25,
+//       "cash_bail_pct_white": 0.260976,
+//       "total_cases": 431
+//     },
+//     {
+//       "name": "Martin, James L.",
+//       "cash_bail_pct": 0.267477,
+//       "unsecured_pct": 0.732523,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.5,
+//       "cash_bail_pct_white": 0.267742,
+//       "total_cases": 329
+//     }
+//   ],
+//   "Erie": [
+//     {
+//       "name": "Bizzarro, Paul A.",
+//       "cash_bail_pct": 0.518927,
+//       "unsecured_pct": 0.152997,
+//       "ror_pct": 0.320189,
+//       "nonmonetary_pct": 0.007886,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.65035,
+//       "cash_bail_pct_white": 0.421384,
+//       "total_cases": 634
+//     },
+//     {
+//       "name": "Carney, Thomas",
+//       "cash_bail_pct": 0.894988,
+//       "unsecured_pct": 0.100239,
+//       "ror_pct": 0.002387,
+//       "nonmonetary_pct": 0.002387,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.892523,
+//       "cash_bail_pct_white": 0.894444,
+//       "total_cases": 419
+//     },
+//     {
+//       "name": "DiPaolo, Dominick D.",
+//       "cash_bail_pct": 0.976035,
+//       "unsecured_pct": 0.019608,
+//       "ror_pct": 0.004357,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.987805,
+//       "cash_bail_pct_white": 0.984456,
+//       "total_cases": 459
+//     },
+//     {
+//       "name": "Hammer, Scott B.",
+//       "cash_bail_pct": 0.472826,
+//       "unsecured_pct": 0.138587,
+//       "ror_pct": 0.388587,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.733333,
+//       "cash_bail_pct_white": 0.451807,
+//       "total_cases": 368
+//     },
+//     {
+//       "name": "Krahe, Mark R.",
+//       "cash_bail_pct": 0.2496,
+//       "unsecured_pct": 0.1632,
+//       "ror_pct": 0.5872,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.297619,
+//       "cash_bail_pct_white": 0.25,
+//       "total_cases": 625
+//     },
+//     {
+//       "name": "Mack, Suzanne C.",
+//       "cash_bail_pct": 0.613793,
+//       "unsecured_pct": 0.115517,
+//       "ror_pct": 0.232759,
+//       "nonmonetary_pct": 0.037931,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.649007,
+//       "cash_bail_pct_white": 0.606426,
+//       "total_cases": 580
+//     },
+//     {
+//       "name": "Mackendrick, Chris K.",
+//       "cash_bail_pct": 0.393939,
+//       "unsecured_pct": 0.60373,
+//       "ror_pct": 0.002331,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.860465,
+//       "cash_bail_pct_white": 0.345646,
+//       "total_cases": 429
+//     },
+//     {
+//       "name": "Manzi, Paul",
+//       "cash_bail_pct": 0.387755,
+//       "unsecured_pct": 0.591837,
+//       "ror_pct": 0.020408,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.56,
+//       "cash_bail_pct_white": 0.375,
+//       "total_cases": 539
+//     },
+//     {
+//       "name": "McGowan, Brian M.",
+//       "cash_bail_pct": 0.213729,
+//       "unsecured_pct": 0.182527,
+//       "ror_pct": 0.603744,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.364583,
+//       "cash_bail_pct_white": 0.186916,
+//       "total_cases": 641
+//     },
+//     {
+//       "name": "Nichols, Brenda A.",
+//       "cash_bail_pct": 0.179487,
+//       "unsecured_pct": 0.160256,
+//       "ror_pct": 0.660256,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.166667,
+//       "cash_bail_pct_white": 0.188811,
+//       "total_cases": 312
+//     },
+//     {
+//       "name": "Strohmeyer, Susan D.",
+//       "cash_bail_pct": 0.309441,
+//       "unsecured_pct": 0.108392,
+//       "ror_pct": 0.576923,
+//       "nonmonetary_pct": 0.005245,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.43,
+//       "cash_bail_pct_white": 0.289474,
+//       "total_cases": 572
+//     },
+//     {
+//       "name": "Stuck-Lewis, Denise",
+//       "cash_bail_pct": 0.347639,
+//       "unsecured_pct": 0.103004,
+//       "ror_pct": 0.545064,
+//       "nonmonetary_pct": 0.004292,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.538462,
+//       "cash_bail_pct_white": 0.322667,
+//       "total_cases": 466
+//     },
+//     {
+//       "name": "Urbaniak, Paul G.",
+//       "cash_bail_pct": 0.637631,
+//       "unsecured_pct": 0.054007,
+//       "ror_pct": 0.287456,
+//       "nonmonetary_pct": 0.020906,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.656051,
+//       "cash_bail_pct_white": 0.630952,
+//       "total_cases": 574
+//     }
+//   ],
+//   "Fayette": [
+//     {
+//       "name": "Defino, Michael J. Jr.",
+//       "cash_bail_pct": 0.410938,
+//       "unsecured_pct": 0.589063,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.432,
+//       "cash_bail_pct_white": 0.40239,
+//       "total_cases": 640
+//     },
+//     {
+//       "name": "Dennis, Wendy D.",
+//       "cash_bail_pct": 0.477663,
+//       "unsecured_pct": 0.520619,
+//       "ror_pct": 0.001718,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.505051,
+//       "cash_bail_pct_white": 0.475789,
+//       "total_cases": 582
+//     },
+//     {
+//       "name": "Haggerty, Ronald J. Sr.",
+//       "cash_bail_pct": 0.470085,
+//       "unsecured_pct": 0.529915,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.587629,
+//       "cash_bail_pct_white": 0.45493,
+//       "total_cases": 819
+//     },
+//     {
+//       "name": "Jeffries, Jennifer L.",
+//       "cash_bail_pct": 0.528881,
+//       "unsecured_pct": 0.471119,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.68254,
+//       "cash_bail_pct_white": 0.485714,
+//       "total_cases": 554
+//     },
+//     {
+//       "name": "Kasunic, Richard II",
+//       "cash_bail_pct": 0.372903,
+//       "unsecured_pct": 0.627097,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.495327,
+//       "cash_bail_pct_white": 0.355623,
+//       "total_cases": 775
+//     },
+//     {
+//       "name": "Metros, Michael",
+//       "cash_bail_pct": 0.451309,
+//       "unsecured_pct": 0.548691,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.522267,
+//       "cash_bail_pct_white": 0.431034,
+//       "total_cases": 955
+//     },
+//     {
+//       "name": "Shimshock, Daniel C.",
+//       "cash_bail_pct": 0.462822,
+//       "unsecured_pct": 0.537178,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.606742,
+//       "cash_bail_pct_white": 0.437276,
+//       "total_cases": 659
+//     }
+//   ],
+//   "Forest": [
+//     {
+//       "name": "Miller, Daniel L.",
+//       "cash_bail_pct": 0.321429,
+//       "unsecured_pct": 0.542857,
+//       "ror_pct": 0.135714,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.866667,
+//       "cash_bail_pct_white": 0.282609,
+//       "total_cases": 140
+//     }
+//   ],
+//   "Franklin": [
+//     {
+//       "name": "Cunningham, Duane K.",
+//       "cash_bail_pct": 0.539615,
+//       "unsecured_pct": 0.077088,
+//       "ror_pct": 0.376874,
+//       "nonmonetary_pct": 0.006424,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.684211,
+//       "cash_bail_pct_white": 0.512953,
+//       "total_cases": 467
+//     },
+//     {
+//       "name": "Eyer, Jody C.",
+//       "cash_bail_pct": 0.407925,
+//       "unsecured_pct": 0.235431,
+//       "ror_pct": 0.344988,
+//       "nonmonetary_pct": 0.011655,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.652174,
+//       "cash_bail_pct_white": 0.379032,
+//       "total_cases": 429
+//     },
+//     {
+//       "name": "Manns, Glenn Kenneth",
+//       "cash_bail_pct": 0.395095,
+//       "unsecured_pct": 0.084469,
+//       "ror_pct": 0.517711,
+//       "nonmonetary_pct": 0.001817,
+//       "nominal_pct": 0.000908,
+//       "cash_bail_pct_black": 0.463668,
+//       "cash_bail_pct_white": 0.377863,
+//       "total_cases": 1101
+//     },
+//     {
+//       "name": "Pentz, Larry G.",
+//       "cash_bail_pct": 0.253181,
+//       "unsecured_pct": 0.072519,
+//       "ror_pct": 0.661578,
+//       "nonmonetary_pct": 0.012723,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.414894,
+//       "cash_bail_pct_white": 0.234949,
+//       "total_cases": 786
+//     },
+//     {
+//       "name": "Plum, David L.",
+//       "cash_bail_pct": 0.465374,
+//       "unsecured_pct": 0.171745,
+//       "ror_pct": 0.362881,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.647887,
+//       "cash_bail_pct_white": 0.426573,
+//       "total_cases": 361
+//     },
+//     {
+//       "name": "Rock, Kelly L.",
+//       "cash_bail_pct": 0.358008,
+//       "unsecured_pct": 0.111709,
+//       "ror_pct": 0.526245,
+//       "nonmonetary_pct": 0.004038,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.450704,
+//       "cash_bail_pct_white": 0.341924,
+//       "total_cases": 743
+//     },
+//     {
+//       "name": "Williams, Todd R.",
+//       "cash_bail_pct": 0.292135,
+//       "unsecured_pct": 0.155431,
+//       "ror_pct": 0.544944,
+//       "nonmonetary_pct": 0.007491,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.4,
+//       "cash_bail_pct_white": 0.272076,
+//       "total_cases": 534
+//     }
+//   ],
+//   "Fulton": [
+//     {
+//       "name": "Heming, Tamela M.",
+//       "cash_bail_pct": 0.3125,
+//       "unsecured_pct": 0.25,
+//       "ror_pct": 0.258929,
+//       "nonmonetary_pct": 0.178571,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.272727,
+//       "cash_bail_pct_white": 0.319149,
+//       "total_cases": 112
+//     },
+//     {
+//       "name": "Horne, Devin C.",
+//       "cash_bail_pct": 0.326923,
+//       "unsecured_pct": 0.163462,
+//       "ror_pct": 0.5,
+//       "nonmonetary_pct": 0.009615,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.333333,
+//       "cash_bail_pct_white": 0.346154,
+//       "total_cases": 104
+//     },
+//     {
+//       "name": "Mellott, Wendy",
+//       "cash_bail_pct": 0.23913,
+//       "unsecured_pct": 0.076087,
+//       "ror_pct": 0.684783,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.266667,
+//       "cash_bail_pct_white": 0.246835,
+//       "total_cases": 184
+//     }
+//   ],
+//   "Greene": [
+//     {
+//       "name": "Bates, D Glenn",
+//       "cash_bail_pct": 0.324627,
+//       "unsecured_pct": 0.675373,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.666667,
+//       "cash_bail_pct_white": 0.314516,
+//       "total_cases": 268
+//     },
+//     {
+//       "name": "Cramer, Jesse J.",
+//       "cash_bail_pct": 0.333333,
+//       "unsecured_pct": 0.214815,
+//       "ror_pct": 0.448148,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.003704,
+//       "cash_bail_pct_black": 0.5,
+//       "cash_bail_pct_white": 0.338843,
+//       "total_cases": 270
+//     },
+//     {
+//       "name": "Watson, Lee",
+//       "cash_bail_pct": 0.527344,
+//       "unsecured_pct": 0.183594,
+//       "ror_pct": 0.28125,
+//       "nonmonetary_pct": 0.007812,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.583333,
+//       "cash_bail_pct_white": 0.549107,
+//       "total_cases": 256
+//     }
+//   ],
+//   "Huntingdon": [
+//     {
+//       "name": "Gummo, Douglas L.",
+//       "cash_bail_pct": 0.274419,
+//       "unsecured_pct": 0.344186,
+//       "ror_pct": 0.381395,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.410256,
+//       "cash_bail_pct_white": 0.276243,
+//       "total_cases": 430
+//     },
+//     {
+//       "name": "Jamison, Mary",
+//       "cash_bail_pct": 0.372727,
+//       "unsecured_pct": 0.627273,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.576923,
+//       "cash_bail_pct_white": 0.379562,
+//       "total_cases": 330
+//     },
+//     {
+//       "name": "Wilt, Richard S.",
+//       "cash_bail_pct": 0.463855,
+//       "unsecured_pct": 0.094378,
+//       "ror_pct": 0.441767,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.794872,
+//       "cash_bail_pct_white": 0.414698,
+//       "total_cases": 498
+//     }
+//   ],
+//   "Indiana": [
+//     {
+//       "name": "Haberl, Guy B.",
+//       "cash_bail_pct": 0.405594,
+//       "unsecured_pct": 0.300699,
+//       "ror_pct": 0.293706,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.365672,
+//       "cash_bail_pct_white": 0.413953,
+//       "total_cases": 572
+//     },
+//     {
+//       "name": "Rega, Jennifer J.",
+//       "cash_bail_pct": 0.403326,
+//       "unsecured_pct": 0.461538,
+//       "ror_pct": 0.135135,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.612903,
+//       "cash_bail_pct_white": 0.36983,
+//       "total_cases": 481
+//     },
+//     {
+//       "name": "Steffee, Susanne V.",
+//       "cash_bail_pct": 0.414909,
+//       "unsecured_pct": 0.196906,
+//       "ror_pct": 0.388186,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.474359,
+//       "cash_bail_pct_white": 0.410423,
+//       "total_cases": 711
+//     },
+//     {
+//       "name": "Thachik, George M.",
+//       "cash_bail_pct": 0.39486,
+//       "unsecured_pct": 0.602804,
+//       "ror_pct": 0.002336,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.8,
+//       "cash_bail_pct_white": 0.364829,
+//       "total_cases": 428
+//     }
+//   ],
+//   "Jefferson": [
+//     {
+//       "name": "Bazylak, Gregory M.",
+//       "cash_bail_pct": 0.34375,
+//       "unsecured_pct": 0.653646,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.002604,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.8,
+//       "cash_bail_pct_white": 0.344633,
+//       "total_cases": 384
+//     },
+//     {
+//       "name": "Chambers, Douglas R.",
+//       "cash_bail_pct": 0.376176,
+//       "unsecured_pct": 0.623824,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.5,
+//       "cash_bail_pct_white": 0.376238,
+//       "total_cases": 319
+//     },
+//     {
+//       "name": "Inzana, David B.",
+//       "cash_bail_pct": 0.433862,
+//       "unsecured_pct": 0.566138,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.714286,
+//       "cash_bail_pct_white": 0.425,
+//       "total_cases": 378
+//     }
+//   ],
+//   "Juniata": [
+//     {
+//       "name": "Leister, Jacqueline T.",
+//       "cash_bail_pct": 0.305936,
+//       "unsecured_pct": 0.13242,
+//       "ror_pct": 0.39726,
+//       "nonmonetary_pct": 0.164384,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.5,
+//       "cash_bail_pct_white": 0.340909,
+//       "total_cases": 219
+//     },
+//     {
+//       "name": "Lyter, Barbara M.",
+//       "cash_bail_pct": 0.314554,
+//       "unsecured_pct": 0.685446,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.25,
+//       "cash_bail_pct_white": 0.328205,
+//       "total_cases": 213
+//     }
+//   ],
+//   "Lackawanna": [
+//     {
+//       "name": "Corbett, Joanne Price",
+//       "cash_bail_pct": 0.574534,
+//       "unsecured_pct": 0.319876,
+//       "ror_pct": 0.003106,
+//       "nonmonetary_pct": 0.099379,
+//       "nominal_pct": 0.003106,
+//       "cash_bail_pct_black": 0.747826,
+//       "cash_bail_pct_white": 0.536383,
+//       "total_cases": 644
+//     },
+//     {
+//       "name": "Farrell, Alyce Hailstone",
+//       "cash_bail_pct": 0.504132,
+//       "unsecured_pct": 0.42314,
+//       "ror_pct": 0.008264,
+//       "nonmonetary_pct": 0.064463,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.503937,
+//       "cash_bail_pct_white": 0.510776,
+//       "total_cases": 605
+//     },
+//     {
+//       "name": "Gallagher, Terrence V.",
+//       "cash_bail_pct": 0.380952,
+//       "unsecured_pct": 0.486943,
+//       "ror_pct": 0.012289,
+//       "nonmonetary_pct": 0.119816,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.635514,
+//       "cash_bail_pct_white": 0.323829,
+//       "total_cases": 651
+//     },
+//     {
+//       "name": "Giglio, Theodore J.",
+//       "cash_bail_pct": 0.682432,
+//       "unsecured_pct": 0.195946,
+//       "ror_pct": 0.032095,
+//       "nonmonetary_pct": 0.089527,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.820896,
+//       "cash_bail_pct_white": 0.652681,
+//       "total_cases": 592
+//     },
+//     {
+//       "name": "Keeler, Paul",
+//       "cash_bail_pct": 0.51585,
+//       "unsecured_pct": 0.404899,
+//       "ror_pct": 0.038905,
+//       "nonmonetary_pct": 0.038905,
+//       "nominal_pct": 0.001441,
+//       "cash_bail_pct_black": 0.684211,
+//       "cash_bail_pct_white": 0.46493,
+//       "total_cases": 694
+//     },
+//     {
+//       "name": "McGraw, Sean P.",
+//       "cash_bail_pct": 0.56,
+//       "unsecured_pct": 0.42069,
+//       "ror_pct": 0.002759,
+//       "nonmonetary_pct": 0.015172,
+//       "nominal_pct": 0.001379,
+//       "cash_bail_pct_black": 0.748299,
+//       "cash_bail_pct_white": 0.515038,
+//       "total_cases": 725
+//     },
+//     {
+//       "name": "Pesota, John P.",
+//       "cash_bail_pct": 0.530551,
+//       "unsecured_pct": 0.281669,
+//       "ror_pct": 0.041729,
+//       "nonmonetary_pct": 0.146051,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.642336,
+//       "cash_bail_pct_white": 0.5,
+//       "total_cases": 671
+//     },
+//     {
+//       "name": "Turlip-Murphy, Laura",
+//       "cash_bail_pct": 0.463863,
+//       "unsecured_pct": 0.505913,
+//       "ror_pct": 0.001314,
+//       "nonmonetary_pct": 0.028909,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.617647,
+//       "cash_bail_pct_white": 0.421416,
+//       "total_cases": 761
+//     },
+//     {
+//       "name": "Ware, Paul J.",
+//       "cash_bail_pct": 0.555556,
+//       "unsecured_pct": 0.353678,
+//       "ror_pct": 0.014085,
+//       "nonmonetary_pct": 0.076682,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.590164,
+//       "cash_bail_pct_white": 0.54185,
+//       "total_cases": 639
+//     }
+//   ],
+//   "Lancaster": [
+//     {
+//       "name": "Albert, Scott E.",
+//       "cash_bail_pct": 0.421212,
+//       "unsecured_pct": 0.578788,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.484127,
+//       "cash_bail_pct_white": 0.409178,
+//       "total_cases": 660
+//     },
+//     {
+//       "name": "Benner, William E. Jr.",
+//       "cash_bail_pct": 0.566176,
+//       "unsecured_pct": 0.431373,
+//       "ror_pct": 0.002451,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.704918,
+//       "cash_bail_pct_white": 0.55132,
+//       "total_cases": 408
+//     },
+//     {
+//       "name": "Bixler, Miles K.",
+//       "cash_bail_pct": 0.439481,
+//       "unsecured_pct": 0.403458,
+//       "ror_pct": 0.157061,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.549618,
+//       "cash_bail_pct_white": 0.425139,
+//       "total_cases": 694
+//     },
+//     {
+//       "name": "Chudzik, Brian E.",
+//       "cash_bail_pct": 0.472973,
+//       "unsecured_pct": 0.527027,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.561644,
+//       "cash_bail_pct_white": 0.452,
+//       "total_cases": 666
+//     },
+//     {
+//       "name": "Commins, B. Denise",
+//       "cash_bail_pct": 0.407731,
+//       "unsecured_pct": 0.528678,
+//       "ror_pct": 0.063591,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.54491,
+//       "cash_bail_pct_white": 0.384488,
+//       "total_cases": 802
+//     },
+//     {
+//       "name": "Duncan, Jayne F.",
+//       "cash_bail_pct": 0.296758,
+//       "unsecured_pct": 0.663342,
+//       "ror_pct": 0.037406,
+//       "nonmonetary_pct": 0.002494,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.457143,
+//       "cash_bail_pct_white": 0.290598,
+//       "total_cases": 401
+//     },
+//     {
+//       "name": "Hamill, Nancy G.",
+//       "cash_bail_pct": 0.625282,
+//       "unsecured_pct": 0.37246,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.002257,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.797297,
+//       "cash_bail_pct_white": 0.592287,
+//       "total_cases": 443
+//     },
+//     {
+//       "name": "Hartman, Rodney H.",
+//       "cash_bail_pct": 0.586957,
+//       "unsecured_pct": 0.336232,
+//       "ror_pct": 0.076812,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.805556,
+//       "cash_bail_pct_white": 0.553004,
+//       "total_cases": 690
+//     },
+//     {
+//       "name": "Herman, Robert A. Jr.",
+//       "cash_bail_pct": 0.095618,
+//       "unsecured_pct": 0.241036,
+//       "ror_pct": 0.663347,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.158416,
+//       "cash_bail_pct_white": 0.089569,
+//       "total_cases": 1004
+//     },
+//     {
+//       "name": "Jimenez, Janice",
+//       "cash_bail_pct": 0.631485,
+//       "unsecured_pct": 0.314848,
+//       "ror_pct": 0.053667,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.668919,
+//       "cash_bail_pct_white": 0.619403,
+//       "total_cases": 559
+//     },
+//     {
+//       "name": "Keller, Joshua R.",
+//       "cash_bail_pct": 0.411905,
+//       "unsecured_pct": 0.388095,
+//       "ror_pct": 0.195238,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.004762,
+//       "cash_bail_pct_black": 0.395349,
+//       "cash_bail_pct_white": 0.419453,
+//       "total_cases": 420
+//     },
+//     {
+//       "name": "Miller, David P.",
+//       "cash_bail_pct": 0.455556,
+//       "unsecured_pct": 0.365556,
+//       "ror_pct": 0.178889,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.492891,
+//       "cash_bail_pct_white": 0.44494,
+//       "total_cases": 900
+//     },
+//     {
+//       "name": "Mongiovi Sponaugle, Mary",
+//       "cash_bail_pct": 0.434316,
+//       "unsecured_pct": 0.210456,
+//       "ror_pct": 0.355228,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.386905,
+//       "cash_bail_pct_white": 0.450355,
+//       "total_cases": 746
+//     },
+//     {
+//       "name": "Mylin, Stuart J.",
+//       "cash_bail_pct": 0.508741,
+//       "unsecured_pct": 0.491259,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.65,
+//       "cash_bail_pct_white": 0.494048,
+//       "total_cases": 572
+//     },
+//     {
+//       "name": "Reinaker, Dennis E.",
+//       "cash_bail_pct": 0.065963,
+//       "unsecured_pct": 0.422164,
+//       "ror_pct": 0.509235,
+//       "nonmonetary_pct": 0.002639,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.166667,
+//       "cash_bail_pct_white": 0.06087,
+//       "total_cases": 379
+//     },
+//     {
+//       "name": "Reuter, William G.",
+//       "cash_bail_pct": 0.380282,
+//       "unsecured_pct": 0.591549,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.028169,
+//       "cash_bail_pct_black": 0.367347,
+//       "cash_bail_pct_white": 0.388889,
+//       "total_cases": 142
+//     },
+//     {
+//       "name": "Roth, Bruce A.",
+//       "cash_bail_pct": 0.621924,
+//       "unsecured_pct": 0.362416,
+//       "ror_pct": 0.013423,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.002237,
+//       "cash_bail_pct_black": 0.67,
+//       "cash_bail_pct_white": 0.644654,
+//       "total_cases": 447
+//     },
+//     {
+//       "name": "Russell, Tony S.",
+//       "cash_bail_pct": 0.547945,
+//       "unsecured_pct": 0.393836,
+//       "ror_pct": 0.058219,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.625,
+//       "cash_bail_pct_white": 0.543478,
+//       "total_cases": 584
+//     },
+//     {
+//       "name": "Sheller, Raymond S.",
+//       "cash_bail_pct": 0.590164,
+//       "unsecured_pct": 0.325527,
+//       "ror_pct": 0.084309,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.681159,
+//       "cash_bail_pct_white": 0.576705,
+//       "total_cases": 427
+//     },
+//     {
+//       "name": "Tobin, Edward A.",
+//       "cash_bail_pct": 0.495851,
+//       "unsecured_pct": 0.417012,
+//       "ror_pct": 0.068465,
+//       "nonmonetary_pct": 0.018672,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.590909,
+//       "cash_bail_pct_white": 0.486553,
+//       "total_cases": 482
+//     },
+//     {
+//       "name": "Willwerth, Jene",
+//       "cash_bail_pct": 0.642857,
+//       "unsecured_pct": 0.357143,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.806452,
+//       "cash_bail_pct_white": 0.575,
+//       "total_cases": 112
+//     },
+//     {
+//       "name": "Winters, John C.",
+//       "cash_bail_pct": 0.553846,
+//       "unsecured_pct": 0.438462,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.007692,
+//       "cash_bail_pct_black": 0.648649,
+//       "cash_bail_pct_white": 0.521739,
+//       "total_cases": 130
+//     },
+//     {
+//       "name": "Witkonis, Adam J.",
+//       "cash_bail_pct": 0.503686,
+//       "unsecured_pct": 0.379607,
+//       "ror_pct": 0.113022,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.003686,
+//       "cash_bail_pct_black": 0.572139,
+//       "cash_bail_pct_white": 0.483926,
+//       "total_cases": 814
+//     }
+//   ],
+//   "Lawrence": [
+//     {
+//       "name": "Amodie, Melissa Ann",
+//       "cash_bail_pct": 0.667114,
+//       "unsecured_pct": 0.016107,
+//       "ror_pct": 0.114094,
+//       "nonmonetary_pct": 0.201342,
+//       "nominal_pct": 0.001342,
+//       "cash_bail_pct_black": 0.819853,
+//       "cash_bail_pct_white": 0.594104,
+//       "total_cases": 745
+//     },
+//     {
+//       "name": "Cartwright, Jerry G. Jr.",
+//       "cash_bail_pct": 0.270096,
+//       "unsecured_pct": 0.019293,
+//       "ror_pct": 0.421222,
+//       "nonmonetary_pct": 0.289389,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.306122,
+//       "cash_bail_pct_white": 0.271654,
+//       "total_cases": 311
+//     },
+//     {
+//       "name": "McGrath, Scott",
+//       "cash_bail_pct": 0.476584,
+//       "unsecured_pct": 0.082645,
+//       "ror_pct": 0.22314,
+//       "nonmonetary_pct": 0.217631,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.696203,
+//       "cash_bail_pct_white": 0.42029,
+//       "total_cases": 363
+//     },
+//     {
+//       "name": "Nicholson, Jennifer L.",
+//       "cash_bail_pct": 0.487903,
+//       "unsecured_pct": 0.0,
+//       "ror_pct": 0.181452,
+//       "nonmonetary_pct": 0.330645,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.587156,
+//       "cash_bail_pct_white": 0.459103,
+//       "total_cases": 496
+//     },
+//     {
+//       "name": "Rishel, David B.",
+//       "cash_bail_pct": 0.422145,
+//       "unsecured_pct": 0.017301,
+//       "ror_pct": 0.349481,
+//       "nonmonetary_pct": 0.211073,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.52381,
+//       "cash_bail_pct_white": 0.403361,
+//       "total_cases": 289
+//     }
+//   ],
+//   "Lebanon": [
+//     {
+//       "name": "Capello, Thomas M.",
+//       "cash_bail_pct": 0.448529,
+//       "unsecured_pct": 0.551471,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.580645,
+//       "cash_bail_pct_white": 0.434322,
+//       "total_cases": 544
+//     },
+//     {
+//       "name": "Dissinger, Maria M.",
+//       "cash_bail_pct": 0.35085,
+//       "unsecured_pct": 0.64915,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.454545,
+//       "cash_bail_pct_white": 0.354128,
+//       "total_cases": 647
+//     },
+//     {
+//       "name": "Ditzler, John W.",
+//       "cash_bail_pct": 0.296053,
+//       "unsecured_pct": 0.685855,
+//       "ror_pct": 0.018092,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.37931,
+//       "cash_bail_pct_white": 0.289963,
+//       "total_cases": 608
+//     },
+//     {
+//       "name": "Garver, Carl Russell",
+//       "cash_bail_pct": 0.413379,
+//       "unsecured_pct": 0.586621,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.574468,
+//       "cash_bail_pct_white": 0.4,
+//       "total_cases": 583
+//     },
+//     {
+//       "name": "Verna, Anthony J.",
+//       "cash_bail_pct": 0.354167,
+//       "unsecured_pct": 0.645833,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.588235,
+//       "cash_bail_pct_white": 0.348018,
+//       "total_cases": 768
+//     },
+//     {
+//       "name": "Wolfe, Kim R.",
+//       "cash_bail_pct": 0.41272,
+//       "unsecured_pct": 0.58728,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.507692,
+//       "cash_bail_pct_white": 0.406627,
+//       "total_cases": 739
+//     }
+//   ],
+//   "Lehigh": [
+//     {
+//       "name": "Balliet, Carl L.",
+//       "cash_bail_pct": 0.606299,
+//       "unsecured_pct": 0.393701,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.758621,
+//       "cash_bail_pct_white": 0.523256,
+//       "total_cases": 127
+//     },
+//     {
+//       "name": "Beck, Rod",
+//       "cash_bail_pct": 0.530351,
+//       "unsecured_pct": 0.257188,
+//       "ror_pct": 0.21246,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.772277,
+//       "cash_bail_pct_white": 0.473029,
+//       "total_cases": 626
+//     },
+//     {
+//       "name": "Butler, Donna R.",
+//       "cash_bail_pct": 0.593633,
+//       "unsecured_pct": 0.391386,
+//       "ror_pct": 0.013109,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.001873,
+//       "cash_bail_pct_black": 0.686869,
+//       "cash_bail_pct_white": 0.551637,
+//       "total_cases": 534
+//     },
+//     {
+//       "name": "Crawford, Charles H.",
+//       "cash_bail_pct": 0.512,
+//       "unsecured_pct": 0.488,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.684211,
+//       "cash_bail_pct_white": 0.446809,
+//       "total_cases": 125
+//     },
+//     {
+//       "name": "D'Amore, Michael D.",
+//       "cash_bail_pct": 0.437931,
+//       "unsecured_pct": 0.191954,
+//       "ror_pct": 0.357471,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.012644,
+//       "cash_bail_pct_black": 0.470588,
+//       "cash_bail_pct_white": 0.428058,
+//       "total_cases": 870
+//     },
+//     {
+//       "name": "Devine, Karen C.",
+//       "cash_bail_pct": 0.583333,
+//       "unsecured_pct": 0.416667,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.61244,
+//       "cash_bail_pct_white": 0.588384,
+//       "total_cases": 708
+//     },
+//     {
+//       "name": "Engler, Patricia M.",
+//       "cash_bail_pct": 0.591722,
+//       "unsecured_pct": 0.408278,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.666667,
+//       "cash_bail_pct_white": 0.605634,
+//       "total_cases": 1063
+//     },
+//     {
+//       "name": "Faulkner, Michael J.",
+//       "cash_bail_pct": 0.409283,
+//       "unsecured_pct": 0.588608,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.00211,
+//       "cash_bail_pct_black": 0.440594,
+//       "cash_bail_pct_white": 0.376437,
+//       "total_cases": 948
+//     },
+//     {
+//       "name": "Halal, Robert C.",
+//       "cash_bail_pct": 0.558522,
+//       "unsecured_pct": 0.441478,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.705882,
+//       "cash_bail_pct_white": 0.529086,
+//       "total_cases": 487
+//     },
+//     {
+//       "name": "Hammond, Jacob E.",
+//       "cash_bail_pct": 0.498899,
+//       "unsecured_pct": 0.229075,
+//       "ror_pct": 0.270925,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.001101,
+//       "cash_bail_pct_black": 0.489691,
+//       "cash_bail_pct_white": 0.483631,
+//       "total_cases": 908
+//     },
+//     {
+//       "name": "Howells, David M. Jr.",
+//       "cash_bail_pct": 0.566372,
+//       "unsecured_pct": 0.433628,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.584541,
+//       "cash_bail_pct_white": 0.606127,
+//       "total_cases": 791
+//     },
+//     {
+//       "name": "Manescu, Ronald S.",
+//       "cash_bail_pct": 0.691574,
+//       "unsecured_pct": 0.308426,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.719512,
+//       "cash_bail_pct_white": 0.691139,
+//       "total_cases": 629
+//     },
+//     {
+//       "name": "Maura, Wayne",
+//       "cash_bail_pct": 0.650524,
+//       "unsecured_pct": 0.349476,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.767045,
+//       "cash_bail_pct_white": 0.599628,
+//       "total_cases": 764
+//     },
+//     {
+//       "name": "Pochron, Michael Joseph",
+//       "cash_bail_pct": 0.658416,
+//       "unsecured_pct": 0.341584,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.696552,
+//       "cash_bail_pct_white": 0.627204,
+//       "total_cases": 606
+//     },
+//     {
+//       "name": "Santiago, Rashid",
+//       "cash_bail_pct": 0.61519,
+//       "unsecured_pct": 0.324051,
+//       "ror_pct": 0.059494,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.001266,
+//       "cash_bail_pct_black": 0.637681,
+//       "cash_bail_pct_white": 0.64557,
+//       "total_cases": 790
+//     },
+//     {
+//       "name": "Trexler, Daniel C.",
+//       "cash_bail_pct": 0.614238,
+//       "unsecured_pct": 0.129139,
+//       "ror_pct": 0.253311,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.003311,
+//       "cash_bail_pct_black": 0.713115,
+//       "cash_bail_pct_white": 0.567873,
+//       "total_cases": 604
+//     }
+//   ],
+//   "Luzerne": [
+//     {
+//       "name": "Barilla, David A.",
+//       "cash_bail_pct": 0.44,
+//       "unsecured_pct": 0.321739,
+//       "ror_pct": 0.236522,
+//       "nonmonetary_pct": 0.001739,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.644231,
+//       "cash_bail_pct_white": 0.393333,
+//       "total_cases": 575
+//     },
+//     {
+//       "name": "Carmody, Joseph J.",
+//       "cash_bail_pct": 0.382664,
+//       "unsecured_pct": 0.458774,
+//       "ror_pct": 0.15222,
+//       "nonmonetary_pct": 0.006342,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.571429,
+//       "cash_bail_pct_white": 0.332394,
+//       "total_cases": 473
+//     },
+//     {
+//       "name": "Cronauer, Rick",
+//       "cash_bail_pct": 0.378412,
+//       "unsecured_pct": 0.297767,
+//       "ror_pct": 0.316377,
+//       "nonmonetary_pct": 0.007444,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.418919,
+//       "cash_bail_pct_white": 0.372694,
+//       "total_cases": 806
+//     },
+//     {
+//       "name": "Dixon, James M.",
+//       "cash_bail_pct": 0.476923,
+//       "unsecured_pct": 0.391608,
+//       "ror_pct": 0.128671,
+//       "nonmonetary_pct": 0.002797,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.657895,
+//       "cash_bail_pct_white": 0.446771,
+//       "total_cases": 715
+//     },
+//     {
+//       "name": "Dotzel, Michael G.",
+//       "cash_bail_pct": 0.295597,
+//       "unsecured_pct": 0.127883,
+//       "ror_pct": 0.519916,
+//       "nonmonetary_pct": 0.056604,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.305263,
+//       "cash_bail_pct_white": 0.29558,
+//       "total_cases": 477
+//     },
+//     {
+//       "name": "Halesey, Joseph A.",
+//       "cash_bail_pct": 0.53626,
+//       "unsecured_pct": 0.217557,
+//       "ror_pct": 0.242366,
+//       "nonmonetary_pct": 0.003817,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.769231,
+//       "cash_bail_pct_white": 0.470914,
+//       "total_cases": 524
+//     },
+//     {
+//       "name": "Hasay, John E.",
+//       "cash_bail_pct": 0.527027,
+//       "unsecured_pct": 0.110811,
+//       "ror_pct": 0.291892,
+//       "nonmonetary_pct": 0.07027,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.806452,
+//       "cash_bail_pct_white": 0.472603,
+//       "total_cases": 370
+//     },
+//     {
+//       "name": "Kravitz, Alexandra Kokura",
+//       "cash_bail_pct": 0.41374,
+//       "unsecured_pct": 0.300763,
+//       "ror_pct": 0.280916,
+//       "nonmonetary_pct": 0.00458,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.583333,
+//       "cash_bail_pct_white": 0.376894,
+//       "total_cases": 655
+//     },
+//     {
+//       "name": "Malast, Diana",
+//       "cash_bail_pct": 0.28,
+//       "unsecured_pct": 0.25,
+//       "ror_pct": 0.45,
+//       "nonmonetary_pct": 0.02,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.35,
+//       "cash_bail_pct_white": 0.272727,
+//       "total_cases": 100
+//     },
+//     {
+//       "name": "Malloy, Thomas F. Sr.",
+//       "cash_bail_pct": 0.317125,
+//       "unsecured_pct": 0.348837,
+//       "ror_pct": 0.331924,
+//       "nonmonetary_pct": 0.001057,
+//       "nominal_pct": 0.001057,
+//       "cash_bail_pct_black": 0.423387,
+//       "cash_bail_pct_white": 0.280811,
+//       "total_cases": 946
+//     },
+//     {
+//       "name": "O'Donnell, Daniel",
+//       "cash_bail_pct": 0.463054,
+//       "unsecured_pct": 0.195402,
+//       "ror_pct": 0.305419,
+//       "nonmonetary_pct": 0.036125,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.702703,
+//       "cash_bail_pct_white": 0.408805,
+//       "total_cases": 609
+//     },
+//     {
+//       "name": "Roberts, Paul J.",
+//       "cash_bail_pct": 0.439446,
+//       "unsecured_pct": 0.560554,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.655172,
+//       "cash_bail_pct_white": 0.384279,
+//       "total_cases": 289
+//     },
+//     {
+//       "name": "Sharkey, Thomas",
+//       "cash_bail_pct": 0.163399,
+//       "unsecured_pct": 0.098039,
+//       "ror_pct": 0.738562,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.388889,
+//       "cash_bail_pct_white": 0.140625,
+//       "total_cases": 153
+//     },
+//     {
+//       "name": "Spagnuolo, Joseph D. Jr.",
+//       "cash_bail_pct": 0.447883,
+//       "unsecured_pct": 0.335505,
+//       "ror_pct": 0.214984,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.001629,
+//       "cash_bail_pct_black": 0.530973,
+//       "cash_bail_pct_white": 0.433761,
+//       "total_cases": 614
+//     },
+//     {
+//       "name": "Tupper, Brian James",
+//       "cash_bail_pct": 0.285467,
+//       "unsecured_pct": 0.147059,
+//       "ror_pct": 0.565744,
+//       "nonmonetary_pct": 0.00173,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.671429,
+//       "cash_bail_pct_white": 0.229979,
+//       "total_cases": 578
+//     },
+//     {
+//       "name": "Whittaker, Donald L.",
+//       "cash_bail_pct": 0.611015,
+//       "unsecured_pct": 0.079174,
+//       "ror_pct": 0.304647,
+//       "nonmonetary_pct": 0.003442,
+//       "nominal_pct": 0.001721,
+//       "cash_bail_pct_black": 0.804511,
+//       "cash_bail_pct_white": 0.547619,
+//       "total_cases": 581
+//     },
+//     {
+//       "name": "Zola, Joseph D.",
+//       "cash_bail_pct": 0.40625,
+//       "unsecured_pct": 0.193182,
+//       "ror_pct": 0.397727,
+//       "nonmonetary_pct": 0.002841,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.661417,
+//       "cash_bail_pct_white": 0.352087,
+//       "total_cases": 704
+//     }
+//   ],
+//   "Lycoming": [
+//     {
+//       "name": "Frey, Christian David",
+//       "cash_bail_pct": 0.33499,
+//       "unsecured_pct": 0.657058,
+//       "ror_pct": 0.007952,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.545198,
+//       "cash_bail_pct_white": 0.223975,
+//       "total_cases": 1006
+//     },
+//     {
+//       "name": "Kemp, Jon Edward",
+//       "cash_bail_pct": 0.294715,
+//       "unsecured_pct": 0.703252,
+//       "ror_pct": 0.002033,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.578125,
+//       "cash_bail_pct_white": 0.250585,
+//       "total_cases": 492
+//     },
+//     {
+//       "name": "Lepley, Jerry C.",
+//       "cash_bail_pct": 0.364035,
+//       "unsecured_pct": 0.635965,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.697674,
+//       "cash_bail_pct_white": 0.334158,
+//       "total_cases": 456
+//     },
+//     {
+//       "name": "Page, Allen P. III",
+//       "cash_bail_pct": 0.373272,
+//       "unsecured_pct": 0.626728,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.526667,
+//       "cash_bail_pct_white": 0.292035,
+//       "total_cases": 868
+//     },
+//     {
+//       "name": "Solomon, William C.",
+//       "cash_bail_pct": 0.429213,
+//       "unsecured_pct": 0.570787,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.790323,
+//       "cash_bail_pct_white": 0.37037,
+//       "total_cases": 445
+//     },
+//     {
+//       "name": "Whiteman, Gary A.",
+//       "cash_bail_pct": 0.28863,
+//       "unsecured_pct": 0.71137,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.515385,
+//       "cash_bail_pct_white": 0.236364,
+//       "total_cases": 686
+//     }
+//   ],
+//   "McKean": [
+//     {
+//       "name": "Cercone, Dominic Jr.",
+//       "cash_bail_pct": 0.434524,
+//       "unsecured_pct": 0.494048,
+//       "ror_pct": 0.071429,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.655172,
+//       "cash_bail_pct_white": 0.409241,
+//       "total_cases": 336
+//     },
+//     {
+//       "name": "Engman, David Richard",
+//       "cash_bail_pct": 0.449541,
+//       "unsecured_pct": 0.513761,
+//       "ror_pct": 0.036697,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.9,
+//       "cash_bail_pct_white": 0.485876,
+//       "total_cases": 218
+//     },
+//     {
+//       "name": "Luther, Richard W.",
+//       "cash_bail_pct": 0.39527,
+//       "unsecured_pct": 0.550676,
+//       "ror_pct": 0.054054,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.4,
+//       "cash_bail_pct_white": 0.400763,
+//       "total_cases": 296
+//     },
+//     {
+//       "name": "Todd, William K.",
+//       "cash_bail_pct": 0.403333,
+//       "unsecured_pct": 0.56,
+//       "ror_pct": 0.033333,
+//       "nonmonetary_pct": 0.003333,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.714286,
+//       "cash_bail_pct_white": 0.382143,
+//       "total_cases": 300
+//     }
+//   ],
+//   "Mercer": [
+//     {
+//       "name": "Antos, Ronald E.",
+//       "cash_bail_pct": 0.261216,
+//       "unsecured_pct": 0.254703,
+//       "ror_pct": 0.195369,
+//       "nonmonetary_pct": 0.288712,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.34,
+//       "cash_bail_pct_white": 0.222588,
+//       "total_cases": 1382
+//     },
+//     {
+//       "name": "Arthur, Brian R.",
+//       "cash_bail_pct": 0.447861,
+//       "unsecured_pct": 0.544118,
+//       "ror_pct": 0.008021,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.75,
+//       "cash_bail_pct_white": 0.406003,
+//       "total_cases": 748
+//     },
+//     {
+//       "name": "Fagley, William L.",
+//       "cash_bail_pct": 0.188,
+//       "unsecured_pct": 0.812,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.55,
+//       "cash_bail_pct_white": 0.157895,
+//       "total_cases": 250
+//     },
+//     {
+//       "name": "Hinch, Lorinda L.",
+//       "cash_bail_pct": 0.355372,
+//       "unsecured_pct": 0.482094,
+//       "ror_pct": 0.15978,
+//       "nonmonetary_pct": 0.002755,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.489796,
+//       "cash_bail_pct_white": 0.335505,
+//       "total_cases": 363
+//     },
+//     {
+//       "name": "McEwen, D. Neil",
+//       "cash_bail_pct": 0.413428,
+//       "unsecured_pct": 0.561837,
+//       "ror_pct": 0.024735,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.619718,
+//       "cash_bail_pct_white": 0.382353,
+//       "total_cases": 566
+//     },
+//     {
+//       "name": "Songer, Dennis M.",
+//       "cash_bail_pct": 0.430129,
+//       "unsecured_pct": 0.294351,
+//       "ror_pct": 0.152626,
+//       "nonmonetary_pct": 0.122894,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.486068,
+//       "cash_bail_pct_white": 0.405045,
+//       "total_cases": 1009
+//     }
+//   ],
+//   "Mifflin": [
+//     {
+//       "name": "Miller, Jack E.",
+//       "cash_bail_pct": 0.54717,
+//       "unsecured_pct": 0.440252,
+//       "ror_pct": 0.006289,
+//       "nonmonetary_pct": 0.004193,
+//       "nominal_pct": 0.002096,
+//       "cash_bail_pct_black": 0.766667,
+//       "cash_bail_pct_white": 0.536199,
+//       "total_cases": 477
+//     },
+//     {
+//       "name": "Reed, Jonathan W.",
+//       "cash_bail_pct": 0.498901,
+//       "unsecured_pct": 0.496703,
+//       "ror_pct": 0.004396,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.740741,
+//       "cash_bail_pct_white": 0.485849,
+//       "total_cases": 455
+//     },
+//     {
+//       "name": "Smith, Kent A.",
+//       "cash_bail_pct": 0.385321,
+//       "unsecured_pct": 0.610092,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.004587,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.592593,
+//       "cash_bail_pct_white": 0.375,
+//       "total_cases": 436
+//     }
+//   ],
+//   "Monroe": [
+//     {
+//       "name": "Anzini, Kristina",
+//       "cash_bail_pct": 0.386252,
+//       "unsecured_pct": 0.610475,
+//       "ror_pct": 0.003273,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.429379,
+//       "cash_bail_pct_white": 0.370283,
+//       "total_cases": 611
+//     },
+//     {
+//       "name": "Claypool, Richard",
+//       "cash_bail_pct": 0.293033,
+//       "unsecured_pct": 0.706967,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.283688,
+//       "cash_bail_pct_white": 0.305389,
+//       "total_cases": 488
+//     },
+//     {
+//       "name": "Fluegel, Anthony D.",
+//       "cash_bail_pct": 0.457399,
+//       "unsecured_pct": 0.307175,
+//       "ror_pct": 0.235426,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.463576,
+//       "cash_bail_pct_white": 0.463668,
+//       "total_cases": 446
+//     },
+//     {
+//       "name": "Germano, Brian",
+//       "cash_bail_pct": 0.278638,
+//       "unsecured_pct": 0.687307,
+//       "ror_pct": 0.032508,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.001548,
+//       "cash_bail_pct_black": 0.247368,
+//       "cash_bail_pct_white": 0.294253,
+//       "total_cases": 646
+//     },
+//     {
+//       "name": "Higgins, C. Daniel",
+//       "cash_bail_pct": 0.243191,
+//       "unsecured_pct": 0.322957,
+//       "ror_pct": 0.433852,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.263566,
+//       "cash_bail_pct_white": 0.250704,
+//       "total_cases": 514
+//     },
+//     {
+//       "name": "Krawitz, Jolana",
+//       "cash_bail_pct": 0.344068,
+//       "unsecured_pct": 0.089831,
+//       "ror_pct": 0.525424,
+//       "nonmonetary_pct": 0.040678,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.545455,
+//       "cash_bail_pct_white": 0.298097,
+//       "total_cases": 590
+//     },
+//     {
+//       "name": "Mancuso, Colleen",
+//       "cash_bail_pct": 0.366366,
+//       "unsecured_pct": 0.630631,
+//       "ror_pct": 0.003003,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.4375,
+//       "cash_bail_pct_white": 0.354962,
+//       "total_cases": 333
+//     },
+//     {
+//       "name": "Muth, Michael R.",
+//       "cash_bail_pct": 0.392996,
+//       "unsecured_pct": 0.607004,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.44375,
+//       "cash_bail_pct_white": 0.369186,
+//       "total_cases": 514
+//     },
+//     {
+//       "name": "Olsen, Thomas E.",
+//       "cash_bail_pct": 0.272984,
+//       "unsecured_pct": 0.725601,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.001414,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.281915,
+//       "cash_bail_pct_white": 0.274,
+//       "total_cases": 707
+//     },
+//     {
+//       "name": "Riley, Phillip R.",
+//       "cash_bail_pct": 0.375573,
+//       "unsecured_pct": 0.152672,
+//       "ror_pct": 0.471756,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.340782,
+//       "cash_bail_pct_white": 0.394336,
+//       "total_cases": 655
+//     }
+//   ],
+//   "Montgomery": [
+//     {
+//       "name": "Augustine, Albert J.",
+//       "cash_bail_pct": 0.371988,
+//       "unsecured_pct": 0.626506,
+//       "ror_pct": 0.001506,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.643836,
+//       "cash_bail_pct_white": 0.300199,
+//       "total_cases": 664
+//     },
+//     {
+//       "name": "Bernhardt, Francis J. III",
+//       "cash_bail_pct": 0.378492,
+//       "unsecured_pct": 0.315642,
+//       "ror_pct": 0.305866,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.442857,
+//       "cash_bail_pct_white": 0.342043,
+//       "total_cases": 716
+//     },
+//     {
+//       "name": "Casillo, Ester J.",
+//       "cash_bail_pct": 0.354545,
+//       "unsecured_pct": 0.645455,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.430769,
+//       "cash_bail_pct_white": 0.321534,
+//       "total_cases": 550
+//     },
+//     {
+//       "name": "Cerski, Christopher",
+//       "cash_bail_pct": 0.469444,
+//       "unsecured_pct": 0.525,
+//       "ror_pct": 0.005556,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.465686,
+//       "cash_bail_pct_white": 0.492754,
+//       "total_cases": 360
+//     },
+//     {
+//       "name": "Eisner Zucker, Karen",
+//       "cash_bail_pct": 0.306522,
+//       "unsecured_pct": 0.693478,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.359375,
+//       "cash_bail_pct_white": 0.257895,
+//       "total_cases": 460
+//     },
+//     {
+//       "name": "Friedenberg, Jay S.",
+//       "cash_bail_pct": 0.244558,
+//       "unsecured_pct": 0.247119,
+//       "ror_pct": 0.508323,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.363636,
+//       "cash_bail_pct_white": 0.206642,
+//       "total_cases": 781
+//     },
+//     {
+//       "name": "Gadzicki, Walter F. Jr.",
+//       "cash_bail_pct": 0.333333,
+//       "unsecured_pct": 0.324294,
+//       "ror_pct": 0.342373,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.558824,
+//       "cash_bail_pct_white": 0.250404,
+//       "total_cases": 885
+//     },
+//     {
+//       "name": "Gallagher, James",
+//       "cash_bail_pct": 0.364253,
+//       "unsecured_pct": 0.30543,
+//       "ror_pct": 0.330317,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.460123,
+//       "cash_bail_pct_white": 0.30566,
+//       "total_cases": 442
+//     },
+//     {
+//       "name": "Hudak Duffy, Andrea",
+//       "cash_bail_pct": 0.290433,
+//       "unsecured_pct": 0.465831,
+//       "ror_pct": 0.243736,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.419689,
+//       "cash_bail_pct_white": 0.264463,
+//       "total_cases": 878
+//     },
+//     {
+//       "name": "Hummel Fried, Catherine M.",
+//       "cash_bail_pct": 0.298113,
+//       "unsecured_pct": 0.7,
+//       "ror_pct": 0.001887,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.554455,
+//       "cash_bail_pct_white": 0.231144,
+//       "total_cases": 530
+//     },
+//     {
+//       "name": "Hunsicker, Margaret A.",
+//       "cash_bail_pct": 0.466216,
+//       "unsecured_pct": 0.280405,
+//       "ror_pct": 0.253378,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.516923,
+//       "cash_bail_pct_white": 0.418033,
+//       "total_cases": 592
+//     },
+//     {
+//       "name": "Kelly Rebar, Cathleen",
+//       "cash_bail_pct": 0.376499,
+//       "unsecured_pct": 0.623501,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.527638,
+//       "cash_bail_pct_white": 0.334426,
+//       "total_cases": 834
+//     },
+//     {
+//       "name": "Kessler, John D.",
+//       "cash_bail_pct": 0.274953,
+//       "unsecured_pct": 0.34275,
+//       "ror_pct": 0.382298,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.342466,
+//       "cash_bail_pct_white": 0.228956,
+//       "total_cases": 531
+//     },
+//     {
+//       "name": "Kropp, Edward C. Sr.",
+//       "cash_bail_pct": 0.444444,
+//       "unsecured_pct": 0.553554,
+//       "ror_pct": 0.002002,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.51963,
+//       "cash_bail_pct_white": 0.384615,
+//       "total_cases": 999
+//     },
+//     {
+//       "name": "Lawrence, Francis J. Jr.",
+//       "cash_bail_pct": 0.62844,
+//       "unsecured_pct": 0.167431,
+//       "ror_pct": 0.204128,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.685106,
+//       "cash_bail_pct_white": 0.559585,
+//       "total_cases": 436
+//     },
+//     {
+//       "name": "Leo, Paul N.",
+//       "cash_bail_pct": 0.342553,
+//       "unsecured_pct": 0.655319,
+//       "ror_pct": 0.002128,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.485075,
+//       "cash_bail_pct_white": 0.289231,
+//       "total_cases": 470
+//     },
+//     {
+//       "name": "Levine, Edward",
+//       "cash_bail_pct": 0.294192,
+//       "unsecured_pct": 0.227273,
+//       "ror_pct": 0.477273,
+//       "nonmonetary_pct": 0.001263,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.461078,
+//       "cash_bail_pct_white": 0.251736,
+//       "total_cases": 792
+//     },
+//     {
+//       "name": "Lukens, Deborah",
+//       "cash_bail_pct": 0.369942,
+//       "unsecured_pct": 0.225434,
+//       "ror_pct": 0.404624,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.452555,
+//       "cash_bail_pct_white": 0.331633,
+//       "total_cases": 346
+//     },
+//     {
+//       "name": "Maruszczak, William I.",
+//       "cash_bail_pct": 0.27957,
+//       "unsecured_pct": 0.717358,
+//       "ror_pct": 0.003072,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.311355,
+//       "cash_bail_pct_white": 0.252907,
+//       "total_cases": 651
+//     },
+//     {
+//       "name": "McGill, Katherine E.",
+//       "cash_bail_pct": 0.354286,
+//       "unsecured_pct": 0.645714,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.423611,
+//       "cash_bail_pct_white": 0.319797,
+//       "total_cases": 350
+//     },
+//     {
+//       "name": "McHugh Casey, Elizabeth A.",
+//       "cash_bail_pct": 0.444737,
+//       "unsecured_pct": 0.555263,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.488372,
+//       "cash_bail_pct_white": 0.409326,
+//       "total_cases": 380
+//     },
+//     {
+//       "name": "Nesbitt, Harry J. III",
+//       "cash_bail_pct": 0.406061,
+//       "unsecured_pct": 0.593939,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.49,
+//       "cash_bail_pct_white": 0.381395,
+//       "total_cases": 330
+//     },
+//     {
+//       "name": "Palladino, Scott T.",
+//       "cash_bail_pct": 0.514139,
+//       "unsecured_pct": 0.455013,
+//       "ror_pct": 0.030848,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.658863,
+//       "cash_bail_pct_white": 0.423656,
+//       "total_cases": 778
+//     },
+//     {
+//       "name": "Price, Juanita A.",
+//       "cash_bail_pct": 0.392037,
+//       "unsecured_pct": 0.257274,
+//       "ror_pct": 0.225115,
+//       "nonmonetary_pct": 0.125574,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.493103,
+//       "cash_bail_pct_white": 0.323615,
+//       "total_cases": 653
+//     },
+//     {
+//       "name": "Quinn, Michael P.",
+//       "cash_bail_pct": 0.356932,
+//       "unsecured_pct": 0.631268,
+//       "ror_pct": 0.0059,
+//       "nonmonetary_pct": 0.0059,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.369863,
+//       "cash_bail_pct_white": 0.359116,
+//       "total_cases": 339
+//     },
+//     {
+//       "name": "Saylor, Maurice H.",
+//       "cash_bail_pct": 0.396491,
+//       "unsecured_pct": 0.603509,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.663462,
+//       "cash_bail_pct_white": 0.338496,
+//       "total_cases": 570
+//     },
+//     {
+//       "name": "Schireson, Henry J.",
+//       "cash_bail_pct": 0.28972,
+//       "unsecured_pct": 0.71028,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.416667,
+//       "cash_bail_pct_white": 0.215385,
+//       "total_cases": 428
+//     },
+//     {
+//       "name": "Scott, Gregory L.",
+//       "cash_bail_pct": 0.617702,
+//       "unsecured_pct": 0.333333,
+//       "ror_pct": 0.047081,
+//       "nonmonetary_pct": 0.001883,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.557432,
+//       "cash_bail_pct_white": 0.709821,
+//       "total_cases": 531
+//     },
+//     {
+//       "name": "Sobeck, Robert M.",
+//       "cash_bail_pct": 0.368519,
+//       "unsecured_pct": 0.303704,
+//       "ror_pct": 0.327778,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.551948,
+//       "cash_bail_pct_white": 0.319088,
+//       "total_cases": 540
+//     },
+//     {
+//       "name": "Zaffarano, Patricia Ann",
+//       "cash_bail_pct": 0.368635,
+//       "unsecured_pct": 0.623218,
+//       "ror_pct": 0.008147,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.494505,
+//       "cash_bail_pct_white": 0.294521,
+//       "total_cases": 491
+//     }
+//   ],
+//   "Montour": [
+//     {
+//       "name": "Shrawder, Marvin K.",
+//       "cash_bail_pct": 0.215789,
+//       "unsecured_pct": 0.231579,
+//       "ror_pct": 0.542105,
+//       "nonmonetary_pct": 0.010526,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.166667,
+//       "cash_bail_pct_white": 0.230769,
+//       "total_cases": 190
+//     }
+//   ],
+//   "Northampton": [
+//     {
+//       "name": "Barner, Joseph K.",
+//       "cash_bail_pct": 0.306034,
+//       "unsecured_pct": 0.693966,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.305263,
+//       "cash_bail_pct_white": 0.308357,
+//       "total_cases": 464
+//     },
+//     {
+//       "name": "Broscius, Patricia C.",
+//       "cash_bail_pct": 0.396518,
+//       "unsecured_pct": 0.601547,
+//       "ror_pct": 0.001934,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.362903,
+//       "cash_bail_pct_white": 0.41989,
+//       "total_cases": 517
+//     },
+//     {
+//       "name": "Capobianco, John C.",
+//       "cash_bail_pct": 0.529126,
+//       "unsecured_pct": 0.470874,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.742268,
+//       "cash_bail_pct_white": 0.5,
+//       "total_cases": 618
+//     },
+//     {
+//       "name": "Corpora, Daniel G.",
+//       "cash_bail_pct": 0.596577,
+//       "unsecured_pct": 0.354523,
+//       "ror_pct": 0.0489,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.710145,
+//       "cash_bail_pct_white": 0.544061,
+//       "total_cases": 409
+//     },
+//     {
+//       "name": "Grifo, Antonia",
+//       "cash_bail_pct": 0.587368,
+//       "unsecured_pct": 0.256842,
+//       "ror_pct": 0.151579,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.004211,
+//       "cash_bail_pct_black": 0.707965,
+//       "cash_bail_pct_white": 0.559078,
+//       "total_cases": 475
+//     },
+//     {
+//       "name": "Hawke, Robert A.",
+//       "cash_bail_pct": 0.57485,
+//       "unsecured_pct": 0.423154,
+//       "ror_pct": 0.001996,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.833333,
+//       "cash_bail_pct_white": 0.536643,
+//       "total_cases": 501
+//     },
+//     {
+//       "name": "Manwaring, Roy A. II",
+//       "cash_bail_pct": 0.486567,
+//       "unsecured_pct": 0.468657,
+//       "ror_pct": 0.044776,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.625,
+//       "cash_bail_pct_white": 0.446565,
+//       "total_cases": 335
+//     },
+//     {
+//       "name": "Matos Gonzalez, Nancy",
+//       "cash_bail_pct": 0.649635,
+//       "unsecured_pct": 0.290146,
+//       "ror_pct": 0.058394,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.001825,
+//       "cash_bail_pct_black": 0.689655,
+//       "cash_bail_pct_white": 0.64433,
+//       "total_cases": 548
+//     },
+//     {
+//       "name": "Narlesky, James J.",
+//       "cash_bail_pct": 0.472906,
+//       "unsecured_pct": 0.527094,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.542169,
+//       "cash_bail_pct_white": 0.458746,
+//       "total_cases": 406
+//     },
+//     {
+//       "name": "Rapp, Anthony G. Jr.",
+//       "cash_bail_pct": 0.337748,
+//       "unsecured_pct": 0.642384,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.006623,
+//       "nominal_pct": 0.013245,
+//       "cash_bail_pct_black": 0.25,
+//       "cash_bail_pct_white": 0.368421,
+//       "total_cases": 151
+//     },
+//     {
+//       "name": "Romig-Gainer, Elizabeth A.",
+//       "cash_bail_pct": 0.237624,
+//       "unsecured_pct": 0.178218,
+//       "ror_pct": 0.584158,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.333333,
+//       "cash_bail_pct_white": 0.212121,
+//       "total_cases": 202
+//     },
+//     {
+//       "name": "Schlegel, Douglas",
+//       "cash_bail_pct": 0.507331,
+//       "unsecured_pct": 0.16129,
+//       "ror_pct": 0.322581,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.008798,
+//       "cash_bail_pct_black": 0.759259,
+//       "cash_bail_pct_white": 0.458781,
+//       "total_cases": 341
+//     },
+//     {
+//       "name": "Taschner, Jacqueline M.",
+//       "cash_bail_pct": 0.531022,
+//       "unsecured_pct": 0.279197,
+//       "ror_pct": 0.184307,
+//       "nonmonetary_pct": 0.001825,
+//       "nominal_pct": 0.00365,
+//       "cash_bail_pct_black": 0.5625,
+//       "cash_bail_pct_white": 0.531172,
+//       "total_cases": 548
+//     },
+//     {
+//       "name": "Tidd, David W.",
+//       "cash_bail_pct": 0.398058,
+//       "unsecured_pct": 0.223301,
+//       "ror_pct": 0.378641,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.411765,
+//       "cash_bail_pct_white": 0.392857,
+//       "total_cases": 103
+//     },
+//     {
+//       "name": "Yetter, Richard H. III",
+//       "cash_bail_pct": 0.576655,
+//       "unsecured_pct": 0.355401,
+//       "ror_pct": 0.06446,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.003484,
+//       "cash_bail_pct_black": 0.635838,
+//       "cash_bail_pct_white": 0.552699,
+//       "total_cases": 574
+//     },
+//     {
+//       "name": "Zito, Alicia Rose",
+//       "cash_bail_pct": 0.566456,
+//       "unsecured_pct": 0.427215,
+//       "ror_pct": 0.003165,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.003165,
+//       "cash_bail_pct_black": 0.694444,
+//       "cash_bail_pct_white": 0.543071,
+//       "total_cases": 316
+//     }
+//   ],
+//   "Northumberland": [
+//     {
+//       "name": "Apfelbaum, Benjamin",
+//       "cash_bail_pct": 0.285935,
+//       "unsecured_pct": 0.324575,
+//       "ror_pct": 0.386399,
+//       "nonmonetary_pct": 0.001546,
+//       "nominal_pct": 0.001546,
+//       "cash_bail_pct_black": 0.45679,
+//       "cash_bail_pct_white": 0.255941,
+//       "total_cases": 647
+//     },
+//     {
+//       "name": "Cashman, Richard P.",
+//       "cash_bail_pct": 0.359173,
+//       "unsecured_pct": 0.640827,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.421053,
+//       "cash_bail_pct_white": 0.361111,
+//       "total_cases": 387
+//     },
+//     {
+//       "name": "Diehl, Michael I.",
+//       "cash_bail_pct": 0.406667,
+//       "unsecured_pct": 0.562222,
+//       "ror_pct": 0.031111,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.666667,
+//       "cash_bail_pct_white": 0.382927,
+//       "total_cases": 450
+//     },
+//     {
+//       "name": "Gembic, John",
+//       "cash_bail_pct": 0.421508,
+//       "unsecured_pct": 0.566131,
+//       "ror_pct": 0.011125,
+//       "nonmonetary_pct": 0.001236,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.754098,
+//       "cash_bail_pct_white": 0.398333,
+//       "total_cases": 809
+//     }
+//   ],
+//   "Perry": [
+//     {
+//       "name": "Frownfelter, Elizabeth R.",
+//       "cash_bail_pct": 0.467391,
+//       "unsecured_pct": 0.070652,
+//       "ror_pct": 0.461957,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.846154,
+//       "cash_bail_pct_white": 0.431953,
+//       "total_cases": 184
+//     },
+//     {
+//       "name": "McGuire, Daniel R.",
+//       "cash_bail_pct": 0.458599,
+//       "unsecured_pct": 0.038217,
+//       "ror_pct": 0.503185,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.6,
+//       "cash_bail_pct_white": 0.431655,
+//       "total_cases": 157
+//     },
+//     {
+//       "name": "Schechterly, Michael E.",
+//       "cash_bail_pct": 0.171329,
+//       "unsecured_pct": 0.377622,
+//       "ror_pct": 0.409091,
+//       "nonmonetary_pct": 0.015734,
+//       "nominal_pct": 0.026224,
+//       "cash_bail_pct_black": 0.230769,
+//       "cash_bail_pct_white": 0.165714,
+//       "total_cases": 572
+//     }
+//   ],
+//   "Philadelphia": [
+//     {
+//       "name": "Bedford, Sheila M.",
+//       "cash_bail_pct": 0.499185,
+//       "unsecured_pct": 0.035101,
+//       "ror_pct": 0.343915,
+//       "nonmonetary_pct": 0.121799,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.55868,
+//       "cash_bail_pct_white": 0.433939,
+//       "total_cases": 10427
+//     },
+//     {
+//       "name": "DeLeon, James M.",
+//       "cash_bail_pct": 0.111842,
+//       "unsecured_pct": 0.842105,
+//       "ror_pct": 0.046053,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.093333,
+//       "cash_bail_pct_white": 0.111111,
+//       "total_cases": 152
+//     },
+//     {
+//       "name": "Devlin, Kevin R.",
+//       "cash_bail_pct": 0.474274,
+//       "unsecured_pct": 0.020282,
+//       "ror_pct": 0.371477,
+//       "nonmonetary_pct": 0.133967,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.531077,
+//       "cash_bail_pct_white": 0.414718,
+//       "total_cases": 9368
+//     },
+//     {
+//       "name": "Dugan, Patrick F.",
+//       "cash_bail_pct": 0.162393,
+//       "unsecured_pct": 0.794872,
+//       "ror_pct": 0.042735,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.169492,
+//       "cash_bail_pct_white": 0.150943,
+//       "total_cases": 117
+//     },
+//     {
+//       "name": "E-Filing Judge",
+//       "cash_bail_pct": 0.594798,
+//       "unsecured_pct": 0.151978,
+//       "ror_pct": 0.185297,
+//       "nonmonetary_pct": 0.067928,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.691706,
+//       "cash_bail_pct_white": 0.497315,
+//       "total_cases": 4652
+//     },
+//     {
+//       "name": "Emergency Arraignment Court Magistrate",
+//       "cash_bail_pct": 0.496644,
+//       "unsecured_pct": 0.010067,
+//       "ror_pct": 0.337248,
+//       "nonmonetary_pct": 0.15604,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.556075,
+//       "cash_bail_pct_white": 0.432866,
+//       "total_cases": 1192
+//     },
+//     {
+//       "name": "Hayden, Charles",
+//       "cash_bail_pct": 0.07563,
+//       "unsecured_pct": 0.907563,
+//       "ror_pct": 0.016807,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.070423,
+//       "cash_bail_pct_white": 0.073171,
+//       "total_cases": 119
+//     },
+//     {
+//       "name": "Jimenez, Nazario Jr.",
+//       "cash_bail_pct": 0.352,
+//       "unsecured_pct": 0.608,
+//       "ror_pct": 0.04,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.357143,
+//       "cash_bail_pct_white": 0.343284,
+//       "total_cases": 125
+//     },
+//     {
+//       "name": "Kosinski, Gerard A.",
+//       "cash_bail_pct": 0.160377,
+//       "unsecured_pct": 0.778302,
+//       "ror_pct": 0.061321,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.17094,
+//       "cash_bail_pct_white": 0.157303,
+//       "total_cases": 212
+//     },
+//     {
+//       "name": "Meehan, William Austin Jr.",
+//       "cash_bail_pct": 0.167273,
+//       "unsecured_pct": 0.778182,
+//       "ror_pct": 0.054545,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.170886,
+//       "cash_bail_pct_white": 0.169811,
+//       "total_cases": 275
+//     },
+//     {
+//       "name": "O'Brien, James",
+//       "cash_bail_pct": 0.516383,
+//       "unsecured_pct": 0.093906,
+//       "ror_pct": 0.333163,
+//       "nonmonetary_pct": 0.056548,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.577351,
+//       "cash_bail_pct_white": 0.44353,
+//       "total_cases": 9797
+//     },
+//     {
+//       "name": "Pew, Wendy L.",
+//       "cash_bail_pct": 0.191176,
+//       "unsecured_pct": 0.768382,
+//       "ror_pct": 0.040441,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.240876,
+//       "cash_bail_pct_white": 0.132812,
+//       "total_cases": 272
+//     },
+//     {
+//       "name": "Rebstock, Francis J.",
+//       "cash_bail_pct": 0.532617,
+//       "unsecured_pct": 0.054483,
+//       "ror_pct": 0.406888,
+//       "nonmonetary_pct": 0.006013,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.576199,
+//       "cash_bail_pct_white": 0.468004,
+//       "total_cases": 5488
+//     },
+//     {
+//       "name": "Rice, Jane M.",
+//       "cash_bail_pct": 0.519443,
+//       "unsecured_pct": 0.165825,
+//       "ror_pct": 0.307908,
+//       "nonmonetary_pct": 0.006824,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.571873,
+//       "cash_bail_pct_white": 0.457184,
+//       "total_cases": 10698
+//     },
+//     {
+//       "name": "Robbins, Harvey W.",
+//       "cash_bail_pct": 0.16094,
+//       "unsecured_pct": 0.792043,
+//       "ror_pct": 0.0434,
+//       "nonmonetary_pct": 0.003617,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.164,
+//       "cash_bail_pct_white": 0.147887,
+//       "total_cases": 553
+//     },
+//     {
+//       "name": "Shuter, David C.",
+//       "cash_bail_pct": 0.197802,
+//       "unsecured_pct": 0.763736,
+//       "ror_pct": 0.038462,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.212121,
+//       "cash_bail_pct_white": 0.164557,
+//       "total_cases": 182
+//     },
+//     {
+//       "name": "Stack, Patrick",
+//       "cash_bail_pct": 0.512712,
+//       "unsecured_pct": 0.001535,
+//       "ror_pct": 0.481915,
+//       "nonmonetary_pct": 0.003838,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.574093,
+//       "cash_bail_pct_white": 0.440613,
+//       "total_cases": 10423
+//     },
+//     {
+//       "name": "Washington, Craig M.",
+//       "cash_bail_pct": 0.029126,
+//       "unsecured_pct": 0.941748,
+//       "ror_pct": 0.029126,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.023256,
+//       "cash_bail_pct_white": 0.033898,
+//       "total_cases": 103
+//     }
+//   ],
+//   "Pike": [
+//     {
+//       "name": "Cooper, Alan B.",
+//       "cash_bail_pct": 0.276836,
+//       "unsecured_pct": 0.101695,
+//       "ror_pct": 0.355932,
+//       "nonmonetary_pct": 0.265537,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.5,
+//       "cash_bail_pct_white": 0.234899,
+//       "total_cases": 177
+//     },
+//     {
+//       "name": "Fischer, Deborah",
+//       "cash_bail_pct": 0.408922,
+//       "unsecured_pct": 0.070632,
+//       "ror_pct": 0.494424,
+//       "nonmonetary_pct": 0.022305,
+//       "nominal_pct": 0.003717,
+//       "cash_bail_pct_black": 0.448276,
+//       "cash_bail_pct_white": 0.411504,
+//       "total_cases": 269
+//     },
+//     {
+//       "name": "Menditto, Paul D. Sr.",
+//       "cash_bail_pct": 0.29703,
+//       "unsecured_pct": 0.094059,
+//       "ror_pct": 0.212871,
+//       "nonmonetary_pct": 0.39604,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.216216,
+//       "cash_bail_pct_white": 0.346667,
+//       "total_cases": 202
+//     },
+//     {
+//       "name": "Muir, Shannon L.",
+//       "cash_bail_pct": 0.321656,
+//       "unsecured_pct": 0.006369,
+//       "ror_pct": 0.124204,
+//       "nonmonetary_pct": 0.547771,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.466667,
+//       "cash_bail_pct_white": 0.308511,
+//       "total_cases": 314
+//     }
+//   ],
+//   "Potter": [
+//     {
+//       "name": "Easton, Annette L.",
+//       "cash_bail_pct": 0.192488,
+//       "unsecured_pct": 0.492958,
+//       "ror_pct": 0.262911,
+//       "nonmonetary_pct": 0.051643,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 1,
+//       "cash_bail_pct_white": 0.190244,
+//       "total_cases": 213
+//     },
+//     {
+//       "name": "McCleaft, Kari A.",
+//       "cash_bail_pct": 0.271429,
+//       "unsecured_pct": 0.728571,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.666667,
+//       "cash_bail_pct_white": 0.264706,
+//       "total_cases": 140
+//     },
+//     {
+//       "name": "Weiss, Delores G.",
+//       "cash_bail_pct": 0.228395,
+//       "unsecured_pct": 0.611111,
+//       "ror_pct": 0.160494,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.0,
+//       "cash_bail_pct_white": 0.235669,
+//       "total_cases": 162
+//     }
+//   ],
+//   "Schuylkill": [
+//     {
+//       "name": "Bayer, Stephen J.",
+//       "cash_bail_pct": 0.343461,
+//       "unsecured_pct": 0.153236,
+//       "ror_pct": 0.494055,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.009247,
+//       "cash_bail_pct_black": 0.5,
+//       "cash_bail_pct_white": 0.341844,
+//       "total_cases": 757
+//     },
+//     {
+//       "name": "Ferrier, James R.",
+//       "cash_bail_pct": 0.313131,
+//       "unsecured_pct": 0.686869,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.205882,
+//       "cash_bail_pct_white": 0.317972,
+//       "total_cases": 693
+//     },
+//     {
+//       "name": "Hale, Christina E.",
+//       "cash_bail_pct": 0.439425,
+//       "unsecured_pct": 0.234086,
+//       "ror_pct": 0.326489,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.512821,
+//       "cash_bail_pct_white": 0.434091,
+//       "total_cases": 487
+//     },
+//     {
+//       "name": "Kilker, Anthony J.",
+//       "cash_bail_pct": 0.373178,
+//       "unsecured_pct": 0.625364,
+//       "ror_pct": 0.001458,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.57377,
+//       "cash_bail_pct_white": 0.355519,
+//       "total_cases": 686
+//     },
+//     {
+//       "name": "Plachko, David A.",
+//       "cash_bail_pct": 0.479062,
+//       "unsecured_pct": 0.515913,
+//       "ror_pct": 0.005025,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.529412,
+//       "cash_bail_pct_white": 0.492593,
+//       "total_cases": 597
+//     },
+//     {
+//       "name": "Reiley, James",
+//       "cash_bail_pct": 0.41109,
+//       "unsecured_pct": 0.58891,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.45,
+//       "cash_bail_pct_white": 0.401796,
+//       "total_cases": 1046
+//     },
+//     {
+//       "name": "Rossi, David J.",
+//       "cash_bail_pct": 0.478788,
+//       "unsecured_pct": 0.521212,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.809524,
+//       "cash_bail_pct_white": 0.464668,
+//       "total_cases": 495
+//     }
+//   ],
+//   "Snyder": [
+//     {
+//       "name": "Hackenberg, Lori R.",
+//       "cash_bail_pct": 0.352313,
+//       "unsecured_pct": 0.52669,
+//       "ror_pct": 0.060498,
+//       "nonmonetary_pct": 0.060498,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.7,
+//       "cash_bail_pct_white": 0.339483,
+//       "total_cases": 281
+//     },
+//     {
+//       "name": "Reed, John H.",
+//       "cash_bail_pct": 0.364238,
+//       "unsecured_pct": 0.609272,
+//       "ror_pct": 0.018212,
+//       "nonmonetary_pct": 0.008278,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.518519,
+//       "cash_bail_pct_white": 0.349265,
+//       "total_cases": 604
+//     }
+//   ],
+//   "Somerset": [
+//     {
+//       "name": "Bell, Douglas McCall",
+//       "cash_bail_pct": 0.208,
+//       "unsecured_pct": 0.196,
+//       "ror_pct": 0.1,
+//       "nonmonetary_pct": 0.496,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 1,
+//       "cash_bail_pct_white": 0.206612,
+//       "total_cases": 250
+//     },
+//     {
+//       "name": "Johnson, Kenneth W.",
+//       "cash_bail_pct": 0.223496,
+//       "unsecured_pct": 0.282235,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.494269,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.621622,
+//       "cash_bail_pct_white": 0.204019,
+//       "total_cases": 698
+//     },
+//     {
+//       "name": "Mankamyer, Susan",
+//       "cash_bail_pct": 0.256484,
+//       "unsecured_pct": 0.144092,
+//       "ror_pct": 0.043228,
+//       "nonmonetary_pct": 0.556196,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.857143,
+//       "cash_bail_pct_white": 0.237654,
+//       "total_cases": 347
+//     },
+//     {
+//       "name": "Seger, William E.",
+//       "cash_bail_pct": 0.237918,
+//       "unsecured_pct": 0.256506,
+//       "ror_pct": 0.003717,
+//       "nonmonetary_pct": 0.501859,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.666667,
+//       "cash_bail_pct_white": 0.230769,
+//       "total_cases": 269
+//     },
+//     {
+//       "name": "Stevanus, Sandra L.",
+//       "cash_bail_pct": 0.367188,
+//       "unsecured_pct": 0.273438,
+//       "ror_pct": 0.011719,
+//       "nonmonetary_pct": 0.347656,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.740741,
+//       "cash_bail_pct_white": 0.328829,
+//       "total_cases": 256
+//     }
+//   ],
+//   "Susquehanna": [
+//     {
+//       "name": "Brainard, Suzanne M.",
+//       "cash_bail_pct": 0.298507,
+//       "unsecured_pct": 0.383085,
+//       "ror_pct": 0.283582,
+//       "nonmonetary_pct": 0.034826,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.5,
+//       "cash_bail_pct_white": 0.294416,
+//       "total_cases": 201
+//     },
+//     {
+//       "name": "Cordner, Jodi L.",
+//       "cash_bail_pct": 0.34767,
+//       "unsecured_pct": 0.258065,
+//       "ror_pct": 0.394265,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.545455,
+//       "cash_bail_pct_white": 0.343396,
+//       "total_cases": 279
+//     },
+//     {
+//       "name": "Hollister, Jeffrey L.",
+//       "cash_bail_pct": 0.521401,
+//       "unsecured_pct": 0.381323,
+//       "ror_pct": 0.097276,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.857143,
+//       "cash_bail_pct_white": 0.516529,
+//       "total_cases": 257
+//     }
+//   ],
+//   "Tioga": [
+//     {
+//       "name": "Carlson, James E.",
+//       "cash_bail_pct": 0.296296,
+//       "unsecured_pct": 0.703704,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.384615,
+//       "cash_bail_pct_white": 0.292208,
+//       "total_cases": 324
+//     },
+//     {
+//       "name": "Edgcomb, James R.",
+//       "cash_bail_pct": 0.371069,
+//       "unsecured_pct": 0.628931,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.666667,
+//       "cash_bail_pct_white": 0.363636,
+//       "total_cases": 318
+//     },
+//     {
+//       "name": "Repard, Robert L.",
+//       "cash_bail_pct": 0.248756,
+//       "unsecured_pct": 0.751244,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.666667,
+//       "cash_bail_pct_white": 0.229167,
+//       "total_cases": 201
+//     }
+//   ],
+//   "Union": [
+//     {
+//       "name": "Armbruster, Leo S.",
+//       "cash_bail_pct": 0.159459,
+//       "unsecured_pct": 0.056757,
+//       "ror_pct": 0.751351,
+//       "nonmonetary_pct": 0.032432,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.204082,
+//       "cash_bail_pct_white": 0.149206,
+//       "total_cases": 370
+//     },
+//     {
+//       "name": "Mensch, Jeffrey L.",
+//       "cash_bail_pct": 0.259843,
+//       "unsecured_pct": 0.185039,
+//       "ror_pct": 0.212598,
+//       "nonmonetary_pct": 0.34252,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.5,
+//       "cash_bail_pct_white": 0.23913,
+//       "total_cases": 254
+//     }
+//   ],
+//   "Venango": [
+//     {
+//       "name": "Fish, Andrew F.",
+//       "cash_bail_pct": 0.434095,
+//       "unsecured_pct": 0.564148,
+//       "ror_pct": 0.001757,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.645833,
+//       "cash_bail_pct_white": 0.414062,
+//       "total_cases": 569
+//     },
+//     {
+//       "name": "Kirtland, Matthew T.",
+//       "cash_bail_pct": 0.283688,
+//       "unsecured_pct": 0.716312,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.641509,
+//       "cash_bail_pct_white": 0.233062,
+//       "total_cases": 423
+//     },
+//     {
+//       "name": "Lowrey, Patrick E.",
+//       "cash_bail_pct": 0.416667,
+//       "unsecured_pct": 0.581081,
+//       "ror_pct": 0.002252,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.607143,
+//       "cash_bail_pct_white": 0.404819,
+//       "total_cases": 444
+//     }
+//   ],
+//   "Warren": [
+//     {
+//       "name": "Bauer, Laura",
+//       "cash_bail_pct": 0.354839,
+//       "unsecured_pct": 0.064516,
+//       "ror_pct": 0.493088,
+//       "nonmonetary_pct": 0.087558,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.666667,
+//       "cash_bail_pct_white": 0.35122,
+//       "total_cases": 217
+//     },
+//     {
+//       "name": "Carlson, Glenn S.",
+//       "cash_bail_pct": 0.453376,
+//       "unsecured_pct": 0.212219,
+//       "ror_pct": 0.33119,
+//       "nonmonetary_pct": 0.003215,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.833333,
+//       "cash_bail_pct_white": 0.447368,
+//       "total_cases": 311
+//     },
+//     {
+//       "name": "Woodin, Todd A.",
+//       "cash_bail_pct": 0.333333,
+//       "unsecured_pct": 0.166667,
+//       "ror_pct": 0.496124,
+//       "nonmonetary_pct": 0.003876,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.571429,
+//       "cash_bail_pct_white": 0.322314,
+//       "total_cases": 258
+//     }
+//   ],
+//   "Washington": [
+//     {
+//       "name": "Ellis, James C.",
+//       "cash_bail_pct": 0.311275,
+//       "unsecured_pct": 0.125,
+//       "ror_pct": 0.563725,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.625,
+//       "cash_bail_pct_white": 0.2849,
+//       "total_cases": 408
+//     },
+//     {
+//       "name": "Havelka, Gary H.",
+//       "cash_bail_pct": 0.505085,
+//       "unsecured_pct": 0.125424,
+//       "ror_pct": 0.369492,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.862069,
+//       "cash_bail_pct_white": 0.4875,
+//       "total_cases": 295
+//     },
+//     {
+//       "name": "Hopkins, Larry W.",
+//       "cash_bail_pct": 0.536508,
+//       "unsecured_pct": 0.45873,
+//       "ror_pct": 0.004762,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.706349,
+//       "cash_bail_pct_white": 0.5,
+//       "total_cases": 630
+//     },
+//     {
+//       "name": "Kanalis, Joshua P.",
+//       "cash_bail_pct": 0.303426,
+//       "unsecured_pct": 0.696574,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.313043,
+//       "cash_bail_pct_white": 0.301031,
+//       "total_cases": 613
+//     },
+//     {
+//       "name": "Mark, David W.",
+//       "cash_bail_pct": 0.409426,
+//       "unsecured_pct": 0.07511,
+//       "ror_pct": 0.469809,
+//       "nonmonetary_pct": 0.045655,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.627119,
+//       "cash_bail_pct_white": 0.367459,
+//       "total_cases": 679
+//     },
+//     {
+//       "name": "McDonald, Traci L.",
+//       "cash_bail_pct": 0.278846,
+//       "unsecured_pct": 0.521154,
+//       "ror_pct": 0.2,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.48,
+//       "cash_bail_pct_white": 0.261161,
+//       "total_cases": 520
+//     },
+//     {
+//       "name": "Redlinger, Robert W.",
+//       "cash_bail_pct": 0.438833,
+//       "unsecured_pct": 0.391695,
+//       "ror_pct": 0.16835,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.001122,
+//       "cash_bail_pct_black": 0.569307,
+//       "cash_bail_pct_white": 0.403963,
+//       "total_cases": 891
+//     },
+//     {
+//       "name": "Thompson, Curtis",
+//       "cash_bail_pct": 0.346154,
+//       "unsecured_pct": 0.651282,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.002564,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.615385,
+//       "cash_bail_pct_white": 0.319648,
+//       "total_cases": 390
+//     },
+//     {
+//       "name": "Ward, Ethan T.",
+//       "cash_bail_pct": 0.502404,
+//       "unsecured_pct": 0.495192,
+//       "ror_pct": 0.002404,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.7,
+//       "cash_bail_pct_white": 0.469741,
+//       "total_cases": 416
+//     },
+//     {
+//       "name": "Weller, Jay",
+//       "cash_bail_pct": 0.290598,
+//       "unsecured_pct": 0.028846,
+//       "ror_pct": 0.646368,
+//       "nonmonetary_pct": 0.034188,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.450331,
+//       "cash_bail_pct_white": 0.260417,
+//       "total_cases": 936
+//     },
+//     {
+//       "name": "Wilson, Mark",
+//       "cash_bail_pct": 0.538272,
+//       "unsecured_pct": 0.234568,
+//       "ror_pct": 0.22716,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.648649,
+//       "cash_bail_pct_white": 0.506289,
+//       "total_cases": 405
+//     }
+//   ],
+//   "Wayne": [
+//     {
+//       "name": "Carney, Bonnie L.",
+//       "cash_bail_pct": 0.396078,
+//       "unsecured_pct": 0.490196,
+//       "ror_pct": 0.113725,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.583333,
+//       "cash_bail_pct_white": 0.376569,
+//       "total_cases": 255
+//     },
+//     {
+//       "name": "Edwards, Ronald",
+//       "cash_bail_pct": 0.39,
+//       "unsecured_pct": 0.08,
+//       "ror_pct": 0.53,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.444444,
+//       "cash_bail_pct_white": 0.387978,
+//       "total_cases": 200
+//     },
+//     {
+//       "name": "Myers, Linus H.",
+//       "cash_bail_pct": 0.344948,
+//       "unsecured_pct": 0.236934,
+//       "ror_pct": 0.418118,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.714286,
+//       "cash_bail_pct_white": 0.323194,
+//       "total_cases": 287
+//     }
+//   ],
+//   "Westmoreland": [
+//     {
+//       "name": "Albert, James",
+//       "cash_bail_pct": 0.296852,
+//       "unsecured_pct": 0.508246,
+//       "ror_pct": 0.193403,
+//       "nonmonetary_pct": 0.001499,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.440678,
+//       "cash_bail_pct_white": 0.284188,
+//       "total_cases": 667
+//     },
+//     {
+//       "name": "Bilik, Mark",
+//       "cash_bail_pct": 0.369524,
+//       "unsecured_pct": 0.139048,
+//       "ror_pct": 0.491429,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.469388,
+//       "cash_bail_pct_white": 0.365471,
+//       "total_cases": 525
+//     },
+//     {
+//       "name": "Bompiani, L. Anthony",
+//       "cash_bail_pct": 0.240446,
+//       "unsecured_pct": 0.265924,
+//       "ror_pct": 0.490446,
+//       "nonmonetary_pct": 0.003185,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.386667,
+//       "cash_bail_pct_white": 0.220729,
+//       "total_cases": 628
+//     },
+//     {
+//       "name": "Buczak, Jason",
+//       "cash_bail_pct": 0.293785,
+//       "unsecured_pct": 0.271186,
+//       "ror_pct": 0.433145,
+//       "nonmonetary_pct": 0.001883,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.576923,
+//       "cash_bail_pct_white": 0.266811,
+//       "total_cases": 531
+//     },
+//     {
+//       "name": "Christner, Charles M.",
+//       "cash_bail_pct": 0.320189,
+//       "unsecured_pct": 0.105678,
+//       "ror_pct": 0.399054,
+//       "nonmonetary_pct": 0.175079,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.513158,
+//       "cash_bail_pct_white": 0.291439,
+//       "total_cases": 634
+//     },
+//     {
+//       "name": "Conway, Charles R.",
+//       "cash_bail_pct": 0.156015,
+//       "unsecured_pct": 0.261278,
+//       "ror_pct": 0.577068,
+//       "nonmonetary_pct": 0.005639,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.348837,
+//       "cash_bail_pct_white": 0.139434,
+//       "total_cases": 532
+//     },
+//     {
+//       "name": "Dalfonso, Joseph A.",
+//       "cash_bail_pct": 0.350797,
+//       "unsecured_pct": 0.138952,
+//       "ror_pct": 0.290433,
+//       "nonmonetary_pct": 0.219818,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.470588,
+//       "cash_bail_pct_white": 0.299674,
+//       "total_cases": 878
+//     },
+//     {
+//       "name": "DeMarchis, Joseph R.",
+//       "cash_bail_pct": 0.453453,
+//       "unsecured_pct": 0.510511,
+//       "ror_pct": 0.036036,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.60119,
+//       "cash_bail_pct_white": 0.39876,
+//       "total_cases": 666
+//     },
+//     {
+//       "name": "Eckels, Roger",
+//       "cash_bail_pct": 0.34632,
+//       "unsecured_pct": 0.290043,
+//       "ror_pct": 0.361472,
+//       "nonmonetary_pct": 0.002165,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.666667,
+//       "cash_bail_pct_white": 0.300268,
+//       "total_cases": 462
+//     },
+//     {
+//       "name": "Falcon, James N.",
+//       "cash_bail_pct": 0.269565,
+//       "unsecured_pct": 0.449275,
+//       "ror_pct": 0.26087,
+//       "nonmonetary_pct": 0.02029,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.338983,
+//       "cash_bail_pct_white": 0.278689,
+//       "total_cases": 345
+//     },
+//     {
+//       "name": "Gongaware, Wayne",
+//       "cash_bail_pct": 0.187126,
+//       "unsecured_pct": 0.502994,
+//       "ror_pct": 0.305389,
+//       "nonmonetary_pct": 0.004491,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.306452,
+//       "cash_bail_pct_white": 0.171717,
+//       "total_cases": 668
+//     },
+//     {
+//       "name": "Kistler, Helen M.",
+//       "cash_bail_pct": 0.306043,
+//       "unsecured_pct": 0.68616,
+//       "ror_pct": 0.007797,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.385965,
+//       "cash_bail_pct_white": 0.292978,
+//       "total_cases": 513
+//     },
+//     {
+//       "name": "Mahady, Michael",
+//       "cash_bail_pct": 0.254587,
+//       "unsecured_pct": 0.071101,
+//       "ror_pct": 0.674312,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.395833,
+//       "cash_bail_pct_white": 0.244772,
+//       "total_cases": 872
+//     },
+//     {
+//       "name": "Mansour, Mark Stephen",
+//       "cash_bail_pct": 0.342318,
+//       "unsecured_pct": 0.142857,
+//       "ror_pct": 0.266846,
+//       "nonmonetary_pct": 0.247978,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.553398,
+//       "cash_bail_pct_white": 0.327715,
+//       "total_cases": 742
+//     },
+//     {
+//       "name": "Moore, Charles D.",
+//       "cash_bail_pct": 0.311644,
+//       "unsecured_pct": 0.034247,
+//       "ror_pct": 0.606164,
+//       "nonmonetary_pct": 0.047945,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.53125,
+//       "cash_bail_pct_white": 0.314961,
+//       "total_cases": 584
+//     },
+//     {
+//       "name": "Pallone, Frank J. Jr.",
+//       "cash_bail_pct": 0.452249,
+//       "unsecured_pct": 0.248619,
+//       "ror_pct": 0.298343,
+//       "nonmonetary_pct": 0.000789,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.514113,
+//       "cash_bail_pct_white": 0.422402,
+//       "total_cases": 1267
+//     },
+//     {
+//       "name": "Peck, Yackopec Cheryl J.",
+//       "cash_bail_pct": 0.281888,
+//       "unsecured_pct": 0.715561,
+//       "ror_pct": 0.001276,
+//       "nonmonetary_pct": 0.001276,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.483871,
+//       "cash_bail_pct_white": 0.261364,
+//       "total_cases": 784
+//     },
+//     {
+//       "name": "Thiel, Denise S.",
+//       "cash_bail_pct": 0.307229,
+//       "unsecured_pct": 0.271084,
+//       "ror_pct": 0.421687,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.8,
+//       "cash_bail_pct_white": 0.266667,
+//       "total_cases": 332
+//     },
+//     {
+//       "name": "Weimer, Douglas Reid",
+//       "cash_bail_pct": 0.263441,
+//       "unsecured_pct": 0.693548,
+//       "ror_pct": 0.043011,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.625,
+//       "cash_bail_pct_white": 0.229412,
+//       "total_cases": 186
+//     }
+//   ],
+//   "Wyoming": [
+//     {
+//       "name": "Plummer, David K",
+//       "cash_bail_pct": 0.288732,
+//       "unsecured_pct": 0.709507,
+//       "ror_pct": 0.001761,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.166667,
+//       "cash_bail_pct_white": 0.2939,
+//       "total_cases": 568
+//     },
+//     {
+//       "name": "Smith, Carl W. Jr.",
+//       "cash_bail_pct": 0.448622,
+//       "unsecured_pct": 0.548872,
+//       "ror_pct": 0.002506,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.727273,
+//       "cash_bail_pct_white": 0.437995,
+//       "total_cases": 399
+//     }
+//   ],
+//   "York": [
+//     {
+//       "name": "Albright, Keith L.",
+//       "cash_bail_pct": 0.409621,
+//       "unsecured_pct": 0.303207,
+//       "ror_pct": 0.260933,
+//       "nonmonetary_pct": 0.026239,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.429577,
+//       "cash_bail_pct_white": 0.410448,
+//       "total_cases": 686
+//     },
+//     {
+//       "name": "Bloss, Barry L.",
+//       "cash_bail_pct": 0.47747,
+//       "unsecured_pct": 0.055336,
+//       "ror_pct": 0.324111,
+//       "nonmonetary_pct": 0.142292,
+//       "nominal_pct": 0.000791,
+//       "cash_bail_pct_black": 0.528926,
+//       "cash_bail_pct_white": 0.458476,
+//       "total_cases": 1265
+//     },
+//     {
+//       "name": "Clancy, Jennifer J.P.",
+//       "cash_bail_pct": 0.540404,
+//       "unsecured_pct": 0.200337,
+//       "ror_pct": 0.232323,
+//       "nonmonetary_pct": 0.026936,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.565217,
+//       "cash_bail_pct_white": 0.533958,
+//       "total_cases": 594
+//     },
+//     {
+//       "name": "Dubs, Dwayne A.",
+//       "cash_bail_pct": 0.360054,
+//       "unsecured_pct": 0.142663,
+//       "ror_pct": 0.493207,
+//       "nonmonetary_pct": 0.004076,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.607407,
+//       "cash_bail_pct_white": 0.305369,
+//       "total_cases": 736
+//     },
+//     {
+//       "name": "Eckenrode, Robert A.",
+//       "cash_bail_pct": 0.350769,
+//       "unsecured_pct": 0.118462,
+//       "ror_pct": 0.503077,
+//       "nonmonetary_pct": 0.027692,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.516129,
+//       "cash_bail_pct_white": 0.315891,
+//       "total_cases": 650
+//     },
+//     {
+//       "name": "Edie, Nancy Lee",
+//       "cash_bail_pct": 0.186352,
+//       "unsecured_pct": 0.026247,
+//       "ror_pct": 0.771654,
+//       "nonmonetary_pct": 0.015748,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.225,
+//       "cash_bail_pct_white": 0.174497,
+//       "total_cases": 381
+//     },
+//     {
+//       "name": "Eshbach, David C.",
+//       "cash_bail_pct": 0.557402,
+//       "unsecured_pct": 0.099698,
+//       "ror_pct": 0.223565,
+//       "nonmonetary_pct": 0.119335,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.66055,
+//       "cash_bail_pct_white": 0.538321,
+//       "total_cases": 662
+//     },
+//     {
+//       "name": "Fishel, John H.",
+//       "cash_bail_pct": 0.31791,
+//       "unsecured_pct": 0.071642,
+//       "ror_pct": 0.50597,
+//       "nonmonetary_pct": 0.071642,
+//       "nominal_pct": 0.032836,
+//       "cash_bail_pct_black": 0.518072,
+//       "cash_bail_pct_white": 0.294014,
+//       "total_cases": 670
+//     },
+//     {
+//       "name": "Groom, Walter",
+//       "cash_bail_pct": 0.556522,
+//       "unsecured_pct": 0.434783,
+//       "ror_pct": 0.008696,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.722222,
+//       "cash_bail_pct_white": 0.487179,
+//       "total_cases": 115
+//     },
+//     {
+//       "name": "Gross, Scott J.",
+//       "cash_bail_pct": 0.414466,
+//       "unsecured_pct": 0.174512,
+//       "ror_pct": 0.350172,
+//       "nonmonetary_pct": 0.057405,
+//       "nominal_pct": 0.003444,
+//       "cash_bail_pct_black": 0.641176,
+//       "cash_bail_pct_white": 0.355072,
+//       "total_cases": 871
+//     },
+//     {
+//       "name": "Haskell, Ronald J. Jr.",
+//       "cash_bail_pct": 0.504762,
+//       "unsecured_pct": 0.154286,
+//       "ror_pct": 0.249524,
+//       "nonmonetary_pct": 0.089524,
+//       "nominal_pct": 0.001905,
+//       "cash_bail_pct_black": 0.52,
+//       "cash_bail_pct_white": 0.5,
+//       "total_cases": 525
+//     },
+//     {
+//       "name": "Laird, Scott",
+//       "cash_bail_pct": 0.434783,
+//       "unsecured_pct": 0.071429,
+//       "ror_pct": 0.358696,
+//       "nonmonetary_pct": 0.135093,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.626667,
+//       "cash_bail_pct_white": 0.371663,
+//       "total_cases": 644
+//     },
+//     {
+//       "name": "Manifold, Laura S.",
+//       "cash_bail_pct": 0.427921,
+//       "unsecured_pct": 0.157815,
+//       "ror_pct": 0.358118,
+//       "nonmonetary_pct": 0.054628,
+//       "nominal_pct": 0.001517,
+//       "cash_bail_pct_black": 0.47482,
+//       "cash_bail_pct_white": 0.417647,
+//       "total_cases": 659
+//     },
+//     {
+//       "name": "Martin, Richard E. II",
+//       "cash_bail_pct": 0.774882,
+//       "unsecured_pct": 0.21564,
+//       "ror_pct": 0.004739,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.004739,
+//       "cash_bail_pct_black": 0.896296,
+//       "cash_bail_pct_white": 0.714789,
+//       "total_cases": 422
+//     },
+//     {
+//       "name": "Meisenhelter, Douglas F.",
+//       "cash_bail_pct": 0.827338,
+//       "unsecured_pct": 0.172662,
+//       "ror_pct": 0.0,
+//       "nonmonetary_pct": 0.0,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.878049,
+//       "cash_bail_pct_white": 0.805217,
+//       "total_cases": 834
+//     },
+//     {
+//       "name": "Miner, James S.",
+//       "cash_bail_pct": 0.451817,
+//       "unsecured_pct": 0.064771,
+//       "ror_pct": 0.473934,
+//       "nonmonetary_pct": 0.007899,
+//       "nominal_pct": 0.00158,
+//       "cash_bail_pct_black": 0.716981,
+//       "cash_bail_pct_white": 0.397706,
+//       "total_cases": 633
+//     },
+//     {
+//       "name": "Morgan, James H.",
+//       "cash_bail_pct": 0.508969,
+//       "unsecured_pct": 0.152466,
+//       "ror_pct": 0.318386,
+//       "nonmonetary_pct": 0.015695,
+//       "nominal_pct": 0.004484,
+//       "cash_bail_pct_black": 0.50641,
+//       "cash_bail_pct_white": 0.519713,
+//       "total_cases": 446
+//     },
+//     {
+//       "name": "Oberdorf, Jeffrey L.",
+//       "cash_bail_pct": 0.289665,
+//       "unsecured_pct": 0.238719,
+//       "ror_pct": 0.443959,
+//       "nonmonetary_pct": 0.024745,
+//       "nominal_pct": 0.002911,
+//       "cash_bail_pct_black": 0.301136,
+//       "cash_bail_pct_white": 0.286282,
+//       "total_cases": 687
+//     },
+//     {
+//       "name": "Reilly, Thomas J.",
+//       "cash_bail_pct": 0.408983,
+//       "unsecured_pct": 0.281324,
+//       "ror_pct": 0.297872,
+//       "nonmonetary_pct": 0.01182,
+//       "nominal_pct": 0.0,
+//       "cash_bail_pct_black": 0.602941,
+//       "cash_bail_pct_white": 0.37464,
+//       "total_cases": 423
+//     },
+//     {
+//       "name": "Thomas, Richard T.",
+//       "cash_bail_pct": 0.413163,
+//       "unsecured_pct": 0.149909,
+//       "ror_pct": 0.33638,
+//       "nonmonetary_pct": 0.084095,
+//       "nominal_pct": 0.016453,
+//       "cash_bail_pct_black": 0.578431,
+//       "cash_bail_pct_white": 0.381944,
+//       "total_cases": 547
+//     },
+//     {
+//       "name": "Toluba, Joel N.",
+//       "cash_bail_pct": 0.428339,
+//       "unsecured_pct": 0.232899,
+//       "ror_pct": 0.333876,
+//       "nonmonetary_pct": 0.003257,
+//       "nominal_pct": 0.001629,
+//       "cash_bail_pct_black": 0.461538,
+//       "cash_bail_pct_white": 0.416901,
+//       "total_cases": 614
+//     },
+//     {
+//       "name": "Williams, Linda L.",
+//       "cash_bail_pct": 0.489209,
+//       "unsecured_pct": 0.02518,
+//       "ror_pct": 0.327338,
+//       "nonmonetary_pct": 0.156475,
+//       "nominal_pct": 0.001799,
+//       "cash_bail_pct_black": 0.567568,
+//       "cash_bail_pct_white": 0.440367,
+//       "total_cases": 556
+//     }
+//   ]
+// };
 
 // https://github.com/deldersveld/topojson/blob/master/countries/us-states/PA-42-pennsylvania-counties.json
 export const COUNTY_MAP_DATA = {
