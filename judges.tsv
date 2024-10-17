@@ -1,4 +1,4 @@
-id	County	name	%__Denied	%__Monetary	%__Nominal	%__Nonmonetary	%__ROR	%__Unsecured	Count__Denied	Count__Monetary	Count__Nominal	Count__Nonmonetary	Count__ROR	Count__Unsecured	total_cases
+id	County	name	%__Denied	cash_bail_pct	nominal_pct	nonmonetary_pct	ror_pct	unsecured_pct	Count__Denied	Count__Monetary	Count__Nominal	Count__Nonmonetary	Count__ROR	Count__Unsecured	total_cases
 0	Adams	Beauchat, Mark D.	0.01030927835	0.2309278351	0	0.00824742268	0.618556701	0.1319587629	5	112	0	4	300	64	485
 3	Adams	Harvey, Matthew Robert	0.005226480836	0.287456446	0	0.001742160279	0.4425087108	0.2630662021	3	165	0	1	254	151	574
 5	Adams	Little, Tony J.	0	0.2075848303	0.003992015968	0	0.4411177645	0.3473053892	0	104	2	0	221	174	501
