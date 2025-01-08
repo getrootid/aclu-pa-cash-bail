@@ -344,7 +344,7 @@ const createCasesScatterPlot = () => {
 const createAvgBailAmountBarChart = () => {
   const xAxis = {
     name: "AVERAGE BAIL AMOUNT",
-    min: 10000,
+    min: 3000,
     max: 80000,
     numTicks: 7,
     convert: (value) => toMoney(value, 0)
