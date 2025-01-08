@@ -434,6 +434,11 @@ const headerConfig = [
     title: "Nominal",
     className: "nominal-bar",
     render: (value) => toPercent(value)
+  },
+  {
+    title: "Denial",
+    className: "denial-bar",
+    render: (value) => toPercent(value)
   }
 ];
 new DistributionGraph(

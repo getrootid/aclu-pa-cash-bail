@@ -66,6 +66,11 @@ export const COUNTY_BAIL_TYPE_DATA = COUNTY_DATA.map((countyData) => ({
           className: "nominal-bar",
           value: countyData["nominal_pct"],
           name: "Nominal"
+        },
+        {
+          className: "denial-bar",
+          value: countyData["denied_pct"],
+          name: "Denied"
         }
       ],
     }
@@ -157,6 +162,11 @@ export const MDJ_BAIL_TYPE_DATA = Object.entries(MDJ_DATA).map(([county, judges]
           "className": "nominal-bar",
           "value": COUNTY_INFO[county]["nominal_pct"],
           "name": "Nominal"
+        },
+        {
+          "className": "denied-bar",
+          "value": COUNTY_INFO[county]["denied_pct"],
+          "name": "Denied"
         }
       ],
       name: county
@@ -196,6 +206,11 @@ export const MDJ_BAIL_TYPE_DATA = Object.entries(MDJ_DATA).map(([county, judges]
             "className": "nominal-bar",
             "value": judge["nominal_pct"],
             "name": "Nominal"
+          },
+          {
+            "className": "denied-bar",
+            "value": judge["denied_pct"],
+            "name": "Denied"
           }
         ],
         name: judge["name"]
