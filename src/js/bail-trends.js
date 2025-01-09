@@ -437,7 +437,7 @@ const headerConfig = [
   },
   {
     title: "Denial",
-    className: "denial-bar",
+    className: "denied-bar",
     render: (value) => toPercent(value)
   }
 ];

@@ -68,7 +68,7 @@ export const COUNTY_BAIL_TYPE_DATA = COUNTY_DATA.map((countyData) => ({
           name: "Nominal"
         },
         {
-          className: "denial-bar",
+          className: "denied-bar",
           value: countyData["denied_pct"],
           name: "Denied"
         }

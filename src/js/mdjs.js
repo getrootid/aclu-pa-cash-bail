@@ -1,8 +1,8 @@
 import { Table } from "./classes/Table.js";
 import { DistributionGraph } from "./classes/Graph.js";
-import { MDJ_BAIL_TYPE_DATA, COUNTY_BAIL_TYPE_DATA } from "./data.js";
+import {MDJ_BAIL_TYPE_DATA, COUNTY_BAIL_TYPE_DATA, BAIL_POSTING_DATA} from "./data.js";
 import { toPercent } from "./helpers";
-import { COUNTY_DATA } from "./raw-data.js";
+import {COUNTY_DATA, STATE_DATA} from "./raw-data.js";
 
 /* TABLE CREATION FUNCTIONS */
 const createMdjTable = (tableContainer, county = "") => {
@@ -69,6 +69,82 @@ const createMdjTable = (tableContainer, county = "") => {
   }
 };
 
+const createBailRateTable = (el, data) => {
+  const columnConfigs = [
+    {
+      value: 0,
+      header: {
+        text: "Cash Bail Rate",
+        unit: "percent"
+      }
+    },
+    {
+      value: 1,
+      header: {
+        text: "Unsecured Rate",
+        unit: "percent"
+      }
+    },
+    {
+      value: 2,
+      header: {
+        text: "ROR Rate",
+        unit: "percent"
+      }
+    },
+    {
+      value: 3,
+      header: {
+        text: "Non-Monetary Rate",
+        unit: "percent"
+      }
+    },
+    {
+      value: 4,
+      header: {
+        text: "Nominal Rate",
+        unit: "percent"
+      }
+    },
+    {
+      value: 5,
+      header: {
+        text: "Denial Rate",
+        unit: "percent"
+      }
+    }
+  ];
+
+  /**
+   * Transform the table element in the el variable so that the thead
+   * has an item for each value in columnConfigs. Not using the table class since it's
+   * a bit more powerful and isn't meant to output one record.
+   *
+   * Add a data element for each header element.
+   */
+  const table = document.createElement("table");
+  const thead = document.createElement("thead");
+  const tbody = document.createElement("tbody");
+  const tr = document.createElement("tr");
+  const dataRow = document.createElement("tr");
+
+  columnConfigs.forEach((config) => {
+    const th = document.createElement("th");
+    th.textContent = config.header.text;
+    tr.appendChild(th);
+
+    const td = document.createElement("td");
+    td.textContent = toPercent(data[config.value]['value']);
+    dataRow.appendChild(td);
+  });
+
+  thead.appendChild(tr);
+  tbody.appendChild(dataRow);
+  table.appendChild(thead);
+  table.appendChild(tbody);
+  el.appendChild(table);
+};
+
 /* RENDER PAGE */
 const mdjContainer = document.getElementById("mdj-container")
 if (mdjContainer !== null) {
@@ -109,6 +185,11 @@ const headerConfig = [
     className: "nominal-bar",
     render: (value) => toPercent(value)
   },
+  {
+    title: "Denied",
+    className: "denied-bar",
+    render: (value) => toPercent(value)
+  },
 ];
 
 counties.forEach((name) => {
@@ -117,7 +198,15 @@ counties.forEach((name) => {
     const data = COUNTY_BAIL_TYPE_DATA.filter(row => row.data[0] === name);
     new DistributionGraph(rowContainer, data, headerConfig);
   }
+
+  // Adding a new type of table:
+  const tableContainer = document.getElementById(`${name.toLowerCase()}-dist-table-container`);
+  if(tableContainer !== null) {
+    const data = COUNTY_BAIL_TYPE_DATA.filter(row => row.data[0] === name);
+    createBailRateTable(tableContainer, data[0]['data'][1]['values']);
+  }
 });
+
 
 /*
   Produce county HTML - consider moving to templating engine if modifying HTML frequently

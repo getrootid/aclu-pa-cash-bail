@@ -505,57 +505,67 @@ export class Table {
 
     // set up search bar
     const searchMenu = this.container.getElementsByClassName("menu")[0];
-    let searchOptions = this.data.flatMap((row) => {
-      const rowOptions = row.data.flatMap((value, i) =>
-        this.searchCols[i] ? [value] : []
-      );
-      const subRowOptions = row.collapseData
-        ? row.collapseData.map((subRow) => subRow.data[1])
-        : [];
-      return rowOptions.concat(subRowOptions);
-    });
-    // Current behavior is to alphabetically sort all options,
-    // potentially mixing values from different columns
-    // TODO: Consider dividing values by column
-    searchOptions.sort();
-    searchMenu.textContent = "";
-    searchOptions.forEach((searchOption) => {
-      const element = document.createElement("div");
-      element.className = "item";
-      element.innerText = searchOption;
-      searchMenu.appendChild(element);
-    });
-    const searchInput = this.container.getElementsByTagName("input")[0];
-    searchInput.addEventListener("change", (e) => {
-      const searchValue = e.target.value;
-      this.searchTerms = searchValue.split(";").filter((s) => s !== "");
-      this.rows = this.getRows();
-      this.render();
-    });
+    if(searchMenu !== undefined) {
 
+      let searchOptions = this.data.flatMap((row) => {
+        const rowOptions = row.data.flatMap((value, i) =>
+            this.searchCols[i] ? [value] : []
+        );
+        const subRowOptions = row.collapseData
+            ? row.collapseData.map((subRow) => subRow.data[1])
+            : [];
+        return rowOptions.concat(subRowOptions);
+      });
+      // Current behavior is to alphabetically sort all options,
+      // potentially mixing values from different columns
+      // TODO: Consider dividing values by column
+      searchOptions.sort();
+      searchMenu.textContent = "";
+      searchOptions.forEach((searchOption) => {
+        const element = document.createElement("div");
+        element.className = "item";
+        element.innerText = searchOption;
+        searchMenu.appendChild(element);
+      });
+      const searchInput = this.container.getElementsByTagName("input")[0];
+      searchInput.addEventListener("change", (e) => {
+        const searchValue = e.target.value;
+        this.searchTerms = searchValue.split(";").filter((s) => s !== "");
+        this.rows = this.getRows();
+        this.render();
+      });
+    }
     // set up view all button
     const viewAllButton =
       this.container.getElementsByClassName("view-all-btn")[0];
-    viewAllButton.innerText = this.isTruncated ? VIEW_ALL : VIEW_LESS;
-    viewAllButton.addEventListener("click", () => {
-      this.isTruncated = !this.isTruncated;
+
+    if(viewAllButton !== undefined) {
       viewAllButton.innerText = this.isTruncated ? VIEW_ALL : VIEW_LESS;
-      this.rows = this.getRows();
-      this.render();
-    });
+      viewAllButton.addEventListener("click", () => {
+        this.isTruncated = !this.isTruncated;
+        viewAllButton.innerText = this.isTruncated ? VIEW_ALL : VIEW_LESS;
+        this.rows = this.getRows();
+        this.render();
+      });
+    }
+
 
     // set up outlier button
     const outlierButtons =
       this.container.getElementsByClassName("outliers-btn");
-    for (const outlierButton of outlierButtons) {
-      outlierButton.addEventListener("click", (e) => {
-        if (this.toggleOutliers()) {
-          e.target.classList.add("showing");
-        } else {
-          e.target.classList.remove("showing");
-        }
-      });
+
+    if(outlierButtons !== undefined) {
+      for (const outlierButton of outlierButtons) {
+        outlierButton.addEventListener("click", (e) => {
+          if (this.toggleOutliers()) {
+            e.target.classList.add("showing");
+          } else {
+            e.target.classList.remove("showing");
+          }
+        });
+      }
     }
+
   }
 
   getHeaderRow() {
