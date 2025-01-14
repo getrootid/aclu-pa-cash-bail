@@ -192,14 +192,14 @@
   padding: 10px 2px; font-family: "GT America Condensed";
   font-size: 13px;
   text-transform: uppercase;
-  border-bottom:1px solid white; /* White line between header and rows */
+  border-bottom:1px solid #333; /* White line between header and rows */
 }
 
 .county-dist-table-container > table td {
   text-align: center;
   padding: 9px  0;
-  border-right: 1px solid white; /* White border between cells */
-  border-bottom:1px solid white; 
+  border-right: 1px solid #333; /* White border between cells */
+  border-bottom:1px solid #333; 
 }
 
 .county-dist-table-container > table td:last-child {
