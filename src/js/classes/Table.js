@@ -182,10 +182,16 @@ class DistributionBarCell extends Cell {
     container.className = "dist-bar-container";
     // create bars for each distribution
     this.values.forEach((dist) => {
+      // Skip if className is 'denied-bar'
+      if (dist.className === 'denied-bar') {
+        return;
+      }
+    
       const bar = document.createElement("div");
       bar.className = `viz-bar ${dist.className}`;
       container.appendChild(bar);
     });
+    
     // configure sizes of distribution bars
     const distWidths = this.values.map((dist) => `${dist.value * 100}%`);
     container.style.gridTemplateColumns = distWidths.join(" ");

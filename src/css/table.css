@@ -1,3 +1,7 @@
+ 
+
+
+
 .table-container > table * {
   box-sizing: unset;
   line-height: 1;
@@ -173,4 +177,31 @@
 
 .mdj-table .county-name-cell {
   padding-left: 0;
+}
+
+
+
+.county-dist-table-container > table {
+  border-collapse: collapse; /* Ensure borders don't double */
+  width: 100%;
+  margin-bottom:24px;
+}
+
+.county-dist-table-container > table th {
+  text-align: center;
+  padding: 10px 2px; font-family: "GT America Condensed";
+  font-size: 13px;
+  text-transform: uppercase;
+  border-bottom:1px solid white; /* White line between header and rows */
+}
+
+.county-dist-table-container > table td {
+  text-align: center;
+  padding: 9px  0;
+  border-right: 1px solid white; /* White border between cells */
+  border-bottom:1px solid white; 
+}
+
+.county-dist-table-container > table td:last-child {
+  border-right: none; /* Remove the border at the end of the row */
 }
