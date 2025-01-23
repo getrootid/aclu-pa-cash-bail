@@ -357,11 +357,13 @@ const createAvgBailAmountBarChart = () => {
         dataKey: "x",
         render: (value) => toMoney(value)
       },
+       /*
       {
         rowHeader: "Non-posting rate",
         dataKey: "y",
         render: (value) => toPercent(value)
       }
+        */
     ],
     placement: "top",
     followCursor: true
