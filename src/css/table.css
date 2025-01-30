@@ -185,6 +185,7 @@
   border-collapse: collapse; 
   width: 100%;
   margin-bottom:24px;
+   
 }
 
 .county-dist-table-container > table th {
@@ -202,6 +203,9 @@
   border-bottom:1px solid #333; 
 }
 
+.county-dist-table-container > table td:first-child {
+  border-left: 1px solid #333; 
+}
 .county-dist-table-container > table td:last-child {
-  border-right: none; 
+  /* border-right: none;  */
 }
