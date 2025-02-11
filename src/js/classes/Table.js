@@ -143,7 +143,7 @@ class DistributionBarCell extends Cell {
     this.values = content.values;
     this.tooltipValues = [
       this.values.reduce((obj, { value, className }) => {
-        obj[className] = value;
+        obj[className] = value ?? 0; // Default to 0 if value is null or undefined
         return obj;
       }, {})
     ];
@@ -180,18 +180,25 @@ class DistributionBarCell extends Cell {
     super.render();
     const container = document.createElement("div");
     container.className = "dist-bar-container";
-    // create bars for each distribution
-    this.values.forEach((dist) => {
+  
+    const filteredValues = this.values.filter((dist) => dist.className !== 'denied-bar');
+    const distWidths = filteredValues.map((dist) => `${dist.value * 100}%`);
+  
+    // Set grid-template-columns
+    container.style.gridTemplateColumns = distWidths.length > 0 
+      ? distWidths.join(" ") 
+      : "0%";
+  
+    filteredValues.forEach((dist) => {
       const bar = document.createElement("div");
       bar.className = `viz-bar ${dist.className}`;
       container.appendChild(bar);
     });
-    // configure sizes of distribution bars
-    const distWidths = this.values.map((dist) => `${dist.value * 100}%`);
-    container.style.gridTemplateColumns = distWidths.join(" ");
+  
     this.renderTooltip(container, this.tooltipValues, this.tooltipName);
     this.element.appendChild(container);
   }
+  
 }
 
 class NumberLineCell extends Cell {

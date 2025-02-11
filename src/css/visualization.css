@@ -214,6 +214,11 @@
   background-color: rgba(121, 129, 169, 1);
 }
 
+.denied-bar {
+  background-color: rgba(75, 46, 46, 1); 
+}
+
+
 .dist-row {
   display: flex;
 }
