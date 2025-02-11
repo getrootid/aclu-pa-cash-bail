@@ -63,7 +63,7 @@
           <div class="btn-text view-all-btn"></div>
           <p class="footnote">
             Outliers exceeding the 99th percentile were removed in calculating
-            bail rate averages.
+            bail rate medians.
           </p>
         </div>
         <div class="table-container" id="ror-rate-container">
@@ -84,29 +84,29 @@
           <div class="btn-text view-all-btn"></div>
           <p class="footnote">
             Outliers exceeding the 99th percentile were removed in calculating
-            bail rate averages.
+            bail rate medians.
           </p>
         </div>
       </div>
       <div class="graph">
-        <h3 class="title">Average Bail Amount by County</h3>
-        <div class="bar-graph-subhead">
-          <div class="bar-graph-key-box-container">
-            <div class="bar-graph-key">
-              <span class="key-circle black-race">>50% Non-Posting Rate</span>
-            </div>
-          </div>
-        </div>
+        <h3 class="title">Median Bail Amount by County</h3>
+<!--        <div class="bar-graph-subhead">-->
+<!--          <div class="bar-graph-key-box-container">-->
+<!--            <div class="bar-graph-key">-->
+<!--              <span class="key-circle black-race">>50% Non-Posting Rate</span>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--        </div>-->
         <div id="avg-bail-graph-container"></div>
         <p class="footnote">
-          Note: The average cash bail amount does not take into account
+          Note: The median cash bail amount does not take into account
           percentage bail. Please see our report for more information about our
           methodology and limitations.
         </p>
       </div>
       <div class="table-container" id="bail-posting-container">
         <h3 class="title">
-          Average Cash Bail Amount and Rate of Posting by County
+          Median Cash Bail Amount and Rate of Posting by County
         </h3>
         <div class="ui fluid multiple search selection dropdown">
           <input type="hidden" name="county" />
@@ -120,13 +120,13 @@
         </table>
         <div class="btn-text view-all-btn"></div>
         <p class="footnote">
-          Note: The average cash bail amount does not take into account
+          Note: The median cash bail amount does not take into account
           percentage bail. Please see our report for more information about our
           methodology and limitations.
         </p>
       </div>
       <div class="graph" id="cases-scatter-plot">
-        <h3 class="title">Rates and Average Amounts of Cash Bail by County</h3>
+        <h3 class="title">Rates and Median Amounts of Cash Bail by County</h3>
         <div class="ui fluid multiple search selection dropdown">
           <input type="hidden" name="county" />
           <i class="dropdown icon"></i>
@@ -151,7 +151,7 @@
           ></svg>
         </div>
         <p class="footnote graph-footnote">
-          Note: The average cash bail amount does not take into account
+          Note: The median cash bail amount does not take into account
           percentage bail. Please see our report for more information about our
           methodology and limitations.
         </p>

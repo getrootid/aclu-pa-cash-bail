@@ -244,7 +244,7 @@ const createCasesScatterPlot = () => {
   const yAxis = {
     name: "Bail Amount",
     min: 0,
-    max: 90000,
+    max: 110000,
     numTicks: 9,
     convert: (value) => toMoney(value, 0)
   };
@@ -257,7 +257,7 @@ const createCasesScatterPlot = () => {
         render: (value) => toPercent(value)
       },
       {
-        rowHeader: "Average Bail Amount",
+        rowHeader: "Median Bail Amount",
         dataKey: "y",
         render: (value) => toMoney(value, 0, true, false)
       },
@@ -321,7 +321,7 @@ const createCasesScatterPlot = () => {
           render: (value) => toPercent(value)
         },
         {
-          rowHeader: "Average Bail Amount",
+          rowHeader: "Median Bail Amount",
           dataKey: "y",
           render: (value) => toMoney(value, 0, true, false)
         }
@@ -343,7 +343,7 @@ const createCasesScatterPlot = () => {
 
 const createAvgBailAmountBarChart = () => {
   const xAxis = {
-    name: "AVERAGE BAIL AMOUNT",
+    name: "MEDIAN BAIL AMOUNT",
     min: 3000,
     max: 80000,
     numTicks: 7,
@@ -353,25 +353,26 @@ const createAvgBailAmountBarChart = () => {
   const tooltipConfig = {
     rows: [
       {
-        rowHeader: "Average bail amount",
+        rowHeader: "Median bail amount",
         dataKey: "x",
         render: (value) => toMoney(value)
       },
-      {
-        rowHeader: "Non-posting rate",
-        dataKey: "y",
-        render: (value) => toPercent(value)
-      }
+      // {
+      //   rowHeader: "Non-posting rate",
+      //   dataKey: "y",
+      //   render: (value) => toPercent(value)
+      // }
     ],
     placement: "top",
     followCursor: true
   };
 
+
   const data = COUNTY_DATA.map((countyData) => ({
     name: countyData["name"],
     x: countyData["avg_bail_amount"],
-    y: countyData["non_posting_rate"],
-    highlighted: countyData["non_posting_rate"] > 0.5
+    // y: countyData["non_posting_rate"],
+    // highlighted: countyData["non_posting_rate"] > 0.5
   }));
 
   const container = document.getElementById("avg-bail-graph-container");
@@ -441,6 +442,7 @@ const headerConfig = [
     render: (value) => toPercent(value)
   }
 ];
+
 new DistributionGraph(
   document.getElementById("dist-graph-container"),
   COUNTY_BAIL_TYPE_DATA,
