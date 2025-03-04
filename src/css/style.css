@@ -142,3 +142,73 @@ h3.title {
 .switch-container .switch:hover {
   background-color: #1d1d1d;
 }
+
+
+
+.county-dist-table-container {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  gap: 24px;
+  max-width: 100%;
+  margin-bottom:30px;
+}
+
+.county-dist-table-container table {
+  width: 100%;
+  border-collapse: collapse;
+  display: contents; /* Makes table elements participate in the grid */
+}
+
+.county-dist-table-container thead {
+  display: none; /* Hide table headers for a cleaner grid look */
+}
+
+.county-dist-table-container tbody {
+  display: contents; /* Allows table rows to inherit grid display */
+}
+
+.county-dist-table-container tr {
+  display: contents; /* Makes rows behave like part of the grid */
+}
+
+.county-dist-table-container td {
+  display: block;
+  width: 100%;
+  padding: 10px 10px 30px 10px;
+ 
+  text-align: left !important;
+  border-right:0 !important;
+  border-left:0 !important;
+  font-size: 16px;
+}
+
+/* Ensure proper wrapping for small screens */
+@media (max-width: 600px) {
+  .county-dist-table-container {
+      grid-template-columns: 100%; /* Single column on smaller screens */
+  }
+}
+
+
+.county-dist-table-container td .stat-tile-label {
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-family: 'Gt america condensed', sans-serif;
+  color: #fff;
+  font-size: 12px;
+  line-height: 14px;
+  font-weight: 400;
+  letter-spacing: .5px;
+  text-transform: uppercase;
+}
+
+
+.county-dist-table-container td .stat-tile-value {
+  font-family: Centuryschoolbook, 'Times New Roman', sans-serif;
+  color: #fff;
+  font-size: 38px;
+  line-height: 26px;
+  margin-bottom:10px;
+
+}
+

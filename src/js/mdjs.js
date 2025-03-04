@@ -131,10 +131,10 @@ const createBailRateTable = (el, data) => {
   columnConfigs.forEach((config) => {
     const th = document.createElement("th");
     th.textContent = config.header.text;
-    tr.appendChild(th);
+   /*  tr.appendChild(th); */
 
     const td = document.createElement("td");
-    td.textContent = toPercent(data[config.value]['value']);
+    td.innerHTML  = "<h3 class = 'stat-tile-label'>"  +  th.textContent +  "</h3>" + "<div class = 'stat-tile-value'>"+  toPercent(data[config.value]['value']) + "</div>";
     dataRow.appendChild(td);
   });
 
