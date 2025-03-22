@@ -71,7 +71,36 @@ export const COUNTY_BAIL_TYPE_DATA = COUNTY_DATA.map((countyData) => ({
           className: "denied-bar",
           value: countyData["denied_pct"],
           name: "Denied"
+        },
+        {
+          className: "denied-bar",
+          value: countyData["avg_bail_amount"],
+          name: "Average Bail Amount"
+        },
+        {
+          className: "denied-bar",
+          value: countyData["cash_bail_pct_black"],
+          name: "cash bail rate, black"
         }
+        ,
+        {
+          className: "denied-bar",
+          value: countyData["cash_bail_pct_white"],
+          name: "cash bail rate, white"
+        },
+        {
+          className: "denied-bar",
+          value: countyData["bail_amount_black"],
+          name: "average bail amount, black"
+        },
+        {
+          className: "denied-bar",
+          value: countyData["bail_amount_white"],
+          name: "average bail amount, white"
+        }
+
+ 
+
       ],
     }
   ],

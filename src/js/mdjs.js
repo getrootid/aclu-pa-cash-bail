@@ -112,9 +112,47 @@ const createBailRateTable = (el, data) => {
         text: "Denial Rate",
         unit: "percent"
       }
-    }
+    },
+    {
+      value: 6,
+      header: {
+        text: "average bail amount",
+        unit: "currency"
+      }
+    },
+    {
+      value:7,
+      header: {
+        text: "cash bail rate, black",
+        unit: "percent"
+      }
+    },
+    {
+      value: 8,
+      header: {
+        text: "cash bail rate, white",
+        unit: "percent"
+      }
+    },
+    {
+      value: 9,
+      header: {
+        text: "average bail amount, black",
+        unit: "percent"
+      }
+    },
+    {
+      value: 10,
+      header: {
+        text: "average bail amount, white",
+        unit: "currency"
+      }
+    },
   ];
 
+
+
+  
   /**
    * Transform the table element in the el variable so that the thead
    * has an item for each value in columnConfigs. Not using the table class since it's
@@ -122,27 +160,61 @@ const createBailRateTable = (el, data) => {
    *
    * Add a data element for each header element.
    */
-  const table = document.createElement("table");
-  const thead = document.createElement("thead");
-  const tbody = document.createElement("tbody");
-  const tr = document.createElement("tr");
-  const dataRow = document.createElement("tr");
+  // Helper to build a table from a slice of columnConfigs
+  const buildTable = (container, title, configs) => {
+    // Heading that spans 2 columns via class
+    const heading = document.createElement("h2");
+    heading.className = "bucket-name full-span";
+    heading.textContent = title;
+    container.appendChild(heading);
+  
+    // Table setup
+    const table = document.createElement("table");
+    const thead = document.createElement("thead");
+    const tbody = document.createElement("tbody");
+    const tr = document.createElement("tr");
+    const dataRow = document.createElement("tr");
+  
+    configs.forEach((config) => {
+      const th = document.createElement("th");
+      th.textContent = config.header.text;
+  
+      const td = document.createElement("td");
+      const value = data[config.value]['value'];
+      const label = config.header.text.toLowerCase();
+      let formattedValue;
+  
+      if (label.includes("amount")) {
+        formattedValue = `$${Math.round(value).toLocaleString()}`;
+      } else {
+        formattedValue = toPercent(value);
+      }
+  
+      td.innerHTML = "<h3 class='stat-tile-label'>" + th.textContent + "</h3>" +
+                     "<div class='stat-tile-value'>" + formattedValue + "</div>";
+  
+      dataRow.appendChild(td);
+    });
+  
+    thead.appendChild(tr);
+    tbody.appendChild(dataRow);
+    table.appendChild(thead);
+    table.appendChild(tbody);
+    container.appendChild(table);
+  };
+  
 
-  columnConfigs.forEach((config) => {
-    const th = document.createElement("th");
-    th.textContent = config.header.text;
-   /*  tr.appendChild(th); */
+// Split column configs and render two tables
+const firstBucket = columnConfigs.slice(0, 7); // first 7 entries
+const secondBucket = columnConfigs.slice(7);   // remaining entries
 
-    const td = document.createElement("td");
-    td.innerHTML  = "<h3 class = 'stat-tile-label'>"  +  th.textContent +  "</h3>" + "<div class = 'stat-tile-value'>"+  toPercent(data[config.value]['value']) + "</div>";
-    dataRow.appendChild(td);
-  });
+buildTable(el, "Bail Trends", firstBucket);
+buildTable(el, "Cash Bail and Race", secondBucket);
 
-  thead.appendChild(tr);
-  tbody.appendChild(dataRow);
-  table.appendChild(thead);
-  table.appendChild(tbody);
-  el.appendChild(table);
+
+
+
+
 };
 
 /* RENDER PAGE */
