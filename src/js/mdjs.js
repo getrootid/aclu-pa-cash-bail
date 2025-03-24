@@ -208,7 +208,7 @@ const createBailRateTable = (el, data) => {
 const firstBucket = columnConfigs.slice(0, 7); // first 7 entries
 const secondBucket = columnConfigs.slice(7);   // remaining entries
 
-buildTable(el, "Bail Trends", firstBucket);
+buildTable(el, "Bail Type Distribution", firstBucket);
 buildTable(el, "Cash Bail and Race", secondBucket);
 
 
