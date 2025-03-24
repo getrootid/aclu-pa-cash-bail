@@ -215,3 +215,83 @@ h3.title {
 .full-span {
   grid-column: span 2;
 }
+
+
+  
+.county-dist-table-container {
+  /* margin-bottom:0 !important */
+    }
+    .county-dist-table-container>table {
+    /*  margin-bottom:0 !important;  */
+    margin-bottom:60px;
+    }
+    .county-dist-table-container>table td {
+      
+      border-top: 1px solid #333;
+      border-bottom:0 !important
+  }
+  
+    .county-dist-table-container {
+      display: block;
+    }
+    
+    .county-dist-table-container table {
+      border-collapse: collapse;
+      border-spacing: 0;
+      width: 100%;
+      display: table;
+    }
+    
+    .county-dist-table-container thead {
+      display: none;
+    }
+    
+    .county-dist-table-container tbody {
+      display: grid !important;
+      grid-template-columns: 1fr 1fr;
+      gap: 0 12px; /* 0 vertical gap, 12px between columns */
+    }
+    
+    .county-dist-table-container tr {
+      display: contents;
+    }
+    
+    .county-dist-table-container td {
+      display: block;
+      padding-top: 14px !important;
+      margin: 0;
+      border-top: 1px solid #333;
+      box-sizing: border-box;
+      width: 100%;
+    }
+    
+    .county-dist-table-container .stat-tile-label,
+    .county-dist-table-container .stat-tile-value {
+      margin: 0;
+    }
+    
+    /* ✅ Mobile: stack to 1 column */
+    @media (max-width: 600px) {
+      .county-dist-table-container tbody {
+        grid-template-columns: 1fr;
+      }
+    }
+    
+
+    .county-dist-table-container { 
+      margin-bottom:60px;
+    }
+    .county-dist-table-container { 
+      margin-bottom:60px;
+    }
+
+
+    .county-dist-table-container h2.bucket-name {
+      margin-top: 0;
+      margin-bottom: 15px;
+      font-family: Centuryschoolbook, 'Times New Roman', sans-serif;
+      color: #fff;
+      font-size: 32px;
+      line-height: 32px;
+      font-weight: 400;
+    }
