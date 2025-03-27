@@ -116,7 +116,7 @@ const createBailRateTable = (el, data) => {
     {
       value: 6,
       header: {
-        text: "average bail amount",
+        text: "Median bail amount",
         unit: "currency"
       }
     },
@@ -137,14 +137,14 @@ const createBailRateTable = (el, data) => {
     {
       value: 9,
       header: {
-        text: "average bail amount, black",
+        text: "Median bail amount, black",
         unit: "percent"
       }
     },
     {
       value: 10,
       header: {
-        text: "average bail amount, white",
+        text: "Median bail amount, white",
         unit: "currency"
       }
     },

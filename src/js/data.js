@@ -75,7 +75,7 @@ export const COUNTY_BAIL_TYPE_DATA = COUNTY_DATA.map((countyData) => ({
         {
           className: "no-bar",
           value: countyData["avg_bail_amount"],
-          name: "Average Bail Amount"
+          name: "Median Bail Amount"
         },
         {
           className: "no-bar",
@@ -91,12 +91,12 @@ export const COUNTY_BAIL_TYPE_DATA = COUNTY_DATA.map((countyData) => ({
         {
           className: "no-bar",
           value: countyData["bail_amount_black"],
-          name: "average bail amount, black"
+          name: "Median bail amount, black"
         },
         {
           className: "no-bar",
           value: countyData["bail_amount_white"],
-          name: "average bail amount, white"
+          name: "Median bail amount, white"
         }
 
  
